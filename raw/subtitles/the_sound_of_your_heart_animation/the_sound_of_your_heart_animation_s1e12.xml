@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt ttp:contentProfiles="http://www.w3.org/ns/ttml/profile/imsc1.1/text" xmlns="http://www.w3.org/ns/ttml" xmlns:nttm="http://www.netflix.com/ns/ttml#metadata" xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:xml="http://www.w3.org/XML/1998/namespace" ttp:tickRate="10000000" ttp:timeBase="media" xml:lang="ko">
+<head>
+<metadata nttm:Smpte24TimingAdjusted="true" nttm:movieID="81349909" nttm:packageID="1811557" nttm:schemaVersion="0" nttm:textType="CC" nttm:uuid="b21165fb-db82-4179-a3cd-a5b0476f2576"/>
+<styling>
+<initial tts:backgroundColor="transparent" tts:color="white" tts:displayAlign="after" tts:extent="80.000% 80.000%" tts:fontSize="6.000rh" tts:opacity="1.000" tts:origin="10.000% 10.000%" tts:showBackground="whenActive" tts:textAlign="center" tts:textOutline="black 0.300rh" tts:writingMode="lrtb"/>
+<style xml:id="style0" tts:fontWeight="normal"/>
+</styling>
+<layout>
+<region xml:id="region0" tts:displayAlign="after" tts:extent="80.000% 80.000%" tts:origin="10.000% 10.000%"/>
+<region xml:id="region1" tts:displayAlign="before" tts:extent="80.000% 80.000%" tts:origin="10.000% 10.000%"/>
+</layout>
+</head>
+<body>
+<div>
+<p xml:id="subtitle1" begin="3336666t" end="23356666t" region="region0" style="style0">[주제곡]</p>
+<p xml:id="subtitle2" begin="635217916t" end="646062082t" region="region0" style="style0">[밝은 음악]<br/>[새가 지저귄다]</p>
+<p xml:id="subtitle3" begin="646896250t" end="671921250t" region="region0" style="style0">(석)</p>
+<p xml:id="subtitle4" begin="685685000t" end="706539166t" region="region0" style="style0">[아이1의 웃음]<br/>[준과 석의 의아한 신음]</p>
+<p xml:id="subtitle5" begin="714880832t" end="729061666t" region="region0" style="style0">[아이1의 탄성]<br/>[준과 석의 놀란 신음]</p>
+<p xml:id="subtitle6" begin="735735000t" end="750750000t" region="region0" style="style0">[석과 준의 탄성]</p>
+<p xml:id="subtitle7" begin="751584166t" end="763262500t" region="region0" style="style0">- (석) 형<br/>- 왜?</p>
+<p xml:id="subtitle8" begin="764096666t" end="782448332t" region="region0" style="style0">'그네'로 이행시 지어 볼게<br/>운 띄워 봐</p>
+<p xml:id="subtitle9" begin="783282500t" end="791624166t" region="region0" style="style0">(준)<br/>'그'</p>
+<p xml:id="subtitle10" begin="792458332t" end="830412916t" region="region0" style="style0">그래, 사랑하는 동생을 위해<br/>아이스크림 하나 사지 않을 텐가?</p>
+<p xml:id="subtitle11" begin="831247082t" end="844176666t" region="region0" style="style0">네니요</p>
+<p xml:id="subtitle12" begin="845010832t" end="857523332t" region="region0" style="style0">'네'로 운을 띄워야지!</p>
+<p xml:id="subtitle13" begin="858357499t" end="883382499t" region="region0" style="style0">시끄러워, 그러지 말고 내기로 하자</p>
+<p xml:id="subtitle14" begin="884216666t" end="904236666t" region="region0" style="style0">더 창피한 행동 하는 사람이 이기기</p>
+<p xml:id="subtitle15" begin="905070832t" end="916749166t" region="region0" style="style0">콜, 누가 먼저 할래?</p>
+<p xml:id="subtitle16" begin="917583332t" end="932181249t" region="region0" style="style0">가위바위보 해서 정하자</p>
+<p xml:id="subtitle17" begin="933015416t" end="943025416t" region="region0" style="style0">(석과 준)<br/>가위바위보!</p>
+<p xml:id="subtitle18" begin="953869582t" end="974723749t" region="region0" style="style0">아, 내가 졌네<br/>[준의 웃음]</p>
+<p xml:id="subtitle19" begin="975557916t" end="1003085416t" region="region0" style="style0">좋아, 이렇게 된 거 진심을 다해 주마</p>
+<p xml:id="subtitle20" begin="1003919582t" end="1021854166t" region="region0" style="style0">[흥미로운 효과음]<br/>[시끌시끌하다]</p>
+<p xml:id="subtitle21" begin="1032281249t" end="1041457082t" region="region0" style="style0">[놀란 신음]</p>
+<p xml:id="subtitle22" begin="1042291249t" end="1070235832t" region="region0" style="style0">저기, 이거 눌러 보세요<br/>[남자1의 의아한 신음]</p>
+<p xml:id="subtitle23" begin="1075240832t" end="1085250832t" region="region0" style="style0">[남자1의 힘주는 신음]</p>
+<p xml:id="subtitle24" begin="1090672916t" end="1106522082t" region="region0" style="style0">[석이 방귀를 뿡 뀐다]<br/>[사람들의 놀란 신음]</p>
+<p xml:id="subtitle25" begin="1107356250t" end="1117366250t" region="region0" style="style0">[익살스러운 효과음]</p>
+<p xml:id="subtitle26" begin="1118200416t" end="1138220416t" region="region0" style="style0">[석이 트림을 꺽 한다]<br/>[사람들의 비명]</p>
+<p xml:id="subtitle27" begin="1151567082t" end="1169501666t" region="region0" style="style0">[준의 질색하는 신음]<br/>[익살스러운 효과음]</p>
+<p xml:id="subtitle28" begin="1182014166t" end="1199114582t" region="region0" style="style0">(준)<br/>소름이 돋을 정도로 창피하다</p>
+<p xml:id="subtitle29" begin="1207456250t" end="1224139582t" region="region0" style="style0">[흥미로운 음악]<br/>(석)<br/>좋아, 내가 이긴 것 같아</p>
+<p xml:id="subtitle30" begin="1224973750t" end="1241657082t" region="region0" style="style0">(아이2)<br/>어?<br/>[아이2의 웃음]</p>
+<p xml:id="subtitle31" begin="1242491250t" end="1276275000t" region="region0" style="style0">엄마, 저 아저씨 봐 봐, 이상해요</p>
+<p xml:id="subtitle32" begin="1277109166t" end="1296295000t" region="region0" style="style0">(여자)<br/>엄마가 이상한 거 보지 말랬지?</p>
+<p xml:id="subtitle33" begin="1297129166t" end="1310892916t" region="region0" style="style0">[아이2의 웃음]<br/>[여자의 힘주는 신음]</p>
+<p xml:id="subtitle34" begin="1311727082t" end="1325907916t" region="region0" style="style0">[준과 석의 놀란 신음]<br/>아휴</p>
+<p xml:id="subtitle35" begin="1326742082t" end="1350515832t" region="region0" style="style0">[익살스러운 효과음]<br/>거지하고 정신 나간 녀석이, 흥</p>
+<p xml:id="subtitle36" begin="1351350000t" end="1363028332t" region="region0" style="style0">[강조되는 효과음]</p>
+<p xml:id="subtitle37" begin="1376375000t" end="1397229166t" region="region0" style="style0">[흥미로운 음악]<br/>내가, 내가 졌단 말인가?</p>
+<p xml:id="subtitle38" begin="1398063332t" end="1440188750t" region="region0" style="style0">(준)<br/>이겼지만 이긴 것 같지 않은<br/>알 수 없는 감정이 밀려온다</p>
+<p xml:id="subtitle39" begin="1441022916t" end="1463545416t" region="region0" style="style0">그래도 승부는 승부!<br/>[웃음]</p>
+<p xml:id="subtitle40" begin="1479394582t" end="1489821666t" region="region0" style="style0">[석의 못마땅한 신음]</p>
+<p xml:id="subtitle41" begin="1490655832t" end="1502751250t" region="region0" style="style0">왜, 억울하냐?</p>
+<p xml:id="subtitle42" begin="1503585416t" end="1515263750t" region="region0" style="style0">완벽하다고 생각했는데</p>
+<p xml:id="subtitle43" begin="1516097916t" end="1529027500t" region="region0" style="style0">[준의 웃음]<br/>[석의 분한 신음]</p>
+<p xml:id="subtitle44" begin="1529861666t" end="1539454582t" region="region0" style="style0">오, 편의점이다</p>
+<p xml:id="subtitle45" begin="1540288750t" end="1552384166t" region="region0" style="style0">[흥미로운 음악]</p>
+<p xml:id="subtitle46" begin="1553218332t" end="1572404166t" region="region0" style="style0">[출입문 종이 딸랑거린다]<br/>(점원)<br/>어서 오세요</p>
+<p xml:id="subtitle47" begin="1583665416t" end="1595760832t" region="region0" style="style0">(준)<br/>자</p>
+<p xml:id="subtitle48" begin="1596595000t" end="1617032082t" region="region0" style="style0">뭐야, 제일 비싼 거잖아!</p>
+<p xml:id="subtitle49" begin="1617866250t" end="1633298332t" region="region0" style="style0">아들의 승전보를 알리기 위해</p>
+<p xml:id="subtitle50" begin="1634132500t" end="1660408750t" region="region0" style="style0">왕은 언제나 팡파르를 울려<br/>축하해 줬지</p>
+<p xml:id="subtitle51" begin="1661242916t" end="1678343332t" region="region0" style="style0">그럼 아까 받은 오백 원 적선해</p>
+<p xml:id="subtitle52" begin="1679177500t" end="1701282916t" region="region0" style="style0">님, 그 돈은 제가 번 돈인데요?</p>
+<p xml:id="subtitle53" begin="1702117082t" end="1744659582t" region="region0" style="style0">계속 그러시면 다 함께 모여 먹는<br/>두게더를 골라 버릴지도 모릅니다</p>
+<p xml:id="subtitle54" begin="1745493749t" end="1774272499t" region="region0" style="style0">벌긴 뭘 벌어? 두게더는 반칙이지</p>
+<p xml:id="subtitle55" begin="1775106666t" end="1795543749t" region="region0" style="style0">그건 통으로 파는<br/>비싼 아이스크림이잖아<br/>[준의 못마땅한 신음]</p>
+<p xml:id="subtitle56" begin="1796377916t" end="1813895416t" region="region0" style="style0">그냥 그거 먹어<br/>[준의 웃음]</p>
+<p xml:id="subtitle57" begin="1814729582t" end="1826407916t" region="region0" style="style0">[석의 한숨]</p>
+<p xml:id="subtitle58" begin="1827242082t" end="1836000832t" region="region0" style="style0">[석의 힘주는 신음]</p>
+<p xml:id="subtitle59" begin="1836834999t" end="1852684166t" region="region0" style="style0">[밝은 효과음]<br/>[웃음]</p>
+<p xml:id="subtitle60" begin="1853518332t" end="1867699166t" region="region0" style="style0">[놀란 숨소리]<br/>(석)<br/>예쁘다</p>
+<p xml:id="subtitle61" begin="1868533332t" end="1891889999t" region="region0" style="style0">노래 듣는 척하면<br/>좀 멋있어 보이려나?</p>
+<p xml:id="subtitle62" begin="1892724166t" end="1916497916t" region="region0" style="style0">[흥미로운 음악]<br/>[석과 준의 힘주는 신음]</p>
+<p xml:id="subtitle63" begin="1917332082t" end="1954869582t" region="region0" style="style0">점원의 말을 잘 듣기 위해<br/>한쪽 이어폰을 귀에서 뽑는다<br/>[준의 웃음]</p>
+<p xml:id="subtitle64" begin="1955703749t" end="1975306666t" region="region0" style="style0">이렇게 하면 센스 있어 보이겠지?</p>
+<p xml:id="subtitle65" begin="1976140832t" end="1985733749t" region="region0" style="style0">얼마예요?</p>
+<p xml:id="subtitle66" begin="1986567916t" end="1999914582t" region="region0" style="style0">(점원)<br/>이천오백 원입니다</p>
+<p xml:id="subtitle67" begin="2000748749t" end="2017849166t" region="region0" style="style0">[석의 힘주는 신음]<br/>(석)<br/>여기요</p>
+<p xml:id="subtitle68" begin="2018683332t" end="2037034999t" region="region0" style="style0">(석)<br/>계산을 마치고<br/>아이스크림콘을 귀에 꽂는</p>
+<p xml:id="subtitle69" begin="2037869166t" end="2056637916t" region="region0" style="style0">그렇게 평범한 하루였을 뿐이다<br/>[점원과 준의 놀란 신음]</p>
+<p xml:id="subtitle70" begin="2057472082t" end="2096260832t" region="region0" style="style0">저, 왜 아이스크림콘을 귀에 꽂으시죠?</p>
+<p xml:id="subtitle71" begin="2097094999t" end="2113361249t" region="region0" style="style0">예? 아, 그, 아, 그, 그게…<br/>[익살스러운 효과음]</p>
+<p xml:id="subtitle72" begin="2114195416t" end="2133381249t" region="region0" style="style0">(석)<br/>여기서 실토하면 바보 취급 당하겠지?</p>
+<p xml:id="subtitle73" begin="2134215416t" end="2149647500t" region="region0" style="style0">아, 모르셨군요?</p>
+<p xml:id="subtitle74" begin="2154652500t" end="2169250416t" region="region0" style="style0">요즘 이게 유행이거든요</p>
+<p xml:id="subtitle75" begin="2170084582t" end="2187602082t" region="region0" style="style0">[어색한 웃음]</p>
+<p xml:id="subtitle76" begin="2194692500t" end="2212210000t" region="region0" style="style0">[흥미로운 음악]<br/>[준이 할짝거린다]</p>
+<p xml:id="subtitle77" begin="2213044166t" end="2223054166t" region="region0" style="style0">[석과 준의 당황한 신음]</p>
+<p xml:id="subtitle78" begin="2223888332t" end="2243074166t" region="region0" style="style0">(준)<br/>야, 아이스크림 안 먹고 뭐 하냐?<br/>[석의 놀란 신음]</p>
+<p xml:id="subtitle79" begin="2243908332t" end="2266013750t" region="region0" style="style0">아, 그, 그게, 이제 안 보이겠지?</p>
+<p xml:id="subtitle80" begin="2271852916t" end="2286867916t" region="region0" style="style0">[석의 헛기침]</p>
+<p xml:id="subtitle81" begin="2327325000t" end="2343174166t" region="region0" style="style0">(석)<br/>근데 이제 우리 어디 가?</p>
+<p xml:id="subtitle82" begin="2344008332t" end="2356937916t" region="region0" style="style0">(준)<br/>엄마 심부름</p>
+<p xml:id="subtitle83" begin="2375289582t" end="2389470416t" region="region0" style="style0">[새가 지저귄다]</p>
+<p xml:id="subtitle84" begin="2402817082t" end="2434932500t" region="region0" style="style0">(석)<br/>우아, 요즘 가장 핫하다는 김설이잖아?<br/>[준의 탄성]</p>
+<p xml:id="subtitle85" begin="2435766666t" end="2457037916t" region="region0" style="style0">김설, 넌 언제나 아름답구나?</p>
+<p xml:id="subtitle86" begin="2457872082t" end="2474555416t" region="region0" style="style0">[석의 힘주는 신음]<br/>[엘리베이터 도착음]</p>
+<p xml:id="subtitle87" begin="2483731250t" end="2495409582t" region="region0" style="style0">[익살스러운 효과음]<br/>[함께 놀란다]</p>
+<p xml:id="subtitle88" begin="2496243750t" end="2508339166t" region="region0" style="style0">(준)<br/>죄, 죄송합니다, 예</p>
+<p xml:id="subtitle89" begin="2509173332t" end="2528359166t" region="region0" style="style0">[익살스러운 음악]<br/>(남자2)<br/>오, 두근거릴 뻔했어</p>
+<p xml:id="subtitle90" begin="2529193332t" end="2539620416t" region="region0" style="style0">[석과 준의 당황한 신음]</p>
+<p xml:id="subtitle91" begin="2540454582t" end="2561725832t" region="region0" style="style0">(준)<br/>아유, 어유, 자, 자, 자, 자<br/>[석의 시무룩한 신음]</p>
+<p xml:id="subtitle92" begin="2562560000t" end="2583831250t" region="region0" style="style0">자, 자, 빨리 타, 고백받을지도 몰라</p>
+<p xml:id="subtitle93" begin="2590921666t" end="2609690416t" region="region0" style="style0">(석)<br/>아직까진 평범한 하루였다</p>
+<p xml:id="subtitle94" begin="2610524582t" end="2623454166t" region="region0" style="style0">그런 일이 있기 전까진</p>
+<p xml:id="subtitle95" begin="2624288332t" end="2648062082t" region="region0" style="style0">[함께 피식 웃는다]<br/>우리 빨리 끝내고 집에 가서 오락하자</p>
+<p xml:id="subtitle96" begin="2648896250t" end="2657655000t" region="region0" style="style0">(석)<br/>알았어</p>
+<p xml:id="subtitle97" begin="2658489166t" end="2669750416t" region="region0" style="style0">아이, 단순한 녀석</p>
+<p xml:id="subtitle98" begin="2670584582t" end="2683931250t" region="region0" style="style0">[석의 놀란 신음]<br/>(준)<br/>아, 또 왜?</p>
+<p xml:id="subtitle99" begin="2684765416t" end="2719383332t" region="region0" style="style0">(석)<br/>아니, 형, 이거 좀 이상한데?<br/>[준의 놀란 신음]</p>
+<p xml:id="subtitle100" begin="2720217500t" end="2741488750t" region="region0" style="style0">[석의 힘주는 신음]</p>
+<p xml:id="subtitle101" begin="2751498750t" end="2767347916t" region="region0" style="style0">뭐야, 문이 안 열려!</p>
+<p xml:id="subtitle102" begin="2768182082t" end="2777357916t" region="region0" style="style0">뭐라고?<br/>[석의 힘주는 신음]</p>
+<p xml:id="subtitle103" begin="2778192082t" end="2795709582t" region="region0" style="style0">(석)<br/>엘리베이터에 갇히기 전까진</p>
+<p xml:id="subtitle104" begin="2796543750t" end="2817397916t" region="region0" style="style0">(석)<br/>[놀라며]<br/>빨리 관리소에 전화해 봐!</p>
+<p xml:id="subtitle105" begin="2818232082t" end="2845342500t" region="region0" style="style0">(준)<br/>아유, 관리소가, 관리소 전화번호가…<br/>[석의 힘겨운 신음]</p>
+<p xml:id="subtitle106" begin="2846176666t" end="2860357500t" region="region0" style="style0">여보세요, 관리소죠?</p>
+<p xml:id="subtitle107" begin="2861191666t" end="2883297082t" region="region0" style="style0">[어두운 효과음]<br/>엘리베이터에<br/>무고한 시민 둘이 갇혀 있다</p>
+<p xml:id="subtitle108" begin="2884131250t" end="2895809582t" region="region0" style="style0">(준)</p>
+<p xml:id="subtitle109" begin="2896643750t" end="2910824582t" region="region1" style="style0">(석)</p>
+<p xml:id="subtitle110" begin="2911658750t" end="2928759166t" region="region0" style="style0">[익살스러운 효과음]<br/>[준의 웃음]</p>
+<p xml:id="subtitle111" begin="2929593332t" end="2965879582t" region="region0" style="style0">[울먹이며]<br/>아, 우리 형 정말 바보인가 봐</p>
+<p xml:id="subtitle112" begin="2980894582t" end="2998829166t" region="region0" style="style0">그래서 관리소에서는 뭐래?</p>
+<p xml:id="subtitle113" begin="2999663332t" end="3009673332t" region="region0" style="style0">- 없는 번호래<br/>- (석) 뭐?</p>
+<p xml:id="subtitle114" begin="3010507500t" end="3025105416t" region="region0" style="style0">(준)<br/>자, 들어 봐</p>
+<p xml:id="subtitle115" begin="3030527500t" end="3049713332t" region="region0" style="style0">[안내 음성]<br/>지금 거신 번호는 없는 번호이거나…</p>
+<p xml:id="subtitle116" begin="3050547500t" end="3070150416t" region="region0" style="style0">(석)<br/>전화 안 되는구나</p>
+<p xml:id="subtitle117" begin="3070984582t" end="3083914166t" region="region0" style="style0">그럼 갇힌 건가?</p>
+<p xml:id="subtitle118" begin="3084748332t" end="3094341250t" region="region0" style="style0">[준의 절망한 신음]</p>
+<p xml:id="subtitle119" begin="3095175416t" end="3121451666t" region="region0" style="style0">[긴장되는 음악]<br/>무슨 방법을 찾아야만 할 텐데</p>
+<p xml:id="subtitle120" begin="3122285832t" end="3144391250t" region="region0" style="style0">나한테 이런 만화 같은 일이<br/>벌어지다니</p>
+<p xml:id="subtitle121" begin="3145225416t" end="3158572082t" region="region1" style="style0">(내레이션)</p>
+<p xml:id="subtitle122" begin="3159406250t" end="3171918750t" region="region0" style="style0">아, 어떡하지?</p>
+<p xml:id="subtitle123" begin="3172752916t" end="3209039166t" region="region0" style="style0">[반짝이는 효과음]<br/>아, 그래, 만화에서 이럴 땐<br/>주변의 사물에서 해답을 찾지</p>
+<p xml:id="subtitle124" begin="3209873332t" end="3233647082t" region="region0" style="style0">오, 역시 만화가 내 동생, 이야</p>
+<p xml:id="subtitle125" begin="3234481250t" end="3249913332t" region="region0" style="style0">[석과 준의 의욕적인 신음]</p>
+<p xml:id="subtitle126" begin="3258255000t" end="3275772500t" region="region0" style="style0">[경쾌한 음악]<br/>(석)<br/>좋아, 지금 우리한테 있는 건</p>
+<p xml:id="subtitle127" begin="3276606666t" end="3320817500t" region="region0" style="style0">스피커폰에 작은 고무줄 두 개<br/>실 그리고 나무 막대기</p>
+<p xml:id="subtitle128" begin="3327907916t" end="3347510832t" region="region0" style="style0">이건 왜 여기 있을까?<br/>[익살스러운 효과음]</p>
+<p xml:id="subtitle129" begin="3348345000t" end="3366279582t" region="region0" style="style0">관리 사무소에 가져다주자</p>
+<p xml:id="subtitle130" begin="3367113749t" end="3379626249t" region="region0" style="style0">[함께 한숨 쉰다]</p>
+<p xml:id="subtitle131" begin="3380460416t" end="3398394999t" region="region0" style="style0">(석)<br/>어? 잠깐, 거울!</p>
+<p xml:id="subtitle132" begin="3399229166t" end="3411324582t" region="region0" style="style0">[의미심장한 효과음]<br/>그래, 거울이야!</p>
+<p xml:id="subtitle133" begin="3412158749t" end="3424254166t" region="region0" style="style0">(준)<br/>거울이 있다는 건!</p>
+<p xml:id="subtitle134" begin="3425088332t" end="3443857082t" region="region0" style="style0">[익살스러운 음악]<br/>역시 난 멋져</p>
+<p xml:id="subtitle135" begin="3444691249t" end="3480143332t" region="region0" style="style0">아, 이거 참<br/>얼굴을 가리고 다닐 수도 없고, 원</p>
+<p xml:id="subtitle136" begin="3495158332t" end="3503499999t" region="region1" style="style0">(내레이션)</p>
+<p xml:id="subtitle137" begin="3504334166t" end="3515178332t" region="region1" style="style0">(석)<br/>무슨 방법을 찾아야만 한다</p>
+<p xml:id="subtitle138" begin="3516012499t" end="3543539999t" region="region0" style="style0">이러다 할아버지 될 때까지<br/>갇혀 있는 거 아니야?</p>
+<p xml:id="subtitle139" begin="3544374166t" end="3565645416t" region="region0" style="style0">아, 불길한 소리 좀 하지 마</p>
+<p xml:id="subtitle140" begin="3566479582t" end="3605268332t" region="region0" style="style0">아, 혹시 우리 못 나가서<br/>TV 방송 타는 거 아닐까?</p>
+<p xml:id="subtitle141" begin="3606102499t" end="3623202916t" region="region0" style="style0">[준의 절망한 신음]<br/>(석)<br/>아, 구조대야, 빨리 와 줘</p>
+<p xml:id="subtitle142" begin="3624037082t" end="3653232916t" region="region1" style="style0">(내레이션)</p>
+<p xml:id="subtitle143" begin="3654067082t" end="3679926249t" region="region0" style="style0">[밝은 효과음]<br/>(리포터)</p>
+<p xml:id="subtitle144" begin="3680760416t" end="3702031666t" region="region0" style="style0">[함께 가쁜 숨을 내쉰다]<br/>(리포터)<br/>30년간 빈대와 이를 잡아먹고</p>
+<p xml:id="subtitle145" begin="3702865832t" end="3726222499t" region="region0" style="style0">[흥미로운 음악]<br/>엘리베이터에서 생존한<br/>두 분을 소개합니다</p>
+<p xml:id="subtitle146" begin="3733312916t" end="3747493749t" region="region0" style="style0">정말 대단하군요</p>
+<p xml:id="subtitle147" begin="3748327916t" end="3778357916t" region="region0" style="style0">엘리베이터에 갇혀서<br/>30년간 휴재 한 번 없었다니</p>
+<p xml:id="subtitle148" begin="3779192082t" end="3830910416t" region="region0" style="style0">이와 빈대를 잡아먹으며<br/>30년간 연재를 멈추지 않았죠</p>
+<p xml:id="subtitle149" begin="3831744582t" end="3879709166t" region="region0" style="style0">엘리베이터 문틈 사이로<br/>편집장이 매일 원고를 가져갔어요</p>
+<p xml:id="subtitle150" begin="3886799582t" end="3895558332t" region="region0" style="style0">[늙은 준의 기합]</p>
+<p xml:id="subtitle151" begin="3896392499t" end="3907236666t" region="region0" style="style0">[늙은 준이 우걱우걱 먹는다]</p>
+<p xml:id="subtitle152" begin="3919749166t" end="3959372082t" region="region0" style="style0">(늙은 석)<br/>[놀라며]<br/>그거 내 건데!</p>
+<p xml:id="subtitle153" begin="3973969999t" end="3997743749t" region="region0" style="style0">억지로 나가야 돼, 늙어 죽는다고!<br/>[준이 호응한다]</p>
+<p xml:id="subtitle154" begin="3998577916t" end="4011924582t" region="region0" style="style0">[새가 지저귄다]</p>
+<p xml:id="subtitle155" begin="4012758749t" end="4029859166t" region="region0" style="style0">[석과 준의 힘겨운 신음]<br/>(석)</p>
+<p xml:id="subtitle156" begin="4030693332t" end="4051547499t" region="region0" style="style0">[비장한 음악]<br/>(석)</p>
+<p xml:id="subtitle157" begin="4052381666t" end="4107019582t" region="region0" style="style0">(석)</p>
+<p xml:id="subtitle158" begin="4107853749t" end="4121200416t" region="region1" style="style0">(내레이션)</p>
+<p xml:id="subtitle159" begin="4122034582t" end="4142471666t" region="region0" style="style0">[무거운 음악]<br/>벌써 해는 졌겠지?</p>
+<p xml:id="subtitle160" begin="4143305832t" end="4158320832t" region="region0" style="style0">달도 떴을걸?</p>
+<p xml:id="subtitle161" begin="4159154999t" end="4195858332t" region="region0" style="style0">장시간 갇혀 있어서 그런가?<br/>호흡이 불편해</p>
+<p xml:id="subtitle162" begin="4196692499t" end="4221300416t" region="region1" style="style0">[준과 석의 힘겨운 신음]<br/>(내레이션)</p>
+<p xml:id="subtitle163" begin="4222134582t" end="4243405832t" region="region0" style="style0">뭐? 산소가 희박해지는 건가?<br/>[석의 놀란 신음]</p>
+<p xml:id="subtitle164" begin="4244239999t" end="4258837916t" region="region0" style="style0">이제부터 말을 줄이자</p>
+<p xml:id="subtitle165" begin="4259672082t" end="4271767499t" region="region0" style="style0">[석의 놀란 신음]<br/>산소를 아껴야 해</p>
+<p xml:id="subtitle166" begin="4272601666t" end="4293038749t" region="region0" style="style0">(준)<br/>이 녀석이 안 쉬고 있을 동안<br/>내가 더 많이 쉬어야지</p>
+<p xml:id="subtitle167" begin="4293872916t" end="4313058750t" region="region0" style="style0">[준이 숨을 몰아쉰다]</p>
+<p xml:id="subtitle168" begin="4325154166t" end="4344757082t" region="region0" style="style0">[익살스러운 음악]<br/>[괴로운 신음]</p>
+<p xml:id="subtitle169" begin="4357686666t" end="4380209166t" region="region0" style="style0">[숨을 헐떡인다]</p>
+<p xml:id="subtitle170" begin="4381043332t" end="4397726666t" region="region0" style="style0">(준)<br/>야, 이 말미잘 녀석아!<br/>[아파하는 신음]</p>
+<p xml:id="subtitle171" begin="4398560832t" end="4409405000t" region="region0" style="style0">작게 쉬라고, 작게!</p>
+<p xml:id="subtitle172" begin="4410239166t" end="4426505416t" region="region0" style="style0">[석의 멋쩍은 신음]<br/>[준의 성난 신음]</p>
+<p xml:id="subtitle173" begin="4432344582t" end="4462791666t" region="region0" style="style0">(석)<br/>이게 내 형이라니, 남이었으면 좋겠다<br/>[시무룩한 신음]</p>
+<p xml:id="subtitle174" begin="4463625832t" end="4472801666t" region="region0" style="style0">[석과 준의 힘겨운 신음]</p>
+<p xml:id="subtitle175" begin="4473635832t" end="4490319166t" region="region1" style="style0">(내레이션)</p>
+<p xml:id="subtitle176" begin="4491153332t" end="4525354166t" region="region0" style="style0">형, 나 형에게<br/>하고 싶은 이야기가 있어</p>
+<p xml:id="subtitle177" begin="4526188332t" end="4536615416t" region="region0" style="style0">(준)<br/>서, 석아<br/>[잔잔한 음악]</p>
+<p xml:id="subtitle178" begin="4537449582t" end="4579575000t" region="region0" style="style0">아마 이 이야기는<br/>지금이 처음이자 마지막이겠지?</p>
+<p xml:id="subtitle179" begin="4580409166t" end="4617946666t" region="region0" style="style0">사, 사실 나도 너한테<br/>얘기 안 한 게 있는데</p>
+<p xml:id="subtitle180" begin="4618780832t" end="4634212916t" region="region0" style="style0">(석)<br/>나…</p>
+<p xml:id="subtitle181" begin="4635047082t" end="4660072082t" region="region0" style="style0">사실 형 초등학교 일기<br/>스캔해서 갖고 있어<br/>[준의 놀란 신음]</p>
+<p xml:id="subtitle182" begin="4660906250t" end="4680926250t" region="region0" style="style0">[흥미로운 음악]<br/>(준)<br/>이걸 여기 숨겨 놓고 있었어?</p>
+<p xml:id="subtitle183" begin="4681760416t" end="4696358332t" region="region0" style="style0">자기 혼자 먹으려고!</p>
+<p xml:id="subtitle184" begin="4705534166t" end="4716795416t" region="region0" style="style0">[준의 헛구역질]</p>
+<p xml:id="subtitle185" begin="4724720000t" end="4738066666t" region="region1" style="style0">[석이 울부짖는다]</p>
+<p xml:id="subtitle186" begin="4753081666t" end="4761840416t" region="region0" style="style0">[엘리베이터 도착음]</p>
+<p xml:id="subtitle187" begin="4762674582t" end="4775187082t" region="region0" style="style0">[익살스러운 효과음]</p>
+<p xml:id="subtitle188" begin="4776021250t" end="4791036250t" region="region0" style="style0">[석과 준의 당황한 신음]</p>
+<p xml:id="subtitle189" begin="4824402916t" end="4842754582t" region="region1" style="style0">[익살스러운 음악]<br/>야, 어제 국대 경기 봄?</p>
+<p xml:id="subtitle190" begin="4843588750t" end="4867779582t" region="region1" style="style0">(준)<br/>어, 당연한 거 아니야?<br/>홍민이 발재간 짱짱임</p>
+<p xml:id="subtitle191" begin="4868613750t" end="4882377500t" region="region1" style="style0">(내레이션)</p>
+<p xml:id="subtitle192" begin="4890719166t" end="4912407500t" region="region0" style="style0">어, 티라노사우루스 발톱 본 적 있음?</p>
+<p xml:id="subtitle193" begin="4913241666t" end="4934930000t" region="region0" style="style0">공룡의 왕다운 짱짱 발톱임</p>
+<p xml:id="subtitle194" begin="4935764166t" end="4960372082t" region="region0" style="style0">야, 너 아까 버튼 눌렀어?</p>
+<p xml:id="subtitle195" begin="4961206250t" end="4972884582t" region="region0" style="style0">아, 아니</p>
+<p xml:id="subtitle196" begin="4973718750t" end="4993321666t" region="region0" style="style0">[성난 신음]<br/>[석의 당황한 신음]</p>
+<p xml:id="subtitle197" begin="4994155832t" end="5013341666t" region="region0" style="style0">[놀란 신음]<br/>(준)<br/>뭐 하는 거야, 너 때문에 진짜!</p>
+<p xml:id="subtitle198" begin="5014175832t" end="5041703332t" region="region0" style="style0">[준이 화낸다]<br/>(석)<br/>아, 그게 왜 나 때문이야!</p>
+<p xml:id="subtitle199" begin="5042537500t" end="5060472082t" region="region0" style="style0">(준)<br/>그럼 안 되는 거야, 너 인마!</p>
+<p xml:id="subtitle200" begin="5080075000t" end="5095924166t" region="region0" style="style0">[밝은 음악]</p>
+<p xml:id="subtitle201" begin="5096758332t" end="5120532082t" region="region0" style="style0">(석)</p>
+<p xml:id="subtitle202" begin="5128456666t" end="5146808332t" region="region0" style="style0">(석)<br/>누구나 후회를 하며 산다</p>
+<p xml:id="subtitle203" begin="5147642500t" end="5183511666t" region="region0" style="style0">나는 순백의 눈이 내리던 어느 날을<br/>아직도 잊지 못한다</p>
+<p xml:id="subtitle204" begin="5184345832t" end="5203531666t" region="region0" style="style0">[흥미로운 음악]<br/>[석의 힘주는 신음]</p>
+<p xml:id="subtitle205" begin="5232727500t" end="5241903332t" region="region0" style="style0">[석의 경계하는 신음]</p>
+<p xml:id="subtitle206" begin="5242737500t" end="5261089166t" region="region0" style="style0">석아, 어디 있어?</p>
+<p xml:id="subtitle207" begin="5271099166t" end="5304465832t" region="region0" style="style0">사람을 나오라고 불렀으면<br/>앞에서 기다려야지</p>
+<p xml:id="subtitle208" begin="5305300000t" end="5318229582t" region="region0" style="style0">[피식 웃는다]</p>
+<p xml:id="subtitle209" begin="5327405416t" end="5341586250t" region="region0" style="style0">(석)<br/>이야, 눈 공격!</p>
+<p xml:id="subtitle210" begin="5342420416t" end="5352430416t" region="region0" style="style0">[애봉의 비명]</p>
+<p xml:id="subtitle211" begin="5353264582t" end="5362440416t" region="region0" style="style0">[웃음]</p>
+<p xml:id="subtitle212" begin="5363274582t" end="5383294582t" region="region0" style="style0">어떠냐, 나의 눈 공격이!</p>
+<p xml:id="subtitle213" begin="5384128750t" end="5401646250t" region="region0" style="style0">정의는 언제나 승리한다!</p>
+<p xml:id="subtitle214" begin="5402480416t" end="5418746666t" region="region0" style="style0">[석의 웃음]<br/>[애봉의 분한 신음]</p>
+<p xml:id="subtitle215" begin="5419580832t" end="5429590832t" region="region0" style="style0">[긴장되는 음악]</p>
+<p xml:id="subtitle216" begin="5430425000t" end="5447108332t" region="region0" style="style0">정의는 언제나 승리하지</p>
+<p xml:id="subtitle217" begin="5447942500t" end="5473801666t" region="region0" style="style0">네가 정의였구나? 그럼 난?</p>
+<p xml:id="subtitle218" begin="5474635832t" end="5485897082t" region="region0" style="style0">[놀란 신음]</p>
+<p xml:id="subtitle219" begin="5486731250t" end="5509253750t" region="region0" style="style0">네가 그랬잖아, 네가 정의라고</p>
+<p xml:id="subtitle220" begin="5510087916t" end="5532193332t" region="region0" style="style0">그럼, 그럼 나는 뭘까?</p>
+<p xml:id="subtitle221" begin="5533027500t" end="5548042500t" region="region0" style="style0">악의 사도라고 할까?</p>
+<p xml:id="subtitle222" begin="5548876666t" end="5580575000t" region="region0" style="style0">[어색하게 웃으며]<br/>아, 왜, 왜 그래? 그냥 장난이었잖아</p>
+<p xml:id="subtitle223" begin="5585580000t" end="5608102500t" region="region0" style="style0">눈 공격이었을 뿐이라고</p>
+<p xml:id="subtitle224" begin="5608936666t" end="5637298332t" region="region0" style="style0">이야, 눈 공격</p>
+<p xml:id="subtitle225" begin="5648976666t" end="5665242916t" region="region0" style="style0">[코웃음]</p>
+<p xml:id="subtitle226" begin="5673167500t" end="5681509166t" region="region1" style="style0">[애봉의 기합]<br/>(애봉)</p>
+<p xml:id="subtitle227" begin="5682343332t" end="5714041666t" region="region0" style="style0">[익살스러운 효과음]<br/>[석의 비명]</p>
+<p xml:id="subtitle228" begin="5728222500t" end="5747825416t" region="region0" style="style0">[웃음]</p>
+<p xml:id="subtitle229" begin="5748659582t" end="5771599166t" region="region0" style="style0">[반짝이는 효과음]<br/>(애봉)<br/>어? 오호, 득템!</p>
+<p xml:id="subtitle230" begin="5772433332t" end="5789533750t" region="region0" style="style0">[흥미진진한 음악]<br/>[흥얼거린다]</p>
+<p xml:id="subtitle231" begin="5796207082t" end="5810805000t" region="region0" style="style0">[웃음]</p>
+<p xml:id="subtitle232" begin="5811639166t" end="5855432916t" region="region0" style="style0">(석)<br/>응? 저 미소는 애봉이가<br/>뭔가를 꾸밀 때 짓는 미소다</p>
+<p xml:id="subtitle233" begin="5862523332t" end="5883794582t" region="region0" style="style0">(석)<br/>우리 애봉이 뭐 하고 있나?</p>
+<p xml:id="subtitle234" begin="5884628750t" end="5902563332t" region="region0" style="style0">[애봉의 힘주는 신음]<br/>아, 잠깐, 잠깐, 그게 뭐야?</p>
+<p xml:id="subtitle235" begin="5903397500t" end="5916744166t" region="region0" style="style0">(애봉)<br/>응? 왜?</p>
+<p xml:id="subtitle236" begin="5917578332t" end="5933010416t" region="region0" style="style0">나 봤어, 봤다고!</p>
+<p xml:id="subtitle237" begin="5933844582t" end="5948025416t" region="region0" style="style0">[놀란 신음]<br/>(애봉)<br/>보긴 뭘 봐?</p>
+<p xml:id="subtitle238" begin="5948859582t" end="5970130832t" region="region0" style="style0">(석)<br/>돌, 너 돌을 눈에 넣었잖아!</p>
+<p xml:id="subtitle239" begin="5970965000t" end="5989316666t" region="region0" style="style0">진짜 본 거였어? 아깝네</p>
+<p xml:id="subtitle240" begin="5990150832t" end="6003914582t" region="region0" style="style0">[애봉의 힘주는 신음]<br/>[석의 놀란 신음]</p>
+<p xml:id="subtitle241" begin="6004748750t" end="6018512500t" region="region0" style="style0">[흥미로운 효과음]</p>
+<p xml:id="subtitle242" begin="6046040000t" end="6066060000t" region="region0" style="style0">[익살스러운 효과음]<br/>[놀란 신음]</p>
+<p xml:id="subtitle243" begin="6066894166t" end="6080240832t" region="region0" style="style0">[침을 꿀꺽 삼킨다]</p>
+<p xml:id="subtitle244" begin="6094004582t" end="6104014582t" region="region0" style="style0">[한숨]</p>
+<p xml:id="subtitle245" begin="6104848750t" end="6130707916t" region="region0" style="style0">(석)<br/>눈에 뭔가 섞는 건 반칙이야, 반칙!<br/>[애봉이 눈을 뽀드득거린다]</p>
+<p xml:id="subtitle246" begin="6131542082t" end="6150727916t" region="region0" style="style0">(애봉)<br/>알았음, 반칙 안 함</p>
+<p xml:id="subtitle247" begin="6151562082t" end="6164908750t" region="region0" style="style0">[어색하게 웃으며]<br/>진짜지?</p>
+<p xml:id="subtitle248" begin="6165742916t" end="6191602082t" region="region0" style="style0">(애봉)<br/>됐지? 아무것도 안 섞었어</p>
+<p xml:id="subtitle249" begin="6192436250t" end="6207868332t" region="region0" style="style0">[웃으며]<br/>그래</p>
+<p xml:id="subtitle250" begin="6221632082t" end="6243320416t" region="region0" style="style0">[기합]<br/>[긴장되는 효과음]</p>
+<p xml:id="subtitle251" begin="6244154582t" end="6255832916t" region="region0" style="style0">자, 자, 자, 자, 자, 잠깐!</p>
+<p xml:id="subtitle252" begin="6256667082t" end="6265842916t" region="region0" style="style0">[겁먹은 신음]</p>
+<p xml:id="subtitle253" begin="6266677082t" end="6279606666t" region="region0" style="style0">(애봉)<br/>응?</p>
+<p xml:id="subtitle254" begin="6280440832t" end="6305882916t" region="region0" style="style0">[밝은 음악]<br/>시간도 늦었는데 이제 그만하자</p>
+<p xml:id="subtitle255" begin="6306717082t" end="6329656666t" region="region0" style="style0">에이, 손 시리고 이게 다 뭐야, 응?</p>
+<p xml:id="subtitle256" begin="6335495832t" end="6359686666t" region="region0" style="style0">(애봉)<br/>음, 그럴까?</p>
+<p xml:id="subtitle257" begin="6366360000t" end="6379289582t" region="region0" style="style0">(석)<br/>그래그래</p>
+<p xml:id="subtitle258" begin="6380123750t" end="6408068332t" region="region0" style="style0">아이, 눈싸움하면 뭐 해? 재미도 없고</p>
+<p xml:id="subtitle259" begin="6408902500t" end="6431425000t" region="region0" style="style0">[석의 웃음]<br/>(애봉)<br/>응, 알았어</p>
+<p xml:id="subtitle260" begin="6432259166t" end="6448525416t" region="region0" style="style0">[웃음]<br/>[석의 기합]</p>
+<p xml:id="subtitle261" begin="6449359582t" end="6462706250t" region="region0" style="style0">[유쾌한 음악]<br/>[웃음]</p>
+<p xml:id="subtitle262" begin="6463540416t" end="6480640832t" region="region0" style="style0">가긴 어딜 가?<br/>[웃음]</p>
+<p xml:id="subtitle263" begin="6481475000t" end="6502746250t" region="region0" style="style0">눈싸움은 아직 안 끝났다고!</p>
+<p xml:id="subtitle264" begin="6508585416t" end="6520263750t" region="region0" style="style0">[석의 웃음]</p>
+<p xml:id="subtitle265" begin="6521097916t" end="6546122916t" region="region0" style="style0">[흥미로운 효과음]<br/>(석)<br/>그때로 돌아갈 수만 있다면</p>
+<p xml:id="subtitle266" begin="6546957082t" end="6562806250t" region="region0" style="style0">다시는 그러지 않을 것이다</p>
+<p xml:id="subtitle267" begin="6573650416t" end="6582826250t" region="region0" style="style0">[석의 힘주는 신음]</p>
+<p xml:id="subtitle268" begin="6589082500t" end="6608268332t" region="region0" style="style0">(석)<br/>아, 늦었다, 늦었어</p>
+<p xml:id="subtitle269" begin="6609102500t" end="6643720416t" region="region0" style="style0">펜 터치는 다 했고<br/>지우개질로 밑그림을 지워야…</p>
+<p xml:id="subtitle270" begin="6644554582t" end="6661237916t" region="region0" style="style0">- (애봉) 여기<br/>- (석) 오, 생큐</p>
+<p xml:id="subtitle271" begin="6662072082t" end="6672499166t" region="region0" style="style0">근데 언제부터 있었어?</p>
+<p xml:id="subtitle272" begin="6673333332t" end="6684177500t" region="region0" style="style0">[놀란 신음]</p>
+<p xml:id="subtitle273" begin="6696690000t" end="6715875832t" region="region0" style="style0">가, 갑자기 눈이 왜 여기에?</p>
+<p xml:id="subtitle274" begin="6716710000t" end="6731724999t" region="region0" style="style0">[음산한 음악]<br/>[애봉의 웃음]</p>
+<p xml:id="subtitle275" begin="6732559166t" end="6744654582t" region="region0" style="style0">네가 그랬지?</p>
+<p xml:id="subtitle276" begin="6745488749t" end="6768011249t" region="region0" style="style0">눈싸움은 아직 안 끝났어</p>
+<p xml:id="subtitle277" begin="6768845416t" end="6788448332t" region="region0" style="style0">(석)<br/>[놀라며]<br/>누, 누구야!</p>
+<p xml:id="subtitle278" begin="6795121666t" end="6804714582t" region="region0" style="style0">[겁먹은 숨소리]</p>
+<p xml:id="subtitle279" begin="6812222082t" end="6837664166t" region="region0" style="style0">휴, 간신히 마감 마쳤네</p>
+<p xml:id="subtitle280" begin="6838498332t" end="6857267082t" region="region0" style="style0">그런데 아까 정말 뭐였지?</p>
+<p xml:id="subtitle281" begin="6858101249t" end="6881457916t" region="region0" style="style0">어유, 어유, 생각만 해도 소름 끼친다<br/>[바람 소리 효과음]</p>
+<p xml:id="subtitle282" begin="6882292082t" end="6891050832t" region="region0" style="style0">[배가 꼬르륵거린다]</p>
+<p xml:id="subtitle283" begin="6891884999t" end="6920663749t" region="region0" style="style0">[흥미로운 음악]<br/>아, 뭐 먹을 거라도 있으려나?</p>
+<p xml:id="subtitle284" begin="6933593332t" end="6944437499t" region="region0" style="style0">어?<br/>[웃음]</p>
+<p xml:id="subtitle285" begin="6949442499t" end="6960286666t" region="region0" style="style0">[석의 힘주는 신음]</p>
+<p xml:id="subtitle286" begin="6961120832t" end="7010336666t" region="region1" style="style0">(애봉)</p>
+<p xml:id="subtitle287" begin="7011170832t" end="7019929582t" region="region0" style="style0">[웃음]</p>
+<p xml:id="subtitle288" begin="7020763749t" end="7037864166t" region="region0" style="style0">그래도 역시 애봉이뿐이야</p>
+<p xml:id="subtitle289" begin="7057884166t" end="7072482082t" region="region0" style="style0">[석의 힘주는 신음]<br/>[전자레인지 작동음]</p>
+<p xml:id="subtitle290" begin="7083326249t" end="7102512082t" region="region0" style="style0">[흥얼거린다]</p>
+<p xml:id="subtitle291" begin="7103346249t" end="7114190416t" region="region0" style="style0">[전자레인지 알림음]<br/>[탄성]</p>
+<p xml:id="subtitle292" begin="7115024582t" end="7126702916t" region="region0" style="style0">[전자레인지 문 조작음]<br/>[놀란 신음]</p>
+<p xml:id="subtitle293" begin="7127537082t" end="7155064582t" region="region0" style="style0">[익살스러운 효과음]<br/>(석)<br/>밥이 녹았어</p>
+<p xml:id="subtitle294" begin="7155898749t" end="7171747916t" region="region0" style="style0">[석의 당황한 신음]</p>
+<p xml:id="subtitle295" begin="7185094582t" end="7213456249t" region="region0" style="style0">눈싸움은 아직 안 끝났어<br/>[흥미진진한 음악]</p>
+<p xml:id="subtitle296" begin="7214290416t" end="7237229999t" region="region0" style="style0">서, 설마 애봉이? 애봉이니?</p>
+<p xml:id="subtitle297" begin="7238064166t" end="7266842916t" region="region0" style="style0">(석)<br/>우, 우리 이제 그만하자, 애봉아!</p>
+<p xml:id="subtitle298" begin="7267677082t" end="7284777499t" region="region0" style="style0">내가 헛소리를 듣나?</p>
+<p xml:id="subtitle299" begin="7285611666t" end="7307717082t" region="region0" style="style0">정신 차려, 정신 차리자, 조석<br/>[힘주는 신음]</p>
+<p xml:id="subtitle300" begin="7316892916t" end="7327737082t" region="region0" style="style0">[석의 힘주는 신음]</p>
+<p xml:id="subtitle301" begin="7338164166t" end="7370279582t" region="region0" style="style0">(석)<br/>음, 이건 진짜 우유 같은데<br/>[흥미로운 음악]</p>
+<p xml:id="subtitle302" begin="7375284582t" end="7384043332t" region="region0" style="style0">[석의 힘주는 신음]</p>
+<p xml:id="subtitle303" begin="7408651249t" end="7424917499t" region="region0" style="style0">[석의 놀란 신음]<br/>[애봉의 웃음]</p>
+<p xml:id="subtitle304" begin="7425751666t" end="7434927499t" region="region0" style="style0">(애봉)<br/>고소하다</p>
+<p xml:id="subtitle305" begin="7435761666t" end="7445354582t" region="region0" style="style0">[석의 놀란 숨소리]</p>
+<p xml:id="subtitle306" begin="7446188749t" end="7486645832t" region="region0" style="style0">[오싹한 효과음]<br/>(석)<br/>제발 그만!</p>
+<p xml:id="subtitle307" begin="7487479999t" end="7504163332t" region="region0" style="style0">[익살스러운 음악]<br/>[절망한 신음]</p>
+<p xml:id="subtitle308" begin="7504997499t" end="7543786249t" region="region0" style="style0">[애봉의 힘주는 신음]<br/>이제 난 아무것도<br/>먹을 수 없단 말인가?</p>
+<p xml:id="subtitle309" begin="7561303749t" end="7574233332t" region="region0" style="style0">[냄새를 킁킁 맡는다]</p>
+<p xml:id="subtitle310" begin="7575067499t" end="7589248332t" region="region0" style="style0">어? 이 냄새는?<br/>[반짝이는 효과음]</p>
+<p xml:id="subtitle311" begin="7590082499t" end="7615107499t" region="region0" style="style0">[웅장한 음악]<br/>달걀, 밥, 소금, 간장의 조합으로</p>
+<p xml:id="subtitle312" begin="7615941666t" end="7664740416t" region="region0" style="style0">그 깊고 부드러운 맛이<br/>혀를 감싼다는 달걀볶음밥?</p>
+<p xml:id="subtitle313" begin="7665574582t" end="7678087082t" region="region0" style="style0">[석의 다급한 숨소리]</p>
+<p xml:id="subtitle314" begin="7686011666t" end="7699358332t" region="region0" style="style0">[석의 경계하는 신음]</p>
+<p xml:id="subtitle315" begin="7706031666t" end="7718961249t" region="region0" style="style0">(석)<br/>이번엔 진짜군</p>
+<p xml:id="subtitle316" begin="7719795416t" end="7737729999t" region="region0" style="style0">[안도하는 숨소리]<br/>[전자레인지 조작음]</p>
+<p xml:id="subtitle317" begin="7738564166t" end="7765257499t" region="region0" style="style0">이번엔 진짜야, 절대 가짜가 아니라고</p>
+<p xml:id="subtitle318" begin="7766091666t" end="7778187082t" region="region0" style="style0">[전자레인지 알림음]<br/>[탄성]</p>
+<p xml:id="subtitle319" begin="7779021249t" end="7791533749t" region="region0" style="style0">[석의 놀란 신음]<br/>[익살스러운 효과음]</p>
+<p xml:id="subtitle320" begin="7792367916t" end="7815724582t" region="region0" style="style0">[석의 당황한 신음]<br/>(애봉)<br/>네 인생도 땡이야</p>
+<p xml:id="subtitle321" begin="7840749582t" end="7853262082t" region="region0" style="style0">[무거운 음악]<br/>[석이 흐느낀다]</p>
+<p xml:id="subtitle322" begin="7854096249t" end="7873699166t" region="region0" style="style0">죄송합니다, 애봉 님아</p>
+<p xml:id="subtitle323" begin="7874533332t" end="7887462916t" region="region0" style="style0">제가 잘못했습니다</p>
+<p xml:id="subtitle324" begin="7892467916t" end="7906231666t" region="region0" style="style0">[석이 훌쩍인다]</p>
+<p xml:id="subtitle325" begin="7907065832t" end="7920829582t" region="region0" style="style0">[석의 힘주는 신음]</p>
+<p xml:id="subtitle326" begin="7934593332t" end="7948357082t" region="region0" style="style0">(석)<br/>어? 떡, 떡이다</p>
+<p xml:id="subtitle327" begin="7955447499t" end="7982557916t" region="region0" style="style0">(석)<br/>백설기의 '설' 자가<br/>'눈 설' 자라도 되는 거냐?</p>
+<p xml:id="subtitle328" begin="7983392082t" end="7998407082t" region="region1" style="style0">[익살스러운 음악]<br/>(석)</p>
+<p xml:id="subtitle329" begin="8007999999t" end="8018427082t" region="region0" style="style0">(석)<br/>김밥?</p>
+<p xml:id="subtitle330" begin="8025934582t" end="8042200832t" region="region0" style="style0">밥 없는 김밥이냐?</p>
+<p xml:id="subtitle331" begin="8058884166t" end="8073899166t" region="region0" style="style0">그래, 어디까지 가나 보자</p>
+<p xml:id="subtitle332" begin="8091416666t" end="8103512082t" region="region0" style="style0">이건 끝이 없구먼!</p>
+<p xml:id="subtitle333" begin="8104346249t" end="8113939166t" region="region0" style="style0">[석의 분한 신음]</p>
+<p xml:id="subtitle334" begin="8114773332t" end="8124366249t" region="region0" style="style0">[놀란 신음]</p>
+<p xml:id="subtitle335" begin="8158567082t" end="8193184999t" region="region0" style="style0">[흐느끼며]<br/>으아, 안 돼!</p>
+<p xml:id="subtitle336" begin="8212787916t" end="8241149582t" region="region0" style="style0">아, 먹은 것도 없는데<br/>나오는 것만 있다니</p>
+<p xml:id="subtitle337" begin="8247405832t" end="8267008749t" region="region0" style="style0">잠깐, 이거 가짜 아니야?</p>
+<p xml:id="subtitle338" begin="8272013749t" end="8285360416t" region="region0" style="style0">[석의 경계하는 신음]</p>
+<p xml:id="subtitle339" begin="8286194582t" end="8297038749t" region="region0" style="style0">[웃음]</p>
+<p xml:id="subtitle340" begin="8297872916t" end="8318309999t" region="region0" style="style0">그래, 내가 너무 민감해진 거야</p>
+<p xml:id="subtitle341" begin="8319144166t" end="8330405416t" region="region0" style="style0">[웃음]</p>
+<p xml:id="subtitle342" begin="8331239582t" end="8349174166t" region="region0" style="style0">[밝은 음악]</p>
+<p xml:id="subtitle343" begin="8350008332t" end="8371696666t" region="region1" style="style0">[힘주는 신음]<br/>[뿌지직거리는 소리가 들린다]</p>
+<p xml:id="subtitle344" begin="8391716666t" end="8413404999t" region="region1" style="style0">[힘주는 신음]<br/>[뿌지직거리는 소리가 들린다]</p>
+<p xml:id="subtitle345" begin="8435093332t" end="8455530416t" region="region1" style="style0">[힘주는 신음]<br/>[뿌지직거리는 소리가 들린다]</p>
+<p xml:id="subtitle346" begin="8456364582t" end="8473047916t" region="region0" style="style0">[애봉의 코웃음]<br/>[익살스러운 효과음]</p>
+<p xml:id="subtitle347" begin="8473882082t" end="8503912082t" region="region0" style="style0">(애봉)<br/>눈싸움은 아직 안 끝났어</p>
+<p xml:id="subtitle348" begin="8515173332t" end="8525600416t" region="region1" style="style0">[흐느낀다]<br/>[익살스러운 효과음]</p>
+<p xml:id="subtitle349" begin="8526434582t" end="8558549999t" region="region1" style="style0">(석)<br/>이 싸움, 절대 끝나지 않을<br/>싸움이 되어 버렸다</p>
+<p xml:id="subtitle350" begin="8568977082t" end="8602343750t" region="region0" style="style0">(석)<br/>애봉이의 화를 식히기 위해<br/>잠시 자리를 피하기로 했다</p>
+<p xml:id="subtitle351" begin="8603177916t" end="8622363750t" region="region0" style="style0">오케이, 나가 볼까?</p>
+<p xml:id="subtitle352" begin="8632790832t" end="8648640000t" region="region0" style="style0">[석의 조심스러운 신음]</p>
+<p xml:id="subtitle353" begin="8649474166t" end="8659901250t" region="region0" style="style0">[석의 웃음]</p>
+<p xml:id="subtitle354" begin="8666574582t" end="8681589582t" region="region0" style="style0">[석의 힘주는 신음]</p>
+<p xml:id="subtitle355" begin="8690765416t" end="8703277916t" region="region0" style="style0">[헛웃음]</p>
+<p xml:id="subtitle356" begin="8704112082t" end="8717875832t" region="region0" style="style0">그래, 이럴 줄 알았지</p>
+<p xml:id="subtitle357" begin="8718710000t" end="8738312916t" region="region0" style="style0">이런 시시한 함정에 걸릴 줄 알고?</p>
+<p xml:id="subtitle358" begin="8739147082t" end="8753745000t" region="region0" style="style0">[음산한 효과음]<br/>[석의 당황한 신음]</p>
+<p xml:id="subtitle359" begin="8754579166t" end="8762920832t" region="region0" style="style0">[애봉의 힘주는 신음]</p>
+<p xml:id="subtitle360" begin="8763755000t" end="8783775000t" region="region1" style="style0">(석)</p>
+<p xml:id="subtitle361" begin="8784609166t" end="8798372916t" region="region0" style="style0">[흥미진진한 음악]<br/>[석의 다급한 숨소리]</p>
+<p xml:id="subtitle362" begin="8799207082t" end="8813387916t" region="region0" style="style0">최대한 멀어져야 돼!</p>
+<p xml:id="subtitle363" begin="8826317500t" end="8852176666t" region="region0" style="style0">아, 그래, 지하철, 지하철을 타자!</p>
+<p xml:id="subtitle364" begin="8859684166t" end="8874282082t" region="region0" style="style0">[사람들의 의아한 신음]<br/>[석의 가쁜 숨소리]</p>
+<p xml:id="subtitle365" begin="8875116250t" end="8887628750t" region="region0" style="style0">[안내 음성]<br/>문이 닫힙니다</p>
+<p xml:id="subtitle366" begin="8888462916t" end="8901392500t" region="region0" style="style0">[신난 탄성]</p>
+<p xml:id="subtitle367" begin="8902226666t" end="8920995416t" region="region0" style="style0">됐어, 도망쳤어<br/>[웃음]</p>
+<p xml:id="subtitle368" begin="8921829582t" end="8948522916t" region="region0" style="style0">바보 애봉이, 이러면 못 잡겠지?</p>
+<p xml:id="subtitle369" begin="8949357082t" end="8958115832t" region="region0" style="style0">[놀란 신음]</p>
+<p xml:id="subtitle370" begin="8958950000t" end="8971879582t" region="region0" style="style0">[익살스러운 효과음]<br/>[못마땅한 신음]</p>
+<p xml:id="subtitle371" begin="8972713750t" end="8986060416t" region="region0" style="style0">[멋쩍은 신음]</p>
+<p xml:id="subtitle372" begin="8986894582t" end="8997738750t" region="region0" style="style0">[헛기침]</p>
+<p xml:id="subtitle373" begin="8998572916t" end="9023180832t" region="region0" style="style0">(석)<br/>이 싸움이 어디서부터 잘못된 것일까?<br/>[흥미로운 음악]</p>
+<p xml:id="subtitle374" begin="9024015000t" end="9054462082t" region="region0" style="style0">내가 눈싸움은<br/>아직 안 끝났다고 말했을 때일까?</p>
+<p xml:id="subtitle375" begin="9061135416t" end="9074065000t" region="region0" style="style0">처음 눈 공격을 했을 때일까?</p>
+<p xml:id="subtitle376" begin="9074899166t" end="9105763332t" region="region0" style="style0">아니야<br/>오늘 눈이 왔던 거 자체가 잘못이야</p>
+<p xml:id="subtitle377" begin="9106597500t" end="9122029582t" region="region0" style="style0">[잘그랑거리는 소리가 들린다]<br/>[놀란 신음]</p>
+<p xml:id="subtitle378" begin="9127868750t" end="9136210416t" region="region0" style="style0">[사람들의 의아한 신음]</p>
+<p xml:id="subtitle379" begin="9137044582t" end="9148305832t" region="region0" style="style0">[당황한 신음]</p>
+<p xml:id="subtitle380" begin="9149140000t" end="9164155000t" region="region0" style="style0">[강조되는 효과음]<br/>[익살스러운 음악]</p>
+<p xml:id="subtitle381" begin="9164989166t" end="9204612082t" region="region1" style="style0">[분한 신음]<br/>(석)</p>
+<p xml:id="subtitle382" begin="9210451250t" end="9228802916t" region="region0" style="style0">[애봉의 코웃음]<br/>[사람들의 당황한 신음]</p>
+<p xml:id="subtitle383" begin="9229637082t" end="9258832916t" region="region0" style="style0">[음산한 효과음]<br/>흐흐, 눈싸움은 아직 안 끝났어</p>
+<p xml:id="subtitle384" begin="9259667082t" end="9274682082t" region="region0" style="style0">[익살스러운 음악]<br/>[석의 떨리는 신음]</p>
+<p xml:id="subtitle385" begin="9275516250t" end="9290114166t" region="region0" style="style0">[석이 흐느낀다]</p>
+<p xml:id="subtitle386" begin="9290948332t" end="9302209582t" region="region0" style="style0">[남자의 안쓰러운 신음]</p>
+<p xml:id="subtitle387" begin="9303043750t" end="9315556250t" region="region0" style="style0">[여자의 힘주는 신음]</p>
+<p xml:id="subtitle388" begin="9361852500t" end="9376033332t" region="region0" style="style0">[풀벌레 울음]<br/>[흥미로운 음악]</p>
+<p xml:id="subtitle389" begin="9376867500t" end="9403560832t" region="region0" style="style0">(석)</p>
+<p xml:id="subtitle390" begin="9441098332t" end="9451942500t" region="region0" style="style0">[석의 옅은 탄성]</p>
+<p xml:id="subtitle391" begin="9452776666t" end="9464872082t" region="region0" style="style0">[침을 꿀꺽 삼킨다]</p>
+<p xml:id="subtitle392" begin="9465706250t" end="9483223750t" region="region0" style="style0">[영상 속 여자들의 웃음]<br/>[석의 조심스러운 신음]</p>
+<p xml:id="subtitle393" begin="9484057916t" end="9514922082t" region="region0" style="style0">(석)<br/>누구나 안 되는 일은<br/>안 되는 일이란 걸 알고 있다</p>
+<p xml:id="subtitle394" begin="9515756250t" end="9527017500t" region="region0" style="style0">[흥미로운 음악]</p>
+<p xml:id="subtitle395" begin="9527851666t" end="9554962082t" region="region0" style="style0">안 되는 줄 알면서도<br/>하게 되는 일들이 많다<br/>[석의 조심스러운 신음]</p>
+<p xml:id="subtitle396" begin="9573313750t" end="9582906666t" region="region0" style="style0">[석의 힘주는 신음]</p>
+<p xml:id="subtitle397" begin="9596253332t" end="9604595000t" region="region0" style="style0">[석의 놀란 신음]</p>
+<p xml:id="subtitle398" begin="9605429166t" end="9614187916t" region="region0" style="style0">이런 거나<br/>[시무룩한 신음]</p>
+<p xml:id="subtitle399" begin="9626283332t" end="9646303332t" region="region0" style="style0">- (석) 뭐 해?<br/>- 응, 다이어트</p>
+<p xml:id="subtitle400" begin="9647137500t" end="9659232916t" region="region0" style="style0">에? 다이어트?</p>
+<p xml:id="subtitle401" begin="9660067082t" end="9674247916t" region="region0" style="style0">(애봉)<br/>응, 다이어트</p>
+<p xml:id="subtitle402" begin="9675082082t" end="9690097082t" region="region0" style="style0">[익살스러운 효과음]<br/>(석)<br/>이런 것까지</p>
+<p xml:id="subtitle403" begin="9696353332t" end="9730137082t" region="region0" style="style0">이런 모든 것들이<br/>인간의 헛된 희망에서 시작된다</p>
+<p xml:id="subtitle404" begin="9730971250t" end="9767257500t" region="region0" style="style0">그 희망이 인간의 판단력을 흐리고<br/>이러한 안타까운 행동을 만들어 낸다</p>
+<p xml:id="subtitle405" begin="9768091666t" end="9777267500t" region="region0" style="style0">어때?</p>
+<p xml:id="subtitle406" begin="9778101666t" end="9802709582t" region="region0" style="style0">이번엔 성공할 거 같아, 다이어트?<br/>[애봉이 대답한다]</p>
+<p xml:id="subtitle407" begin="9803543750t" end="9822729582t" region="region0" style="style0">[삐 울리는 효과음]<br/>(석)</p>
+<p xml:id="subtitle408" begin="9830654166t" end="9857764582t" region="region0" style="style0">(석)<br/>그런 안타까운 행동 중<br/>가장 대표적인 것이 응모다</p>
+<p xml:id="subtitle409" begin="9858598750t" end="9880287082t" region="region0" style="style0">[밝은 음악]<br/>청취자 여러분, 오늘 방송에서는</p>
+<p xml:id="subtitle410" begin="9881121250t" end="9903226666t" region="region0" style="style0">인터넷 댓글 이벤트가<br/>진행되고 있는데요</p>
+<p xml:id="subtitle411" begin="9904060832t" end="9926166250t" region="region0" style="style0">네, 3,333번째 댓글에</p>
+<p xml:id="subtitle412" begin="9927000416t" end="9953693750t" region="region0" style="style0">축구공 열쇠고리를<br/>걸겠다는 이벤트였죠?</p>
+<p xml:id="subtitle413" begin="9954527916t" end="9991648332t" region="region0" style="style0">아, 지금 벌써 3,330개의 댓글이<br/>달리고 있습니다!</p>
+<p xml:id="subtitle414" begin="9992482500t" end="10004995000t" region="region0" style="style0">3,331</p>
+<p xml:id="subtitle415" begin="10005829166t" end="10016673332t" region="region0" style="style0">3,332</p>
+<p xml:id="subtitle416" begin="10017507500t" end="10044200832t" region="region0" style="style0">(함께)<br/>3,333번째 댓글 달성!</p>
+<p xml:id="subtitle417" begin="10079652916t" end="10120944166t" region="region0" style="style0">[진행자1의 웃음]<br/>3,333번째 댓글에<br/>축구공 열쇠고리를 걸겠다는 이벤트</p>
+<p xml:id="subtitle418" begin="10121778332t" end="10136793332t" region="region0" style="style0">꼭 지켜 드리겠습니다</p>
+<p xml:id="subtitle419" begin="10137627500t" end="10167240416t" region="region0" style="style0">그럼요, 저희는 저희가 한 말에<br/>책임을 지는 방송입니다<br/>[진행자2의 웃음]</p>
+<p xml:id="subtitle420" begin="10168074582t" end="10178084582t" region="region0" style="style0">[함께 웃는다]</p>
+<p xml:id="subtitle421" begin="10178918750t" end="10203109582t" region="region0" style="style0">(석)<br/>누군가가 당첨이 되긴 한 건지도<br/>모르는 응모</p>
+<p xml:id="subtitle422" begin="10203943750t" end="10221044166t" region="region0" style="style0">[진행자들의 신난 탄성]</p>
+<p xml:id="subtitle423" begin="10238978750t" end="10247320416t" region="region0" style="style0">[학생의 옅은 신음]</p>
+<p xml:id="subtitle424" begin="10248154582t" end="10270260000t" region="region0" style="style0">(교사)<br/>시험 시간인데<br/>누가 고개를 돌리냐, 어?</p>
+<p xml:id="subtitle425" begin="10290697082t" end="10306546250t" region="region0" style="style0">이게 뭔가?</p>
+<p xml:id="subtitle426" begin="10307380416t" end="10323229582t" region="region0" style="style0">자동요<br/>[사람들의 놀란 신음]</p>
+<p xml:id="subtitle427" begin="10324063750t" end="10346169166t" region="region0" style="style0">[익살스러운 효과음]<br/>(석)<br/>무한한 확률에 희망을 거는 응모</p>
+<p xml:id="subtitle428" begin="10364937916t" end="10385375000t" region="region0" style="style0">[고민하는 신음]<br/>(석)<br/>대체 왜 혼내신 거지?</p>
+<p xml:id="subtitle429" begin="10386209166t" end="10402475416t" region="region1" style="style0">[탄성]<br/>(석)</p>
+<p xml:id="subtitle430" begin="10403309582t" end="10422495416t" region="region0" style="style0">[휭 날아가는 효과음]</p>
+<p xml:id="subtitle431" begin="10452108332t" end="10487560416t" region="region0" style="style0">(석)<br/>사람들은 그 무한한 확률을 높이고자<br/>애를 쓰게 된다</p>
+<p xml:id="subtitle432" begin="10492565416t" end="10503409582t" region="region0" style="style0">라디오 사연 쓰냐?</p>
+<p xml:id="subtitle433" begin="10504243750t" end="10546369166t" region="region0" style="style0">어, 사연 상품에 내가 가지고 싶던<br/>조이짱의 피규어를 준대</p>
+<p xml:id="subtitle434" begin="10547203332t" end="10571811250t" region="region0" style="style0">에이, 그렇게 평범하게 쓰면 뽑히겠냐?</p>
+<p xml:id="subtitle435" begin="10572645416t" end="10595585000t" region="region0" style="style0">왜, 난 심사숙고해서 쓰고 있다고</p>
+<p xml:id="subtitle436" begin="10596419166t" end="10625615000t" region="region0" style="style0">생각해 봐<br/>라디오 사연은 복권이 아니야</p>
+<p xml:id="subtitle437" begin="10626449166t" end="10642715416t" region="region0" style="style0">사람이 뽑는 거라고</p>
+<p xml:id="subtitle438" begin="10643549582t" end="10676499166t" region="region0" style="style0">네가 가장 두근두근거리며 기다렸다가<br/>뛰쳐나가 받았던 편지</p>
+<p xml:id="subtitle439" begin="10677333332t" end="10691931250t" region="region0" style="style0">그런 내용의 사연을 보내 봐</p>
+<p xml:id="subtitle440" begin="10692765416t" end="10703192500t" region="region0" style="style0">두근두근?</p>
+<p xml:id="subtitle441" begin="10704026666t" end="10718624582t" region="region0" style="style0">그래, 두근두근</p>
+<p xml:id="subtitle442" begin="10719458750t" end="10734473750t" region="region0" style="style0">[밝은 효과음]<br/>두근두근이라</p>
+<p xml:id="subtitle443" begin="10735307916t" end="10751574166t" region="region0" style="style0">[심장 박동 효과음]</p>
+<p xml:id="subtitle444" begin="10752408332t" end="10772011250t" region="region0" style="style0">[잔잔한 음악]</p>
+<p xml:id="subtitle445" begin="10794533750t" end="10817056250t" region="region0" style="style0">[소녀와 석의 웃음]</p>
+<p xml:id="subtitle446" begin="10824146666t" end="10865855000t" region="region0" style="style0">(석)<br/>나를 두근두근하게 만들었던<br/>지난날 소녀의 편지 한 통</p>
+<p xml:id="subtitle447" begin="10866689166t" end="10875865000t" region="region0" style="style0">[석의 탄성]</p>
+<p xml:id="subtitle448" begin="10876699166t" end="10893799582t" region="region0" style="style0">(준)<br/>그런 있지도 않은<br/>이상한 상상 하지 마라!</p>
+<p xml:id="subtitle449" begin="10894633750t" end="10907146250t" region="region0" style="style0">[익살스러운 효과음]<br/>[놀란 신음]</p>
+<p xml:id="subtitle450" begin="10907980416t" end="10925497916t" region="region0" style="style0">아, 왜, 상상도 못 해?</p>
+<p xml:id="subtitle451" begin="10926332082t" end="10953442500t" region="region0" style="style0">아, 상상을 하면 안 되지<br/>그럼 사연이 뽑히겠냐?</p>
+<p xml:id="subtitle452" begin="10954276666t" end="10966789166t" region="region0" style="style0">자, 자, 자, 다시<br/>[석의 당황한 신음]</p>
+<p xml:id="subtitle453" begin="10967623332t" end="10991397082t" region="region0" style="style0">정말로 리얼리티를 살려 봐 봐, 어?</p>
+<p xml:id="subtitle454" begin="10992231250t" end="11013502500t" region="region0" style="style0">리, 리얼리티?</p>
+<p xml:id="subtitle455" begin="11014336666t" end="11028100416t" region="region0" style="style0">그래, 리얼리티</p>
+<p xml:id="subtitle456" begin="11028934582t" end="11042281250t" region="region0" style="style0">그, 그게 뭐야?<br/>[준의 당황한 신음]</p>
+<p xml:id="subtitle457" begin="11043115416t" end="11051874166t" region="region0" style="style0">아, 사실감!</p>
+<p xml:id="subtitle458" begin="11052708332t" end="11076482082t" region="region0" style="style0">진짜 있었던 일의 사실감 말이야!</p>
+<p xml:id="subtitle459" begin="11077316250t" end="11114436666t" region="region0" style="style0">그리고 진짜 있었던 일이 주는<br/>두근두근했던 편지를 떠올려 봐!</p>
+<p xml:id="subtitle460" begin="11115270832t" end="11131537082t" region="region0" style="style0">두근두근이라</p>
+<p xml:id="subtitle461" begin="11132371250t" end="11151974166t" region="region0" style="style0">[심장 박동 효과음]<br/>두근두근, 두근두근</p>
+<p xml:id="subtitle462" begin="11152808332t" end="11166572082t" region="region0" style="style0">[흥미로운 음악]</p>
+<p xml:id="subtitle463" begin="11167406250t" end="11180335832t" region="region0" style="style0">[조심스러운 신음]</p>
+<p xml:id="subtitle464" begin="11181170000t" end="11190345832t" region="region0" style="style0">[다가오는 오토바이 엔진음]</p>
+<p xml:id="subtitle465" begin="11191180000t" end="11200772916t" region="region0" style="style0">[놀란 신음]</p>
+<p xml:id="subtitle466" begin="11211200000t" end="11220792916t" region="region0" style="style0">[석의 다급한 신음]</p>
+<p xml:id="subtitle467" begin="11221627082t" end="11232888332t" region="region0" style="style0">[집배원의 힘주는 신음]</p>
+<p xml:id="subtitle468" begin="11256245000t" end="11265420832t" region="region0" style="style0">[집배원의 헛기침]</p>
+<p xml:id="subtitle469" begin="11266255000t" end="11280852916t" region="region0" style="style0">[조심스러운 신음]<br/>(석)<br/>그래, 떠올랐다</p>
+<p xml:id="subtitle470" begin="11281687082t" end="11304209582t" region="region0" style="style0">[석의 웃음]<br/>세상을 다 가진 듯<br/>행복했던 편지 한 통이</p>
+<p xml:id="subtitle471" begin="11305043750t" end="11317139166t" region="region0" style="style0">[석의 힘주는 신음]</p>
+<p xml:id="subtitle472" begin="11317973332t" end="11340912916t" region="region0" style="style0">[웃음]<br/>(석)<br/>두근거리며 기다렸던 그때 그 편지를</p>
+<p xml:id="subtitle473" begin="11341747082t" end="11352591250t" region="region0" style="style0">사연에 담아 보냈다</p>
+<p xml:id="subtitle474" begin="11353425416t" end="11370942916t" region="region1" style="style0">[차분한 음악이 흘러나온다]<br/>(DJ)<br/>다음 사연입니다</p>
+<p xml:id="subtitle475" begin="11371777082t" end="11390962916t" region="region0" style="style0">편지 봉투에도 이렇게 쓰여 있네요</p>
+<p xml:id="subtitle476" begin="11391797082t" end="11422244166t" region="region0" style="style0">'제 인생에 가장 두근거렸던 사연을<br/>담아 보내 드립니다'</p>
+<p xml:id="subtitle477" begin="11423078332t" end="11447686250t" region="region0" style="style0">저도 두근거리기 시작하는데요</p>
+<p xml:id="subtitle478" begin="11448520416t" end="11476882082t" region="region0" style="style0">조석 씨의 두근거리는 사연<br/>읽어 드리겠습니다</p>
+<p xml:id="subtitle479" begin="11494399582t" end="11503992500t" region="region0" style="style0">[당황한 신음]</p>
+<p xml:id="subtitle480" begin="11504826666t" end="11531102916t" region="region0" style="style0">조석 씨, '국어 17'<br/>[익살스러운 음악]</p>
+<p xml:id="subtitle481" begin="11531937082t" end="11549871666t" region="region0" style="style0">'영어 25'</p>
+<p xml:id="subtitle482" begin="11550705832t" end="11571560000t" region="region0" style="style0">'수학 37'</p>
+<p xml:id="subtitle483" begin="11572394166t" end="11607012082t" region="region0" style="style0">다음은 과학인데요<br/>저도 굉장히 두근거리고 있습니다</p>
+<p xml:id="subtitle484" begin="11607846250t" end="11623278332t" region="region0" style="style0">과학은 '3'<br/>[한숨]</p>
+<p xml:id="subtitle485" begin="11624112500t" end="11656227916t" region="region1" style="style0">(내레이션)</p>
+<p xml:id="subtitle486" begin="11657062082t" end="11669157500t" region="region0" style="style0">[집중하는 신음]</p>
+<p xml:id="subtitle487" begin="11669991666t" end="11696685000t" region="region0" style="style0">(준)<br/>쯧쯧, 불쌍한 중생아<br/>[석의 놀란 신음]</p>
+<p xml:id="subtitle488" begin="11697519166t" end="11724629582t" region="region0" style="style0">어찌 똑같은 실수를 반복하느냐?</p>
+<p xml:id="subtitle489" begin="11725463750t" end="11759247500t" region="region0" style="style0">왜, 형 때문에 전국에<br/>내 성적표만 공개됐다고!</p>
+<p xml:id="subtitle490" begin="11760081666t" end="11772177082t" region="region0" style="style0">아, 그게 내 잘못이냐?</p>
+<p xml:id="subtitle491" begin="11773011250t" end="11809297500t" region="region0" style="style0">성적표 받을 때 제일 두근거렸던<br/>네 인생이 잘못이지!</p>
+<p xml:id="subtitle492" begin="11810131666t" end="11822644166t" region="region0" style="style0">(준)<br/>어유, 쯧쯧</p>
+<p xml:id="subtitle493" begin="11823478332t" end="11853091250t" region="region0" style="style0">어쩔 수 없지<br/>당첨의 팁을 전수해 주마</p>
+<p xml:id="subtitle494" begin="11853925416t" end="11864352500t" region="region0" style="style0">당첨의 팁?</p>
+<p xml:id="subtitle495" begin="11865186666t" end="11891045832t" region="region1" style="style0">무조건 눈에 띄는 게 관건이야</p>
+<p xml:id="subtitle496" begin="11891880000t" end="11924412500t" region="region1" style="style0">눈에 띄게 화려하게 써야<br/>뽑힐 확률이 높아진다고</p>
+<p xml:id="subtitle497" begin="11925246666t" end="11933588332t" region="region1" style="style0">[힘주는 신음]</p>
+<p xml:id="subtitle498" begin="11934422500t" end="11952357082t" region="region0" style="style0">[탄성]</p>
+<p xml:id="subtitle499" begin="11961115832t" end="11981552916t" region="region0" style="style0">(석)<br/>당첨의 팁을 따라<br/>화려한 채색을 시작했다</p>
+<p xml:id="subtitle500" begin="11982387082t" end="11993231250t" region="region0" style="style0">[익살스러운 효과음]<br/>[성난 신음]</p>
+<p xml:id="subtitle501" begin="12011165832t" end="12026180832t" region="region0" style="style0">[교사의 힘주는 신음]<br/>[석의 비명]</p>
+<p xml:id="subtitle502" begin="12027015000t" end="12061215832t" region="region1" style="style0">(내레이션)</p>
+<p xml:id="subtitle503" begin="12073728332t" end="12087075000t" region="region0" style="style0">[준이 코를 드르렁 곤다]</p>
+<p xml:id="subtitle504" begin="12087909166t" end="12111265832t" region="region0" style="style0">(석)<br/>형이 말한 대로 했는데<br/>뽑히긴 뽑히더라</p>
+<p xml:id="subtitle505" begin="12112100000t" end="12120441666t" region="region0" style="style0">그렇지?</p>
+<p xml:id="subtitle506" begin="12121275832t" end="12134205416t" region="region0" style="style0">화려하고 예쁘게, 어?</p>
+<p xml:id="subtitle507" begin="12135039582t" end="12155476666t" region="region0" style="style0">눈에 띄게 하니까 단번에 뽑히지? 어?</p>
+<p xml:id="subtitle508" begin="12156310832t" end="12167155000t" region="region0" style="style0">그래서 뭐 받았냐?</p>
+<p xml:id="subtitle509" begin="12167989166t" end="12176330832t" region="region0" style="style0">사랑의 매</p>
+<p xml:id="subtitle510" begin="12177165000t" end="12194265416t" region="region0" style="style0">[익살스러운 효과음]<br/>뭐? 뭐, 뭘 받았다고?</p>
+<p xml:id="subtitle511" begin="12195099582t" end="12204275416t" region="region0" style="style0">(석)<br/>사랑의 매라고</p>
+<p xml:id="subtitle512" begin="12205109582t" end="12216787916t" region="region0" style="style0">(준)<br/>뭐?</p>
+<p xml:id="subtitle513" begin="12241812916t" end="12270174582t" region="region0" style="style0">오, 상금이 무려 5백만 원?<br/>이거 좋은데?</p>
+<p xml:id="subtitle514" begin="12271008750t" end="12300204582t" region="region0" style="style0">뭔데? 뭔데 상금이<br/>5백만 원이나 되는 거냐?</p>
+<p xml:id="subtitle515" begin="12301038750t" end="12318973332t" region="region0" style="style0">좋아, 당장 도전이다!<br/>[준의 놀란 신음]</p>
+<p xml:id="subtitle516" begin="12319807500t" end="12338993332t" region="region0" style="style0">[석의 웃음]<br/>야, 야, 무조건 예쁘게 꾸며라!</p>
+<p xml:id="subtitle517" begin="12339827500t" end="12364018332t" region="region0" style="style0">화려하고 예쁘게 꾸며야만 당첨된다!</p>
+<p xml:id="subtitle518" begin="12364852500t" end="12378199166t" region="region0" style="style0">그러다 또 안 되면?</p>
+<p xml:id="subtitle519" begin="12379033332t" end="12396967916t" region="region0" style="style0">(준)<br/>아, 형 말 믿어, 화려하고 예쁘게!</p>
+<p xml:id="subtitle520" begin="12397802082t" end="12424078332t" region="region0" style="style0">어, 알았어, 화려하고 예쁘게</p>
+<p xml:id="subtitle521" begin="12424912500t" end="12454525416t" region="region0" style="style0">(준)<br/>아이고, 라디오 사연에<br/>성적표를 보내지를 않나</p>
+<p xml:id="subtitle522" begin="12455359582t" end="12479967500t" region="region0" style="style0">[종이를 탁 집는다]<br/>성적표를 꾸며서 시험을 보지를 않나</p>
+<p xml:id="subtitle523" begin="12480801666t" end="12502072916t" region="region0" style="style0">아이고, 대체 이번엔 뭘 한다고…</p>
+<p xml:id="subtitle524" begin="12502907082t" end="12517922082t" region="region1" style="style0">[강조되는 효과음]<br/>[석의 놀란 신음]</p>
+<p xml:id="subtitle525" begin="12518756250t" end="12536690832t" region="region0" style="style0">[익살스러운 효과음]<br/>[당황한 신음]</p>
+<p xml:id="subtitle526" begin="12556710832t" end="12575062500t" region="region0" style="style0">(수배범)<br/>야, 놔, 놓으라고! 야, 안 놔?</p>
+<p xml:id="subtitle527" begin="12575896666t" end="12593414166t" region="region0" style="style0">너 인마, 너 진짜<br/>야, 이거 놓으란 말이야!</p>
+<p xml:id="subtitle528" begin="12594248332t" end="12615519582t" region="region0" style="style0">[수배범의 힘주는 신음]<br/>아, 아저씨, 예뻐야 한다고요!</p>
+<p xml:id="subtitle529" begin="12616353750t" end="12636373750t" region="region0" style="style0">(석)<br/>눈 화장도 좀 더 해야 하고<br/>가만히 좀 계세요</p>
+<p xml:id="subtitle530" begin="12637207916t" end="12650137500t" region="region0" style="style0">아, 왕관 떨어진단 말이에요!</p>
+<p xml:id="subtitle531" begin="12650971666t" end="12664735416t" region="region0" style="style0">야, 야, 너, 너 제정신이야?</p>
+<p xml:id="subtitle532" begin="12665569582t" end="12682252916t" region="region0" style="style0">[사람들의 당황한 신음]</p>
+<p xml:id="subtitle533" begin="12683087082t" end="12693514166t" region="region0" style="style0">둘 다 체포해</p>
+<p xml:id="subtitle534" begin="12694348332t" end="12706860832t" region="region0" style="style0">[익살스러운 효과음]<br/>저, 저는 왜요?</p>
+<p xml:id="subtitle535" begin="12707695000t" end="12729800416t" region="region0" style="style0">야, 야, 야, 진짜 놓으라고, 야, 놔!</p>
+<p xml:id="subtitle536" begin="12730634582t" end="12759830416t" region="region0" style="style0">(석)<br/>도전은 계속되지만 당첨은 쉽지 않다</p>
+<p xml:id="subtitle537" begin="12768589166t" end="12799453332t" region="region0" style="style0">아, 이 정도면 괜찮을 것 같은데?</p>
+<p xml:id="subtitle538" begin="12808629166t" end="12848669166t" region="region1" style="style0">(석 모)<br/>안 그래도 이거 쓰고<br/>얼굴이 많이 좋아졌는데 도전해 볼까?</p>
+<p xml:id="subtitle539" begin="12858679166t" end="12887875000t" region="region0" style="style0">(석)<br/>어머니가 화장품 사용 후기<br/>응모전에 도전하시기로 한다</p>
+<p xml:id="subtitle540" begin="12888709166t" end="12917070832t" region="region0" style="style0">예뻐진 내 모습에<br/>만약 1등이라도 하면?</p>
+<p xml:id="subtitle541" begin="12917905000t" end="12955442500t" region="region0" style="style0">아, 어떡해<br/>사람들이 알아보고 그러는 거 아니야?</p>
+<p xml:id="subtitle542" begin="12956276666t" end="12978799166t" region="region0" style="style0">석이 컴퓨터로<br/>사진 만들어서 보내야겠다</p>
+<p xml:id="subtitle543" begin="12979633332t" end="12992980000t" region="region0" style="style0">[웃음]</p>
+<p xml:id="subtitle544" begin="12993814166t" end="13002990000t" region="region0" style="style0">[석 모의 집중하는 신음]</p>
+<p xml:id="subtitle545" begin="13008829166t" end="13035939582t" region="region0" style="style0">(석)<br/>하지만 어머니는<br/>컴퓨터 작업에 어려움을 느끼신다</p>
+<p xml:id="subtitle546" begin="13036773750t" end="13060547500t" region="region0" style="style0">- 석아, 석아!<br/>- (석) 왜요, 엄마?</p>
+<p xml:id="subtitle547" begin="13061381666t" end="13084321250t" region="region0" style="style0">이리 와서 이것 좀 도와줘 봐</p>
+<p xml:id="subtitle548" begin="13085155416t" end="13100170416t" region="region0" style="style0">뭐 하시는데요?</p>
+<p xml:id="subtitle549" begin="13101004582t" end="13133120000t" region="region0" style="style0">(석 모)<br/>아, 이게<br/>아, 응모 좀 하려는데 너무 어렵네</p>
+<p xml:id="subtitle550" begin="13133954166t" end="13146049582t" region="region0" style="style0">좀 도와줘라, 응?</p>
+<p xml:id="subtitle551" begin="13154391250t" end="13163567082t" region="region0" style="style0">[석 모의 못마땅한 신음]</p>
+<p xml:id="subtitle552" begin="13171074582t" end="13186089582t" region="region0" style="style0">(석)<br/>음, 어렵네요</p>
+<p xml:id="subtitle553" begin="13186923750t" end="13199436250t" region="region0" style="style0">[석 모의 의아한 신음]</p>
+<p xml:id="subtitle554" begin="13200270416t" end="13213200000t" region="region0" style="style0">네가 하기에도 어렵냐?</p>
+<p xml:id="subtitle555" begin="13214034166t" end="13226129582t" region="region0" style="style0">(석)<br/>어, 찾았다!</p>
+<p xml:id="subtitle556" begin="13226963750t" end="13241561666t" region="region0" style="style0">한 개</p>
+<p xml:id="subtitle557" begin="13242395832t" end="13263250000t" region="region0" style="style0">음, 어려워</p>
+<p xml:id="subtitle558" begin="13264084166t" end="13287440832t" region="region0" style="style0">이거 다른 그림 찾기 공모전 맞죠?<br/>[석 모의 당황한 신음]</p>
+<p xml:id="subtitle559" begin="13288275000t" end="13309546250t" region="region0" style="style0">둘이 똑같아서 하나밖에 못 찾겠네</p>
+<p xml:id="subtitle560" begin="13310380416t" end="13329566250t" region="region0" style="style0">(석 모)<br/>[성난 신음을 내며]<br/>한 개?</p>
+<p xml:id="subtitle561" begin="13330400416t" end="13345832500t" region="region0" style="style0">(석)<br/>네, 한 개</p>
+<p xml:id="subtitle562" begin="13346666666t" end="13363350000t" region="region0" style="style0">응, 그래?</p>
+<p xml:id="subtitle563" begin="13364184166t" end="13380867500t" region="region0" style="style0">(석 모)<br/>한 대!</p>
+<p xml:id="subtitle564" begin="13381701666t" end="13399636250t" region="region0" style="style0">[퍽 때리는 소리가 들린다]<br/>[석의 비명]</p>
+<p xml:id="subtitle565" begin="13408812082t" end="13448852082t" region="region0" style="style0">(석 모)<br/>두 대, 세 대, 네 대!<br/>[석의 비명]</p>
+<p xml:id="subtitle566" begin="13449686250t" end="13475962499t" region="region0" style="style0">(석)<br/>결국 응모는 될 사람만 된다<br/>[퍽퍽 때리는 소리가 들린다]</p>
+<p xml:id="subtitle567" begin="13476796666t" end="13506409582t" region="region0" style="style0">[석 모의 기합]<br/>[석의 비명]</p>
+<p xml:id="subtitle568" begin="13530183332t" end="13550203332t" region="region0" style="style0">[엔딩곡]</p>
+</div>
+</body>
+</tt>

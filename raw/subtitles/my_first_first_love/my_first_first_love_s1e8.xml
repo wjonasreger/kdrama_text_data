@@ -1,0 +1,985 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt ttp:contentProfiles="http://www.w3.org/ns/ttml/profile/imsc1.1/text" xmlns="http://www.w3.org/ns/ttml" xmlns:nttm="http://www.netflix.com/ns/ttml#metadata" xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:xml="http://www.w3.org/XML/1998/namespace" ttp:tickRate="10000000" ttp:timeBase="media" xml:lang="ko">
+<head>
+<metadata nttm:movieID="81032214" nttm:packageID="1522753" nttm:schemaVersion="0" nttm:textType="CC" nttm:uuid="ea13186f-687f-49df-b164-37b48080eb94"/>
+<styling>
+<initial tts:backgroundColor="transparent" tts:color="white" tts:displayAlign="after" tts:extent="80.000% 80.000%" tts:fontSize="6.000rh" tts:opacity="1.000" tts:origin="10.000% 10.000%" tts:showBackground="whenActive" tts:textAlign="center" tts:textOutline="black 0.300rh" tts:writingMode="lrtb"/>
+<style xml:id="style0" tts:fontWeight="normal"/>
+</styling>
+<layout>
+<region xml:id="region0" tts:backgroundColor="transparent" tts:displayAlign="after" tts:extent="80.000% 80.000%" tts:opacity="1.000" tts:origin="10.000% 10.000%" tts:writingMode="lrtb"/>
+<region xml:id="region1" tts:backgroundColor="transparent" tts:displayAlign="before" tts:extent="80.000% 80.000%" tts:opacity="1.000" tts:origin="10.000% 10.000%" tts:writingMode="lrtb"/>
+</layout>
+</head>
+<body>
+<div>
+<p xml:id="subtitle1" begin="61728332t" end="90090000t" region="region0" style="style0">&quot;NETFLIX 오리지널 시리즈&quot;</p>
+<p xml:id="subtitle2" begin="91341250t" end="109692916t" region="region0" style="style0">[잔잔한 음악]</p>
+<p xml:id="subtitle3" begin="168918749t" end="197280416t" region="region0" style="style0">[밝은 음악]<br/>(훈)<br/>이야, 차 좋다!</p>
+<p xml:id="subtitle4" begin="201868332t" end="219802916t" region="region0" style="style0">- (훈) 이야, 뭐야?<br/>- (가린) 우아</p>
+<p xml:id="subtitle5" begin="220637082t" end="237320416t" region="region0" style="style0">(훈)<br/>야, 엄청 많이 탈 수 있어, 우아!</p>
+<p xml:id="subtitle6" begin="238154582t" end="250250000t" region="region0" style="style0">[태오의 웃음]<br/>야, 이거 그거 아니야?</p>
+<p xml:id="subtitle7" begin="251084166t" end="264847916t" region="region0" style="style0">[차 문이 쓱 열린다]<br/>그, 연예인들이 타는 차?</p>
+<p xml:id="subtitle8" begin="265682082t" end="291958332t" region="region0" style="style0">야, 오, 엄청 넓은데?</p>
+<p xml:id="subtitle9" begin="292792499t" end="305304999t" region="region0" style="style0">야, 엄청 좋다</p>
+<p xml:id="subtitle10" begin="306139166t" end="329078750t" region="region0" style="style0">어, 어, 어, 이거 차 좋지?</p>
+<p xml:id="subtitle11" begin="329912916t" end="355772082t" region="region0" style="style0">(태오)<br/>이거 렌털 차니까 빨리 타<br/>이거 더럽히지 말고</p>
+<p xml:id="subtitle12" begin="356606250t" end="371204166t" region="region0" style="style0">(훈)<br/>오케이, 가자!</p>
+<p xml:id="subtitle13" begin="372455416t" end="403319582t" region="region0" style="style0">(태오)<br/>씁, 어허, 여기는 주인 있어, 뒤에 타</p>
+<p xml:id="subtitle14" begin="404153750t" end="422505416t" region="region0" style="style0">더럽고 치사해 가지고, 진짜, 씨, 쯧</p>
+<p xml:id="subtitle15" begin="424173750t" end="443776666t" region="region0" style="style0">[가린이 중얼거린다]<br/>(훈)<br/>아유, 아유</p>
+<p xml:id="subtitle16" begin="449198750t" end="462128332t" region="region0" style="style0">- (도현) 늦은 거 아니지?<br/>- (훈) 왔냐?</p>
+<p xml:id="subtitle17" begin="462962500t" end="480479999t" region="region0" style="style0">- (태오) 어, 빨리 타, 출발할 거야<br/>- (훈) 야</p>
+<p xml:id="subtitle18" begin="485067916t" end="496329166t" region="region0" style="style0">[도현의 가쁜 숨소리]</p>
+<p xml:id="subtitle19" begin="517183332t" end="526776249t" region="region0" style="style0">잘 잤어?</p>
+<p xml:id="subtitle20" begin="527610416t" end="535952082t" region="region0" style="style0">(송이)<br/>응</p>
+<p xml:id="subtitle21" begin="550549999t" end="563479582t" region="region0" style="style0">결국 이렇게 됐네</p>
+<p xml:id="subtitle22" begin="574740832t" end="587253332t" region="region0" style="style0">- (송이) 가자<br/>- (도현) 응</p>
+<p xml:id="subtitle23" begin="611027082t" end="622705416t" region="region0" style="style0">(가린)<br/>가서 맛있는 거 먹자</p>
+<p xml:id="subtitle24" begin="623539582t" end="633549582t" region="region0" style="style0">(훈)<br/>그럴까? 맛있는 거 뭐 먹을까?</p>
+<p xml:id="subtitle25" begin="634383750t" end="643142500t" region="region0" style="style0">(가린)<br/>뭐 있어?</p>
+<p xml:id="subtitle26" begin="643976666t" end="660242916t" region="region0" style="style0">(훈)<br/>강릉 하면 초당순두부지</p>
+<p xml:id="subtitle27" begin="661077082t" end="669418750t" region="region0" style="style0">(가린)<br/>순두부 좋아</p>
+<p xml:id="subtitle28" begin="670252916t" end="686936250t" region="region0" style="style0">야, 최훈, 물은 챙겼지?</p>
+<p xml:id="subtitle29" begin="687770416t" end="712378332t" region="region0" style="style0">물? 당연하지</p>
+<p xml:id="subtitle30" begin="713212500t" end="733232500t" region="region0" style="style0">[익살스러운 음악]</p>
+<p xml:id="subtitle31" begin="739488750t" end="758674582t" region="region0" style="style0">아, 그, 커피 같은 거<br/>타 오면 좋겠는데</p>
+<p xml:id="subtitle32" begin="760760000t" end="787453332t" region="region0" style="style0">모닝커피는 기본이지, 줄까?</p>
+<p xml:id="subtitle33" begin="796629166t" end="805387916t" region="region0" style="style0">아니야</p>
+<p xml:id="subtitle34" begin="806222082t" end="822905416t" region="region0" style="style0">약은? 비상 약 같은 거</p>
+<p xml:id="subtitle35" begin="823739582t" end="842091250t" region="region0" style="style0">야, 적당히 해</p>
+<p xml:id="subtitle36" begin="842925416t" end="862528332t" region="region0" style="style0">탈 나면 약국 가서 사 오면 되지</p>
+<p xml:id="subtitle37" begin="863362500t" end="889221666t" region="region0" style="style0">집에 있는데 돈 아깝게<br/>최훈, 네가 가져와</p>
+<p xml:id="subtitle38" begin="890055832t" end="900899999t" region="region0" style="style0">내, 내가?</p>
+<p xml:id="subtitle39" begin="903819582t" end="935100832t" region="region0" style="style0">(훈)<br/>아, 싫어, 왜 나한테 시켜?<br/>나 어디 있는지 몰라!</p>
+<p xml:id="subtitle40" begin="941357082t" end="967216249t" region="region0" style="style0">(가린)<br/>아, 내가 알아, 내가 가져올게</p>
+<p xml:id="subtitle41" begin="968050416t" end="1000165832t" region="region0" style="style0">[훈이 구시렁거린다]<br/>- 에이, 귀찮게 또, 쯧<br/>- (가린) 내가 가져올게</p>
+<p xml:id="subtitle42" begin="1013929582t" end="1023522499t" region="region0" style="style0">(태오)<br/>빨리 타</p>
+<p xml:id="subtitle43" begin="1038537499t" end="1047713332t" region="region0" style="style0">(도현)<br/>가자</p>
+<p xml:id="subtitle44" begin="1050632916t" end="1071069999t" region="region0" style="style0">[밝은 음악]</p>
+<p xml:id="subtitle45" begin="1088587499t" end="1103185416t" region="region0" style="style0">[태오의 긴장하는 숨소리]</p>
+<p xml:id="subtitle46" begin="1146562082t" end="1164079582t" region="region0" style="style0">(태오)<br/>어, 야, 빨리 와, 출발하게<br/>[가린의 다급한 신음]</p>
+<p xml:id="subtitle47" begin="1184933750t" end="1193275416t" region="region0" style="style0">[훈의 탄성]</p>
+<p xml:id="subtitle48" begin="1197029166t" end="1222471250t" region="region0" style="style0">[자동차 시동음]<br/>(훈)<br/>문 닫고, 그렇지</p>
+<p xml:id="subtitle49" begin="1228727500t" end="1245410832t" region="region0" style="style0">야, 다 안전벨트 맸지?</p>
+<p xml:id="subtitle50" begin="1247913332t" end="1262094166t" region="region0" style="style0">[저마다 안전벨트를 딸깍 채운다]<br/>[숨을 후 내뱉는다]</p>
+<p xml:id="subtitle51" begin="1262928332t" end="1279611666t" region="region0" style="style0">자, 그럼 간다!</p>
+<p xml:id="subtitle52" begin="1370952916t" end="1386802082t" region="region1" style="style0">[새가 지저귄다]</p>
+<p xml:id="subtitle53" begin="1461460000t" end="1480228750t" region="region0" style="style0">(도현)<br/>9시에 출발하면 너무 늦나?</p>
+<p xml:id="subtitle54" begin="1482731250t" end="1497329166t" region="region0" style="style0">아니, 딱 좋아</p>
+<p xml:id="subtitle55" begin="1498163332t" end="1516515000t" region="region0" style="style0">도착해서 점심 먹으면 되겠다</p>
+<p xml:id="subtitle56" begin="1530695832t" end="1556972082t" region="region0" style="style0">(송이)<br/>우아, 강릉에 맛집 엄청 많아</p>
+<p xml:id="subtitle57" begin="1558223332t" end="1568650416t" region="region0" style="style0">뭐가 있는데?</p>
+<p xml:id="subtitle58" begin="1570318750t" end="1602017082t" region="region0" style="style0">초당순두부, 꼬막집, 오징어순대</p>
+<p xml:id="subtitle59" begin="1607022082t" end="1633715416t" region="region0" style="style0">아, 바다 가면 회도 먹어야 되는데</p>
+<p xml:id="subtitle60" begin="1634549582t" end="1672504166t" region="region0" style="style0">(송이)<br/>근데 강원도면<br/>소고기가 유명하지 않나?</p>
+<p xml:id="subtitle61" begin="1673338332t" end="1682097082t" region="region0" style="style0">[피식한다]</p>
+<p xml:id="subtitle62" begin="1682931250t" end="1697529166t" region="region0" style="style0">[부드러운 음악]<br/>우리 다 먹고 오자</p>
+<p xml:id="subtitle63" begin="1698363332t" end="1709207500t" region="region0" style="style0">[살짝 웃는다]</p>
+<p xml:id="subtitle64" begin="1715880832t" end="1730895832t" region="region0" style="style0">하루 안에 다 갈 수 있나?</p>
+<p xml:id="subtitle65" begin="1731729999t" end="1749247499t" region="region0" style="style0">빨리빨리 움직이면 되지</p>
+<p xml:id="subtitle66" begin="1750498749t" end="1776774999t" region="region0" style="style0">표는 내가 예매할 테니까<br/>신경 쓰지 말고</p>
+<p xml:id="subtitle67" begin="1781779999t" end="1805553749t" region="region0" style="style0">알겠어, 맛집은 내가 검색해 둘게</p>
+<p xml:id="subtitle68" begin="1809307499t" end="1817649166t" region="region0" style="style0">[통화 종료음]</p>
+<p xml:id="subtitle69" begin="1840588749t" end="1849764582t" region="region0" style="style0">[놀라는 숨소리]</p>
+<p xml:id="subtitle70" begin="1858106249t" end="1866447916t" region="region0" style="style0">알바 늦겠다</p>
+<p xml:id="subtitle71" begin="1867282082t" end="1877292082t" region="region0" style="style0">[노트북을 탁 내려놓는다]</p>
+<p xml:id="subtitle72" begin="1981145832t" end="1990738749t" region="region0" style="style0">[노트북을 탁 덮는다]</p>
+<p xml:id="subtitle73" begin="2004919582t" end="2020351666t" region="region0" style="style0">[숨을 하 내뱉는다]</p>
+<p xml:id="subtitle74" begin="2026190832t" end="2041622916t" region="region0" style="style0">[새가 지저귄다]</p>
+<p xml:id="subtitle75" begin="2051632916t" end="2084582499t" region="region0" style="style0">[태오가 크게 심호흡한다]</p>
+<p xml:id="subtitle76" begin="2128793332t" end="2152567082t" region="region0" style="style0">(태오)<br/>오, 가을이 훅 들어오네</p>
+<p xml:id="subtitle77" begin="2170501666t" end="2188853332t" region="region0" style="style0">[고민하는 숨소리]</p>
+<p xml:id="subtitle78" begin="2309807500t" end="2318566250t" region="region0" style="style0">[힘주는 신음]</p>
+<p xml:id="subtitle79" begin="2330244582t" end="2351098750t" region="region0" style="style0">하, 여기 있었네</p>
+<p xml:id="subtitle80" begin="2422837082t" end="2442857082t" region="region0" style="style0">[발랄한 음악]</p>
+<p xml:id="subtitle81" begin="2496660832t" end="2515012500t" region="region0" style="style0">얘 지금 여행 가는 거야?</p>
+<p xml:id="subtitle82" begin="2546710832t" end="2556303750t" region="region0" style="style0">[어이없는 숨소리]</p>
+<p xml:id="subtitle83" begin="2570067500t" end="2592172916t" region="region0" style="style0">[경쾌한 음악이 흘러나온다]</p>
+<p xml:id="subtitle84" begin="2825322500t" end="2834081250t" region="region0" style="style0">[힘주는 신음]</p>
+<p xml:id="subtitle85" begin="2834915416t" end="2851598750t" region="region0" style="style0">[가쁜 숨소리]</p>
+<p xml:id="subtitle86" begin="2867865000t" end="2902900000t" region="region0" style="style0">(안무가)<br/>그럼 도시락 알아서들 먹고<br/>2시까지 다시 집합하는 거로</p>
+<p xml:id="subtitle87" begin="2903734166t" end="2912075832t" region="region0" style="style0">(함께)<br/>네!</p>
+<p xml:id="subtitle88" begin="2912910000t" end="2928759166t" region="region0" style="style0">(훈)<br/>고생하셨습니다, 고생하셨습니다, 네<br/>[저마다 인사한다]</p>
+<p xml:id="subtitle89" begin="2929593332t" end="2950864582t" region="region0" style="style0">고생하셨습니다, 예<br/>고생하셨습니다, 예</p>
+<p xml:id="subtitle90" begin="2951698750t" end="2970884582t" region="region0" style="style0">고생하셨습니다<br/>고생하셨습니다, 형님, 예</p>
+<p xml:id="subtitle91" begin="2974221250t" end="2982562916t" region="region0" style="style0">맛있게 드세요</p>
+<p xml:id="subtitle92" begin="2983397082t" end="3018432082t" region="region0" style="style0">- (단원1) 어, 감사합니다<br/>- (훈) 네, 맛있게 드십시오, 예</p>
+<p xml:id="subtitle93" begin="3023020000t" end="3040954582t" region="region0" style="style0">(훈)<br/>아, 진짜</p>
+<p xml:id="subtitle94" begin="3043874166t" end="3065145416t" region="region0" style="style0">아! 진짜 이게</p>
+<p xml:id="subtitle95" begin="3065979582t" end="3109356250t" region="region0" style="style0">아니, 스윙이라는 게<br/>처음에는 진짜 적응 안 됐거든요?</p>
+<p xml:id="subtitle96" begin="3110190416t" end="3136049582t" region="region0" style="style0">아, 배역도 없는데<br/>그 전체를 다 외워야 되니까</p>
+<p xml:id="subtitle97" begin="3136883750t" end="3173587082t" region="region0" style="style0">근데 이게 또 익숙해지니까<br/>또 재미있네, 요것도</p>
+<p xml:id="subtitle98" begin="3174421250t" end="3201531666t" region="region0" style="style0">내가 막, 어?<br/>막 주인공 된 것 같기도 하고</p>
+<p xml:id="subtitle99" begin="3202365832t" end="3210707500t" region="region0" style="style0">[훈의 웃음]</p>
+<p xml:id="subtitle100" begin="3211541666t" end="3229059166t" region="region0" style="style0">좋네, 긍정적인 마음</p>
+<p xml:id="subtitle101" begin="3229893332t" end="3259923332t" region="region0" style="style0">제가 또 긍정 빼면 좀비거든요</p>
+<p xml:id="subtitle102" begin="3260757500t" end="3279109166t" region="region0" style="style0">[훈의 웃음]<br/>[단원2의 한숨]</p>
+<p xml:id="subtitle103" begin="3322485832t" end="3340003332t" region="region0" style="style0">(훈)<br/>형한테 그런 얘기를 했어요?</p>
+<p xml:id="subtitle104" begin="3346259582t" end="3374204166t" region="region0" style="style0">(단원2)<br/>응, 앙상블 겸 스윙 해 볼 생각 없냐고</p>
+<p xml:id="subtitle105" begin="3375038332t" end="3386299582t" region="region0" style="style0">[훈의 탄성]</p>
+<p xml:id="subtitle106" begin="3391721666t" end="3419249166t" region="region0" style="style0">아, 근데 스윙이 둘이나 필요해요?</p>
+<p xml:id="subtitle107" begin="3420083332t" end="3439269166t" region="region0" style="style0">아, 그러니까 그게...</p>
+<p xml:id="subtitle108" begin="3463877082t" end="3473887082t" region="region0" style="style0">[단원2의 한숨]</p>
+<p xml:id="subtitle109" begin="3487650832t" end="3508087916t" region="region0" style="style0">[차분한 음악]</p>
+<p xml:id="subtitle110" begin="3513509999t" end="3522268749t" region="region0" style="style0">저는</p>
+<p xml:id="subtitle111" begin="3542705832t" end="3558554999t" region="region0" style="style0">뺀다는 얘기네요</p>
+<p xml:id="subtitle112" begin="3559806249t" end="3593172916t" region="region0" style="style0">(단원2)<br/>나도 엊그제 피디랑 얘기한 거라서<br/>아직 확실하진 않아</p>
+<p xml:id="subtitle113" begin="3594424166t" end="3609856249t" region="region0" style="style0">그래도 알고는 있으라고</p>
+<p xml:id="subtitle114" begin="3614444166t" end="3641137499t" region="region0" style="style0">말 안 하면<br/>내가 꼭 몰래 뺏는 것 같잖아</p>
+<p xml:id="subtitle115" begin="3649479166t" end="3659489166t" region="region0" style="style0">근데 왜요?</p>
+<p xml:id="subtitle116" begin="3674087082t" end="3707036666t" region="region0" style="style0">다 뽑아 놓고 왜 이제 와서...</p>
+<p xml:id="subtitle117" begin="3712875832t" end="3748744999t" region="region0" style="style0">하, 뭐, 효율성 어쩌고 하는데<br/>결국에는 다 돈이지</p>
+<p xml:id="subtitle118" begin="3751664582t" end="3768347916t" region="region0" style="style0">너 1차 계약금만 받았지?</p>
+<p xml:id="subtitle119" begin="3780443332t" end="3797126666t" region="region0" style="style0">아마 그걸로 퉁치려고 할 거다</p>
+<p xml:id="subtitle120" begin="3802548749t" end="3813809999t" region="region0" style="style0">아니</p>
+<p xml:id="subtitle121" begin="3835498332t" end="3872201666t" region="region0" style="style0">나 하나 빼서 뭘 얼마나 아낀다고</p>
+<p xml:id="subtitle122" begin="3921417499t" end="3931427499t" region="region0" style="style0">[단원2의 한숨]</p>
+<p xml:id="subtitle123" begin="3994824166t" end="4012758749t" region="region0" style="style0">[대문이 달칵 열린다]</p>
+<p xml:id="subtitle124" begin="4021934582t" end="4037783749t" region="region0" style="style0">[못마땅한 숨소리]<br/>[대문이 달칵 닫힌다]</p>
+<p xml:id="subtitle125" begin="4067396666t" end="4084914166t" region="region0" style="style0">[태오의 깊은 한숨]</p>
+<p xml:id="subtitle126" begin="4095758332t" end="4112441666t" region="region0" style="style0">[태오의 못마땅한 신음]</p>
+<p xml:id="subtitle127" begin="4120783332t" end="4131210416t" region="region0" style="style0">[헛웃음]</p>
+<p xml:id="subtitle128" begin="4132044582t" end="4145808332t" region="region0" style="style0">쟤는 또 왜 저래?</p>
+<p xml:id="subtitle129" begin="4164159999t" end="4174169999t" region="region0" style="style0">(태오)<br/>한송이</p>
+<p xml:id="subtitle130" begin="4215044166t" end="4225888332t" region="region0" style="style0">여기 앉아 봐</p>
+<p xml:id="subtitle131" begin="4336415416t" end="4346008332t" region="region0" style="style0">할 말 있어?</p>
+<p xml:id="subtitle132" begin="4346842500t" end="4379375000t" region="region0" style="style0">할 말은 네가 나한테 있겠지</p>
+<p xml:id="subtitle133" begin="4401063332t" end="4423585832t" region="region0" style="style0">너 그 자식이랑 강릉 가냐?</p>
+<p xml:id="subtitle134" begin="4426088332t" end="4441937500t" region="region0" style="style0">[흥미진진한 음악]</p>
+<p xml:id="subtitle135" begin="4442771666t" end="4454032916t" region="region0" style="style0">어떻게 알았어?</p>
+<p xml:id="subtitle136" begin="4461957500t" end="4475721250t" region="region0" style="style0">'어떻게 알았어?'</p>
+<p xml:id="subtitle137" begin="4478640832t" end="4491987500t" region="region0" style="style0">너 그게 지금 할 소리야?</p>
+<p xml:id="subtitle138" begin="4492821666t" end="4522017500t" region="region0" style="style0">(태오)<br/>뭘 얼마나 만났다고<br/>벌써 여행을 가?</p>
+<p xml:id="subtitle139" begin="4522851666t" end="4543288750t" region="region0" style="style0">(송이)<br/>놀러 가는 게 아니라<br/>답사 때문에 가는 거야</p>
+<p xml:id="subtitle140" begin="4544122916t" end="4566228332t" region="region0" style="style0">답사 같은 소리 하고 있네, 어?</p>
+<p xml:id="subtitle141" begin="4567062500t" end="4591670416t" region="region0" style="style0">(태오)<br/>답사 핑계로 놀러 가는 거겠지</p>
+<p xml:id="subtitle142" begin="4592504582t" end="4604600000t" region="region0" style="style0">며칠이나 가는데?</p>
+<p xml:id="subtitle143" begin="4606685416t" end="4627539582t" region="region0" style="style0">[한숨 쉬며]<br/>무슨 며칠이야?</p>
+<p xml:id="subtitle144" begin="4628373750t" end="4642554582t" region="region0" style="style0">당일치기로 갔다 올 거야</p>
+<p xml:id="subtitle145" begin="4643388750t" end="4666328332t" region="region0" style="style0">(태오)<br/>당일치기 같은 소리 하네, 어?</p>
+<p xml:id="subtitle146" begin="4667162500t" end="4696775416t" region="region0" style="style0">야, 넌 거기까지 가서<br/>당일치기가 될 것 같아? 어?</p>
+<p xml:id="subtitle147" begin="4698443750t" end="4711790416t" region="region0" style="style0">영화 안 봤니?</p>
+<p xml:id="subtitle148" begin="4714710000t" end="4748076666t" region="region0" style="style0">술 한 잔, 두 잔 먹다가<br/>막차 시간 간당간당해지고</p>
+<p xml:id="subtitle149" begin="4748910832t" end="4765177082t" region="region0" style="style0">기차역 뛰어가면 차는 떠났고</p>
+<p xml:id="subtitle150" begin="4766011250t" end="4785614166t" region="region0" style="style0">모텔 가면 방은 하나밖에 없고</p>
+<p xml:id="subtitle151" begin="4786865416t" end="4799377916t" region="region0" style="style0">다 그렇게 된다니까</p>
+<p xml:id="subtitle152" begin="4800212082t" end="4831910416t" region="region0" style="style0">아니, 그놈이 분명히 그렇게 만든다고</p>
+<p xml:id="subtitle153" begin="4834412916t" end="4844005832t" region="region0" style="style0">[살짝 웃는다]</p>
+<p xml:id="subtitle154" begin="4852764582t" end="4874035832t" region="region0" style="style0">진짜 그렇게 될까?</p>
+<p xml:id="subtitle155" begin="4884462916t" end="4904065832t" region="region0" style="style0">너 지금 기대하냐?</p>
+<p xml:id="subtitle156" begin="4916995416t" end="4925754166t" region="region0" style="style0">[살짝 웃는다]</p>
+<p xml:id="subtitle157" begin="4929507916t" end="4963708750t" region="region0" style="style0">아이고, 됐고, 당장 그 여행 취소해</p>
+<p xml:id="subtitle158" begin="4966628332t" end="4991653332t" region="region0" style="style0">싫어, 내가 무슨 초딩이냐?</p>
+<p xml:id="subtitle159" begin="4992487500t" end="5013758750t" region="region0" style="style0">나이 스물셋 먹고서<br/>남자 친구랑 여행도 못 가게?</p>
+<p xml:id="subtitle160" begin="5014592916t" end="5047959582t" region="region0" style="style0">(태오)<br/>네 남친이 형편없는 자식이니까 그렇지</p>
+<p xml:id="subtitle161" begin="5048793750t" end="5059220832t" region="region0" style="style0">송이야</p>
+<p xml:id="subtitle162" begin="5061723332t" end="5087165416t" region="region0" style="style0">난 아직도 너 비 쫄딱 맞고<br/>들어온 거 생각하면</p>
+<p xml:id="subtitle163" begin="5087999582t" end="5104265832t" region="region0" style="style0">열통이 터져!</p>
+<p xml:id="subtitle164" begin="5107185416t" end="5130125000t" region="region0" style="style0">별것도 아닌 거로 사람 판단하지 마</p>
+<p xml:id="subtitle165" begin="5130959166t" end="5146808332t" region="region0" style="style0">나도 사람 보는 눈 있어</p>
+<p xml:id="subtitle166" begin="5147642500t" end="5166411250t" region="region0" style="style0">가지 말라면 가지 마!</p>
+<p xml:id="subtitle167" begin="5182260416t" end="5198943750t" region="region0" style="style0">[잔잔한 음악]</p>
+<p xml:id="subtitle168" begin="5202280416t" end="5237732500t" region="region0" style="style0">[씩씩댄다]</p>
+<p xml:id="subtitle169" begin="5256084166t" end="5284445832t" region="region0" style="style0">여행은 진짜 싫어</p>
+<p xml:id="subtitle170" begin="5290285000t" end="5303631666t" region="region0" style="style0">안 가겠다고 말해</p>
+<p xml:id="subtitle171" begin="5349093750t" end="5357852500t" region="region0" style="style0">빨리</p>
+<p xml:id="subtitle172" begin="5371199166t" end="5394138750t" region="region0" style="style0">[대문이 달칵 여닫힌다]<br/>[멀리서 개가 짖는다]</p>
+<p xml:id="subtitle173" begin="5470882082t" end="5495907082t" region="region0" style="style0">으아, 씨!</p>
+<p xml:id="subtitle174" begin="5533444582t" end="5545540000t" region="region0" style="style0">[훈의 속상한 숨소리]</p>
+<p xml:id="subtitle175" begin="5548042500t" end="5560137916t" region="region0" style="style0">(태오)<br/>왜 저래?<br/>[훈의 탄식]</p>
+<p xml:id="subtitle176" begin="5566811250t" end="5575152916t" region="region0" style="style0">(송이)<br/>몰라</p>
+<p xml:id="subtitle177" begin="5575987082t" end="5585162916t" region="region0" style="style0">[문이 달칵 열린다]</p>
+<p xml:id="subtitle178" begin="5596841250t" end="5613524582t" region="region0" style="style0">[한숨]<br/>[문이 탁 닫힌다]</p>
+<p xml:id="subtitle179" begin="5724051666t" end="5739066666t" region="region0" style="style0">- (태오) 야, 야, 야<br/>- (송이) 야, 야, 야, 야</p>
+<p xml:id="subtitle180" begin="5744071666t" end="5765760000t" region="region0" style="style0">(송이)<br/>야, 천천히 좀 마셔<br/>[문이 달칵 열린다]</p>
+<p xml:id="subtitle181" begin="5771182082t" end="5783277500t" region="region0" style="style0">[훈이 컵을 탁 내려놓는다]<br/>[문이 달칵 닫힌다]</p>
+<p xml:id="subtitle182" begin="5784111666t" end="5795372916t" region="region0" style="style0">[숨을 카 내뱉는다]</p>
+<p xml:id="subtitle183" begin="5796207082t" end="5807051250t" region="region0" style="style0">(태오)<br/>아이, 무슨 일인데?</p>
+<p xml:id="subtitle184" begin="5807885416t" end="5846257082t" region="region0" style="style0">(가린)<br/>뭐야, 뭐야? 무슨 얘기 해...</p>
+<p xml:id="subtitle185" begin="5855015832t" end="5868779582t" region="region0" style="style0">[훈의 깊은 한숨]</p>
+<p xml:id="subtitle186" begin="5876704166t" end="5913824582t" region="region0" style="style0">오디션만 붙으면 꽃길인 줄 알았는데</p>
+<p xml:id="subtitle187" begin="5921332082t" end="5930090832t" region="region0" style="style0">쩝</p>
+<p xml:id="subtitle188" begin="5939266666t" end="5950110832t" region="region0" style="style0">(훈)<br/>꽃도 없고</p>
+<p xml:id="subtitle189" begin="5950945000t" end="5961372082t" region="region0" style="style0">[훈의 한숨]</p>
+<p xml:id="subtitle190" begin="5974301666t" end="5990985000t" region="region0" style="style0">길도 없고</p>
+<p xml:id="subtitle191" begin="5993487500t" end="6002246250t" region="region0" style="style0">[술병을 탁 내려놓는다]</p>
+<p xml:id="subtitle192" begin="6003080416t" end="6034361666t" region="region0" style="style0">쩝, 모욕만 있다</p>
+<p xml:id="subtitle193" begin="6109853750t" end="6127788332t" region="region0" style="style0">[괴로운 신음]</p>
+<p xml:id="subtitle194" begin="6129873750t" end="6148225416t" region="region0" style="style0">(송이)<br/>무슨 일 있었어?</p>
+<p xml:id="subtitle195" begin="6149059582t" end="6167411250t" region="region0" style="style0">나 무대에 못 설지도 몰라</p>
+<p xml:id="subtitle196" begin="6169079582t" end="6189099582t" region="region0" style="style0">왜? 너무 못해서?</p>
+<p xml:id="subtitle197" begin="6189933750t" end="6205365832t" region="region0" style="style0">그게 아니라, 씨...</p>
+<p xml:id="subtitle198" begin="6236647082t" end="6247074166t" region="region0" style="style0">[훈의 한숨]</p>
+<p xml:id="subtitle199" begin="6254164582t" end="6262506250t" region="region0" style="style0">(훈)<br/>쩝</p>
+<p xml:id="subtitle200" begin="6267928332t" end="6287114166t" region="region0" style="style0">애초에 배역이 대타거든</p>
+<p xml:id="subtitle201" begin="6293370416t" end="6324234582t" region="region0" style="style0">[잔잔한 음악]<br/>배우들 다치거나 사고 생기면<br/>대타로 뛰는 배우</p>
+<p xml:id="subtitle202" begin="6338832500t" end="6350927916t" region="region0" style="style0">그게 내 역할이야</p>
+<p xml:id="subtitle203" begin="6367194166t" end="6383877500t" region="region0" style="style0">무대에 내 자리도 없고</p>
+<p xml:id="subtitle204" begin="6392636250t" end="6411405000t" region="region0" style="style0">대본에 내 대사도 없고</p>
+<p xml:id="subtitle205" begin="6425168750t" end="6458952500t" region="region0" style="style0">어디에도 내 이름이 없어, 유령처럼</p>
+<p xml:id="subtitle206" begin="6478972500t" end="6493153332t" region="region0" style="style0">뭐, 그래도 좋았어</p>
+<p xml:id="subtitle207" begin="6498158332t" end="6526520000t" region="region0" style="style0">뭐, 원래 다<br/>뭐, 시작이야 미약한 거니까</p>
+<p xml:id="subtitle208" begin="6536112916t" end="6545288750t" region="region0" style="style0">근데</p>
+<p xml:id="subtitle209" begin="6553213332t" end="6588248332t" region="region0" style="style0">나한테 들어가는 돈 몇 푼 아낀답시고</p>
+<p xml:id="subtitle210" begin="6590333750t" end="6610770832t" region="region0" style="style0">그마저도 잘릴지 모르겠다</p>
+<p xml:id="subtitle211" begin="6611605000t" end="6621197916t" region="region0" style="style0">얼마인데?</p>
+<p xml:id="subtitle212" begin="6627454166t" end="6635795832t" region="region0" style="style0">[한숨]</p>
+<p xml:id="subtitle213" begin="6636630000t" end="6657484166t" region="region0" style="style0">(가린)<br/>얼마면 너 써 준다는데?</p>
+<p xml:id="subtitle214" begin="6658318332t" end="6694604582t" region="region0" style="style0">(훈)<br/>[피식하며]<br/>됐어, 쯧, 아직 뭐, 잘린 거 아니야</p>
+<p xml:id="subtitle215" begin="6702946250t" end="6716292916t" region="region0" style="style0">그냥, 뭐</p>
+<p xml:id="subtitle216" begin="6720046666t" end="6751327916t" region="region0" style="style0">전전긍긍하는 이런 상황이 온 게, 쯧</p>
+<p xml:id="subtitle217" begin="6757167082t" end="6774267500t" region="region0" style="style0">너무 진절머리가 나서 그래</p>
+<p xml:id="subtitle218" begin="6809302499t" end="6818478332t" region="region0" style="style0">[컵을 탁 내려놓는다]</p>
+<p xml:id="subtitle219" begin="6823900416t" end="6834327499t" region="region0" style="style0">[숨을 카 내뱉는다]</p>
+<p xml:id="subtitle220" begin="6835161666t" end="6844754582t" region="region0" style="style0">오케이</p>
+<p xml:id="subtitle221" begin="6859352499t" end="6888548332t" region="region0" style="style0">오케이, 우울한 얘기는 여기까지</p>
+<p xml:id="subtitle222" begin="6896889999t" end="6906482916t" region="region0" style="style0">미안하다</p>
+<p xml:id="subtitle223" begin="6919829582t" end="6935678749t" region="region0" style="style0">나 먼저 들어가 잘게</p>
+<p xml:id="subtitle224" begin="6964040416t" end="7007834166t" region="region0" style="style0">아, 어디로든지 확 떠나고 싶다</p>
+<p xml:id="subtitle225" begin="7020346666t" end="7051210832t" region="region0" style="style0">힐링이 필요해, 힐링이</p>
+<p xml:id="subtitle226" begin="7069562499t" end="7079989582t" region="region0" style="style0">가자, 여행</p>
+<p xml:id="subtitle227" begin="7093336249t" end="7104597499t" region="region0" style="style0">[발랄한 음악]</p>
+<p xml:id="subtitle228" begin="7105431666t" end="7113773332t" region="region0" style="style0">(훈)<br/>여행?</p>
+<p xml:id="subtitle229" begin="7133376249t" end="7157984166t" region="region0" style="style0">야, 무슨 여행이야?</p>
+<p xml:id="subtitle230" begin="7165908749t" end="7189682499t" region="region0" style="style0">(태오)<br/>아니, 송이가 과제 때문에<br/>강릉 가거든?</p>
+<p xml:id="subtitle231" begin="7191767916t" end="7210119582t" region="region0" style="style0">이참에 우리도 같이 가자</p>
+<p xml:id="subtitle232" begin="7217627082t" end="7226802916t" region="region0" style="style0">강릉?</p>
+<p xml:id="subtitle233" begin="7227637082t" end="7267259999t" region="region0" style="style0">(송이)<br/>아, 그게<br/>과제 때문에 가는 거거든, 과제</p>
+<p xml:id="subtitle234" begin="7268094166t" end="7298124166t" region="region0" style="style0">(가린)<br/>재미있겠다, 강릉 완전 좋아</p>
+<p xml:id="subtitle235" begin="7298958332t" end="7330656666t" region="region0" style="style0">(훈)<br/>생각해 보니까 바다 본 지도 오래됐네</p>
+<p xml:id="subtitle236" begin="7332742082t" end="7353596249t" region="region0" style="style0">건축 답사 하러 가는 건데</p>
+<p xml:id="subtitle237" begin="7354430416t" end="7379038332t" region="region0" style="style0">(송이)<br/>바다 말고 오죽헌 가는 거야, 오죽헌</p>
+<p xml:id="subtitle238" begin="7379872499t" end="7406982916t" region="region0" style="style0">(가린)<br/>아, 오죽헌 진짜 좋아!</p>
+<p xml:id="subtitle239" begin="7408234166t" end="7417827082t" region="region0" style="style0">[가린의 들뜬 숨소리]</p>
+<p xml:id="subtitle240" begin="7423249166t" end="7453279166t" region="region0" style="style0">(훈)<br/>그래, 무시 좀 당했다고<br/>찌질하게 병나발 부는 거</p>
+<p xml:id="subtitle241" begin="7454113332t" end="7464957499t" region="region0" style="style0">내 스타일 아니야</p>
+<p xml:id="subtitle242" begin="7465791666t" end="7498324166t" region="region0" style="style0">가서 콧바람 제대로 쐬고 오자!<br/>강릉 파이어!</p>
+<p xml:id="subtitle243" begin="7499158332t" end="7507917082t" region="region0" style="style0">(가린)<br/>파이어!</p>
+<p xml:id="subtitle244" begin="7508751249t" end="7532942082t" region="region0" style="style0">(태오)<br/>야, 차랑 숙소는 내가 알아서 할게<br/>운전도 내가 하고</p>
+<p xml:id="subtitle245" begin="7533776249t" end="7546705832t" region="region0" style="style0">파이어!</p>
+<p xml:id="subtitle246" begin="7549208332t" end="7580489582t" region="region0" style="style0">(송이)<br/>아, 아니, 저기<br/>나 같이 가기로 한 사람도 있고</p>
+<p xml:id="subtitle247" begin="7581323749t" end="7589665416t" region="region0" style="style0">야</p>
+<p xml:id="subtitle248" begin="7594670416t" end="7616775832t" region="region0" style="style0">(훈)<br/>강릉, 강릉</p>
+<p xml:id="subtitle249" begin="7624700416t" end="7636378749t" region="region0" style="style0">- (훈) 강릉<br/>- (가린) 강릉</p>
+<p xml:id="subtitle250" begin="7637212916t" end="7648474166t" region="region0" style="style0">[훈이 탁자를 탁탁 친다]<br/>강릉</p>
+<p xml:id="subtitle251" begin="7649308332t" end="7668494166t" region="region0" style="style0">야, 서도현도 부를까?</p>
+<p xml:id="subtitle252" begin="7669745416t" end="7691433749t" region="region0" style="style0">도현이 좋지</p>
+<p xml:id="subtitle253" begin="7698941249t" end="7736478749t" region="region0" style="style0">(태오와 가린)<br/>도현, 도현, 도현</p>
+<p xml:id="subtitle254" begin="7737312916t" end="7752327916t" region="region0" style="style0">(훈)<br/>[탁자를 탁탁 치며]<br/>도현</p>
+<p xml:id="subtitle255" begin="7756915832t" end="7777769999t" region="region0" style="style0">(훈과 태오)<br/>도현! 도현!</p>
+<p xml:id="subtitle256" begin="7811553749t" end="7825734582t" region="region0" style="style0">다 같이 가자고?</p>
+<p xml:id="subtitle257" begin="7831573749t" end="7841583749t" region="region0" style="style0">미안</p>
+<p xml:id="subtitle258" begin="7844920416t" end="7867442916t" region="region0" style="style0">내가 거기서 말리면 안 됐었는데</p>
+<p xml:id="subtitle259" begin="7869528332t" end="7900809582t" region="region0" style="style0">훈이랑 가린이가<br/>너무 적극적으로 하는 바람에</p>
+<p xml:id="subtitle260" begin="7901643749t" end="7924583332t" region="region0" style="style0">그럼 네가 더 적극적으로<br/>싫다고 해 보지</p>
+<p xml:id="subtitle261" begin="7925417499t" end="7940432499t" region="region0" style="style0">그러려고 했는데</p>
+<p xml:id="subtitle262" begin="7945437499t" end="7965874582t" region="region0" style="style0">훈이가 요즘 많이 힘든가 봐</p>
+<p xml:id="subtitle263" begin="7966708749t" end="7994653332t" region="region0" style="style0">(송이)<br/>소주를 컵째 마시는데 좀 안됐더라고</p>
+<p xml:id="subtitle264" begin="8017175832t" end="8033442082t" region="region0" style="style0">(도현)<br/>나는 내가 더 안됐어</p>
+<p xml:id="subtitle265" begin="8047205832t" end="8064723332t" region="region0" style="style0">둘이 오붓하게 가고 싶었다고</p>
+<p xml:id="subtitle266" begin="8069728332t" end="8078904166t" region="region0" style="style0">[살짝 웃는다]</p>
+<p xml:id="subtitle267" begin="8087245832t" end="8097672916t" region="region0" style="style0">나도야</p>
+<p xml:id="subtitle268" begin="8103512082t" end="8142300832t" region="region0" style="style0">그래도 이왕 이렇게 된 거<br/>다 같이 재미있게 놀다 오자, 응?</p>
+<p xml:id="subtitle269" begin="8150225416t" end="8180255416t" region="region0" style="style0">기차표 취소 안 된다고 하면<br/>안 믿을까?</p>
+<p xml:id="subtitle270" begin="8193602082t" end="8239064166t" region="region0" style="style0">그게, 사실 애들이<br/>벌써 짐을 싸고 있어서</p>
+<p xml:id="subtitle271" begin="8239898332t" end="8256164582t" region="region0" style="style0">[밝은 음악]<br/>[한숨]</p>
+<p xml:id="subtitle272" begin="8282857916t" end="8312470832t" region="region0" style="style0">[가린이 흥얼거린다]</p>
+<p xml:id="subtitle273" begin="8324983332t" end="8345420416t" region="region0" style="style0">[흥얼거리며]<br/>강릉, 강릉, 강릉</p>
+<p xml:id="subtitle274" begin="8346254582t" end="8372947916t" region="region0" style="style0">강릉으로 떠나 볼까<br/>강릉으로 떠나 볼까...</p>
+<p xml:id="subtitle275" begin="8397972916t" end="8418827082t" region="region0" style="style0">갑자기 가는 여행 좋아하고</p>
+<p xml:id="subtitle276" begin="8422163749t" end="8446771666t" region="region0" style="style0">네 친구들 소개받는 것도<br/>나쁘지 않은데</p>
+<p xml:id="subtitle277" begin="8453862082t" end="8470962499t" region="region0" style="style0">숙소는 제대로 잡아 줘</p>
+<p xml:id="subtitle278" begin="8479304166t" end="8517258749t" region="region0" style="style0">아, 그리고 방은 혼자 쓸게</p>
+<p xml:id="subtitle279" begin="8518092916t" end="8534359166t" region="region0" style="style0">아이참</p>
+<p xml:id="subtitle280" begin="8546454582t" end="8567725832t" region="region0" style="style0">당연하지</p>
+<p xml:id="subtitle281" begin="8570645416t" end="8578987082t" region="region0" style="style0">[웃음]</p>
+<p xml:id="subtitle282" begin="8612353749t" end="8629871249t" region="region0" style="style0">(송이)<br/>얘는 꼭 모시러 가야 돼?</p>
+<p xml:id="subtitle283" begin="8630705416t" end="8662403750t" region="region0" style="style0">(태오)<br/>씁, 너 세현이 있을 때 말조심해라</p>
+<p xml:id="subtitle284" begin="8669077082t" end="8702860832t" region="region0" style="style0">이름은 나만 부르는 거고<br/>너희들은 말 높여</p>
+<p xml:id="subtitle285" begin="8705363332t" end="8723297916t" region="region0" style="style0">우리보다 두 살 많으니까</p>
+<p xml:id="subtitle286" begin="8731222500t" end="8742066666t" region="region0" style="style0">(도현)<br/>이름이 뭐였지?</p>
+<p xml:id="subtitle287" begin="8747488750t" end="8759167082t" region="region0" style="style0">류세현</p>
+<p xml:id="subtitle288" begin="8764589166t" end="8802543750t" region="region0" style="style0">(훈)<br/>씁, 근데 세현 누님 아시냐?<br/>우리 다 같이 사는 거?</p>
+<p xml:id="subtitle289" begin="8818392916t" end="8830905416t" region="region0" style="style0">[타이어 마찰음]</p>
+<p xml:id="subtitle290" begin="8831739582t" end="8855096250t" region="region0" style="style0">(훈)<br/>아, 아이씨, 야!<br/>[가린의 놀라는 신음]</p>
+<p xml:id="subtitle291" begin="8858850000t" end="8881789582t" region="region0" style="style0">너 뭐 하는 거야?<br/>운전 똑바로 안 할래?</p>
+<p xml:id="subtitle292" begin="8883040832t" end="8903895000t" region="region0" style="style0">아이씨, 아, 아, 아파</p>
+<p xml:id="subtitle293" begin="8904729166t" end="8913070832t" region="region0" style="style0">너희들</p>
+<p xml:id="subtitle294" begin="8917241666t" end="8925583332t" region="region0" style="style0">[훈의 아파하는 신음]</p>
+<p xml:id="subtitle295" begin="8926417500t" end="8951442500t" region="region0" style="style0">세현이한테 우리 집 산다는 말<br/>절대 하지 마</p>
+<p xml:id="subtitle296" begin="8952276666t" end="8974382082t" region="region0" style="style0">[발랄한 음악]<br/>뭐야? 그 중요한 걸<br/>아직도 모르고 있어?</p>
+<p xml:id="subtitle297" begin="8975216250t" end="8985226250t" region="region0" style="style0">(훈)<br/>아, 아파</p>
+<p xml:id="subtitle298" begin="8988145832t" end="9006497500t" region="region0" style="style0">(태오)<br/>타이밍을 놓쳐서 그래</p>
+<p xml:id="subtitle299" begin="9009834166t" end="9035276250t" region="region0" style="style0">야, 남자 친구 집에<br/>여자가 둘이나 산다는데</p>
+<p xml:id="subtitle300" begin="9036110416t" end="9051125416t" region="region0" style="style0">어떤 여자가 좋아하냐?</p>
+<p xml:id="subtitle301" begin="9051959582t" end="9073647916t" region="region0" style="style0">송이랑 나랑 친한 거 뻔히 아는데</p>
+<p xml:id="subtitle302" begin="9074482082t" end="9088245832t" region="region0" style="style0">당연히 싫지</p>
+<p xml:id="subtitle303" begin="9101592500t" end="9122029582t" region="region0" style="style0">- (태오) 특히 최훈, 너!<br/>- (훈) 아, 깜짝이야</p>
+<p xml:id="subtitle304" begin="9124532082t" end="9144135000t" region="region0" style="style0">술 먹고 업돼서 말실수하지 마라</p>
+<p xml:id="subtitle305" begin="9144969166t" end="9163737916t" region="region0" style="style0">아, 예, 톱 시크릿</p>
+<p xml:id="subtitle306" begin="9164572082t" end="9180004166t" region="region0" style="style0">가만히 있을게요, 음</p>
+<p xml:id="subtitle307" begin="9181255416t" end="9190014166t" region="region0" style="style0">[태오의 한숨]</p>
+<p xml:id="subtitle308" begin="9190848332t" end="9203777916t" region="region0" style="style0">믿음이 안 가</p>
+<p xml:id="subtitle309" begin="9222546666t" end="9232556666t" region="region0" style="style0">[한숨]</p>
+<p xml:id="subtitle310" begin="9313053750t" end="9321812500t" region="region0" style="style0">어, 왔어?</p>
+<p xml:id="subtitle311" begin="9351842500t" end="9361018332t" region="region0" style="style0">(태오)<br/>잘 잤어?</p>
+<p xml:id="subtitle312" begin="9361852500t" end="9370194166t" region="region0" style="style0">(세현)<br/>응</p>
+<p xml:id="subtitle313" begin="9378118750t" end="9392299582t" region="region0" style="style0">(태오)<br/>자, 타시죠</p>
+<p xml:id="subtitle314" begin="9415656250t" end="9425249166t" region="region0" style="style0">생큐</p>
+<p xml:id="subtitle315" begin="9429420000t" end="9439012916t" region="region0" style="style0">(태오)<br/>웰컴</p>
+<p xml:id="subtitle316" begin="9512002500t" end="9531605416t" region="region0" style="style0">(훈)<br/>[낮은 목소리로]<br/>씁, 반갑습니다</p>
+<p xml:id="subtitle317" begin="9534525000t" end="9552459582t" region="region0" style="style0">최훈, 외자예요</p>
+<p xml:id="subtitle318" begin="9553293750t" end="9563303750t" region="region0" style="style0">[익살스러운 음악]<br/>[어색한 웃음]</p>
+<p xml:id="subtitle319" begin="9564137916t" end="9586243332t" region="region0" style="style0">네, 류세현이에요</p>
+<p xml:id="subtitle320" begin="9591665416t" end="9620861250t" region="region0" style="style0">(훈)<br/>오, 이렇게 귀한 곳에 누추한 분이...</p>
+<p xml:id="subtitle321" begin="9627951666t" end="9666323332t" region="region0" style="style0">오! 이렇게 누추한 곳에 귀한 분이<br/>영광입니다</p>
+<p xml:id="subtitle322" begin="9667157500t" end="9679252916t" region="region0" style="style0">[차 문이 탁 닫힌다]<br/>[어색한 웃음]</p>
+<p xml:id="subtitle323" begin="9680087082t" end="9690097082t" region="region0" style="style0">네</p>
+<p xml:id="subtitle324" begin="9694685000t" end="9723046666t" region="region0" style="style0">(가린)<br/>잘 부탁드릴게요, 오가린이에요</p>
+<p xml:id="subtitle325" begin="9726383332t" end="9748488750t" region="region0" style="style0">(세현)<br/>[살짝 웃으며]<br/>네, 반가워요</p>
+<p xml:id="subtitle326" begin="9785192082t" end="9813970832t" region="region0" style="style0">송이 씨, 자료는 잘 받았죠?</p>
+<p xml:id="subtitle327" begin="9816890416t" end="9826483332t" region="region0" style="style0">(송이)<br/>네</p>
+<p xml:id="subtitle328" begin="9830654166t" end="9852759582t" region="region0" style="style0">태오가 밤새 열심히 하더라고요</p>
+<p xml:id="subtitle329" begin="9891548332t" end="9904477916t" region="region0" style="style0">[차 문이 달칵 열린다]<br/>[태오의 힘주는 신음]</p>
+<p xml:id="subtitle330" begin="9914905000t" end="9932839582t" region="region0" style="style0">(태오)<br/>자, 다들 인사는 했어?<br/>[차 문이 탁 닫힌다]</p>
+<p xml:id="subtitle331" begin="9933673750t" end="9942432500t" region="region0" style="style0">- (훈) 예!<br/>- (세현) 어</p>
+<p xml:id="subtitle332" begin="9943266666t" end="9955779166t" region="region0" style="style0">[태오의 웃음]<br/>(세현)<br/>이쁘다</p>
+<p xml:id="subtitle333" begin="9974965000t" end="9984140832t" region="region0" style="style0">이거 내가 써도 돼?</p>
+<p xml:id="subtitle334" begin="9988728750t" end="10000407082t" region="region0" style="style0">(태오)<br/>그럼</p>
+<p xml:id="subtitle335" begin="10003743750t" end="10012085416t" region="region0" style="style0">[송이의 한숨]</p>
+<p xml:id="subtitle336" begin="10012919582t" end="10026266250t" region="region0" style="style0">자, 이제 출발한다</p>
+<p xml:id="subtitle337" begin="10035859166t" end="10044617916t" region="region0" style="style0">[태오의 힘주는 신음]</p>
+<p xml:id="subtitle338" begin="10045452082t" end="10065889166t" region="region0" style="style0">(훈)<br/>우리 BGM이나 틀까요?</p>
+<p xml:id="subtitle339" begin="10066723332t" end="10084240832t" region="region0" style="style0">(태오)<br/>아이, 안전벨트나 매</p>
+<p xml:id="subtitle340" begin="10085075000t" end="10095085000t" region="region0" style="style0">야, 다 안전벨트 매라!<br/>[자동차 시동음]</p>
+<p xml:id="subtitle341" begin="10095919166t" end="10110934166t" region="region0" style="style0">(훈)<br/>오케이, 블루투스 연결하고!</p>
+<p xml:id="subtitle342" begin="10111768332t" end="10120944166t" region="region0" style="style0">[함께 웃는다]</p>
+<p xml:id="subtitle343" begin="10121778332t" end="10131371250t" region="region0" style="style0">(가린)<br/>고, 고, 고</p>
+<p xml:id="subtitle344" begin="10177667500t" end="10196853332t" region="region0" style="style0">자, 가자!</p>
+<p xml:id="subtitle345" begin="10202692500t" end="10222712500t" region="region0" style="style0">[밝은 음악]</p>
+<p xml:id="subtitle346" begin="10288611666t" end="10308631666t" region="region0" style="style0">- (가린) 하나, 둘, 셋<br/>- (도현) 아, 같이?</p>
+<p xml:id="subtitle347" begin="10312802500t" end="10329068750t" region="region0" style="style0">[카메라 셔터음]<br/>[가린이 말한다]</p>
+<p xml:id="subtitle348" begin="10329902916t" end="10339495832t" region="region0" style="style0">[훈의 웃음]</p>
+<p xml:id="subtitle349" begin="10341164166t" end="10367857500t" region="region0" style="style0">(가린과 훈)<br/>하나, 둘, 셋</p>
+<p xml:id="subtitle350" begin="10369108750t" end="10382038332t" region="region0" style="style0">[카메라 셔터음]<br/>[가린의 웃음]</p>
+<p xml:id="subtitle351" begin="10401641250t" end="10437093332t" region="region0" style="style0">[저마다 즐겁게 떠든다]</p>
+<p xml:id="subtitle352" begin="10489645832t" end="10526349166t" region="region0" style="style0">[가린과 훈이 흥얼거린다]</p>
+<p xml:id="subtitle353" begin="10592248332t" end="10606012082t" region="region0" style="style0">(가린)<br/>아, 이거 다른 노래야?</p>
+<p xml:id="subtitle354" begin="10684423750t" end="10694016666t" region="region0" style="style0">[카메라 셔터음]</p>
+<p xml:id="subtitle355" begin="10726132082t" end="10736142082t" region="region0" style="style0">[카메라 셔터음]<br/>(가린)<br/>아!</p>
+<p xml:id="subtitle356" begin="10736976250t" end="10763252500t" region="region0" style="style0">[휴대전화 종료음]<br/>배터리 거의 다 닳았나 봐</p>
+<p xml:id="subtitle357" begin="10764086666t" end="10789111666t" region="region0" style="style0">- (훈) 어? 그렇네<br/>- (가린) 나 아직 찍을 거 많은데</p>
+<p xml:id="subtitle358" begin="10790362916t" end="10819975832t" region="region0" style="style0">(훈)<br/>보조 충전기 안 챙겼어?<br/>태오 방에 두 개나 있는데</p>
+<p xml:id="subtitle359" begin="10823729582t" end="10847920416t" region="region0" style="style0">(가린)<br/>그러게, 깜빡했다</p>
+<p xml:id="subtitle360" begin="10848754582t" end="10857930416t" region="region0" style="style0">(훈)<br/>어떡하지?</p>
+<p xml:id="subtitle361" begin="10885040832t" end="10903392500t" region="region0" style="style0">야, 같이 가! 아이</p>
+<p xml:id="subtitle362" begin="10968457500t" end="10978050416t" region="region0" style="style0">[카메라 셔터음]</p>
+<p xml:id="subtitle363" begin="11034773750t" end="11043949582t" region="region0" style="style0">도현이는?</p>
+<p xml:id="subtitle364" begin="11046452082t" end="11065637916t" region="region0" style="style0">(송이)<br/>잠깐 아버지랑 통화하러 갔어</p>
+<p xml:id="subtitle365" begin="11066472082t" end="11075230832t" region="region0" style="style0">(태오)<br/>어</p>
+<p xml:id="subtitle366" begin="11087326250t" end="11100672916t" region="region0" style="style0">이렇게 오길 잘했지?</p>
+<p xml:id="subtitle367" begin="11111934166t" end="11126115000t" region="region0" style="style0">그놈이랑 왔어 봐</p>
+<p xml:id="subtitle368" begin="11126949166t" end="11147386250t" region="region0" style="style0">이 넓은 데서 꼴랑 둘이 무슨 재미냐?</p>
+<p xml:id="subtitle369" begin="11148220416t" end="11163235416t" region="region0" style="style0">[발랄한 음악]<br/>그 재미로 가는 거지</p>
+<p xml:id="subtitle370" begin="11164069582t" end="11173662500t" region="region0" style="style0">아이고</p>
+<p xml:id="subtitle371" begin="11183255416t" end="11202858332t" region="region0" style="style0">여행 파투 내니까 그놈이 뭐라냐?</p>
+<p xml:id="subtitle372" begin="11205360832t" end="11225380832t" region="region0" style="style0">둘이 가고 싶었다고 투정 부리더라</p>
+<p xml:id="subtitle373" begin="11227883332t" end="11239144582t" region="region0" style="style0">되게 귀여웠어</p>
+<p xml:id="subtitle374" begin="11239978750t" end="11269174582t" region="region0" style="style0">야, 그게 흑심인 거야</p>
+<p xml:id="subtitle375" begin="11270425832t" end="11297953332t" region="region0" style="style0">흑심 좀 품으면 어때서, 남자 친구인데</p>
+<p xml:id="subtitle376" begin="11302124166t" end="11334656666t" region="region0" style="style0">(송이)<br/>그럼 너는 류세현이랑<br/>평생 플라토닉 러브 할 거야?</p>
+<p xml:id="subtitle377" begin="11346752082t" end="11379284582t" region="region0" style="style0">야, 너는 그런 말을 막<br/>아무렇지 않게...</p>
+<p xml:id="subtitle378" begin="11380118750t" end="11403475416t" region="region0" style="style0">가만 보면 네가 나보다 순진하다니까</p>
+<p xml:id="subtitle379" begin="11405143750t" end="11423495416t" region="region0" style="style0">(송이)<br/>비켜, 셀카 찍을 거야</p>
+<p xml:id="subtitle380" begin="11469791666t" end="11487309166t" region="region0" style="style0">김치<br/>[카메라 셔터음]</p>
+<p xml:id="subtitle381" begin="11492731250t" end="11525263750t" region="region1" style="style0">[부드러운 음악]<br/>와, 너 완전 이쁘다, 내가 찍어 줄게</p>
+<p xml:id="subtitle382" begin="11527349166t" end="11541947082t" region="region1" style="style0">[가린이 즐겁게 소리친다]<br/>뭐야</p>
+<p xml:id="subtitle383" begin="11542781250t" end="11556962082t" region="region1" style="style0">[자전거 벨이 요란하게 울린다]</p>
+<p xml:id="subtitle384" begin="11557796250t" end="11579067500t" region="region1" style="style0">- (훈) 야, 먼저 간다, 야!<br/>- (가린) 간다!</p>
+<p xml:id="subtitle385" begin="11612851250t" end="11630368750t" region="region0" style="style0">- (훈) 돌격하라!<br/>- (가린) 돌격하라!</p>
+<p xml:id="subtitle386" begin="11631202916t" end="11651222916t" region="region0" style="style0">[훈과 가린이 소리친다]</p>
+<p xml:id="subtitle387" begin="11652057082t" end="11663318332t" region="region0" style="style0">야, 한송이</p>
+<p xml:id="subtitle388" begin="11669574582t" end="11684589582t" region="region0" style="style0">(태오)<br/>넌 살 좀 빼라</p>
+<p xml:id="subtitle389" begin="11685423750t" end="11699604582t" region="region0" style="style0">- (태오) 도현이 힘들어하잖아<br/>- (송이) 뭐!</p>
+<p xml:id="subtitle390" begin="11700438750t" end="11712951250t" region="region0" style="style0">(태오)<br/>아, 거봐</p>
+<p xml:id="subtitle391" begin="11717539166t" end="11726297916t" region="region0" style="style0">(도현)<br/>괜찮아?</p>
+<p xml:id="subtitle392" begin="11731720000t" end="11743398332t" region="region0" style="style0">(송이)<br/>어, 괜찮아</p>
+<p xml:id="subtitle393" begin="11744232500t" end="11752991250t" region="region0" style="style0">(도현)<br/>미안해</p>
+<p xml:id="subtitle394" begin="11753825416t" end="11769257500t" region="region0" style="style0">- 아, 잘 좀 해<br/>- (도현) 알겠어</p>
+<p xml:id="subtitle395" begin="11787609166t" end="11806377916t" region="region0" style="style0">(도현)<br/>미안, 미안, 가자</p>
+<p xml:id="subtitle396" begin="11859764582t" end="11869774582t" region="region0" style="style0">(태오)<br/>세현아, 여기 봐</p>
+<p xml:id="subtitle397" begin="11876030832t" end="11888960416t" region="region0" style="style0">이야!</p>
+<p xml:id="subtitle398" begin="11898553332t" end="11931920000t" region="region0" style="style0">우아! 영화다, 영화</p>
+<p xml:id="subtitle399" begin="11989894582t" end="12007829166t" region="region0" style="style0">(훈)<br/>이야, 오죽헌이다!</p>
+<p xml:id="subtitle400" begin="12008663332t" end="12021592916t" region="region0" style="style0">[훈의 웃음]</p>
+<p xml:id="subtitle401" begin="12022427082t" end="12052040000t" region="region0" style="style0">야, 태오야, 경치 죽이지 않냐, 어?</p>
+<p xml:id="subtitle402" begin="12054125416t" end="12084155416t" region="region0" style="style0">내 마음에 저장! 저장!</p>
+<p xml:id="subtitle403" begin="12084989582t" end="12105426666t" region="region0" style="style0">(가린)<br/>훈아, 나 여기 가 보고 싶어</p>
+<p xml:id="subtitle404" begin="12110848750t" end="12125863750t" region="region0" style="style0">어디? 여기?</p>
+<p xml:id="subtitle405" begin="12126697916t" end="12140461666t" region="region0" style="style0">여기, 같이 가 보자</p>
+<p xml:id="subtitle406" begin="12146300832t" end="12162150000t" region="region0" style="style0">(훈)<br/>야, 우리 먼저 가 있을게, 이따 봐</p>
+<p xml:id="subtitle407" begin="12162984166t" end="12175913750t" region="region0" style="style0">- (태오) 가<br/>- (훈) 어, 가자</p>
+<p xml:id="subtitle408" begin="12203441250t" end="12218873332t" region="region0" style="style0">저장</p>
+<p xml:id="subtitle409" begin="12221792916t" end="12230968750t" region="region0" style="style0">[태오의 웃음]</p>
+<p xml:id="subtitle410" begin="12241812916t" end="12260164582t" region="region0" style="style0">[태오와 세현의 웃음]</p>
+<p xml:id="subtitle411" begin="12261832916t" end="12288526250t" region="region0" style="style0">난 과제 때문에<br/>건축 양식 위주로 봐야 돼서</p>
+<p xml:id="subtitle412" begin="12289360416t" end="12315219582t" region="region0" style="style0">(송이)<br/>각자 따로 다니다가<br/>한 1시간 뒤쯤에 볼래?</p>
+<p xml:id="subtitle413" begin="12321058750t" end="12329400416t" region="region0" style="style0">(세현)<br/>그래요</p>
+<p xml:id="subtitle414" begin="12330234582t" end="12365269582t" region="region0" style="style0">뭐, 굳이 이런 데서<br/>촌스럽게 몰려다닐 필요 없으니까</p>
+<p xml:id="subtitle415" begin="12366520832t" end="12383204166t" region="region0" style="style0">(태오)<br/>그럼 먼저 둘러보고 있어</p>
+<p xml:id="subtitle416" begin="12389460416t" end="12402807082t" region="region0" style="style0">나 화장실 갔다 올게</p>
+<p xml:id="subtitle417" begin="12411565832t" end="12435756666t" region="region0" style="style0">(도현)<br/>같이 가, 가서 천천히 보고 있어</p>
+<p xml:id="subtitle418" begin="12437842082t" end="12447017916t" region="region0" style="style0">(송이)<br/>응</p>
+<p xml:id="subtitle419" begin="12468706250t" end="12488726250t" region="region0" style="style0">[차분한 음악]</p>
+<p xml:id="subtitle420" begin="12582570000t" end="12594248332t" region="region0" style="style0">(태오)<br/>세현이 이쁘지?</p>
+<p xml:id="subtitle421" begin="12597167916t" end="12610097500t" region="region0" style="style0">(도현)<br/>너랑 잘 어울리더라</p>
+<p xml:id="subtitle422" begin="12616353750t" end="12650971666t" region="region0" style="style0">(태오)<br/>뭐, 선남선녀, 훈남훈녀<br/>그런 거 아니겠냐?</p>
+<p xml:id="subtitle423" begin="12667655000t" end="12712700000t" region="region0" style="style0">아, 한송이 핑계로<br/>오랜만에 바람도 쐬고 좋다!</p>
+<p xml:id="subtitle424" begin="12726463750t" end="12752322916t" region="region0" style="style0">야, 걔 여기 원래<br/>누구랑 오려고 했는지 알아?</p>
+<p xml:id="subtitle425" begin="12756493750t" end="12765252500t" region="region0" style="style0">남자 친구겠지</p>
+<p xml:id="subtitle426" begin="12766086666t" end="12778599166t" region="region0" style="style0">아, 내 말이</p>
+<p xml:id="subtitle427" begin="12779433332t" end="12803207082t" region="region0" style="style0">아이, 만난 지 얼마나 됐다고<br/>둘이 여행을 가냐?</p>
+<p xml:id="subtitle428" begin="12805709582t" end="12826980832t" region="region0" style="style0">내가 기를 쓰고 막았어요</p>
+<p xml:id="subtitle429" begin="12828649166t" end="12852005832t" region="region0" style="style0">야, 갈 수도 있지, 송이가 애도 아니고</p>
+<p xml:id="subtitle430" begin="12852840000t" end="12871608750t" region="region0" style="style0">뭐, 언젠가 누구랑 갈 수도 있겠지</p>
+<p xml:id="subtitle431" begin="12872442916t" end="12901221666t" region="region0" style="style0">근데 그 자식은 절대 안 돼</p>
+<p xml:id="subtitle432" begin="12919573332t" end="12939176250t" region="region0" style="style0">[숨을 후 내뱉으며]<br/>헤어지라고 했어, 내가</p>
+<p xml:id="subtitle433" begin="12946683750t" end="12963367082t" region="region0" style="style0">[새가 지저귄다]</p>
+<p xml:id="subtitle434" begin="12992562916t" end="13004658332t" region="region0" style="style0">[한숨]</p>
+<p xml:id="subtitle435" begin="13095582500t" end="13103924166t" region="region0" style="style0">[카메라 셔터음]</p>
+<p xml:id="subtitle436" begin="13104758332t" end="13113934166t" region="region0" style="style0">(남자1)<br/>저기요</p>
+<p xml:id="subtitle437" begin="13119356250t" end="13141878750t" region="region0" style="style0">죄송한데 잠깐만 비켜 주실래요?</p>
+<p xml:id="subtitle438" begin="13143964166t" end="13162315832t" region="region0" style="style0">아, 네</p>
+<p xml:id="subtitle439" begin="13163150000t" end="13176496666t" region="region0" style="style0">- (남자1) 감사합니다<br/>- (남자2) 감사합니다</p>
+<p xml:id="subtitle440" begin="13182335832t" end="13197767916t" region="region0" style="style0">(남자3)<br/>와, 진짜 이쁘다<br/>[카메라 셔터음]</p>
+<p xml:id="subtitle441" begin="13198602082t" end="13215702500t" region="region0" style="style0">어떻게 저렇게 생겼냐, 사람이</p>
+<p xml:id="subtitle442" begin="13217787916t" end="13236139582t" region="region0" style="style0">- (남자2) 진짜...<br/>- (남자2) 사진도 왜 이렇게 이쁘냐</p>
+<p xml:id="subtitle443" begin="13236973750t" end="13256993750t" region="region0" style="style0">(남자2)<br/>아, 사진만이 아니라<br/>실물도 겁나 이쁘잖아</p>
+<p xml:id="subtitle444" begin="13257827916t" end="13267003750t" region="region0" style="style0">(남자1)<br/>너무 이쁜데</p>
+<p xml:id="subtitle445" begin="13267837916t" end="13284521250t" region="region0" style="style0">(남자2)<br/>형, 우리 빨리 한 장만<br/>더 찍으면 안 돼? 이렇게 된 거?</p>
+<p xml:id="subtitle446" begin="13285355416t" end="13303707082t" region="region0" style="style0">- (남자1) 오케이, 오케이, 오케이<br/>- (남자2) 어, 빨리<br/>[카메라 셔터음]</p>
+<p xml:id="subtitle447" begin="13306626666t" end="13315385416t" region="region0" style="style0">(남자2)<br/>와<br/>[카메라 셔터음]</p>
+<p xml:id="subtitle448" begin="13316219582t" end="13332485832t" region="region0" style="style0">(남자1)<br/>야, 가서 말 한번 걸어 봐<br/>[한숨]</p>
+<p xml:id="subtitle449" begin="13333320000t" end="13358762082t" region="region0" style="style0">(남자2)<br/>어떻게 그래요?<br/>나 사랑에 빠진 것 같아, 지금</p>
+<p xml:id="subtitle450" begin="13401721666t" end="13420490416t" region="region0" style="style0">[발랄한 음악]<br/>(송이)<br/>이쁘긴 하네</p>
+<p xml:id="subtitle451" begin="13434671250t" end="13454691250t" region="region0" style="style0">&quot;오죽헌&quot;</p>
+<p xml:id="subtitle452" begin="13504741249t" end="13526429582t" region="region0" style="style0">윤태오 눈에도 그렇게 예쁜가?</p>
+<p xml:id="subtitle453" begin="13527263749t" end="13538107916t" region="region0" style="style0">[카메라 셔터음]</p>
+<p xml:id="subtitle454" begin="13585238332t" end="13624444166t" region="region0" style="style0">하긴 이쁘니까 그 호구 짓을 했겠지</p>
+<p xml:id="subtitle455" begin="13700770416t" end="13713699999t" region="region0" style="style0">[카메라 셔터음]</p>
+<p xml:id="subtitle456" begin="13760830416t" end="13777930832t" region="region0" style="style0">(세현)<br/>많이 보던 카메라네요?</p>
+<p xml:id="subtitle457" begin="13782101666t" end="13809212082t" region="region0" style="style0">아, 태오 거예요</p>
+<p xml:id="subtitle458" begin="13812548749t" end="13830900416t" region="region0" style="style0">(송이)<br/>제가 카메라가 없어 가지고</p>
+<p xml:id="subtitle459" begin="13831734582t" end="13850920416t" region="region0" style="style0">과제 할 때마다 자주 빌리거든요</p>
+<p xml:id="subtitle460" begin="13875945416t" end="13894297082t" region="region0" style="style0">(세현)<br/>태오랑은 언제부터 친구예요?</p>
+<p xml:id="subtitle461" begin="13914317082t" end="13937673749t" region="region0" style="style0">한 세 살?</p>
+<p xml:id="subtitle462" begin="13945598332t" end="13955191249t" region="region0" style="style0">세 살?</p>
+<p xml:id="subtitle463" begin="13956025416t" end="13964784166t" region="region0" style="style0">[살짝 웃는다]</p>
+<p xml:id="subtitle464" begin="13965618332t" end="13976462499t" region="region0" style="style0">오래됐긴 했죠</p>
+<p xml:id="subtitle465" begin="14001904582t" end="14028597916t" region="region0" style="style0">태오 어머니는 언제 돌아가셨어요?</p>
+<p xml:id="subtitle466" begin="14038190832t" end="14050286249t" region="region0" style="style0">그쯤이에요</p>
+<p xml:id="subtitle467" begin="14052371666t" end="14067386666t" region="region0" style="style0">태오 어머니 돌아가시고</p>
+<p xml:id="subtitle468" begin="14068220832t" end="14091160416t" region="region0" style="style0">제가 이 동네로<br/>이사 오면서 친해졌거든요</p>
+<p xml:id="subtitle469" begin="14091994582t" end="14102838749t" region="region0" style="style0">[짐을 부스럭 정리하며]<br/>으음</p>
+<p xml:id="subtitle470" begin="14115351249t" end="14134954166t" region="region0" style="style0">아버지는 재혼하셨다고 들었는데</p>
+<p xml:id="subtitle471" begin="14142461666t" end="14161230416t" region="region0" style="style0">태오 여섯 살 때 하셨어요</p>
+<p xml:id="subtitle472" begin="14162064582t" end="14177496666t" region="region0" style="style0">[부드러운 음악]</p>
+<p xml:id="subtitle473" begin="14179164999t" end="14197933749t" region="region0" style="style0">(송이)<br/>동생도 하나 있어요, 영호라고</p>
+<p xml:id="subtitle474" begin="14199602082t" end="14218787916t" region="region0" style="style0">지금은 중학생이에요</p>
+<p xml:id="subtitle475" begin="14224627082t" end="14235471249t" region="region0" style="style0">이복동생?</p>
+<p xml:id="subtitle476" begin="14244229999t" end="14253405832t" region="region0" style="style0">그렇죠</p>
+<p xml:id="subtitle477" begin="14265084166t" end="14280933332t" region="region0" style="style0">생각보다 복잡하네</p>
+<p xml:id="subtitle478" begin="14287606666t" end="14328897916t" region="region0" style="style0">그래도 제가 아는 친구들 중에서<br/>태오만큼 반듯하게 자란 애도 없어요</p>
+<p xml:id="subtitle479" begin="14330983332t" end="14352671666t" region="region0" style="style0">뭐, 사춘기도 딱히 없었고<br/>[세현이 휴대전화를 탁탁 두드린다]</p>
+<p xml:id="subtitle480" begin="14361013332t" end="14388123749t" region="region0" style="style0">물론 아버지한테<br/>좀 틱틱대는 게 있긴 하지만</p>
+<p xml:id="subtitle481" begin="14389374999t" end="14398133749t" region="region0" style="style0">그거야 부자간에...</p>
+<p xml:id="subtitle482" begin="14398967916t" end="14412314582t" region="region0" style="style0">그렇구나</p>
+<p xml:id="subtitle483" begin="14456525416t" end="14485721249t" region="region0" style="style0">혹시 태오 외로움 많이 타요?</p>
+<p xml:id="subtitle484" begin="14492394582t" end="14522424582t" region="region0" style="style0">외로움은 누구나 타잖아요</p>
+<p xml:id="subtitle485" begin="14549534999t" end="14574977082t" region="region0" style="style0">난 정서적으로 불안한 남자<br/>딱 질색이라</p>
+<p xml:id="subtitle486" begin="14578730832t" end="14591243332t" region="region0" style="style0">한번 물어봤어요</p>
+<p xml:id="subtitle487" begin="14667986666t" end="14677996666t" region="region0" style="style0">[한숨]</p>
+<p xml:id="subtitle488" begin="14708443749t" end="14723041666t" region="region0" style="style0">(도현)<br/>왜 그런 말을 했어?</p>
+<p xml:id="subtitle489" begin="14752654582t" end="14776428332t" region="region0" style="style0">(태오)<br/>그, 비 엄청 왔던 날 기억하지?</p>
+<p xml:id="subtitle490" begin="14798533749t" end="14831483332t" region="region0" style="style0">그렇게 비가 쏟아지는데<br/>송이를 집에 혼자 보냈어</p>
+<p xml:id="subtitle491" begin="14832317499t" end="14844829999t" region="region0" style="style0">그것도 첫 데이트에</p>
+<p xml:id="subtitle492" begin="14848166666t" end="14860679166t" region="region0" style="style0">[차분한 음악]</p>
+<p xml:id="subtitle493" begin="14861513332t" end="14874442916t" region="region0" style="style0">비를 맞고 왔어?</p>
+<p xml:id="subtitle494" begin="14875277082t" end="14907392499t" region="region0" style="style0">어, 완전 쫄딱, 그때 꼴이 진짜</p>
+<p xml:id="subtitle495" begin="14913648749t" end="14928246666t" region="region0" style="style0">(태오)<br/>아유, 말도 마라</p>
+<p xml:id="subtitle496" begin="14947432499t" end="14964115832t" region="region0" style="style0">남자가 몰랐겠지</p>
+<p xml:id="subtitle497" begin="14967869582t" end="14993311666t" region="region0" style="style0">야, 이제 사귀기 시작한 남자 입에서</p>
+<p xml:id="subtitle498" begin="14994145832t" end="15020839166t" region="region0" style="style0">(태오)<br/>그런 말 자체가 나오면 안 되는 거지</p>
+<p xml:id="subtitle499" begin="15025427082t" end="15037939582t" region="region0" style="style0">나라면 그렇게 안 했어</p>
+<p xml:id="subtitle500" begin="15048783749t" end="15071723332t" region="region0" style="style0">너 같으면 그런 놈한테 믿음이 가겠냐?</p>
+<p xml:id="subtitle501" begin="15080064999t" end="15103004582t" region="region0" style="style0">그 자식한테는 송이 절대 못 줘</p>
+<p xml:id="subtitle502" begin="15132200416t" end="15145964166t" region="region0" style="style0">네가 주는 거 아니잖아</p>
+<p xml:id="subtitle503" begin="15170154999t" end="15213531666t" region="region0" style="style0">가족 같은 관계인 건 알겠는데<br/>송이가 무슨 물건도 아니고</p>
+<p xml:id="subtitle504" begin="15221039166t" end="15245647082t" region="region0" style="style0">네가 주고 말고 할 위치에 있는 건<br/>더 아닌 것 같아</p>
+<p xml:id="subtitle505" begin="15261496249t" end="15288606666t" region="region0" style="style0">뭐, 굳이 따지자면 그렇지</p>
+<p xml:id="subtitle506" begin="15304455832t" end="15317385416t" region="region0" style="style0">어쨌든 내 말은</p>
+<p xml:id="subtitle507" begin="15324058749t" end="15345747082t" region="region0" style="style0">그놈은 싫다고, 그놈은</p>
+<p xml:id="subtitle508" begin="15361596249t" end="15372023332t" region="region0" style="style0">[한숨]</p>
+<p xml:id="subtitle509" begin="15434168749t" end="15448766666t" region="region0" style="style0">[새가 지저귄다]<br/>(가린)<br/>와!</p>
+<p xml:id="subtitle510" begin="15467952499t" end="15492560416t" region="region0" style="style0">진짜 너무 좋다</p>
+<p xml:id="subtitle511" begin="15505072916t" end="15540942082t" region="region0" style="style0">꼭 그림 속에 들어온 것 같아</p>
+<p xml:id="subtitle512" begin="15550952082t" end="15560544999t" region="region0" style="style0">그렇지?</p>
+<p xml:id="subtitle513" begin="15563464582t" end="15588489582t" region="region0" style="style0">야, 넌 여기보다<br/>더 좋은 데도 많이 다녔을 텐데</p>
+<p xml:id="subtitle514" begin="15589323749t" end="15610594999t" region="region0" style="style0">뭘 그렇게 시시콜콜 감탄을 해?</p>
+<p xml:id="subtitle515" begin="15612680416t" end="15629363749t" region="region0" style="style0">너희들이랑 같이 있잖아</p>
+<p xml:id="subtitle516" begin="15641876249t" end="15652720416t" region="region0" style="style0">[잔잔한 음악]</p>
+<p xml:id="subtitle517" begin="15653554582t" end="15691092082t" region="region0" style="style0">나 사실 처음 가출했을 때만 해도</p>
+<p xml:id="subtitle518" begin="15694845832t" end="15711946249t" region="region0" style="style0">되게 초조했었거든</p>
+<p xml:id="subtitle519" begin="15721122082t" end="15764915832t" region="region0" style="style0">(가린)<br/>뭔가 인생의 엄청난 목적을<br/>찾아야 될 것 같고</p>
+<p xml:id="subtitle520" begin="15765749999t" end="15793694582t" region="region0" style="style0">시간 낭비하는 걸까 봐 겁도 났고</p>
+<p xml:id="subtitle521" begin="15799116666t" end="15831232082t" region="region0" style="style0">근데 요즘에는 안 그래</p>
+<p xml:id="subtitle522" begin="15838322499t" end="15867935416t" region="region0" style="style0">지금 당장에 집착하지 않기로 했거든</p>
+<p xml:id="subtitle523" begin="15893377499t" end="15915065832t" region="region0" style="style0">그러니까 훈이 너도</p>
+<p xml:id="subtitle524" begin="15915899999t" end="15945929999t" region="region0" style="style0">지금 당장<br/>눈에 뭔가 보이지 않는다고 해도</p>
+<p xml:id="subtitle525" begin="15951352082t" end="15962196249t" region="region0" style="style0">걱정하지 마</p>
+<p xml:id="subtitle526" begin="15963030416t" end="15995145832t" region="region0" style="style0">너는 분명히 잘될 거야, 내가 알아</p>
+<p xml:id="subtitle527" begin="15995979999t" end="16036437082t" region="region0" style="style0">쩝, 아휴, 말은 쉽지, 아유</p>
+<p xml:id="subtitle528" begin="16073974582t" end="16099416666t" region="region0" style="style0">안 좋은 생각은 여기 다 털고 가</p>
+<p xml:id="subtitle529" begin="16104421666t" end="16132783332t" region="region0" style="style0">(가린)<br/>호흡만 잘해도 심신이 안정된댔거든?</p>
+<p xml:id="subtitle530" begin="16134868749t" end="16152386249t" region="region0" style="style0">자, 나 따라 해 봐</p>
+<p xml:id="subtitle531" begin="16154471666t" end="16168235416t" region="region0" style="style0">[발랄한 음악]</p>
+<p xml:id="subtitle532" begin="16175742916t" end="16186587082t" region="region0" style="style0">어깨 펴고</p>
+<p xml:id="subtitle533" begin="16201184999t" end="16233300416t" region="region0" style="style0">브리드 인, 아웃</p>
+<p xml:id="subtitle534" begin="16240390832t" end="16267084166t" region="region0" style="style0">인, 아웃</p>
+<p xml:id="subtitle535" begin="16270003749t" end="16299616666t" region="region0" style="style0">씁, 묘하게 설득이 되네</p>
+<p xml:id="subtitle536" begin="16333400416t" end="16342993332t" region="region0" style="style0">[훈이 숨을 들이켠다]</p>
+<p xml:id="subtitle537" begin="16343827499t" end="16357591249t" region="region0" style="style0">- (훈) 인...<br/>- (가린) 아니</p>
+<p xml:id="subtitle538" begin="16358425416t" end="16382616249t" region="region0" style="style0">- (가린) 인, 아웃<br/>- (훈) 아웃</p>
+<p xml:id="subtitle539" begin="16383450416t" end="16398048332t" region="region0" style="style0">- 인<br/>- (훈) 인, 아웃</p>
+<p xml:id="subtitle540" begin="16398882499t" end="16407224166t" region="region0" style="style0">옳지!</p>
+<p xml:id="subtitle541" begin="16409309582t" end="16423073332t" region="region0" style="style0">- (훈) 인, 이거야? 오케이, 오케이<br/>- (가린) 인, 어</p>
+<p xml:id="subtitle542" begin="16423907499t" end="16433083332t" region="region0" style="style0">[훈이 숨을 들이켠다]</p>
+<p xml:id="subtitle543" begin="16433917499t" end="16483133332t" region="region0" style="style0">(함께)<br/>인, 아웃! 인, 아웃!</p>
+<p xml:id="subtitle544" begin="16548615416t" end="16562379166t" region="region0" style="style0">[새가 지저귄다]</p>
+<p xml:id="subtitle545" begin="16604921666t" end="16627027082t" region="region0" style="style0">[카메라 셔터음]</p>
+<p xml:id="subtitle546" begin="16683333332t" end="16692092082t" region="region0" style="style0">[카메라 셔터음]</p>
+<p xml:id="subtitle547" begin="16713780416t" end="16734634582t" region="region0" style="style0">[차분한 음악]<br/>(태오)<br/>그렇게 비가 쏟아지는데</p>
+<p xml:id="subtitle548" begin="16735468749t" end="16752986249t" region="region0" style="style0">송이를 집에 혼자 보냈어</p>
+<p xml:id="subtitle549" begin="16755071666t" end="16779262499t" region="region0" style="style0">너 같으면 그런 놈한테<br/>믿음이 가겠냐?</p>
+<p xml:id="subtitle550" begin="16813046249t" end="16821804999t" region="region0" style="style0">왔어?</p>
+<p xml:id="subtitle551" begin="16832649166t" end="16841407916t" region="region0" style="style0">(도현)<br/>어</p>
+<p xml:id="subtitle552" begin="16878528332t" end="16888121249t" region="region0" style="style0">[카메라 셔터음]</p>
+<p xml:id="subtitle553" begin="16910226666t" end="16920653749t" region="region0" style="style0">[카메라 셔터음]</p>
+<p xml:id="subtitle554" begin="16931080832t" end="16946095832t" region="region0" style="style0">(도현)<br/>저게 뭐 특별한 거야?</p>
+<p xml:id="subtitle555" begin="16948598332t" end="16973206249t" region="region0" style="style0">(송이)<br/>아, 이걸 팔작지붕이라고 해</p>
+<p xml:id="subtitle556" begin="16974040416t" end="16990723749t" region="region0" style="style0">옆에서 보면 팔자 같거든</p>
+<p xml:id="subtitle557" begin="16994477499t" end="17014080416t" region="region0" style="style0">우리나라에서 가장 오래된 민가라</p>
+<p xml:id="subtitle558" begin="17014914582t" end="17038271249t" region="region0" style="style0">건축사적으로 중요한 형식들이 많아</p>
+<p xml:id="subtitle559" begin="17098331249t" end="17119602499t" region="region0" style="style0">[카메라 셔터음]</p>
+<p xml:id="subtitle560" begin="17127944166t" end="17137119999t" region="region0" style="style0">[카메라 셔터음]</p>
+<p xml:id="subtitle561" begin="17162144999t" end="17181330832t" region="region0" style="style0">(송이)<br/>왜? 뭐 할 말 있어?</p>
+<p xml:id="subtitle562" begin="17183416249t" end="17192174999t" region="region0" style="style0">아니야</p>
+<p xml:id="subtitle563" begin="17201350832t" end="17215531666t" region="region0" style="style0">내가 뭐 도와줄 건 없고?</p>
+<p xml:id="subtitle564" begin="17216365832t" end="17231380832t" region="region0" style="style0">응, 다 했어</p>
+<p xml:id="subtitle565" begin="17233049166t" end="17246395832t" region="region0" style="style0">애들 있는 데로 가자</p>
+<p xml:id="subtitle566" begin="17248064166t" end="17256822916t" region="region0" style="style0">응</p>
+<p xml:id="subtitle567" begin="17418234166t" end="17441590832t" region="region0" style="style0">- (훈) 이야, 이야, 엄청 좋아<br/>- (가린) 와, 넓다</p>
+<p xml:id="subtitle568" begin="17442425000t" end="17452017916t" region="region0" style="style0">(훈)<br/>엄청 넓은데?</p>
+<p xml:id="subtitle569" begin="17452852082t" end="17465781666t" region="region0" style="style0">[가린의 환호]<br/>[태오의 탄성]</p>
+<p xml:id="subtitle570" begin="17466615832t" end="17475791666t" region="region0" style="style0">(훈)<br/>이야</p>
+<p xml:id="subtitle571" begin="17499148332t" end="17509158332t" region="region0" style="style0">- (훈) 야, 화장실 봐!<br/>- (가린) 우아</p>
+<p xml:id="subtitle572" begin="17509992500t" end="17526675832t" region="region0" style="style0">[훈과 가린이 소란스럽다]</p>
+<p xml:id="subtitle573" begin="17556705832t" end="17576725832t" region="region0" style="style0">(태오)<br/>자, 세현아, 이쪽<br/>[저마다 말한다]</p>
+<p xml:id="subtitle574" begin="17595077500t" end="17618017082t" region="region0" style="style0">(훈)<br/>야, 가린아, 일로 와 봐<br/>우리 2층 가 보자, 응?</p>
+<p xml:id="subtitle575" begin="17628444166t" end="17659725416t" region="region0" style="style0">(송이)<br/>오, 윤태오, 한 건 했는데?</p>
+<p xml:id="subtitle576" begin="17660559582t" end="17678077082t" region="region0" style="style0">(도현)<br/>그러니까, 한적하고 좋다</p>
+<p xml:id="subtitle577" begin="17683916250t" end="17709775416t" region="region0" style="style0">(태오)<br/>아, 뭐, 내가 이런 데는<br/>또 한 센스 하지</p>
+<p xml:id="subtitle578" begin="17713529166t" end="17731463750t" region="region0" style="style0">아, 세현이는 따로 방 쓸 거야</p>
+<p xml:id="subtitle579" begin="17732297916t" end="17749398332t" region="region0" style="style0">뭐, 초면인데 같이 쓰는 거 어색하잖아</p>
+<p xml:id="subtitle580" begin="17750232500t" end="17766915832t" region="region0" style="style0">(송이)<br/>아, 되게 신경 쓰네</p>
+<p xml:id="subtitle581" begin="17767750000t" end="17788604166t" region="region0" style="style0">밤에 몰래 기어들어 가지나 마</p>
+<p xml:id="subtitle582" begin="17789855416t" end="17800282500t" region="region0" style="style0">뭐래?</p>
+<p xml:id="subtitle583" begin="17801116666t" end="17829478332t" region="region0" style="style0">아까는 남자 친구가 흑심 품는 거<br/>좋아 죽겠다며?</p>
+<p xml:id="subtitle584" begin="17833649166t" end="17846578750t" region="region0" style="style0">[발랄한 음악]</p>
+<p xml:id="subtitle585" begin="17847412916t" end="17857005832t" region="region0" style="style0">[송이의 난감한 웃음]</p>
+<p xml:id="subtitle586" begin="17858674166t" end="17879945416t" region="region0" style="style0">(송이)<br/>[이를 악물며]<br/>내가 언제 그랬는데?</p>
+<p xml:id="subtitle587" begin="17887452916t" end="17919985416t" region="region0" style="style0">그랬잖아, 플라토닉 러브 싫다고</p>
+<p xml:id="subtitle588" begin="17922070832t" end="17947095832t" region="region0" style="style0">나도 품을 거야, 흑심</p>
+<p xml:id="subtitle589" begin="17977125832t" end="17987135832t" region="region0" style="style0">[멋쩍은 웃음]</p>
+<p xml:id="subtitle590" begin="17990055416t" end="18029261250t" region="region0" style="style0">그, 태오가 오버하는 거야, 알지?</p>
+<p xml:id="subtitle591" begin="18039688332t" end="18048447082t" region="region0" style="style0">나도</p>
+<p xml:id="subtitle592" begin="18057622916t" end="18072637916t" region="region0" style="style0">플라토닉에 관심 없어</p>
+<p xml:id="subtitle593" begin="18125190416t" end="18139788332t" region="region0" style="style0">[민망한 숨소리]</p>
+<p xml:id="subtitle594" begin="18166898750t" end="18203602082t" region="region0" style="style0">아! 침대 얼마 만이냐</p>
+<p xml:id="subtitle595" begin="18206104582t" end="18229461250t" region="region0" style="style0">남의 옷방에서 쭈그리처럼 자다가</p>
+<p xml:id="subtitle596" begin="18232380832t" end="18261993750t" region="region0" style="style0">(훈)<br/>아, 너무 살 것 같다, 아, 너무 좋아</p>
+<p xml:id="subtitle597" begin="18267415832t" end="18287435832t" region="region0" style="style0">[웃으며]<br/>아, 느낌 좋아</p>
+<p xml:id="subtitle598" begin="18338737082t" end="18357505832t" region="region0" style="style0">그릇도 다 있고</p>
+<p xml:id="subtitle599" begin="18365847500t" end="18385033332t" region="region0" style="style0">소금이랑 간장도 있는 것 같고</p>
+<p xml:id="subtitle600" begin="18388787082t" end="18403385000t" region="region0" style="style0">장만 봐 오면 되겠다</p>
+<p xml:id="subtitle601" begin="18443007916t" end="18466364582t" region="region0" style="style0">태오랑 같이 다녀오실래요?</p>
+<p xml:id="subtitle602" begin="18485550416t" end="18523087916t" region="region0" style="style0">아, 저 좀 피곤해서 누워 있으려고요</p>
+<p xml:id="subtitle603" begin="18542273750t" end="18559791250t" region="region0" style="style0">송이야, 방은 가 봤어?</p>
+<p xml:id="subtitle604" begin="18560625416t" end="18571052500t" region="region0" style="style0">이제 올라가려고</p>
+<p xml:id="subtitle605" begin="18578977082t" end="18594409166t" region="region0" style="style0">화장실 저쪽이에요?</p>
+<p xml:id="subtitle606" begin="18597328750t" end="18615680416t" region="region0" style="style0">네, 저쪽이에요</p>
+<p xml:id="subtitle607" begin="18616514582t" end="18625690416t" region="region0" style="style0">[함께 살짝 웃는다]</p>
+<p xml:id="subtitle608" begin="18634032082t" end="18657388750t" region="region0" style="style0">나 짐 풀었거든, 너도 빨리 와</p>
+<p xml:id="subtitle609" begin="18658222916t" end="18667398750t" region="region0" style="style0">(송이)<br/>응</p>
+<p xml:id="subtitle610" begin="18681996666t" end="18694926250t" region="region0" style="style0">[문이 달칵 열린다]</p>
+<p xml:id="subtitle611" begin="18706604582t" end="18715363332t" region="region0" style="style0">[문이 달칵 닫힌다]</p>
+<p xml:id="subtitle612" begin="18716197500t" end="18745393332t" region="region0" style="style0">[서랍을 드르륵 여닫는다]</p>
+<p xml:id="subtitle613" begin="18787935832t" end="18800865416t" region="region0" style="style0">[휴대전화 진동음]</p>
+<p xml:id="subtitle614" begin="18892623750t" end="18912643750t" region="region1" style="style0">[차분한 음악]</p>
+<p xml:id="subtitle615" begin="19006904582t" end="19016080416t" region="region0" style="style0">(송이)<br/>어디 가?</p>
+<p xml:id="subtitle616" begin="19024422082t" end="19044442082t" region="region0" style="style0">(태오)<br/>마트, 장 봐 오게</p>
+<p xml:id="subtitle617" begin="19131612500t" end="19141205416t" region="region0" style="style0">[자동차 리모컨 작동음]</p>
+<p xml:id="subtitle618" begin="19175406250t" end="19184165000t" region="region0" style="style0">뭐냐?</p>
+<p xml:id="subtitle619" begin="19187918750t" end="19197094582t" region="region0" style="style0">같이 가</p>
+<p xml:id="subtitle620" begin="19207521666t" end="19225456250t" region="region0" style="style0">뭐, 짐꾼 하면 되겠네</p>
+<p xml:id="subtitle621" begin="19273420832t" end="19284265000t" region="region0" style="style0">[훈의 들뜬 숨소리]</p>
+<p xml:id="subtitle622" begin="19285099166t" end="19315963332t" region="region0" style="style0">(훈)<br/>이야, 이야, 시원하다, 어?</p>
+<p xml:id="subtitle623" begin="19317214582t" end="19335149166t" region="region0" style="style0">[가린의 웃음]<br/>(가린)<br/>야</p>
+<p xml:id="subtitle624" begin="19335983332t" end="19344325000t" region="region0" style="style0">[가린의 비명]</p>
+<p xml:id="subtitle625" begin="19346410416t" end="19373103750t" region="region0" style="style0">- (가린) 야! 야, 하지 마<br/>- (도현) 송이는?<br/>[훈의 웃음]</p>
+<p xml:id="subtitle626" begin="19373937916t" end="19401048332t" region="region0" style="style0">(가린)<br/>송이? 아까 나가는 것 같던데</p>
+<p xml:id="subtitle627" begin="19402299582t" end="19411892500t" region="region0" style="style0">나갔다고?</p>
+<p xml:id="subtitle628" begin="19412726666t" end="19421485416t" region="region0" style="style0">어</p>
+<p xml:id="subtitle629" begin="19423153750t" end="19439002916t" region="region0" style="style0">(가린)<br/>아, 하지 말라니까</p>
+<p xml:id="subtitle630" begin="19439837082t" end="19448595832t" region="region0" style="style0">[훈의 웃음]</p>
+<p xml:id="subtitle631" begin="19449430000t" end="19466113332t" region="region0" style="style0">(훈)<br/>알겠어, 알겠어<br/>[휴대전화 진동음]</p>
+<p xml:id="subtitle632" begin="19472369582t" end="19483213750t" region="region0" style="style0">야, 일로 와 봐</p>
+<p xml:id="subtitle633" begin="19484047916t" end="19507404582t" region="region0" style="style0">[훈과 가린이 즐겁게 대화한다]</p>
+<p xml:id="subtitle634" begin="19516580416t" end="19544107916t" region="region0" style="style0">(송이)<br/>태오랑 마트 갔다 올게, 쉬고 있어</p>
+<p xml:id="subtitle635" begin="19569967082t" end="19581228332t" region="region0" style="style0">[한숨]</p>
+<p xml:id="subtitle636" begin="19607921666t" end="19616680416t" region="region0" style="style0">(태오)<br/>어?</p>
+<p xml:id="subtitle637" begin="19653383750t" end="19668815832t" region="region0" style="style0">여기까지 와서 왜 이런 거 봐?</p>
+<p xml:id="subtitle638" begin="19670484166t" end="19693423750t" region="region0" style="style0">아, 세현이가 면 시트 사다 달래서</p>
+<p xml:id="subtitle639" begin="19695509166t" end="19713026666t" region="region0" style="style0">이불이 좀 꿉꿉하다고</p>
+<p xml:id="subtitle640" begin="19715529166t" end="19741805416t" region="region0" style="style0">[익살스러운 음악]<br/>하, 걔는 뭐가 그렇게 예민하대?</p>
+<p xml:id="subtitle641" begin="19742639582t" end="19764327916t" region="region0" style="style0">하룻밤 자는 거 좀 대충 넘어가지</p>
+<p xml:id="subtitle642" begin="19768498750t" end="19793940832t" region="region0" style="style0">예민한 게 아니라 섬세한 거지</p>
+<p xml:id="subtitle643" begin="19794775000t" end="19824805000t" region="region0" style="style0">(태오)<br/>누구처럼 텐트에서<br/>머리만 대면 자는 애랑은 다르게</p>
+<p xml:id="subtitle644" begin="19825639166t" end="19835649166t" region="region0" style="style0">[송이의 한숨]</p>
+<p xml:id="subtitle645" begin="19843156666t" end="19855669166t" region="region0" style="style0">걔가 그렇게 좋냐?</p>
+<p xml:id="subtitle646" begin="19869432916t" end="19890704166t" region="region0" style="style0">왜? 질투 나?</p>
+<p xml:id="subtitle647" begin="19903633750t" end="19912809582t" region="region0" style="style0">됐다</p>
+<p xml:id="subtitle648" begin="19917397500t" end="19933246666t" region="region0" style="style0">내가 무슨 말을 못 해요</p>
+<p xml:id="subtitle649" begin="19935749166t" end="19944925000t" region="region0" style="style0">[태오의 웃음]</p>
+<p xml:id="subtitle650" begin="19991221250t" end="20005819166t" region="region0" style="style0">핑크색이 낫나?</p>
+<p xml:id="subtitle651" begin="20064210832t" end="20073386666t" region="region0" style="style0">(태오)<br/>잠깐만</p>
+<p xml:id="subtitle652" begin="20095492082t" end="20105919166t" region="region0" style="style0">[뻐꾸기 울음 효과음]</p>
+<p xml:id="subtitle653" begin="20180577082t" end="20200597082t" region="region0" style="style0">아, 올 때 이 길이 아니었는데</p>
+<p xml:id="subtitle654" begin="20208521666t" end="20233129582t" region="region0" style="style0">(송이)<br/>아까 갈림길에서 잘못 들어온 것 같아</p>
+<p xml:id="subtitle655" begin="20238551666t" end="20249812916t" region="region0" style="style0">다시 돌아서 나가야겠다</p>
+<p xml:id="subtitle656" begin="20250647082t" end="20267747500t" region="region0" style="style0">[파도 소리가 들린다]<br/>잠깐만</p>
+<p xml:id="subtitle657" begin="20288601666t" end="20306953332t" region="region0" style="style0">어디서 파도 소리 들리지 않아?</p>
+<p xml:id="subtitle658" begin="20317797500t" end="20326973332t" region="region0" style="style0">그러게</p>
+<p xml:id="subtitle659" begin="20334063750t" end="20346993332t" region="region0" style="style0">바닷가 쪽으로 왔나?</p>
+<p xml:id="subtitle660" begin="20362425416t" end="20382862500t" region="region0" style="style0">[경쾌한 음악]</p>
+<p xml:id="subtitle661" begin="20443339582t" end="20466279166t" region="region0" style="style0">[가린이 흥얼거린다]</p>
+<p xml:id="subtitle662" begin="20480042916t" end="20489635832t" region="region0" style="style0">[노크 소리가 난다]</p>
+<p xml:id="subtitle663" begin="20492555416t" end="20510072916t" region="region0" style="style0">네, 들어오세요</p>
+<p xml:id="subtitle664" begin="20521334166t" end="20555952082t" region="region0" style="style0">혹시 머리끈 있어요? 안 가지고 와서</p>
+<p xml:id="subtitle665" begin="20560957082t" end="20577640416t" region="region0" style="style0">네, 잠시만요</p>
+<p xml:id="subtitle666" begin="20614343750t" end="20627273332t" region="region0" style="style0">(가린)<br/>응?</p>
+<p xml:id="subtitle667" begin="20635615000t" end="20663976666t" region="region0" style="style0">어? 아까 여기 하나 있었는데</p>
+<p xml:id="subtitle668" begin="20676489166t" end="20705267916t" region="region0" style="style0">가린 씨도 우리 동네 살아요?</p>
+<p xml:id="subtitle669" begin="20706102082t" end="20718197500t" region="region0" style="style0">우리 동네요?</p>
+<p xml:id="subtitle670" begin="20724036666t" end="20744056666t" region="region0" style="style0">뭐, 네, 그렇죠</p>
+<p xml:id="subtitle671" begin="20744890832t" end="20753232500t" region="region0" style="style0">[웃음]</p>
+<p xml:id="subtitle672" begin="20792438332t" end="20806202082t" region="region0" style="style0">본가는 어디예요?</p>
+<p xml:id="subtitle673" begin="20807870416t" end="20822468332t" region="region0" style="style0">저 성북동요</p>
+<p xml:id="subtitle674" begin="20827473332t" end="20844990832t" region="region0" style="style0">(가린)<br/>[손뼉을 짝짝 치며]<br/>어? 찾았다, 찾았다</p>
+<p xml:id="subtitle675" begin="20845825000t" end="20854166666t" region="region0" style="style0">저, 여기</p>
+<p xml:id="subtitle676" begin="20865845000t" end="20874603750t" region="region0" style="style0">[가린이 살짝 웃는다]</p>
+<p xml:id="subtitle677" begin="20880860000t" end="20899211666t" region="region0" style="style0">지금 나와 사는구나?</p>
+<p xml:id="subtitle678" begin="20900462916t" end="20909221666t" region="region0" style="style0">네</p>
+<p xml:id="subtitle679" begin="20937583332t" end="20946759166t" region="region0" style="style0">[어색한 웃음]</p>
+<p xml:id="subtitle680" begin="20997226250t" end="21005985000t" region="region0" style="style0">[문이 달칵 닫힌다]</p>
+<p xml:id="subtitle681" begin="21011824166t" end="21033095416t" region="region0" style="style0">[훈이 중얼거린다]</p>
+<p xml:id="subtitle682" begin="21044356666t" end="21054366666t" region="region0" style="style0">(훈)<br/>줘, 내가 할게</p>
+<p xml:id="subtitle683" begin="21144456666t" end="21164476666t" region="region0" style="style0">[부드러운 음악]</p>
+<p xml:id="subtitle684" begin="21199928750t" end="21211190000t" region="region0" style="style0">(태오)<br/>이야!</p>
+<p xml:id="subtitle685" begin="21222868332t" end="21246225000t" region="region0" style="style0">이런 게 바로 여행의 묘미지</p>
+<p xml:id="subtitle686" begin="21247059166t" end="21263325416t" region="region0" style="style0">계획에 없던 만남</p>
+<p xml:id="subtitle687" begin="21265410832t" end="21276672082t" region="region0" style="style0">(송이)<br/>그러게</p>
+<p xml:id="subtitle688" begin="21283762500t" end="21300862916t" region="region0" style="style0">하, 좋다<br/>[태오의 기분 좋은 숨소리]</p>
+<p xml:id="subtitle689" begin="21308787500t" end="21329641666t" region="region0" style="style0">- (태오) 좋냐? 어, 좋아?<br/>- (송이) 응</p>
+<p xml:id="subtitle690" begin="21332144166t" end="21342154166t" region="region0" style="style0">[송이의 비명]</p>
+<p xml:id="subtitle691" begin="21342988332t" end="21367596250t" region="region0" style="style0">(송이)<br/>야! 야!<br/>[태오의 기합]</p>
+<p xml:id="subtitle692" begin="21370932916t" end="21381360000t" region="region0" style="style0">아이, 야, 미쳤냐?</p>
+<p xml:id="subtitle693" begin="21382194166t" end="21395123750t" region="region0" style="style0">- (태오) 미안, 미안, 미안, 미안...<br/>- (송이) 야!</p>
+<p xml:id="subtitle694" begin="21395957916t" end="21406802082t" region="region0" style="style0">(태오)<br/>미안, 미안, 미안, 알았어, 알았어</p>
+<p xml:id="subtitle695" begin="21407636250t" end="21421817082t" region="region0" style="style0">- (송이) 야!<br/>- (태오) 안 할게, 안 할게, 안 할게</p>
+<p xml:id="subtitle696" begin="21422651250t" end="21435997916t" region="region0" style="style0">- (송이) 아이씨<br/>- (태오) 안 할게, 안 할게</p>
+<p xml:id="subtitle697" begin="21456017916t" end="21484379582t" region="region0" style="style0">(태오)<br/>아니, 너 더울까 봐, 저기 시원하니까</p>
+<p xml:id="subtitle698" begin="21502314166t" end="21518997500t" region="region0" style="style0">아, 세현이는 어때?</p>
+<p xml:id="subtitle699" begin="21529424582t" end="21538600416t" region="region0" style="style0">(송이)<br/>뭐가?</p>
+<p xml:id="subtitle700" begin="21539434582t" end="21559037500t" region="region0" style="style0">(태오)<br/>너 오늘 하루 종일 같이 다녔잖아</p>
+<p xml:id="subtitle701" begin="21566127916t" end="21595740832t" region="region0" style="style0">걔 생각보다 털털하지?<br/>까다롭게 굴지도 않고</p>
+<p xml:id="subtitle702" begin="21600745832t" end="21614926666t" region="region0" style="style0">(송이)<br/>까다롭지 않은 애가</p>
+<p xml:id="subtitle703" begin="21620348750t" end="21638283332t" region="region0" style="style0">침대 시트 심부름을 왜 시키냐?</p>
+<p xml:id="subtitle704" begin="21643705416t" end="21668313332t" region="region0" style="style0">(태오)<br/>에이, 그거야 막판에 그런 거고</p>
+<p xml:id="subtitle705" begin="21684162500t" end="21693338332t" region="region0" style="style0">[송이의 한숨]</p>
+<p xml:id="subtitle706" begin="21705016666t" end="21737549166t" region="region0" style="style0">(송이)<br/>이쁘고 똑똑한 애인 건 알겠는데</p>
+<p xml:id="subtitle707" begin="21739634582t" end="21747976250t" region="region0" style="style0">(태오)<br/>알겠는데?</p>
+<p xml:id="subtitle708" begin="21757986250t" end="21767162082t" region="region0" style="style0">(송이)<br/>걔가</p>
+<p xml:id="subtitle709" begin="21782177082t" end="21805116666t" region="region0" style="style0">널 소중히 여긴다는 느낌은 안 들어</p>
+<p xml:id="subtitle710" begin="21819297500t" end="21843071250t" region="region0" style="style0">(태오)<br/>뭐, 세현이가 그런 타입은 아니지</p>
+<p xml:id="subtitle711" begin="21865593750t" end="21874769582t" region="region0" style="style0">(송이)<br/>나</p>
+<p xml:id="subtitle712" begin="21885613750t" end="21895623750t" region="region0" style="style0">[한숨]</p>
+<p xml:id="subtitle713" begin="21901462916t" end="21912724166t" region="region0" style="style0">할 말 있어</p>
+<p xml:id="subtitle714" begin="21932744166t" end="21956100832t" region="region0" style="style0">나도 네 연애에 참견 좀 해야겠다고</p>
+<p xml:id="subtitle715" begin="21959437500t" end="21968196250t" region="region0" style="style0">[피식한다]</p>
+<p xml:id="subtitle716" begin="21972367082t" end="21986547916t" region="region0" style="style0">해 봐, 참견</p>
+<p xml:id="subtitle717" begin="22002397082t" end="22045773750t" region="region0" style="style0">난 네가 너를 더 소중하게<br/>생각하는 사람을 만났으면 좋겠어</p>
+<p xml:id="subtitle718" begin="22049527500t" end="22077055000t" region="region0" style="style0">[잔잔한 음악]<br/>(송이)<br/>너에 대해 더 많이 궁금해하고</p>
+<p xml:id="subtitle719" begin="22079974582t" end="22093321250t" region="region0" style="style0">너한테 충실한 애</p>
+<p xml:id="subtitle720" begin="22115009582t" end="22133361250t" region="region0" style="style0">너도 내 연애 신경 쓰잖아</p>
+<p xml:id="subtitle721" begin="22139200416t" end="22162557082t" region="region0" style="style0">내가 좋아하는 사람이 괜찮은 남자인지</p>
+<p xml:id="subtitle722" begin="22163391250t" end="22180908750t" region="region0" style="style0">자꾸 확인하고 의심하고</p>
+<p xml:id="subtitle723" begin="22190501666t" end="22204265416t" region="region0" style="style0">나도 마찬가지야</p>
+<p xml:id="subtitle724" begin="22210938750t" end="22229707500t" region="region0" style="style0">너처럼 퍼 주기 좋아하는 애가</p>
+<p xml:id="subtitle725" begin="22230958750t" end="22258486250t" region="region0" style="style0">괜한 애먼 사람한테<br/>막 상처받고 그러는 거 싫어</p>
+<p xml:id="subtitle726" begin="22274752500t" end="22306033750t" region="region0" style="style0">씁, 내가 상처를 왜 받아?</p>
+<p xml:id="subtitle727" begin="22310204582t" end="22329807500t" region="region0" style="style0">세현이가 애먼 사람도 아닌데</p>
+<p xml:id="subtitle728" begin="22334812500t" end="22346073750t" region="region0" style="style0">암튼</p>
+<p xml:id="subtitle729" begin="22360671666t" end="22374435416t" region="region0" style="style0">걔 너무 믿지 마</p>
+<p xml:id="subtitle730" begin="22406133750t" end="22417812082t" region="region0" style="style0">이야</p>
+<p xml:id="subtitle731" begin="22426987916t" end="22458269166t" region="region0" style="style0">너 이거 완전 질투인데?</p>
+<p xml:id="subtitle732" begin="22459103332t" end="22469530416t" region="region0" style="style0">[발랄한 음악]</p>
+<p xml:id="subtitle733" begin="22470364582t" end="22478706250t" region="region0" style="style0">(송이)<br/>됐어</p>
+<p xml:id="subtitle734" begin="22482877082t" end="22499143332t" region="region0" style="style0">평생 그렇게 자뻑하면서 살아!</p>
+<p xml:id="subtitle735" begin="22506650832t" end="22522082916t" region="region0" style="style0">(태오)<br/>야, 야, 계속해 봐</p>
+<p xml:id="subtitle736" begin="22522917082t" end="22542102916t" region="region0" style="style0">- (송이) 아, 비켜!<br/>- (태오) 야, 귀엽네, 계속해 봐</p>
+<p xml:id="subtitle737" begin="22542937082t" end="22562957082t" region="region0" style="style0">(송이)<br/>저리 가! 아...</p>
+<p xml:id="subtitle738" begin="22575469582t" end="22592152916t" region="region0" style="style0">[송이의 짜증 섞인 비명]<br/>(태오)<br/>계속해 봐</p>
+<p xml:id="subtitle739" begin="22592987082t" end="22622600000t" region="region0" style="style0">여러분! 한송이가 질투한대요!<br/>[송이가 소리친다]</p>
+<p xml:id="subtitle740" begin="22623434166t" end="22651795832t" region="region0" style="style0">- (송이) 야, 야, 아, 진짜, 아이, 야!<br/>- (태오) 알았어, 알았어, 알았어...</p>
+<p xml:id="subtitle741" begin="22652630000t" end="22665142500t" region="region0" style="style0">- (송이) 야!<br/>- (태오) 오지 마!</p>
+<p xml:id="subtitle742" begin="22684745416t" end="22701011666t" region="region0" style="style0">(태오)<br/>고기 오셨다!</p>
+<p xml:id="subtitle743" begin="22701845832t" end="22718112082t" region="region0" style="style0">(훈)<br/>예! 고기다<br/>[가린이 환호한다]</p>
+<p xml:id="subtitle744" begin="22718946250t" end="22733127082t" region="region0" style="style0">(가린)<br/>고기 많이 사 왔어?</p>
+<p xml:id="subtitle745" begin="22733961250t" end="22751478750t" region="region0" style="style0">- (훈) 고기가 왔구나<br/>- (가린) 많이 사 왔어?</p>
+<p xml:id="subtitle746" begin="22752312916t" end="22761071666t" region="region0" style="style0">(훈)<br/>야, 고생했다</p>
+<p xml:id="subtitle747" begin="22761905832t" end="22780674582t" region="region0" style="style0">(태오)<br/>형이야, 인마, 가져가서 세팅해!</p>
+<p xml:id="subtitle748" begin="22781508750t" end="22797775000t" region="region0" style="style0">[훈의 탄성]<br/>- (가린) 내가 사 오라는 거는?<br/>- (태오) 여기</p>
+<p xml:id="subtitle749" begin="22826136666t" end="22839900416t" region="region0" style="style0">(태오)<br/>자, 맥주는 냉장고에</p>
+<p xml:id="subtitle750" begin="22840734582t" end="22852412916t" region="region0" style="style0">- (태오) 시원해지면 먹게<br/>- (도현) 응</p>
+<p xml:id="subtitle751" begin="22853247082t" end="22864925416t" region="region0" style="style0">[훈이 흥얼거린다]</p>
+<p xml:id="subtitle752" begin="22865759582t" end="22890784582t" region="region0" style="style0">- (가린) 고기 많이 사 왔나?<br/>- (훈) 이야, 진짜 많이 사 왔다</p>
+<p xml:id="subtitle753" begin="22892452916t" end="22907467916t" region="region0" style="style0">(훈)<br/>아, 나 파프리카 별로 안 좋아하는데</p>
+<p xml:id="subtitle754" begin="22908302082t" end="22934995416t" region="region0" style="style0">[가린이 호응한다]<br/>에이, 오케이, 버섯 있고요</p>
+<p xml:id="subtitle755" begin="22935829582t" end="22966693750t" region="region0" style="style0">고기 있고요, 상추, 깻잎, 네</p>
+<p xml:id="subtitle756" begin="22967527916t" end="22984211250t" region="region0" style="style0">[도현이 맥주를 탁탁 넣는다]</p>
+<p xml:id="subtitle757" begin="22985045416t" end="22996306666t" region="region0" style="style0">도와줄게</p>
+<p xml:id="subtitle758" begin="22998392082t" end="23017160832t" region="region0" style="style0">아니야, 내가 할게, 나가 있어</p>
+<p xml:id="subtitle759" begin="23017995000t" end="23055115416t" region="region0" style="style0">[저마다 달그락 정리한다]<br/>(훈)<br/>세 개, 네 개</p>
+<p xml:id="subtitle760" begin="23142285832t" end="23164808332t" region="region0" style="style0">[주방이 시끌벅적하다]</p>
+<p xml:id="subtitle761" begin="23181074582t" end="23191501666t" region="region0" style="style0">(태오)<br/>어?</p>
+<p xml:id="subtitle762" begin="23201511666t" end="23211938750t" region="region0" style="style0">- (태오) 여기<br/>- (세현) 아</p>
+<p xml:id="subtitle763" begin="23212772916t" end="23232375832t" region="region0" style="style0">(태오)<br/>이게 이 동네에서 제일 좋은 거야</p>
+<p xml:id="subtitle764" begin="23233210000t" end="23242802916t" region="region0" style="style0">고마워</p>
+<p xml:id="subtitle765" begin="23266993750t" end="23282425832t" region="region0" style="style0">송이 씨랑 갔다 왔어?</p>
+<p xml:id="subtitle766" begin="23288265000t" end="23311204582t" region="region0" style="style0">응, 넌 눈 좀 붙였어?</p>
+<p xml:id="subtitle767" begin="23314958332t" end="23323717082t" region="region0" style="style0">아니</p>
+<p xml:id="subtitle768" begin="23337480832t" end="23353330000t" region="region0" style="style0">뭐 좀 생각하느라</p>
+<p xml:id="subtitle769" begin="23362922916t" end="23377103750t" region="region0" style="style0">[부드러운 음악]<br/>(훈)<br/>야, 야, 야</p>
+<p xml:id="subtitle770" begin="23377937916t" end="23414641250t" region="region0" style="style0">다들 우리 거국적으로 짠 한번 합시다</p>
+<p xml:id="subtitle771" begin="23415475416t" end="23429656250t" region="region0" style="style0">술잔을 위로 드시고</p>
+<p xml:id="subtitle772" begin="23432575832t" end="23466359582t" region="region0" style="style0">오늘 이렇게 건축 답사 하러 오신<br/>송이 씨를 위하여</p>
+<p xml:id="subtitle773" begin="23467193750t" end="23497640832t" region="region0" style="style0">그리고 우리들의 퍼레버한<br/>영원함을 위하여</p>
+<p xml:id="subtitle774" begin="23498475000t" end="23508902082t" region="region0" style="style0">파이어!</p>
+<p xml:id="subtitle775" begin="23509736250t" end="23518077916t" region="region0" style="style0">(함께)<br/>파이어!</p>
+<p xml:id="subtitle776" begin="23518912082t" end="23528087916t" region="region0" style="style0">위하여!</p>
+<p xml:id="subtitle777" begin="23530173332t" end="23539349166t" region="region0" style="style0">(훈)<br/>예!</p>
+<p xml:id="subtitle778" begin="23558535000t" end="23573132916t" region="region0" style="style0">(태오)<br/>꼬치 한번 먹어 보세요</p>
+<p xml:id="subtitle779" begin="23573967082t" end="23582308750t" region="region0" style="style0">[세현의 탄성]</p>
+<p xml:id="subtitle780" begin="23585228332t" end="23606082500t" region="region0" style="style0">세현이는 제일 맛있는 거로</p>
+<p xml:id="subtitle781" begin="23607333750t" end="23616926666t" region="region0" style="style0">[세현의 웃음]</p>
+<p xml:id="subtitle782" begin="23679072082t" end="23689499166t" region="region0" style="style0">더 먹어</p>
+<p xml:id="subtitle783" begin="23695338332t" end="23704514166t" region="region0" style="style0">(도현)<br/>응</p>
+<p xml:id="subtitle784" begin="23757483750t" end="23781674582t" region="region0" style="style0">(세현)<br/>그럼 태오랑은 초등학교 때 동창?</p>
+<p xml:id="subtitle785" begin="23784177082t" end="23823800000t" region="region0" style="style0">예, 뭐, 본격적으로 친해진 건요<br/>저 재수 학원 때려치우고 나서부터요</p>
+<p xml:id="subtitle786" begin="23825885416t" end="23843820000t" region="region0" style="style0">제가 허구한 날 집에서 쫓겨나 가지고</p>
+<p xml:id="subtitle787" begin="23844654166t" end="23867176666t" region="region0" style="style0">맨날 쟤네 집에서 잤거든요, 그렇지?</p>
+<p xml:id="subtitle788" begin="23868010832t" end="23885945416t" region="region0" style="style0">(태오)<br/>아유, 자랑이다</p>
+<p xml:id="subtitle789" begin="23886779582t" end="23895538332t" region="region0" style="style0">[휴대전화 진동음]</p>
+<p xml:id="subtitle790" begin="23921814582t" end="23936829582t" region="region0" style="style0">(가린)<br/>응? 제작사야?</p>
+<p xml:id="subtitle791" begin="23995638332t" end="24003980000t" region="region0" style="style0">(훈)<br/>응</p>
+<p xml:id="subtitle792" begin="24018160832t" end="24028587916t" region="region0" style="style0">[훈의 한숨]</p>
+<p xml:id="subtitle793" begin="24031090416t" end="24059869166t" region="region0" style="style0">또 막상 전화 오니까<br/>긴장돼 가지고 못 받겠다, 씨</p>
+<p xml:id="subtitle794" begin="24060703332t" end="24089065000t" region="region0" style="style0">괜찮아, 편하게 받아, 별일 아닐 거야</p>
+<p xml:id="subtitle795" begin="24101994582t" end="24110753332t" region="region0" style="style0">그래?</p>
+<p xml:id="subtitle796" begin="24111587500t" end="24130773332t" region="region0" style="style0">야, 남자답게 받아</p>
+<p xml:id="subtitle797" begin="24146622500t" end="24159969166t" region="region0" style="style0">잘될 수도 있잖아</p>
+<p xml:id="subtitle798" begin="24160803332t" end="24170396250t" region="region0" style="style0">[한숨]</p>
+<p xml:id="subtitle799" begin="24171230416t" end="24203762916t" region="region0" style="style0">그래, 네 말대로<br/>남자답게 받고 올게, 어?</p>
+<p xml:id="subtitle800" begin="24205848332t" end="24216692500t" region="region0" style="style0">야, 응원 좀 해 줘라</p>
+<p xml:id="subtitle801" begin="24217526666t" end="24226285416t" region="region0" style="style0">파이팅</p>
+<p xml:id="subtitle802" begin="24227119582t" end="24248807916t" region="region0" style="style0">(훈)<br/>아, 파이어! 갔다 올게</p>
+<p xml:id="subtitle803" begin="24249642082t" end="24258817916t" region="region0" style="style0">(가린)<br/>최훈 파이팅!</p>
+<p xml:id="subtitle804" begin="24259652082t" end="24267993750t" region="region0" style="style0">(함께)<br/>파이팅!</p>
+<p xml:id="subtitle805" begin="24275501250t" end="24285094166t" region="region0" style="style0">[훈의 긴장하는 신음]</p>
+<p xml:id="subtitle806" begin="24347239582t" end="24366008332t" region="region0" style="style0">[문이 드르르 닫힌다]</p>
+<p xml:id="subtitle807" begin="24400209166t" end="24425651250t" region="region0" style="style0">(훈)<br/>예, 예, 네, 네, 말씀하세요, 네, 네</p>
+<p xml:id="subtitle808" begin="24440666250t" end="24449842082t" region="region0" style="style0">[무거운 음악]</p>
+<p xml:id="subtitle809" begin="24450676250t" end="24474450000t" region="region0" style="style0">계약 해지요?</p>
+<p xml:id="subtitle810" begin="24491550416t" end="24516575416t" region="region0" style="style0">결정이 번복될 일은 없는 거예요?</p>
+<p xml:id="subtitle811" begin="24518243750t" end="24552027500t" region="region0" style="style0">죄송한데 그, 혹시 감독님한테<br/>한 번만 더 말씀해 주시면 안 될까요?</p>
+<p xml:id="subtitle812" begin="24554947082t" end="24576635416t" region="region0" style="style0">(태오)<br/>가위바위보 해서 진 사람이<br/>이거 다 치우기다, 오케이?</p>
+<p xml:id="subtitle813" begin="24577469582t" end="24588730832t" region="region0" style="style0">- (가린) 오케이, 오케이<br/>- (도현) 오케이</p>
+<p xml:id="subtitle814" begin="24589565000t" end="24623348750t" region="region0" style="style0">(태오)<br/>자, 가위바위보! 가위바위보!<br/>[문이 드르르 열린다]</p>
+<p xml:id="subtitle815" begin="24624182916t" end="24643785832t" region="region0" style="style0">[태오와 가린의 환호]</p>
+<p xml:id="subtitle816" begin="24646288332t" end="24662554582t" region="region0" style="style0">(가린)<br/>어, 왔어? 뭐래?<br/>[태오가 말한다]</p>
+<p xml:id="subtitle817" begin="24675067082t" end="24688413750t" region="region0" style="style0">나 먼저 들어갈게</p>
+<p xml:id="subtitle818" begin="24695504166t" end="24710519166t" region="region0" style="style0">남은 건 너희들끼리 먹어</p>
+<p xml:id="subtitle819" begin="24715941250t" end="24733875832t" region="region0" style="style0">[차분한 음악]</p>
+<p xml:id="subtitle820" begin="24743885832t" end="24754730000t" region="region0" style="style0">[문이 드르르 열린다]</p>
+<p xml:id="subtitle821" begin="24758900832t" end="24768910832t" region="region0" style="style0">[한숨]</p>
+<p xml:id="subtitle822" begin="24770162082t" end="24805614166t" region="region0" style="style0">어떡해, 제작사에서<br/>안 좋은 연락 왔나 봐</p>
+<p xml:id="subtitle823" begin="24822297500t" end="24836061250t" region="region0" style="style0">[태오와 가린의 한숨]</p>
+<p xml:id="subtitle824" begin="24849825000t" end="24876935416t" region="region0" style="style0">내가 한번 가 볼게, 마저 먹고 있어</p>
+<p xml:id="subtitle825" begin="24920729166t" end="24952427500t" region="region0" style="style0">[문이 드르르 여닫힌다]<br/>[휴대전화 진동음]</p>
+<p xml:id="subtitle826" begin="24977035416t" end="24993301666t" region="region0" style="style0">(송이)</p>
+<p xml:id="subtitle827" begin="25127185416t" end="25164722916t" region="region0" style="style0">(태오)<br/>아이, 그 회사가 진짜<br/>웃기는 회사네, 아주, 어?</p>
+<p xml:id="subtitle828" begin="25165557082t" end="25198089582t" region="region0" style="style0">아니, 잘 부탁한다고 뽑을 때는 언제고<br/>이제 와서 나가래?</p>
+<p xml:id="subtitle829" begin="25198923750t" end="25211853332t" region="region0" style="style0">[태오의 헛웃음]</p>
+<p xml:id="subtitle830" begin="25214772916t" end="25249390832t" region="region0" style="style0">야, 쩝, 그 회사 하는 짓 보니까<br/>양아치네</p>
+<p xml:id="subtitle831" begin="25250225000t" end="25259817916t" region="region0" style="style0">오래 못 가</p>
+<p xml:id="subtitle832" begin="25260652082t" end="25289013750t" region="region0" style="style0">야, 그냥 네 발로 나갔다 생각해<br/>네 발로</p>
+<p xml:id="subtitle833" begin="25294018750t" end="25303194582t" region="region0" style="style0">[태오가 숨을 후 내뱉는다]</p>
+<p xml:id="subtitle834" begin="25304028750t" end="25318209582t" region="region0" style="style0">(훈)<br/>하, 됐어</p>
+<p xml:id="subtitle835" begin="25324882916t" end="25342817500t" region="region0" style="style0">지금은 허세 부리기 싫어</p>
+<p xml:id="subtitle836" begin="25419977916t" end="25461686250t" region="region0" style="style0">저기압일수록 고기 앞으로 가라!</p>
+<p xml:id="subtitle837" begin="25469193750t" end="25482957500t" region="region0" style="style0">그런 말도 있잖아</p>
+<p xml:id="subtitle838" begin="25483791666t" end="25497555416t" region="region0" style="style0">(태오)<br/>나가서 먹자, 어?</p>
+<p xml:id="subtitle839" begin="25506731250t" end="25516324166t" region="region0" style="style0">태오야</p>
+<p xml:id="subtitle840" begin="25527585416t" end="25545102916t" region="region0" style="style0">네 마음 진짜 고마운데</p>
+<p xml:id="subtitle841" begin="25553444582t" end="25568042500t" region="region0" style="style0">나 진짜 혼자 있고 싶다</p>
+<p xml:id="subtitle842" begin="25600575000t" end="25610585000t" region="region0" style="style0">[한숨]</p>
+<p xml:id="subtitle843" begin="25685242916t" end="25695670000t" region="region0" style="style0">[한숨]</p>
+<p xml:id="subtitle844" begin="25882523332t" end="25892116250t" region="region0" style="style0">[가린이 숨을 카 내뱉는다]</p>
+<p xml:id="subtitle845" begin="25898372500t" end="25915890000t" region="region0" style="style0">(세현)<br/>저쪽은 갑자기 왜 그래요?</p>
+<p xml:id="subtitle846" begin="25916724166t" end="25925065832t" region="region0" style="style0">[한숨]</p>
+<p xml:id="subtitle847" begin="25928402500t" end="25967191250t" region="region0" style="style0">얼마 전에 오디션 합격해서<br/>공연 준비하고 있었는데</p>
+<p xml:id="subtitle848" begin="25971779166t" end="25987628332t" region="region0" style="style0">뭐가 잘 안됐나 봐요</p>
+<p xml:id="subtitle849" begin="26023497500t" end="26032673332t" region="region0" style="style0">[숨을 카 내뱉는다]</p>
+<p xml:id="subtitle850" begin="26033507500t" end="26071462082t" region="region0" style="style0">딱 봐도 배우 상은 아니던데<br/>빨리 딴 길을 찾지</p>
+<p xml:id="subtitle851" begin="26074798750t" end="26084391666t" region="region0" style="style0">왜요?</p>
+<p xml:id="subtitle852" begin="26090647916t" end="26115255832t" region="region0" style="style0">(가린)<br/>아니, 내가 본 어떤 사람보다<br/>배우 같은데</p>
+<p xml:id="subtitle853" begin="26120260832t" end="26142366250t" region="region0" style="style0">훈이 노래 못 들어 보셨잖아요</p>
+<p xml:id="subtitle854" begin="26143200416t" end="26164888750t" region="region0" style="style0">훈이 노래 진짜 잘 불러요</p>
+<p xml:id="subtitle855" begin="26165722916t" end="26189913750t" region="region0" style="style0">여기가 막 파르르 떨릴 정도로</p>
+<p xml:id="subtitle856" begin="26193250416t" end="26202426250t" region="region0" style="style0">[어이없는 숨소리]</p>
+<p xml:id="subtitle857" begin="26208682500t" end="26227868332t" region="region0" style="style0">아, 네</p>
+<p xml:id="subtitle858" begin="26237044166t" end="26254144582t" region="region0" style="style0">재능도 있겠다, 어?</p>
+<p xml:id="subtitle859" begin="26254978750t" end="26282506250t" region="region0" style="style0">집 뛰쳐나올 정도로 각오도 돼 있겠다</p>
+<p xml:id="subtitle860" begin="26285842916t" end="26312536250t" region="region0" style="style0">훈이는 무조건 성공할 거예요</p>
+<p xml:id="subtitle861" begin="26313370416t" end="26339229582t" region="region0" style="style0">집을 뛰쳐나왔어요?</p>
+<p xml:id="subtitle862" begin="26341315000t" end="26365505832t" region="region0" style="style0">네, 팬티 바람으로요</p>
+<p xml:id="subtitle863" begin="26373013332t" end="26390113750t" region="region0" style="style0">저도 처음에는</p>
+<p xml:id="subtitle864" begin="26390947916t" end="26438912500t" region="region0" style="style0">저게 책에서 봤던 성도착증 환자인가<br/>좀 걱정했었는데</p>
+<p xml:id="subtitle865" begin="26440580832t" end="26471862082t" region="region0" style="style0">알고 보니까 진짜 좋은 애예요</p>
+<p xml:id="subtitle866" begin="26472696250t" end="26488128332t" region="region0" style="style0">집에 사는 누구보다도</p>
+<p xml:id="subtitle867" begin="26488962500t" end="26517324166t" region="region0" style="style0">저도 많이 챙겨 주고 또 어, 어</p>
+<p xml:id="subtitle868" begin="26518158332t" end="26539429582t" region="region0" style="style0">(가린)<br/>덕분에 신기한 경험도 많이 하고</p>
+<p xml:id="subtitle869" begin="26553610416t" end="26569876666t" region="region0" style="style0">'집에 사는 누구보다'?</p>
+<p xml:id="subtitle870" begin="26596987082t" end="26605745832t" region="region0" style="style0">네?</p>
+<p xml:id="subtitle871" begin="26621177916t" end="26631605000t" region="region0" style="style0">(가린)<br/>아, 아니요</p>
+<p xml:id="subtitle872" begin="26636192916t" end="26677484166t" region="region0" style="style0">저, 저는요<br/>저는 부모님, 우리 부모님이랑 살고요</p>
+<p xml:id="subtitle873" begin="26685408750t" end="26703343332t" region="region0" style="style0">아까는 나와서 산다면서?</p>
+<p xml:id="subtitle874" begin="26705845832t" end="26716690000t" region="region0" style="style0">[의미심장한 음악]<br/>[놀라는 숨소리]</p>
+<p xml:id="subtitle875" begin="26738795416t" end="26756312916t" region="region0" style="style0">생각해 보니까 요즘 집에</p>
+<p xml:id="subtitle876" begin="26774664582t" end="26792182082t" region="region0" style="style0">쥐가 나오는 것 같아서</p>
+<p xml:id="subtitle877" begin="26799272500t" end="26808865416t" region="region0" style="style0">그러니까</p>
+<p xml:id="subtitle878" begin="26827634166t" end="26837227082t" region="region0" style="style0">한 명은</p>
+<p xml:id="subtitle879" begin="26849739582t" end="26866840000t" region="region0" style="style0">집을 뛰쳐나왔고</p>
+<p xml:id="subtitle880" begin="26879769582t" end="26903126250t" region="region0" style="style0">한 명은 본가에서 나와서 살고</p>
+<p xml:id="subtitle881" begin="26923146250t" end="26933573332t" region="region0" style="style0">한 명은</p>
+<p xml:id="subtitle882" begin="26942332082t" end="26955678749t" region="region0" style="style0">지금은 어디서 지내요?</p>
+<p xml:id="subtitle883" begin="26974864582t" end="26999055416t" region="region0" style="style0">그냥 친구네에서 지내고 있어요</p>
+<p xml:id="subtitle884" begin="27005728749t" end="27034090416t" region="region0" style="style0">송이 씨, 자료는 잘 받았죠?</p>
+<p xml:id="subtitle885" begin="27037009999t" end="27071627916t" region="region0" style="style0">네, 태오가 밤새 열심히 하더라고요</p>
+<p xml:id="subtitle886" begin="27103326249t" end="27112084999t" region="region0" style="style0">[딸꾹질한다]</p>
+<p xml:id="subtitle887" begin="27124180416t" end="27133773332t" region="region0" style="style0">너희들</p>
+<p xml:id="subtitle888" begin="27148788332t" end="27165471666t" region="region0" style="style0">다 같이 사는구나</p>
+<p xml:id="subtitle889" begin="27166305832t" end="27198838332t" region="region0" style="style0">[딸꾹질한다]</p>
+<p xml:id="subtitle890" begin="27315204582t" end="27323963332t" region="region0" style="style0">[살짝 웃는다]</p>
+<p xml:id="subtitle891" begin="27328134166t" end="27339812499t" region="region0" style="style0">(도현)<br/>씁...</p>
+<p xml:id="subtitle892" begin="27412384999t" end="27424480416t" region="region0" style="style0">(송이)<br/>괜찮은데</p>
+<p xml:id="subtitle893" begin="27431987916t" end="27443249166t" region="region0" style="style0">(도현)<br/>입고 있어</p>
+<p xml:id="subtitle894" begin="27494550416t" end="27504977499t" region="region0" style="style0">괜찮아?</p>
+<p xml:id="subtitle895" begin="27517907082t" end="27527082916t" region="region0" style="style0">뭐가?</p>
+<p xml:id="subtitle896" begin="27535007499t" end="27559198332t" region="region0" style="style0">아까부터 기분 안 좋은 것 같아서</p>
+<p xml:id="subtitle897" begin="27602157916t" end="27615504582t" region="region0" style="style0">무슨 생각 해?</p>
+<p xml:id="subtitle898" begin="27655544582t" end="27667222916t" region="region0" style="style0">[도현의 한숨]</p>
+<p xml:id="subtitle899" begin="27696001666t" end="27706011666t" region="region0" style="style0">네가</p>
+<p xml:id="subtitle900" begin="27723529166t" end="27738127082t" region="region0" style="style0">나한테 말도 없이</p>
+<p xml:id="subtitle901" begin="27747719999t" end="27770242499t" region="region0" style="style0">태오랑 둘이 나가서 기분이 안 좋았어</p>
+<p xml:id="subtitle902" begin="27812367916t" end="27833639166t" region="region0" style="style0">근데 이런 일로 기분이 상한다는 게</p>
+<p xml:id="subtitle903" begin="27851990832t" end="27866588749t" region="region0" style="style0">너무 이상하고 유치해</p>
+<p xml:id="subtitle904" begin="27892030832t" end="27903709166t" region="region0" style="style0">너랑 있으면</p>
+<p xml:id="subtitle905" begin="27922894999t" end="27956678749t" region="region0" style="style0">내가 몰랐던 감정들이<br/>자꾸 비집고 들어와</p>
+<p xml:id="subtitle906" begin="27960432499t" end="27980869582t" region="region0" style="style0">[잔잔한 음악]</p>
+<p xml:id="subtitle907" begin="28004643332t" end="28020075416t" region="region0" style="style0">(도현)<br/>우리 데이트했던 날</p>
+<p xml:id="subtitle908" begin="28054693332t" end="28073879166t" region="region0" style="style0">네가 비 맞고 집에 들어간 거 알아</p>
+<p xml:id="subtitle909" begin="28088059999t" end="28097652916t" region="region0" style="style0">(송이)<br/>그게...</p>
+<p xml:id="subtitle910" begin="28098487082t" end="28108079999t" region="region0" style="style0">(도현)<br/>알아</p>
+<p xml:id="subtitle911" begin="28116838749t" end="28133104999t" region="region0" style="style0">네가 왜 얘기 안 했는지</p>
+<p xml:id="subtitle912" begin="28161883749t" end="28194833332t" region="region0" style="style0">이성적으로 생각해 보면<br/>화날 일이 아니야</p>
+<p xml:id="subtitle913" begin="28201506666t" end="28224029166t" region="region0" style="style0">내가 네 입장이었어도<br/>똑같이 얘기 안 했어</p>
+<p xml:id="subtitle914" begin="28254059166t" end="28270325416t" region="region0" style="style0">자꾸 나를 괴롭히는 건</p>
+<p xml:id="subtitle915" begin="28282420832t" end="28296184582t" region="region0" style="style0">그날의 네가 아니라</p>
+<p xml:id="subtitle916" begin="28330802499t" end="28350822499t" region="region0" style="style0">지금까지의 너와 태오의 역사야</p>
+<p xml:id="subtitle917" begin="28379184166t" end="28399204166t" region="region0" style="style0">네가 태오랑 오래된 친구인 게 싫어</p>
+<p xml:id="subtitle918" begin="28417972916t" end="28437992916t" region="region0" style="style0">네가 태오네 집에 사는 것도 싫고</p>
+<p xml:id="subtitle919" begin="28450088332t" end="28473027916t" region="region0" style="style0">너를 태오네 집에<br/>바래다줘야 되는 것도 싫어</p>
+<p xml:id="subtitle920" begin="28529334166t" end="28553524999t" region="region0" style="style0">몰랐어, 나는...</p>
+<p xml:id="subtitle921" begin="28554359166t" end="28571876666t" region="region0" style="style0">점점 더 싫어질 것 같고</p>
+<p xml:id="subtitle922" begin="28578967082t" end="28600655416t" region="region0" style="style0">자꾸 감정적으로 행동하게 될 것 같아</p>
+<p xml:id="subtitle923" begin="28645700416t" end="28661966666t" region="region0" style="style0">근데 그게 너무 낯설고</p>
+<p xml:id="subtitle924" begin="28672810832t" end="28683654999t" region="region0" style="style0">나 같지가 않아</p>
+<p xml:id="subtitle925" begin="28714102082t" end="28725363332t" region="region0" style="style0">너랑 있으면</p>
+<p xml:id="subtitle926" begin="28757895832t" end="28773744999t" region="region0" style="style0">내 세상이 너무 흔들려</p>
+<p xml:id="subtitle927" begin="28952673749t" end="28983537916t" region="region0" style="style0">(태오)<br/>아이씨, 얘는 또 어디 간 거야?</p>
+<p xml:id="subtitle928" begin="29016487499t" end="29033587916t" region="region0" style="style0">(도현)<br/>아, 얘기하지 말걸</p>
+<p xml:id="subtitle929" begin="29039844166t" end="29055276249t" region="region0" style="style0">이제 네 얼굴 어떻게 보냐?</p>
+<p xml:id="subtitle930" begin="29080718332t" end="29091979582t" region="region0" style="style0">[도현의 한숨]</p>
+<p xml:id="subtitle931" begin="29104909166t" end="29130351249t" region="region0" style="style0">(송이)<br/>말한 사람은 기분이 어떨지 몰라도</p>
+<p xml:id="subtitle932" begin="29132436666t" end="29152873749t" region="region0" style="style0">듣는 사람은 좋았어</p>
+<p xml:id="subtitle933" begin="29160798332t" end="29169974166t" region="region0" style="style0">[송이의 헛기침]</p>
+<p xml:id="subtitle934" begin="29177064582t" end="29206260416t" region="region0" style="style0">[도현을 흉내 내며]<br/>너랑 있으면 내 세상이 너무 흔들려</p>
+<p xml:id="subtitle935" begin="29210431249t" end="29221275416t" region="region0" style="style0">[함께 웃는다]</p>
+<p xml:id="subtitle936" begin="29222109582t" end="29249219999t" region="region0" style="style0">와, 나 남자한테 이런 말도 듣고</p>
+<p xml:id="subtitle937" begin="29252139582t" end="29269657082t" region="region0" style="style0">나 이번 생은 완전 성공인데?</p>
+<p xml:id="subtitle938" begin="29279249999t" end="29296350416t" region="region0" style="style0">[송이의 웃음]</p>
+<p xml:id="subtitle939" begin="29317621666t" end="29341395416t" region="region0" style="style0">태오랑 내 역사는 어쩔 수 없어</p>
+<p xml:id="subtitle940" begin="29348485832t" end="29376013332t" region="region0" style="style0">역사란 게 그런 거잖아<br/>바꿀 수 없는 거</p>
+<p xml:id="subtitle941" begin="29390611249t" end="29399787082t" region="region0" style="style0">그렇지</p>
+<p xml:id="subtitle942" begin="29412299582t" end="29422309582t" region="region0" style="style0">그래도</p>
+<p xml:id="subtitle943" begin="29449002916t" end="29468605832t" region="region0" style="style0">내 연애의 역사는 네 거야</p>
+<p xml:id="subtitle944" begin="29471525416t" end="29489042916t" region="region0" style="style0">[부드러운 음악]</p>
+<p xml:id="subtitle945" begin="29489877082t" end="29506143332t" region="region0" style="style0">그걸로 만족하면 안 될까?</p>
+<p xml:id="subtitle946" begin="29529499999t" end="29539092916t" region="region0" style="style0">[살짝 웃는다]</p>
+<p xml:id="subtitle947" begin="29849402916t" end="29874427916t" region="region0" style="style0">[태오의 추위에 떠는 신음]</p>
+<p xml:id="subtitle948" begin="29882769582t" end="29893613749t" region="region0" style="style0">[한숨]</p>
+<p xml:id="subtitle949" begin="29896116249t" end="29904457916t" region="region0" style="style0">[코를 훌쩍인다]</p>
+<p xml:id="subtitle950" begin="29906126249t" end="29931568332t" region="region0" style="style0">아, 여기까지 와서<br/>신경 쓸 게 뭐 있다고</p>
+<p xml:id="subtitle951" begin="29936990416t" end="29946583332t" region="region0" style="style0">[코를 훌쩍인다]</p>
+<p xml:id="subtitle952" begin="30025829166t" end="30045849166t" region="region0" style="style0">[감성적인 음악]</p>
+<p xml:id="subtitle953" begin="30070874166t" end="30087140416t" region="region0" style="style0">[송이와 도현의 웃음]</p>
+<p xml:id="subtitle954" begin="30093813749t" end="30103823749t" region="region0" style="style0">(도현)<br/>날씨 좋다</p>
+<p xml:id="subtitle955" begin="30112582499t" end="30121341249t" region="region0" style="style0">(송이)<br/>응</p>
+<p xml:id="subtitle956" begin="30133019582t" end="30142612499t" region="region0" style="style0">[도현의 웃음]</p>
+<p xml:id="subtitle957" begin="30253556666t" end="30276496249t" region="region0" style="style0">(태오)<br/>뭐가 뭔지 모르겠는 이 감정을</p>
+<p xml:id="subtitle958" begin="30286506249t" end="30304440832t" region="region0" style="style0">언젠가 느낀 적 있었다</p>
+<p xml:id="subtitle959" begin="30348234582t" end="30368671666t" region="region0" style="style0">(태오)<br/>그때 느낀 감정이 뭔지</p>
+<p xml:id="subtitle960" begin="30382435416t" end="30394530832t" region="region0" style="style0">이제 알겠다</p>
+<p xml:id="subtitle961" begin="30427897499t" end="30440827082t" region="region0" style="style0">(태오)<br/>한송이에게</p>
+<p xml:id="subtitle962" begin="30448751666t" end="30473776666t" region="region0" style="style0">점점 내가 모르는 시간들이 생긴다</p>
+<p xml:id="subtitle963" begin="30586806249t" end="30626846249t" region="region0" style="style0">한송이의 세상에서<br/>내가 작아지는 게 싫다</p>
+<p xml:id="subtitle964" begin="30740292916t" end="30762815416t" region="region0" style="style0">나도 설명할 수 없는 이 감정을</p>
+<p xml:id="subtitle965" begin="30784920832t" end="30801604166t" region="region0" style="style0">이제 어떡해야 될까?</p>
+<p xml:id="subtitle966" begin="30853322499t" end="30873342499t" region="region1" style="style0">[감성적인 음악]</p>
+<p xml:id="subtitle967" begin="31247466249t" end="31267486249t" region="region0" style="style0">자막: 최혜란</p>
+</div>
+</body>
+</tt>

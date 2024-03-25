@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt ttp:contentProfiles="http://www.w3.org/ns/ttml/profile/imsc1.1/text" xmlns="http://www.w3.org/ns/ttml" xmlns:nttm="http://www.netflix.com/ns/ttml#metadata" xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:xml="http://www.w3.org/XML/1998/namespace" ttp:tickRate="10000000" ttp:timeBase="media" xml:lang="ko">
+<head>
+<metadata nttm:Smpte24TimingAdjusted="true" nttm:movieID="81193265" nttm:packageID="1638114" nttm:schemaVersion="0" nttm:textType="CC" nttm:uuid="5c3dd405-7f03-46b8-ab13-ed6707e76601"/>
+<styling>
+<initial tts:backgroundColor="transparent" tts:color="white" tts:displayAlign="after" tts:extent="80.000% 80.000%" tts:fontSize="6.000rh" tts:opacity="1.000" tts:origin="10.000% 10.000%" tts:showBackground="whenActive" tts:textAlign="center" tts:textOutline="black 0.300rh" tts:writingMode="lrtb"/>
+<style xml:id="style0" tts:fontWeight="normal"/>
+</styling>
+<layout>
+<region xml:id="region0" tts:displayAlign="after" tts:extent="80.000% 80.000%" tts:origin="10.000% 10.000%"/>
+</layout>
+</head>
+<body>
+<div>
+<p xml:id="subtitle1" begin="4170832t" end="27527499t" region="region0" style="style0">[주제곡]</p>
+<p xml:id="subtitle2" begin="640640000t" end="651901250t" region="region0" style="style0">[자동차 엔진음]</p>
+<p xml:id="subtitle3" begin="677343332t" end="686936250t" region="region0" style="style0">[드라카의 기합]</p>
+<p xml:id="subtitle4" begin="689855832t" end="719885832t" region="region0" style="style0">(진)</p>
+<p xml:id="subtitle5" begin="732815416t" end="752835416t" region="region0" style="style0">[밝은 음악]</p>
+<p xml:id="subtitle6" begin="786202082t" end="798714582t" region="region0" style="style0">(쿠비)<br/>잘했어, 진</p>
+<p xml:id="subtitle7" begin="799548750t" end="817900416t" region="region0" style="style0">이걸로 2연승이네요</p>
+<p xml:id="subtitle8" begin="818734582t" end="843342499t" region="region0" style="style0">이 기세로 예선 통과하는 거야</p>
+<p xml:id="subtitle9" begin="844176666t" end="863779582t" region="region0" style="style0">아니, 이대로는 안 돼</p>
+<p xml:id="subtitle10" begin="866282082t" end="877543332t" region="region0" style="style0">[함께 놀란다]</p>
+<p xml:id="subtitle11" begin="880045832t" end="902151249t" region="region0" style="style0">[긴장되는 음악]<br/>드라카, 주행이 왜 그래?<br/>[드라카의 의아한 신음]</p>
+<p xml:id="subtitle12" begin="902985416t" end="921337082t" region="region0" style="style0">바람에 이리저리 휘둘리잖아!</p>
+<p xml:id="subtitle13" begin="924673749t" end="933015416t" region="region0" style="style0">[긴장하는 신음]</p>
+<p xml:id="subtitle14" begin="943859582t" end="968050416t" region="region0" style="style0">[드라카의 놀라는 신음]</p>
+<p xml:id="subtitle15" begin="968884582t" end="984316666t" region="region0" style="style0">[타이어 마찰음]<br/>[드라카의 힘겨운 신음]</p>
+<p xml:id="subtitle16" begin="987653332t" end="1003919582t" region="region0" style="style0">[드라카가 화낸다]<br/>[진의 놀라는 신음]</p>
+<p xml:id="subtitle17" begin="1006422082t" end="1020185832t" region="region0" style="style0">[무거운 음악]<br/>(세나)<br/>'바람의 방향을 보고'</p>
+<p xml:id="subtitle18" begin="1021019999t" end="1051467082t" region="region0" style="style0">'지시를 내리는 게<br/>네 일이잖아'라는데요</p>
+<p xml:id="subtitle19" begin="1053135416t" end="1078160416t" region="region0" style="style0">바람이 어디로 불지 내가 어떻게 알아?</p>
+<p xml:id="subtitle20" begin="1080662916t" end="1092341250t" region="region0" style="style0">하지만</p>
+<p xml:id="subtitle21" begin="1096512082t" end="1105270832t" region="region0" style="style0">[세나의 의아한 신음]</p>
+<p xml:id="subtitle22" begin="1106105000t" end="1155737916t" region="region0" style="style0">(조크 경)<br/>저 라이딘이라는 선수는<br/>모든 걸 훤히 아는 것 같더군요</p>
+<p xml:id="subtitle23" begin="1165330832t" end="1174089582t" region="region0" style="style0">[루다의 기합]</p>
+<p xml:id="subtitle24" begin="1174923750t" end="1183265416t" region="region0" style="style0">[드라카의 힘주는 신음]</p>
+<p xml:id="subtitle25" begin="1186602082t" end="1206622082t" region="region0" style="style0">글쎄, 안 될 텐데</p>
+<p xml:id="subtitle26" begin="1235400832t" end="1244159582t" region="region0" style="style0">[놀라는 신음]</p>
+<p xml:id="subtitle27" begin="1250415832t" end="1269184582t" region="region0" style="style0">[드라카의 힘겨운 신음]</p>
+<p xml:id="subtitle28" begin="1273355416t" end="1282531250t" region="region0" style="style0">[비명]</p>
+<p xml:id="subtitle29" begin="1286285000t" end="1318400416t" region="region0" style="style0">역시 바람 읽기의 비법인가?</p>
+<p xml:id="subtitle30" begin="1320902916t" end="1343425416t" region="region0" style="style0">(진)<br/>좋아, 가서 물어보고 올게<br/>[루이의 의아한 신음]</p>
+<p xml:id="subtitle31" begin="1344259582t" end="1352601250t" region="region0" style="style0">[진의 다급한 숨소리]</p>
+<p xml:id="subtitle32" begin="1353435416t" end="1368450416t" region="region0" style="style0">(세나)<br/>잠깐만요, 진!</p>
+<p xml:id="subtitle33" begin="1370118750t" end="1401817082t" region="region0" style="style0">(로라)<br/>그렇게 쉽게 가르쳐 줄 리가 없잖아!<br/>[페네의 걱정스러운 신음]</p>
+<p xml:id="subtitle34" begin="1406822082t" end="1423922500t" region="region0" style="style0">[사람들이 시끌벅적하다]</p>
+<p xml:id="subtitle35" begin="1444359582t" end="1453952500t" region="region0" style="style0">좋아</p>
+<p xml:id="subtitle36" begin="1457289166t" end="1469801666t" region="region0" style="style0">(로라)<br/>정말이야?</p>
+<p xml:id="subtitle37" begin="1475223750t" end="1495660832t" region="region0" style="style0">단, 바람 읽기를 하려면</p>
+<p xml:id="subtitle38" begin="1496495000t" end="1523188332t" region="region0" style="style0">실프의 속삭임을<br/>들을 수 있어야 하거든</p>
+<p xml:id="subtitle39" begin="1525273750t" end="1534866666t" region="region0" style="style0">(진)<br/>실프?</p>
+<p xml:id="subtitle40" begin="1537369166t" end="1566565000t" region="region0" style="style0">(세나)<br/>바람을 다스리는 정령의 이름인가요?</p>
+<p xml:id="subtitle41" begin="1568650416t" end="1579911666t" region="region0" style="style0">[손가락을 딱 튕기며]<br/>빙고</p>
+<p xml:id="subtitle42" begin="1584499582t" end="1614946666t" region="region0" style="style0">어, 바람 읽기?</p>
+<p xml:id="subtitle43" begin="1624956666t" end="1662494166t" region="region0" style="style0">실프의 속삭임을 들으려면<br/>혹독한 훈련이 필요하지</p>
+<p xml:id="subtitle44" begin="1664996666t" end="1691272916t" region="region0" style="style0">너희 그 정도 각오는 돼 있겠지?</p>
+<p xml:id="subtitle45" begin="1692524166t" end="1702534166t" region="region0" style="style0">물론이지!</p>
+<p xml:id="subtitle46" begin="1703368332t" end="1715046666t" region="region0" style="style0">드라!</p>
+<p xml:id="subtitle47" begin="1719217499t" end="1747996249t" region="region0" style="style0">(미하엘)<br/>음, 어? 왜 그래, 로빈?<br/>[무거운 음악]</p>
+<p xml:id="subtitle48" begin="1750081666t" end="1782197082t" region="region0" style="style0">어, 아니, 아무것도 아니야</p>
+<p xml:id="subtitle49" begin="1831412916t" end="1840588749t" region="region0" style="style0">[경쾌한 음악]</p>
+<p xml:id="subtitle50" begin="1841422916t" end="1850181666t" region="region0" style="style0">(진)<br/>몬카트</p>
+<p xml:id="subtitle51" begin="1853518332t" end="1896477916t" region="region0" style="style0">그것은 몬스터가 레이싱 카트를 타고<br/>경쟁하는 모터스포츠다</p>
+<p xml:id="subtitle52" begin="1906070832t" end="1935266666t" region="region0" style="style0">메가로이드로 변신하여<br/>승리를 차지해라!</p>
+<p xml:id="subtitle53" begin="1951532916t" end="1969467499t" region="region0" style="style0">가라, 드라카!</p>
+<p xml:id="subtitle54" begin="1976974999t" end="1985733749t" region="region0" style="style0">[자동차 가속음]</p>
+<p xml:id="subtitle55" begin="2001582916t" end="2026607916t" region="region0" style="style0">[바람이 휭 분다]<br/>[웅장한 음악]</p>
+<p xml:id="subtitle56" begin="2051215832t" end="2063728332t" region="region0" style="style0">[드라카의 긴장하는 신음]</p>
+<p xml:id="subtitle57" begin="2064562499t" end="2080828749t" region="region0" style="style0">[진의 떨리는 신음]</p>
+<p xml:id="subtitle58" begin="2083331249t" end="2103351249t" region="region0" style="style0">[익살스러운 음악]</p>
+<p xml:id="subtitle59" begin="2110441666t" end="2127959166t" region="region0" style="style0">[진의 떨리는 신음]</p>
+<p xml:id="subtitle60" begin="2135883749t" end="2152984166t" region="region0" style="style0">[루다의 의아한 신음]<br/>[드라카가 침을 꿀꺽 삼킨다]</p>
+<p xml:id="subtitle61" begin="2155069582t" end="2188853332t" region="region0" style="style0">이러면 정말<br/>실프의 속삭임을 들을 수 있는 거지?</p>
+<p xml:id="subtitle62" begin="2189687500t" end="2221802916t" region="region0" style="style0">(라이딘)<br/>그래, 온몸으로 바람을 느끼는 거야<br/>[진의 겁먹은 신음]</p>
+<p xml:id="subtitle63" begin="2223888332t" end="2240571666t" region="region0" style="style0">자, 눈을 감아</p>
+<p xml:id="subtitle64" begin="2246410832t" end="2276023750t" region="region0" style="style0">(라이딘)<br/>마음의 날개를 펼치고, 그럼 간다</p>
+<p xml:id="subtitle65" begin="2279360416t" end="2296877916t" region="region0" style="style0">하나, 둘!</p>
+<p xml:id="subtitle66" begin="2297712082t" end="2318149166t" region="region0" style="style0">[진과 드라카의 비명]</p>
+<p xml:id="subtitle67" begin="2323571250t" end="2333581250t" region="region0" style="style0">[쿠비와 로라의 놀라는 신음]</p>
+<p xml:id="subtitle68" begin="2359440416t" end="2381962916t" region="region0" style="style0">[진과 드라카의 비명]</p>
+<p xml:id="subtitle69" begin="2382797082t" end="2419500416t" region="region0" style="style0">저렇게 해서 정말 바람의 흐름을<br/>읽을 수 있는 건가?<br/>[쿠비의 걱정스러운 신음]</p>
+<p xml:id="subtitle70" begin="2420334582t" end="2436600832t" region="region0" style="style0">[의아해한다]</p>
+<p xml:id="subtitle71" begin="2437435000t" end="2466630832t" region="region0" style="style0">하지만 다 거짓말은 아닌 것 같아요</p>
+<p xml:id="subtitle72" begin="2467465000t" end="2511675832t" region="region0" style="style0">실프는 인간에게 계시를 준다고<br/>알려져 있으니까요</p>
+<p xml:id="subtitle73" begin="2512927082t" end="2524188332t" region="region0" style="style0">계시?</p>
+<p xml:id="subtitle74" begin="2528359166t" end="2565062500t" region="region0" style="style0">번뜩임이라든가<br/>깨달음이라 해야 할까요?</p>
+<p xml:id="subtitle75" begin="2565896666t" end="2593841250t" region="region0" style="style0">그게 바람 읽기의 비법?</p>
+<p xml:id="subtitle76" begin="2594675416t" end="2608022082t" region="region0" style="style0">- (쿠비) 루이<br/>- (로라) 어?</p>
+<p xml:id="subtitle77" begin="2608856250t" end="2630127500t" region="region0" style="style0">너도 한번 해 보지 그래?</p>
+<p xml:id="subtitle78" begin="2630961666t" end="2642640000t" region="region0" style="style0">[익살스러운 효과음]<br/>[놀라는 신음]</p>
+<p xml:id="subtitle79" begin="2643474166t" end="2651815832t" region="region0" style="style0">사양하겠다!</p>
+<p xml:id="subtitle80" begin="2652650000t" end="2661408750t" region="region0" style="style0">[루이의 헛기침]</p>
+<p xml:id="subtitle81" begin="2662242916t" end="2686016666t" region="region0" style="style0">이런 건 사양하지 마세요<br/>어서 준비를...<br/>[루이가 다리를 덜덜 떤다]</p>
+<p xml:id="subtitle82" begin="2686850832t" end="2697695000t" region="region0" style="style0">[세나와 조크 경의 놀라는 신음]</p>
+<p xml:id="subtitle83" begin="2698529166t" end="2713961250t" region="region0" style="style0">[익살스러운 음악]<br/>[조크 경의 황당한 신음]</p>
+<p xml:id="subtitle84" begin="2714795416t" end="2726890832t" region="region0" style="style0">[세나의 황당한 신음]</p>
+<p xml:id="subtitle85" begin="2744408332t" end="2757755000t" region="region0" style="style0">[활기찬 음악]<br/>어때, 두 사람?</p>
+<p xml:id="subtitle86" begin="2761925832t" end="2784031250t" region="region0" style="style0">실프의 속삭임이 들렸어?</p>
+<p xml:id="subtitle87" begin="2786950832t" end="2802382916t" region="region0" style="style0">(진)<br/>전혀!<br/>[드라카의 비명]</p>
+<p xml:id="subtitle88" begin="2803634166t" end="2814895416t" region="region0" style="style0">[진의 비명]</p>
+<p xml:id="subtitle89" begin="2815729582t" end="2842422916t" region="region0" style="style0">바람 소리밖에 들리지 않아!</p>
+<p xml:id="subtitle90" begin="2843257082t" end="2856603750t" region="region0" style="style0">[힘겨운 신음]</p>
+<p xml:id="subtitle91" begin="2861608750t" end="2893724166t" region="region0" style="style0">좋아! 그럼 다음으로 가 볼까?</p>
+<p xml:id="subtitle92" begin="2895809582t" end="2909573332t" region="region0" style="style0">[비명]</p>
+<p xml:id="subtitle93" begin="2913744166t" end="2937935000t" region="region0" style="style0">[진과 드라카의 비명]</p>
+<p xml:id="subtitle94" begin="2962542916t" end="2989236250t" region="region0" style="style0">[큰 목소리로]<br/>어때? 들렸어?</p>
+<p xml:id="subtitle95" begin="2990070416t" end="3016763750t" region="region0" style="style0">[익살스러운 음악]<br/>(진)<br/>들리긴 뭐가 들려, 이 사기꾼아!</p>
+<p xml:id="subtitle96" begin="3017597916t" end="3033030000t" region="region0" style="style0">[해롱거리는 신음]</p>
+<p xml:id="subtitle97" begin="3039703332t" end="3055552500t" region="region0" style="style0">저거 재미있겠는데?</p>
+<p xml:id="subtitle98" begin="3056386666t" end="3075155416t" region="region0" style="style0">몬챠, 우리도 하자!</p>
+<p xml:id="subtitle99" begin="3075989582t" end="3094758332t" region="region0" style="style0">[몬챠가 호응한다]</p>
+<p xml:id="subtitle100" begin="3100597500t" end="3121034582t" region="region0" style="style0">[숨을 크게 들이켠다]</p>
+<p xml:id="subtitle101" begin="3128542082t" end="3137300832t" region="region0" style="style0">[익살스러운 효과음]</p>
+<p xml:id="subtitle102" begin="3140220416t" end="3162325832t" region="region0" style="style0">[쿠비의 웃음]<br/>[함께 놀란다]</p>
+<p xml:id="subtitle103" begin="3170250416t" end="3180677500t" region="region0" style="style0">[진과 드라카의 비명]</p>
+<p xml:id="subtitle104" begin="3181511666t" end="3223637082t" region="region0" style="style0">(쿠비)<br/>우아, 경치가 끝내준단 말이지</p>
+<p xml:id="subtitle105" begin="3224471250t" end="3235315416t" region="region0" style="style0">우아!</p>
+<p xml:id="subtitle106" begin="3238235000t" end="3265345416t" region="region0" style="style0">있잖아, 진짜 저렇게 하면</p>
+<p xml:id="subtitle107" begin="3266179582t" end="3288285000t" region="region0" style="style0">바람의 흐름을 알게 되는 거 맞을까?</p>
+<p xml:id="subtitle108" begin="3289119166t" end="3301631666t" region="region0" style="style0">글쎄요</p>
+<p xml:id="subtitle109" begin="3304134166t" end="3313310000t" region="region0" style="style0">[로라의 한숨]</p>
+<p xml:id="subtitle110" begin="3322902916t" end="3342088750t" region="region0" style="style0">[웅장한 음악]<br/>[관중들의 환호]</p>
+<p xml:id="subtitle111" begin="3349596250t" end="3373787082t" region="region0" style="style0">[관중들의 환호]</p>
+<p xml:id="subtitle112" begin="3380877499t" end="3390470416t" region="region0" style="style0">[레오의 힘주는 신음]</p>
+<p xml:id="subtitle113" begin="3421751666t" end="3441354582t" region="region0" style="style0">[타이어 마찰음]<br/>(심판 몬스터)<br/>골!</p>
+<p xml:id="subtitle114" begin="3442188749t" end="3452198749t" region="region0" style="style0">[골인 신호음]</p>
+<p xml:id="subtitle115" begin="3453032916t" end="3470967499t" region="region0" style="style0">B 블록의 미하엘 선수</p>
+<p xml:id="subtitle116" begin="3471801666t" end="3496409582t" region="region0" style="style0">이것으로 무패 4연승 행진!</p>
+<p xml:id="subtitle117" begin="3497660832t" end="3528107916t" region="region0" style="style0">그야말로 푸른 번개 같은<br/>레오입니다!</p>
+<p xml:id="subtitle118" begin="3528942082t" end="3551047499t" region="region0" style="style0">[관중들의 환호]</p>
+<p xml:id="subtitle119" begin="3559806249t" end="3568564999t" region="region0" style="style0">[만족스러운 신음]</p>
+<p xml:id="subtitle120" begin="3598594999t" end="3611524582t" region="region0" style="style0">[로빈이 살짝 웃는다]</p>
+<p xml:id="subtitle121" begin="3612358749t" end="3621117499t" region="region0" style="style0">(로빈)<br/>어?</p>
+<p xml:id="subtitle122" begin="3629459166t" end="3650730416t" region="region0" style="style0">형, 굉장했어!</p>
+<p xml:id="subtitle123" begin="3654067082t" end="3666996666t" region="region0" style="style0">이 정도론 안 돼</p>
+<p xml:id="subtitle124" begin="3667830832t" end="3698694999t" region="region0" style="style0">여기선 아직<br/>만족스러운 주행을 못 하고 있으니까</p>
+<p xml:id="subtitle125" begin="3705785416t" end="3732478749t" region="region0" style="style0">[무거운 음악]<br/>(로빈)<br/>그래서 형이 굉장하다는 거야</p>
+<p xml:id="subtitle126" begin="3734981249t" end="3788367916t" region="region0" style="style0">형이 정말 이겨야 할 상대는<br/>다른 선수가 아니라 자기 자신이니까</p>
+<p xml:id="subtitle127" begin="3793789999t" end="3804634166t" region="region0" style="style0">[의아한 신음]</p>
+<p xml:id="subtitle128" begin="3810056249t" end="3824237082t" region="region0" style="style0">아무것도 아니야</p>
+<p xml:id="subtitle129" begin="3827990832t" end="3838417916t" region="region0" style="style0">로빈</p>
+<p xml:id="subtitle130" begin="3839252082t" end="3857186666t" region="region0" style="style0">내일은 드디어 우리 경기야</p>
+<p xml:id="subtitle131" begin="3861774582t" end="3887216666t" region="region0" style="style0">동생이라고 봐주는 거 없으니까 각오해</p>
+<p xml:id="subtitle132" begin="3891804582t" end="3921417499t" region="region0" style="style0">응, 나도 온 힘을 다할 거야</p>
+<p xml:id="subtitle133" begin="3958537916t" end="3993572916t" region="region0" style="style0">(로빈)<br/>하지만 이대로는 형을 이길 수 없어</p>
+<p xml:id="subtitle134" begin="3996909582t" end="4029024999t" region="region0" style="style0">라이딘이 말한<br/>바람 읽기의 비법을 알아내야 해</p>
+<p xml:id="subtitle135" begin="4098260832t" end="4107019582t" region="region0" style="style0">(로빈)<br/>어?</p>
+<p xml:id="subtitle136" begin="4114109999t" end="4124954166t" region="region0" style="style0">[치키의 의아한 신음]</p>
+<p xml:id="subtitle137" begin="4148310832t" end="4162908749t" region="region0" style="style0">뭔가를 찾고 있군요</p>
+<p xml:id="subtitle138" begin="4163742916t" end="4177089582t" region="region0" style="style0">[긴장되는 효과음]<br/>[로빈의 놀라는 신음]</p>
+<p xml:id="subtitle139" begin="4177923749t" end="4189184999t" region="region0" style="style0">어떻게 알았죠?</p>
+<p xml:id="subtitle140" begin="4194607082t" end="4240486249t" region="region0" style="style0">그렇게 버려진 강아지 같은<br/>표정을 짓고 있으면 다 알 수 있죠</p>
+<p xml:id="subtitle141" begin="4243822916t" end="4263008749t" region="region0" style="style0">내 표정이 그래?</p>
+<p xml:id="subtitle142" begin="4263842916t" end="4275104166t" region="region0" style="style0">[치키가 수긍한다]</p>
+<p xml:id="subtitle143" begin="4276772499t" end="4295541250t" region="region0" style="style0">눈에 의존해선 안 돼요</p>
+<p xml:id="subtitle144" begin="4300963332t" end="4335998332t" region="region0" style="style0">느끼는 거예요, 바람이 흐르는 길을<br/>[로빈의 놀라는 신음]</p>
+<p xml:id="subtitle145" begin="4338917916t" end="4357269582t" region="region0" style="style0">바람의 흐름?</p>
+<p xml:id="subtitle146" begin="4358103750t" end="4373952916t" region="region0" style="style0">[바람이 휭 분다]<br/>[힘겨운 신음]</p>
+<p xml:id="subtitle147" begin="4375204166t" end="4387299582t" region="region0" style="style0">[무거운 음악]<br/>[치키의 놀라는 신음]</p>
+<p xml:id="subtitle148" begin="4406902500t" end="4421917500t" region="region0" style="style0">[치키의 반가운 신음]</p>
+<p xml:id="subtitle149" begin="4422751666t" end="4452781666t" region="region0" style="style0">바람이 흘러가는 곳, 저기라면...</p>
+<p xml:id="subtitle150" begin="4456118332t" end="4469465000t" region="region0" style="style0">그렇구나!<br/>[반짝이는 효과음]</p>
+<p xml:id="subtitle151" begin="4474887082t" end="4486148332t" region="region0" style="style0">고맙습니다!</p>
+<p xml:id="subtitle152" begin="4486982500t" end="4502414582t" region="region0" style="style0">[로빈의 다급한 숨소리]<br/>[데니스가 살짝 웃는다]</p>
+<p xml:id="subtitle153" begin="4517429582t" end="4530776250t" region="region0" style="style0">(데니스)<br/>가자, 버렛</p>
+<p xml:id="subtitle154" begin="4531610416t" end="4540369166t" region="region0" style="style0">[버렛이 대답한다]</p>
+<p xml:id="subtitle155" begin="4544957082t" end="4559972082t" region="region0" style="style0">[바람이 휭 분다]</p>
+<p xml:id="subtitle156" begin="4560806250t" end="4573735832t" region="region0" style="style0">[치키가 격려한다]</p>
+<p xml:id="subtitle157" begin="4577906666t" end="4596258332t" region="region0" style="style0">[무거운 음악]<br/>[힘주는 신음]</p>
+<p xml:id="subtitle158" begin="4597092500t" end="4624202916t" region="region0" style="style0">(로빈)<br/>난 늘 형처럼 되고 싶었어</p>
+<p xml:id="subtitle159" begin="4640052082t" end="4670082082t" region="region0" style="style0">(미하엘)<br/>레오, 변신, 비트로이드!</p>
+<p xml:id="subtitle160" begin="4699695000t" end="4709287916t" region="region0" style="style0">[준비하는 신음]</p>
+<p xml:id="subtitle161" begin="4767679582t" end="4778106666t" region="region0" style="style0">[레오의 힘찬 기합]</p>
+<p xml:id="subtitle162" begin="4778940832t" end="4787699582t" region="region0" style="style0">[레오의 힘주는 신음]</p>
+<p xml:id="subtitle163" begin="4792704582t" end="4807719582t" region="region0" style="style0">[소란스럽게 싸운다]</p>
+<p xml:id="subtitle164" begin="4839417916t" end="4863608750t" region="region0" style="style0">[레오의 기합]<br/>[버키의 비명]</p>
+<p xml:id="subtitle165" begin="4869447916t" end="4888216666t" region="region0" style="style0">[버키의 힘겨운 신음]<br/>[레오의 힘찬 신음]</p>
+<p xml:id="subtitle166" begin="4889050832t" end="4922417500t" region="region0" style="style0">[관중들의 환호]<br/>(로빈)<br/>형은 경기를 하면 언제나 이겼어</p>
+<p xml:id="subtitle167" begin="4927422500t" end="4964542916t" region="region0" style="style0">[아이들이 기뻐한다]<br/>공부도, 운동도 마을에서 제일이었지</p>
+<p xml:id="subtitle168" begin="4967045416t" end="4993738750t" region="region0" style="style0">[미하엘의 한숨]<br/>(로라)<br/>미하엘, 정말 멋져!</p>
+<p xml:id="subtitle169" begin="4999995000t" end="5033778750t" region="region0" style="style0">미하엘이라면<br/>몬카트 기사가 될 수 있을 거야<br/>[미하엘의 심드렁한 신음]</p>
+<p xml:id="subtitle170" begin="5034612916t" end="5048793750t" region="region0" style="style0">[로라의 웃음]<br/>[로빈의 탄성]</p>
+<p xml:id="subtitle171" begin="5049627916t" end="5071316250t" region="region0" style="style0">나도 기사가 되고 싶어</p>
+<p xml:id="subtitle172" begin="5072150416t" end="5086331250t" region="region0" style="style0">(아이1)<br/>넌 안 돼</p>
+<p xml:id="subtitle173" begin="5087999582t" end="5111356250t" region="region0" style="style0">미하엘처럼 강하지 않잖아</p>
+<p xml:id="subtitle174" begin="5113441666t" end="5135547082t" region="region0" style="style0">(아이2)<br/>게다가 넌 몬스터도 없고</p>
+<p xml:id="subtitle175" begin="5136381250t" end="5147225416t" region="region0" style="style0">[무거운 음악]</p>
+<p xml:id="subtitle176" begin="5148059582t" end="5157235416t" region="region0" style="style0">[로빈의 시무룩한 신음]</p>
+<p xml:id="subtitle177" begin="5172250416t" end="5181843332t" region="region0" style="style0">[로빈의 한숨]</p>
+<p xml:id="subtitle178" begin="5206034166t" end="5234395832t" region="region0" style="style0">맞아, 난 형과는 달라</p>
+<p xml:id="subtitle179" begin="5239400832t" end="5269013750t" region="region0" style="style0">꼬맹이인 데다 머리도 좋지 않고</p>
+<p xml:id="subtitle180" begin="5269847916t" end="5296958332t" region="region0" style="style0">레오처럼 멋진 몬스터도 없고</p>
+<p xml:id="subtitle181" begin="5304882916t" end="5316978332t" region="region0" style="style0">[놀라는 신음]</p>
+<p xml:id="subtitle182" begin="5317812500t" end="5334495832t" region="region0" style="style0">[의미심장한 효과음]</p>
+<p xml:id="subtitle183" begin="5344922916t" end="5374118750t" region="region0" style="style0">어, 어, 뭐지?<br/>[익살스러운 음악]</p>
+<p xml:id="subtitle184" begin="5387882500t" end="5411656250t" region="region0" style="style0">(로빈)<br/>왜 이런 곳에 아이트의 알이...</p>
+<p xml:id="subtitle185" begin="5412490416t" end="5425002916t" region="region0" style="style0">[딸랑거리는 소리가 난다]</p>
+<p xml:id="subtitle186" begin="5429590832t" end="5439600832t" region="region0" style="style0">[웅장한 음악]<br/>[놀라는 신음]</p>
+<p xml:id="subtitle187" begin="5447525416t" end="5464625832t" region="region0" style="style0">[레오의 놀라는 신음]</p>
+<p xml:id="subtitle188" begin="5471716250t" end="5482143332t" region="region0" style="style0">[레오의 놀라는 신음]</p>
+<p xml:id="subtitle189" begin="5482977500t" end="5494238750t" region="region0" style="style0">[반가운 신음]<br/>[반짝이는 효과음]</p>
+<p xml:id="subtitle190" begin="5495490000t" end="5528022500t" region="region0" style="style0">[밝은 음악]<br/>어, 너 '치키'라고 한 거야?</p>
+<p xml:id="subtitle191" begin="5530525000t" end="5546791250t" region="region0" style="style0">[치키의 반가운 신음]</p>
+<p xml:id="subtitle192" begin="5547625416t" end="5558469582t" region="region0" style="style0">[로빈의 놀라는 신음]</p>
+<p xml:id="subtitle193" begin="5559303750t" end="5571399166t" region="region0" style="style0">[로빈의 웃음]</p>
+<p xml:id="subtitle194" begin="5572233332t" end="5596841250t" region="region0" style="style0">좋아, 넌 오늘부터 치키야</p>
+<p xml:id="subtitle195" begin="5597675416t" end="5617278332t" region="region0" style="style0">[치키의 기쁜 신음]<br/>[로빈의 웃음]</p>
+<p xml:id="subtitle196" begin="5627288332t" end="5645640000t" region="region0" style="style0">(로빈)<br/>그 후 형의 뒤를 따라</p>
+<p xml:id="subtitle197" begin="5646474166t" end="5663574582t" region="region0" style="style0">[밝은 음악]<br/>몬카트를 시작했지<br/>[로빈의 기합]</p>
+<p xml:id="subtitle198" begin="5698192500t" end="5741569166t" region="region0" style="style0">형이 몬카트 기사가 되기 위해<br/>마을을 떠나겠다고 결심했을 때</p>
+<p xml:id="subtitle199" begin="5743237500t" end="5762840416t" region="region0" style="style0">나도 함께 따라가기로 한 거야</p>
+<p xml:id="subtitle200" begin="5794955832t" end="5809970832t" region="region0" style="style0">[바람이 휭 분다]<br/>[로빈의 힘주는 신음]</p>
+<p xml:id="subtitle201" begin="5812056250t" end="5820397916t" region="region0" style="style0">[힘겨운 숨소리]</p>
+<p xml:id="subtitle202" begin="5821232082t" end="5860437916t" region="region0" style="style0">하지만 난 지금까지<br/>한 번도 형을 이긴 적이 없어<br/>[무거운 음악]</p>
+<p xml:id="subtitle203" begin="5866694166t" end="5881709166t" region="region0" style="style0">[치키가 격려한다]<br/>[로빈의 힘주는 신음]</p>
+<p xml:id="subtitle204" begin="5900895000t" end="5911322082t" region="region0" style="style0">[놀라는 신음]</p>
+<p xml:id="subtitle205" begin="5912156250t" end="5927588332t" region="region0" style="style0">[긴장되는 음악]<br/>[로빈의 비명]</p>
+<p xml:id="subtitle206" begin="5928422500t" end="5939683750t" region="region0" style="style0">[다급한 신음]</p>
+<p xml:id="subtitle207" begin="5943854582t" end="5963874582t" region="region0" style="style0">[로빈의 힘주는 신음]</p>
+<p xml:id="subtitle208" begin="5964708750t" end="5980975000t" region="region0" style="style0">[힘겨운 숨소리]</p>
+<p xml:id="subtitle209" begin="5983060416t" end="5991819166t" region="region0" style="style0">[치키가 격려한다]</p>
+<p xml:id="subtitle210" begin="5992653332t" end="6008085416t" region="region0" style="style0">[로빈의 힘주는 신음]</p>
+<p xml:id="subtitle211" begin="6011422082t" end="6057301250t" region="region0" style="style0">으, 누가, 누가 좀 도와줘, 형!</p>
+<p xml:id="subtitle212" begin="6058135416t" end="6085662916t" region="region0" style="style0">[치키의 다급한 신음]<br/>[로빈의 힘겨운 신음]</p>
+<p xml:id="subtitle213" begin="6089416666t" end="6104014582t" region="region0" style="style0">[미하엘과 레오의 가쁜 숨소리]</p>
+<p xml:id="subtitle214" begin="6109853750t" end="6121949166t" region="region0" style="style0">[놀라는 신음]</p>
+<p xml:id="subtitle215" begin="6127788332t" end="6144054582t" region="region0" style="style0">(미하엘)<br/>어?<br/>[레오가 말한다]</p>
+<p xml:id="subtitle216" begin="6149476666t" end="6161155000t" region="region0" style="style0">아무것도 아니야</p>
+<p xml:id="subtitle217" begin="6165742916t" end="6191602082t" region="region0" style="style0">잠깐 눈에 모래가 들어갔나 봐</p>
+<p xml:id="subtitle218" begin="6215792916t" end="6224551666t" region="region0" style="style0">[의아한 신음]</p>
+<p xml:id="subtitle219" begin="6225385832t" end="6247074166t" region="region0" style="style0">[활기찬 음악]<br/>[진과 드라카의 비명]</p>
+<p xml:id="subtitle220" begin="6306300000t" end="6321732082t" region="region0" style="style0">[비명]</p>
+<p xml:id="subtitle221" begin="6327571250t" end="6356767082t" region="region0" style="style0">어때, 실프의 속삭임이 들려?</p>
+<p xml:id="subtitle222" begin="6360103750t" end="6383460416t" region="region0" style="style0">(진)<br/>하나도 안 들린다고 했잖아!<br/>[드라카의 비명]</p>
+<p xml:id="subtitle223" begin="6384294582t" end="6403063332t" region="region0" style="style0">[진의 겁먹은 신음]</p>
+<p xml:id="subtitle224" begin="6413907500t" end="6447274166t" region="region0" style="style0">(라이딘)<br/>무섭다고 생각하니까 들리지 않는 거야</p>
+<p xml:id="subtitle225" begin="6448108332t" end="6495655832t" region="region0" style="style0">마음을 가라앉히고<br/>실프의 속삭임에 귀를 기울이라고!</p>
+<p xml:id="subtitle226" begin="6502329166t" end="6511087916t" region="region0" style="style0">[차분한 신음]</p>
+<p xml:id="subtitle227" begin="6511922082t" end="6543620416t" region="region0" style="style0">(진)<br/>마음을 가라앉히고 귀를 기울인다</p>
+<p xml:id="subtitle228" begin="6549876666t" end="6564891666t" region="region0" style="style0">[진과 드라카의 비명]</p>
+<p xml:id="subtitle229" begin="6565725832t" end="6585745832t" region="region0" style="style0">(진)<br/>이 상황에 그게 되겠냐고!<br/>[드라카의 비명]</p>
+<p xml:id="subtitle230" begin="6586580000t" end="6601177916t" region="region0" style="style0">이런, 이런</p>
+<p xml:id="subtitle231" begin="6604931666t" end="6623700416t" region="region0" style="style0">[진과 드라카의 비명]</p>
+<p xml:id="subtitle232" begin="6644971666t" end="6659569582t" region="region0" style="style0">[진의 겁먹은 신음]</p>
+<p xml:id="subtitle233" begin="6662489166t" end="6686262916t" region="region0" style="style0">[진과 드라카의 다급한 신음]</p>
+<p xml:id="subtitle234" begin="6687514166t" end="6704197500t" region="region0" style="style0">[진과 드라카의 아파하는 신음]</p>
+<p xml:id="subtitle235" begin="6705031666t" end="6733810416t" region="region0" style="style0">(진)<br/>이젠 싫어, 이런 훈련</p>
+<p xml:id="subtitle236" begin="6734644582t" end="6751744999t" region="region0" style="style0">[드라카가 호응한다]<br/>[진의 힘없는 신음]</p>
+<p xml:id="subtitle237" begin="6768011249t" end="6788448332t" region="region0" style="style0">[사람들이 시끌벅적하다]</p>
+<p xml:id="subtitle238" begin="6801794999t" end="6811804999t" region="region0" style="style0">[아파하는 신음]</p>
+<p xml:id="subtitle239" begin="6812639166t" end="6823900416t" region="region0" style="style0">아파!</p>
+<p xml:id="subtitle240" begin="6828488332t" end="6847257082t" region="region0" style="style0">(로라)<br/>참 나, 엄살은<br/>[라이딘이 살짝 웃는다]</p>
+<p xml:id="subtitle241" begin="6851427916t" end="6891884999t" region="region0" style="style0">바람과 더 친해지지 않으면<br/>실프는 절대 웃어 주지 않아</p>
+<p xml:id="subtitle242" begin="6901894999t" end="6924834582t" region="region0" style="style0">저기, 혹시 로빈 못 봤어?</p>
+<p xml:id="subtitle243" begin="6925668749t" end="6941934999t" region="region0" style="style0">같이 있던 거 아니야?</p>
+<p xml:id="subtitle244" begin="6949859582t" end="6969045416t" region="region0" style="style0">치키도 함께 있을 텐데</p>
+<p xml:id="subtitle245" begin="6971130832t" end="7018261249t" region="region0" style="style0">(쿠비)<br/>험한 마을도 아닌데<br/>설마 길을 잃진 않았겠지</p>
+<p xml:id="subtitle246" begin="7022014999t" end="7051210832t" region="region0" style="style0">하지만 벼랑이나 흔들다리</p>
+<p xml:id="subtitle247" begin="7052044999t" end="7075818749t" region="region0" style="style0">위험한 곳은 얼마든지 있어요</p>
+<p xml:id="subtitle248" begin="7079155416t" end="7100843749t" region="region0" style="style0">(로라)<br/>헛디뎌서 미끄러지거나</p>
+<p xml:id="subtitle249" begin="7106265832t" end="7121280832t" region="region0" style="style0">[비명]</p>
+<p xml:id="subtitle250" begin="7126285832t" end="7151310832t" region="region0" style="style0">바람에 떠밀려 날아갈 수도</p>
+<p xml:id="subtitle251" begin="7154647499t" end="7172999166t" region="region0" style="style0">[비명]</p>
+<p xml:id="subtitle252" begin="7178004166t" end="7189265416t" region="region0" style="style0">[진의 어색한 웃음]</p>
+<p xml:id="subtitle253" begin="7190099582t" end="7210119582t" region="region0" style="style0">(진)<br/>설마 그럴 리가...<br/>[로라의 의아한 신음]</p>
+<p xml:id="subtitle254" begin="7224300416t" end="7240149582t" region="region0" style="style0">모두 흩어져서 찾아보자!</p>
+<p xml:id="subtitle255" begin="7240983749t" end="7250159582t" region="region0" style="style0">(드라카)<br/>드라!</p>
+<p xml:id="subtitle256" begin="7250993749t" end="7264340416t" region="region0" style="style0">[긴장되는 음악]<br/>[로빈의 힘겨운 신음]</p>
+<p xml:id="subtitle257" begin="7265174582t" end="7274767499t" region="region0" style="style0">[치키가 격려한다]</p>
+<p xml:id="subtitle258" begin="7276852916t" end="7291450832t" region="region0" style="style0">[로빈의 비명]</p>
+<p xml:id="subtitle259" begin="7292284999t" end="7302294999t" region="region0" style="style0">[치키의 다급한 신음]</p>
+<p xml:id="subtitle260" begin="7303129166t" end="7320229582t" region="region0" style="style0">[비명]</p>
+<p xml:id="subtitle261" begin="7331073749t" end="7340666666t" region="region0" style="style0">[치키의 힘주는 신음]</p>
+<p xml:id="subtitle262" begin="7341500832t" end="7359018332t" region="region0" style="style0">[로빈의 힘주는 신음]</p>
+<p xml:id="subtitle263" begin="7359852499t" end="7374033332t" region="region0" style="style0">[치키의 힘주는 신음]<br/>[로빈의 힘겨운 신음]</p>
+<p xml:id="subtitle264" begin="7376952916t" end="7392802082t" region="region0" style="style0">[치키의 애쓰는 신음]</p>
+<p xml:id="subtitle265" begin="7396555832t" end="7410736666t" region="region0" style="style0">안 되겠어</p>
+<p xml:id="subtitle266" begin="7411570832t" end="7448274166t" region="region0" style="style0">치키, 너까지 떨어지겠어, 어서 놔!</p>
+<p xml:id="subtitle267" begin="7449108332t" end="7465791666t" region="region0" style="style0">[힘주는 신음]</p>
+<p xml:id="subtitle268" begin="7472464999t" end="7498324166t" region="region0" style="style0">(로빈)<br/>도와줘, 형!</p>
+<p xml:id="subtitle269" begin="7513339166t" end="7525851666t" region="region0" style="style0">[자동차 엔진음]</p>
+<p xml:id="subtitle270" begin="7550876666t" end="7561720832t" region="region0" style="style0">[드라카의 기합]</p>
+<p xml:id="subtitle271" begin="7563389166t" end="7593002082t" region="region0" style="style0">(진)</p>
+<p xml:id="subtitle272" begin="7600926666t" end="7613439166t" region="region0" style="style0">[무거운 음악]<br/>[로빈의 힘겨운 신음]</p>
+<p xml:id="subtitle273" begin="7614273332t" end="7627619999t" region="region0" style="style0">[바람이 휭 분다]<br/>[치키의 힘주는 신음]</p>
+<p xml:id="subtitle274" begin="7660152499t" end="7687262916t" region="region0" style="style0">으, 살려 줘, 형!</p>
+<p xml:id="subtitle275" begin="7688514166t" end="7713122082t" region="region0" style="style0">[치키와 로빈의 힘주는 신음]</p>
+<p xml:id="subtitle276" begin="7717292916t" end="7730639582t" region="region0" style="style0">[로빈의 힘겨운 신음]</p>
+<p xml:id="subtitle277" begin="7731473749t" end="7749825416t" region="region0" style="style0">[힘주는 신음]</p>
+<p xml:id="subtitle278" begin="7750659582t" end="7766091666t" region="region0" style="style0">(로빈)<br/>이러면 안 돼</p>
+<p xml:id="subtitle279" begin="7766925832t" end="7804880416t" region="region0" style="style0">형을 의지하면 난 언제까지나<br/>형을 뛰어넘지 못할 거야</p>
+<p xml:id="subtitle280" begin="7805714582t" end="7840332499t" region="region0" style="style0">[치키의 힘주는 신음]<br/>고마워, 치키, 이제 괜찮아</p>
+<p xml:id="subtitle281" begin="7842417916t" end="7852427916t" region="region0" style="style0">[치키의 안도하는 신음]</p>
+<p xml:id="subtitle282" begin="7863272082t" end="7873282082t" region="region0" style="style0">[힘주는 신음]</p>
+<p xml:id="subtitle283" begin="7875367499t" end="7912904999t" region="region0" style="style0">[바람이 휭 분다]<br/>(로빈)<br/>나 혼자 힘으로 올라가는 거야</p>
+<p xml:id="subtitle284" begin="7913739166t" end="7937512916t" region="region0" style="style0">[로빈의 힘주는 신음]</p>
+<p xml:id="subtitle285" begin="7938347082t" end="7947105832t" region="region0" style="style0">[치키가 격려한다]</p>
+<p xml:id="subtitle286" begin="7961286666t" end="7975884582t" region="region0" style="style0">(로빈)<br/>우아!<br/>[치키의 탄성]</p>
+<p xml:id="subtitle287" begin="7983809166t" end="8000075416t" region="region0" style="style0">[로빈의 웃음]</p>
+<p xml:id="subtitle288" begin="8008417082t" end="8041783749t" region="region0" style="style0">[밝은 음악]<br/>맞아, 여기가 바람의 고향...</p>
+<p xml:id="subtitle289" begin="8045120416t" end="8067225832t" region="region0" style="style0">[로빈과 치키의 힘겨운 신음]</p>
+<p xml:id="subtitle290" begin="8068059999t" end="8087662916t" region="region0" style="style0">[신비로운 음악]<br/>(로빈)<br/>우아</p>
+<p xml:id="subtitle291" begin="8103929166t" end="8132290832t" region="region0" style="style0">저기 봐, 치키, 실프야</p>
+<p xml:id="subtitle292" begin="8134793332t" end="8156481666t" region="region0" style="style0">나한테도 바람이 보여!</p>
+<p xml:id="subtitle293" begin="8165240416t" end="8183592082t" region="region0" style="style0">[로빈의 웃음]</p>
+<p xml:id="subtitle294" begin="8201943749t" end="8214456249t" region="region0" style="style0">[로빈의 놀라는 신음]</p>
+<p xml:id="subtitle295" begin="8215290416t" end="8226968749t" region="region0" style="style0">[로빈의 웃음]</p>
+<p xml:id="subtitle296" begin="8229471249t" end="8239481249t" region="region0" style="style0">[로빈과 치키의 탄성]</p>
+<p xml:id="subtitle297" begin="8277435832t" end="8287862916t" region="region0" style="style0">[함께 걱정한다]</p>
+<p xml:id="subtitle298" begin="8289114166t" end="8299541249t" region="region0" style="style0">(드라카)<br/>드라!</p>
+<p xml:id="subtitle299" begin="8300375416t" end="8308717082t" region="region0" style="style0">(진)<br/>저기!</p>
+<p xml:id="subtitle300" begin="8309551249t" end="8318309999t" region="region0" style="style0">[밝은 음악]<br/>로빈!</p>
+<p xml:id="subtitle301" begin="8336661666t" end="8360435416t" region="region0" style="style0">(미하엘)<br/>로빈, 어떻게 된 거야?</p>
+<p xml:id="subtitle302" begin="8362520832t" end="8387962916t" region="region0" style="style0">형, 나 분명히 들었어</p>
+<p xml:id="subtitle303" begin="8389214166t" end="8406314582t" region="region0" style="style0">실프의 속삭임을!</p>
+<p xml:id="subtitle304" begin="8407982916t" end="8418827082t" region="region0" style="style0">[함께 놀란다]</p>
+<p xml:id="subtitle305" begin="8425917499t" end="8445937499t" region="region0" style="style0">로빈, 너...<br/>[라이딘이 살짝 웃는다]</p>
+<p xml:id="subtitle306" begin="8451359582t" end="8488062916t" region="region0" style="style0">[익살스러운 음악]<br/>(라이딘)<br/>알아낸 모양이군, 바람 읽기의 비법을</p>
+<p xml:id="subtitle307" begin="8489731249t" end="8504329166t" region="region0" style="style0">(함께)<br/>뭐라고?</p>
+<p xml:id="subtitle308" begin="8506831666t" end="8533942082t" region="region0" style="style0">(로라)<br/>잠깐, 그걸 어떻게 알아낸 거야?</p>
+<p xml:id="subtitle309" begin="8534776249t" end="8566474582t" region="region0" style="style0">바람의 정령은 변덕쟁이여서 말이죠</p>
+<p xml:id="subtitle310" begin="8567308749t" end="8611936666t" region="region0" style="style0">뜻밖의 때와 장소에서<br/>계시가 나타날지도 모르는 겁니다</p>
+<p xml:id="subtitle311" begin="8615690416t" end="8641549582t" region="region0" style="style0">(진)<br/>에이, 한발 늦어 버렸어</p>
+<p xml:id="subtitle312" begin="8642383750t" end="8665740416t" region="region0" style="style0">그렇게 특훈을 받았는데</p>
+<p xml:id="subtitle313" begin="8666991666t" end="8684092082t" region="region0" style="style0">[실망하는 신음]</p>
+<p xml:id="subtitle314" begin="8692016666t" end="8703277916t" region="region0" style="style0">- (미하엘) 로빈<br/>- (로빈) 어?</p>
+<p xml:id="subtitle315" begin="8704112082t" end="8713287916t" region="region0" style="style0">[웅장한 음악]</p>
+<p xml:id="subtitle316" begin="8714122082t" end="8754996250t" region="region0" style="style0">그 바람 읽기의 힘이 어느 정도인지<br/>내일 경기에서 꼭 보여 줘</p>
+<p xml:id="subtitle317" begin="8759584166t" end="8771679582t" region="region0" style="style0">물론이지</p>
+<p xml:id="subtitle318" begin="8773765000t" end="8791699582t" region="region0" style="style0">[미하엘과 로빈이 살짝 웃는다]</p>
+<p xml:id="subtitle319" begin="8798372916t" end="8810885416t" region="region0" style="style0">[미하엘과 로빈의 웃음]</p>
+<p xml:id="subtitle320" begin="8819644166t" end="8839664166t" region="region0" style="style0">[관중들의 환호]</p>
+<p xml:id="subtitle321" begin="8846337500t" end="8866357500t" region="region0" style="style0">[관중들의 환호]</p>
+<p xml:id="subtitle322" begin="8875116250t" end="8889297082t" region="region0" style="style0">[경쾌한 음악]</p>
+<p xml:id="subtitle323" begin="8914322082t" end="8942266666t" region="region0" style="style0">[흥미진진한 음악]<br/>자, 드디어 예선도 막바지군요</p>
+<p xml:id="subtitle324" begin="8943100832t" end="8978135832t" region="region0" style="style0">(사회자)<br/>B 블록은<br/>미하엘 화이트 대 로빈 화이트!</p>
+<p xml:id="subtitle325" begin="8978970000t" end="8988145832t" region="region0" style="style0">[로빈이 살짝 웃는다]</p>
+<p xml:id="subtitle326" begin="8988980000t" end="9001075416t" region="region0" style="style0">형제의 대결이죠</p>
+<p xml:id="subtitle327" begin="9001909582t" end="9038612916t" region="region0" style="style0">과연 승리의 왕관을 차지하는 건<br/>어느 쪽일까요?</p>
+<p xml:id="subtitle328" begin="9044035000t" end="9067391666t" region="region0" style="style0">[관중들의 환호]<br/>(로라)<br/>뭔가 분위기가 좀 다른데?</p>
+<p xml:id="subtitle329" begin="9068225832t" end="9076984582t" region="region0" style="style0">[진이 살짝 웃는다]</p>
+<p xml:id="subtitle330" begin="9077818750t" end="9090748332t" region="region0" style="style0">- (진) 로빈 말이지?<br/>- (로라) 응</p>
+<p xml:id="subtitle331" begin="9095336250t" end="9128702916t" region="region0" style="style0">어제까지만 해도<br/>어디인지 어린 느낌이었는데</p>
+<p xml:id="subtitle332" begin="9130788332t" end="9157898750t" region="region0" style="style0">오늘은 당차고 비장한 얼굴이에요</p>
+<p xml:id="subtitle333" begin="9173330832t" end="9195019166t" region="region0" style="style0">[흥미진진한 음악]<br/>(미하엘과 로빈)<br/>몬카트 트랙 온!</p>
+<p xml:id="subtitle334" begin="9255496250t" end="9270511250t" region="region0" style="style0">[레오와 치키의 기합]</p>
+<p xml:id="subtitle335" begin="9273013750t" end="9310551250t" region="region0" style="style0">[출발 신호음]<br/>(심판 몬스터)<br/>레디, 고!</p>
+<p xml:id="subtitle336" begin="9311385416t" end="9328068750t" region="region0" style="style0">[박진감 넘치는 음악]<br/>[심판 몬스터의 놀라는 신음]</p>
+<p xml:id="subtitle337" begin="9335576250t" end="9356013332t" region="region0" style="style0">양쪽 동시 스타트!</p>
+<p xml:id="subtitle338" begin="9356847500t" end="9398972916t" region="region0" style="style0">서로 한 발도 양보하지 않은 채로<br/>첫 번째 코너를 빠져나갑니다!</p>
+<p xml:id="subtitle339" begin="9403560832t" end="9417324582t" region="region0" style="style0">버닝 빔!</p>
+<p xml:id="subtitle340" begin="9426083332t" end="9435259166t" region="region0" style="style0">[힘주는 신음]</p>
+<p xml:id="subtitle341" begin="9436093332t" end="9445686250t" region="region0" style="style0">[치키의 기합]</p>
+<p xml:id="subtitle342" begin="9446520416t" end="9462786666t" region="region0" style="style0">[레오의 힘주는 신음]</p>
+<p xml:id="subtitle343" begin="9463620832t" end="9473630832t" region="region0" style="style0">[거친 신음]</p>
+<p xml:id="subtitle344" begin="9474465000t" end="9485309166t" region="region0" style="style0">[타이어 마찰음]</p>
+<p xml:id="subtitle345" begin="9509082916t" end="9534525000t" region="region0" style="style0">어, 레오 카트에 불이 붙었나요?</p>
+<p xml:id="subtitle346" begin="9546620416t" end="9577484582t" region="region0" style="style0">(미하엘)<br/>레오, 변신, 비트로이드!</p>
+<p xml:id="subtitle347" begin="9601258332t" end="9610017082t" region="region0" style="style0">[준비하는 신음]</p>
+<p xml:id="subtitle348" begin="9648805832t" end="9657981666t" region="region0" style="style0">[레오의 힘찬 기합]</p>
+<p xml:id="subtitle349" begin="9661318332t" end="9688011666t" region="region0" style="style0">(진)<br/>합체를 하면서 불꽃을 날려 보냈어!<br/>[흥미진진한 음악]</p>
+<p xml:id="subtitle350" begin="9689680000t" end="9717207500t" region="region0" style="style0">과연 미하엘 님이시군요</p>
+<p xml:id="subtitle351" begin="9718041666t" end="9733890832t" region="region0" style="style0">(미하엘)<br/>크리스털 아이스!</p>
+<p xml:id="subtitle352" begin="9754745000t" end="9766423332t" region="region0" style="style0">[레오의 기합]</p>
+<p xml:id="subtitle353" begin="9775182082t" end="9787277500t" region="region0" style="style0">[바람이 휭 분다]</p>
+<p xml:id="subtitle354" begin="9788111666t" end="9816056250t" region="region0" style="style0">실프의 속삭임이 들려</p>
+<p xml:id="subtitle355" begin="9816890416t" end="9836910416t" region="region0" style="style0">- 위험해요!<br/>- (진) 어서 피해!</p>
+<p xml:id="subtitle356" begin="9837744582t" end="9862352500t" region="region0" style="style0">아니, 이대로 밀어붙여!</p>
+<p xml:id="subtitle357" begin="9864437916t" end="9875699166t" region="region0" style="style0">치키!</p>
+<p xml:id="subtitle358" begin="9914905000t" end="9924497916t" region="region0" style="style0">뭐야?</p>
+<p xml:id="subtitle359" begin="9925332082t" end="9937427500t" region="region0" style="style0">빗맞았어</p>
+<p xml:id="subtitle360" begin="9938261666t" end="9967457500t" region="region0" style="style0">음, 바람의 흐름을 읽은 거야</p>
+<p xml:id="subtitle361" begin="9970794166t" end="10000824166t" region="region0" style="style0">제법인데? 레오, 공격이다!</p>
+<p xml:id="subtitle362" begin="10006663332t" end="10015005000t" region="region0" style="style0">[레오의 기합]</p>
+<p xml:id="subtitle363" begin="10025849166t" end="10050457082t" region="region0" style="style0">[흥미진진한 음악]<br/>(로빈)<br/>치키, 변신, 비트로이드!</p>
+<p xml:id="subtitle364" begin="10078401666t" end="10087160416t" region="region0" style="style0">[준비하는 신음]</p>
+<p xml:id="subtitle365" begin="10145135000t" end="10156813332t" region="region0" style="style0">[치키의 기합]</p>
+<p xml:id="subtitle366" begin="10165989166t" end="10184340832t" region="region0" style="style0">[소란스럽게 싸운다]</p>
+<p xml:id="subtitle367" begin="10219792916t" end="10234807916t" region="region0" style="style0">(미하엘)<br/>크리스털 아이스!</p>
+<p xml:id="subtitle368" begin="10255245000t" end="10264420832t" region="region0" style="style0">[힘주는 신음]</p>
+<p xml:id="subtitle369" begin="10265255000t" end="10274013750t" region="region0" style="style0">[레오의 기합]</p>
+<p xml:id="subtitle370" begin="10276933332t" end="10288611666t" region="region0" style="style0">[치키의 힘주는 신음]</p>
+<p xml:id="subtitle371" begin="10306129166t" end="10314470832t" region="region0" style="style0">[치키의 기합]</p>
+<p xml:id="subtitle372" begin="10315305000t" end="10325315000t" region="region0" style="style0">버닝 빔!</p>
+<p xml:id="subtitle373" begin="10340747082t" end="10353259582t" region="region0" style="style0">[치키의 기합]</p>
+<p xml:id="subtitle374" begin="10357430416t" end="10372862500t" region="region0" style="style0">[비명]</p>
+<p xml:id="subtitle375" begin="10376199166t" end="10395802082t" region="region0" style="style0">[레오의 힘겨운 신음]<br/>[타이어 마찰음]</p>
+<p xml:id="subtitle376" begin="10397470416t" end="10411651250t" region="region0" style="style0">굉장하다</p>
+<p xml:id="subtitle377" begin="10412485416t" end="10430002916t" region="region0" style="style0">(미하엘)<br/>훌륭한 정신이야, 로빈</p>
+<p xml:id="subtitle378" begin="10432088332t" end="10455027916t" region="region0" style="style0">경기 중에도 약한 마음이 드러났었는데</p>
+<p xml:id="subtitle379" begin="10455862082t" end="10472545416t" region="region0" style="style0">오늘은 완전히 달라졌어</p>
+<p xml:id="subtitle380" begin="10473379582t" end="10491314166t" region="region0" style="style0">이길 수 있어</p>
+<p xml:id="subtitle381" begin="10505495000t" end="10514670832t" region="region0" style="style0">[기합]</p>
+<p xml:id="subtitle382" begin="10517173332t" end="10530937082t" region="region0" style="style0">[골인 신호음]<br/>(심판 거북)<br/>골</p>
+<p xml:id="subtitle383" begin="10536359166t" end="10556796250t" region="region0" style="style0">[밝은 음악]<br/>[아이들의 환호]</p>
+<p xml:id="subtitle384" begin="10563886666t" end="10591831250t" region="region0" style="style0">(로빈)<br/>나 처음으로 형을 이기는 거야</p>
+<p xml:id="subtitle385" begin="10602258332t" end="10629368750t" region="region0" style="style0">이제 나도 형과 어깨를 나란히 하는</p>
+<p xml:id="subtitle386" begin="10630202916t" end="10643549582t" region="region0" style="style0">몬카트 선수가...</p>
+<p xml:id="subtitle387" begin="10644383750t" end="10661484166t" region="region0" style="style0">(미하엘)<br/>들린다, 로빈<br/>[로빈의 놀라는 신음]</p>
+<p xml:id="subtitle388" begin="10662318332t" end="10685675000t" region="region0" style="style0">[신비로운 음악]<br/>[미하엘의 웃음]</p>
+<p xml:id="subtitle389" begin="10688594582t" end="10698187500t" region="region0" style="style0">저건...</p>
+<p xml:id="subtitle390" begin="10702775416t" end="10716956250t" region="region0" style="style0">나한테도 들려</p>
+<p xml:id="subtitle391" begin="10724046666t" end="10743649582t" region="region0" style="style0">이게 실프의 속삭임이구나</p>
+<p xml:id="subtitle392" begin="10745735000t" end="10788694582t" region="region0" style="style0">설마 형은<br/>내가 하는 걸 보기만 했는데도</p>
+<p xml:id="subtitle393" begin="10789528750t" end="10817890416t" region="region0" style="style0">바람 읽기의 비법을 알아낸 거야?</p>
+<p xml:id="subtitle394" begin="10820392916t" end="10831237082t" region="region0" style="style0">(미하엘)<br/>가자!</p>
+<p xml:id="subtitle395" begin="10841664166t" end="10864603750t" region="region0" style="style0">[웅장한 음악]<br/>변신, 메가로이드!</p>
+<p xml:id="subtitle396" begin="10922578332t" end="10932171250t" region="region0" style="style0">[레오의 준비하는 신음]</p>
+<p xml:id="subtitle397" begin="11025180832t" end="11045200832t" region="region0" style="style0">(미하엘)<br/>레오 메가로이드!</p>
+<p xml:id="subtitle398" begin="11052291250t" end="11065220832t" region="region0" style="style0">[레오의 힘찬 기합]</p>
+<p xml:id="subtitle399" begin="11071477082t" end="11086075000t" region="region0" style="style0">[레오의 힘주는 신음]<br/>[치키의 놀라는 신음]</p>
+<p xml:id="subtitle400" begin="11086909166t" end="11116939166t" region="region0" style="style0">[레오의 기합]<br/>[박진감 넘치는 음악]</p>
+<p xml:id="subtitle401" begin="11119024582t" end="11133622500t" region="region0" style="style0">[비명]</p>
+<p xml:id="subtitle402" begin="11137793332t" end="11146552082t" region="region0" style="style0">[레오의 힘주는 신음]</p>
+<p xml:id="subtitle403" begin="11148220416t" end="11167406250t" region="region0" style="style0">[레오의 기합]</p>
+<p xml:id="subtitle404" begin="11168240416t" end="11177833332t" region="region0" style="style0">[놀라는 신음]</p>
+<p xml:id="subtitle405" begin="11178667500t" end="11204943750t" region="region0" style="style0">[레오의 기합]<br/>[치키의 비명]</p>
+<p xml:id="subtitle406" begin="11222461250t" end="11232054166t" region="region0" style="style0">[레오의 기합]</p>
+<p xml:id="subtitle407" begin="11234139582t" end="11242898332t" region="region0" style="style0">[치키의 다급한 신음]</p>
+<p xml:id="subtitle408" begin="11248737500t" end="11258747500t" region="region0" style="style0">[레오의 다급한 신음]</p>
+<p xml:id="subtitle409" begin="11261667082t" end="11290862916t" region="region0" style="style0">오, 엔진 부분에 큰 타격을 입었지만</p>
+<p xml:id="subtitle410" begin="11292114166t" end="11317556250t" region="region0" style="style0">가까스로 후속타를 피한 로빈 선수</p>
+<p xml:id="subtitle411" begin="11318390416t" end="11335490832t" region="region0" style="style0">앞으로 치고 나갑니다!</p>
+<p xml:id="subtitle412" begin="11358847500t" end="11368440416t" region="region0" style="style0">[치키의 놀라는 신음]</p>
+<p xml:id="subtitle413" begin="11377616250t" end="11388877500t" region="region0" style="style0">[다급한 신음]</p>
+<p xml:id="subtitle414" begin="11389711666t" end="11414736666t" region="region0" style="style0">괜찮아, 치키, 우린 지지 않아</p>
+<p xml:id="subtitle415" begin="11415570832t" end="11440178750t" region="region0" style="style0">[흥미진진한 음악]<br/>바람은 우리한테 계속 불고 있어</p>
+<p xml:id="subtitle416" begin="11441012916t" end="11468123332t" region="region0" style="style0">가라, 치키, 이 바람을 붙잡아!</p>
+<p xml:id="subtitle417" begin="11468957500t" end="11481887082t" region="region0" style="style0">[치키의 비장한 신음]</p>
+<p xml:id="subtitle418" begin="11485640832t" end="11493982500t" region="region0" style="style0">[레오의 긴장하는 신음]</p>
+<p xml:id="subtitle419" begin="11494816666t" end="11514836666t" region="region0" style="style0">(미하엘)<br/>레오, 최대 가속!</p>
+<p xml:id="subtitle420" begin="11532354166t" end="11556962082t" region="region0" style="style0">[기합]</p>
+<p xml:id="subtitle421" begin="11559464582t" end="11573228332t" region="region0" style="style0">[자동차 가속음]<br/>[타이어 마찰음]</p>
+<p xml:id="subtitle422" begin="11575730832t" end="11591580000t" region="region0" style="style0">[힘주는 신음]</p>
+<p xml:id="subtitle423" begin="11597836250t" end="11614936666t" region="region0" style="style0">[긴장되는 음악]</p>
+<p xml:id="subtitle424" begin="11615770832t" end="11627449166t" region="region0" style="style0">[레오의 힘주는 신음]</p>
+<p xml:id="subtitle425" begin="11630785832t" end="11643715416t" region="region0" style="style0">[치키의 긴장하는 신음]</p>
+<p xml:id="subtitle426" begin="11652891250t" end="11684172500t" region="region0" style="style0">오, 한 치도 물러서지 않는 두 선수!</p>
+<p xml:id="subtitle427" begin="11685006666t" end="11713785416t" region="region0" style="style0">승부는 마지막 직선 코스로<br/>넘어갑니다!</p>
+<p xml:id="subtitle428" begin="11714619582t" end="11746735000t" region="region0" style="style0">(사회자)<br/>과연 승자는 형일까요, 동생일까요?</p>
+<p xml:id="subtitle429" begin="11747569166t" end="11761332916t" region="region0" style="style0">[레오와 치키의 힘주는 신음]</p>
+<p xml:id="subtitle430" begin="11762584166t" end="11785106666t" region="region0" style="style0">[치키의 놀라는 신음]<br/>[카트가 덜컹거린다]</p>
+<p xml:id="subtitle431" begin="11803458332t" end="11823061250t" region="region0" style="style0">[다급한 신음]</p>
+<p xml:id="subtitle432" begin="11827232082t" end="11837659166t" region="region0" style="style0">[함께 놀란다]</p>
+<p xml:id="subtitle433" begin="11838493332t" end="11868523332t" region="region0" style="style0">엔진 과열이에요, 위험해요!</p>
+<p xml:id="subtitle434" begin="11869357500t" end="11881035832t" region="region0" style="style0">치키!</p>
+<p xml:id="subtitle435" begin="11885623750t" end="11897302082t" region="region0" style="style0">[놀라는 신음]</p>
+<p xml:id="subtitle436" begin="11908563332t" end="11929834582t" region="region0" style="style0">[치키의 비명]</p>
+<p xml:id="subtitle437" begin="11963201250t" end="11973628332t" region="region0" style="style0">[치키의 힘겨운 신음]</p>
+<p xml:id="subtitle438" begin="11974462500t" end="11987392082t" region="region0" style="style0">[사이렌이 울린다]</p>
+<p xml:id="subtitle439" begin="11997402082t" end="12013668332t" region="region0" style="style0">[몬스터들의 분주한 신음]</p>
+<p xml:id="subtitle440" begin="12019090416t" end="12034105416t" region="region0" style="style0">[골인 신호음]<br/>(심판 몬스터)<br/>아유, 골!</p>
+<p xml:id="subtitle441" begin="12034939582t" end="12060381666t" region="region0" style="style0">(사회자)<br/>승자는 미하엘 화이트!</p>
+<p xml:id="subtitle442" begin="12061215832t" end="12096250832t" region="region0" style="style0">로빈 선수는 예상치 못한 사고로<br/>아쉽게 패배합니다</p>
+<p xml:id="subtitle443" begin="12097085000t" end="12107929166t" region="region0" style="style0">(로빈)<br/>치키!</p>
+<p xml:id="subtitle444" begin="12108763332t" end="12134205416t" region="region0" style="style0">[치키의 힘겨운 신음]<br/>무사해서 다행이야</p>
+<p xml:id="subtitle445" begin="12136290832t" end="12146717916t" region="region0" style="style0">[레오의 다급한 신음]</p>
+<p xml:id="subtitle446" begin="12150888750t" end="12163401250t" region="region0" style="style0">[잔잔한 음악]<br/>(미하엘)<br/>괜찮아?</p>
+<p xml:id="subtitle447" begin="12170908750t" end="12199270416t" region="region0" style="style0">마지막에 바람 읽기를 깨우치게 되다니</p>
+<p xml:id="subtitle448" begin="12205943750t" end="12232637082t" region="region0" style="style0">역시 형은 대단해!</p>
+<p xml:id="subtitle449" begin="12234722500t" end="12260581666t" region="region0" style="style0">네 덕분에 새로운 가능성을 발견했어</p>
+<p xml:id="subtitle450" begin="12265586666t" end="12291028750t" region="region0" style="style0">우리 함께 결승 토너먼트까지 가자</p>
+<p xml:id="subtitle451" begin="12293114166t" end="12302707082t" region="region0" style="style0">형</p>
+<p xml:id="subtitle452" begin="12309380416t" end="12332737082t" region="region0" style="style0">[관중들의 환호]<br/>[미하엘과 로빈의 웃음]</p>
+<p xml:id="subtitle453" begin="12349420416t" end="12374862500t" region="region0" style="style0">그렇군, 저게 실프였어</p>
+<p xml:id="subtitle454" begin="12375696666t" end="12385289582t" region="region0" style="style0">(드라카)<br/>드라</p>
+<p xml:id="subtitle455" begin="12387375000t" end="12410314582t" region="region0" style="style0">[밝은 음악]<br/>- (세나) 실프를 본 건가요?<br/>- (진) 응</p>
+<p xml:id="subtitle456" begin="12411148750t" end="12432837082t" region="region0" style="style0">너희는 운이 좋은데?</p>
+<p xml:id="subtitle457" begin="12436590832t" end="12454942500t" region="region0" style="style0">[진의 의아한 신음]<br/>(로라)<br/>무슨 말이야?</p>
+<p xml:id="subtitle458" begin="12457027916t" end="12497067916t" region="region0" style="style0">(라이딘)<br/>실프가 인간들 앞에<br/>모습을 드러내는 경우는 거의 없거든</p>
+<p xml:id="subtitle459" begin="12501655832t" end="12546283750t" region="region0" style="style0">그게 보였다는 건<br/>너희도 실프의 가호를 받았단 뜻이지</p>
+<p xml:id="subtitle460" begin="12549620416t" end="12586323750t" region="region0" style="style0">(쿠비)<br/>그러니까 그게 뭔 말이냔 말이지</p>
+<p xml:id="subtitle461" begin="12587157916t" end="12615936666t" region="region0" style="style0">그럼 나도 바람 읽기를<br/>할 수 있게 됐다는 거야?</p>
+<p xml:id="subtitle462" begin="12620107500t" end="12643047082t" region="region0" style="style0">그건 스스로 확인하는 거야</p>
+<p xml:id="subtitle463" begin="12650137500t" end="12663067082t" region="region0" style="style0">건투를 빌게</p>
+<p xml:id="subtitle464" begin="12663901250t" end="12683087082t" region="region0" style="style0">[진 일행의 의아한 신음]</p>
+<p xml:id="subtitle465" begin="12686423750t" end="12698519166t" region="region0" style="style0">[흥미진진한 음악]<br/>[관중들의 환호]</p>
+<p xml:id="subtitle466" begin="12699353332t" end="12731468750t" region="region0" style="style0">(사회자)<br/>자, 예선 A 블록도 마침내 대단원!</p>
+<p xml:id="subtitle467" begin="12732302916t" end="12763167082t" region="region0" style="style0">결승 토너먼트에 진출하는 선수는<br/>누구일까요?<br/>[드라카의 힘주는 신음]</p>
+<p xml:id="subtitle468" begin="12764001250t" end="12773594166t" region="region0" style="style0">[드라카의 경계하는 신음]</p>
+<p xml:id="subtitle469" begin="12779016250t" end="12802790000t" region="region0" style="style0">(진)<br/>드라카, 파이어볼!</p>
+<p xml:id="subtitle470" begin="12810714582t" end="12820307500t" region="region0" style="style0">[기합]</p>
+<p xml:id="subtitle471" begin="12825729582t" end="12839076250t" region="region0" style="style0">[몬스터의 힘주는 신음]<br/>[드라카의 기합]</p>
+<p xml:id="subtitle472" begin="12842412916t" end="12856593750t" region="region0" style="style0">[몬스터의 힘주는 신음]<br/>[드라카의 비명]</p>
+<p xml:id="subtitle473" begin="12857427916t" end="12869940416t" region="region0" style="style0">[드라카의 힘겨운 신음]</p>
+<p xml:id="subtitle474" begin="12870774582t" end="12884955416t" region="region0" style="style0">[웃음]</p>
+<p xml:id="subtitle475" begin="12885789582t" end="12897467916t" region="region0" style="style0">떨어져라!</p>
+<p xml:id="subtitle476" begin="12898302082t" end="12909980416t" region="region0" style="style0">위험해요!</p>
+<p xml:id="subtitle477" begin="12910814582t" end="12922075832t" region="region0" style="style0">[드라카의 힘주는 신음]</p>
+<p xml:id="subtitle478" begin="12924995416t" end="12935005416t" region="region0" style="style0">[힘주는 신음]<br/>[타이어 마찰음]</p>
+<p xml:id="subtitle479" begin="12956693750t" end="12982552916t" region="region0" style="style0">(진)<br/>자, 연습했던 대로 해 보자</p>
+<p xml:id="subtitle480" begin="12985889582t" end="13011331666t" region="region0" style="style0">마음을 비우고 귀를 기울이는 거야</p>
+<p xml:id="subtitle481" begin="13013834166t" end="13036356666t" region="region0" style="style0">실프의 속삭임이 들릴 때까지</p>
+<p xml:id="subtitle482" begin="13049286250t" end="13066386666t" region="region0" style="style0">그래, 이거야!</p>
+<p xml:id="subtitle483" begin="13067220832t" end="13094748332t" region="region0" style="style0">(진)<br/>카트의 날개로 바람을 받아서<br/>점프해, 드라카!</p>
+<p xml:id="subtitle484" begin="13095582500t" end="13106426666t" region="region0" style="style0">드라!<br/>[기어 조작음]</p>
+<p xml:id="subtitle485" begin="13115602500t" end="13138125000t" region="region0" style="style0">[드라카의 힘주는 신음]</p>
+<p xml:id="subtitle486" begin="13141461666t" end="13153557082t" region="region0" style="style0">[드라카의 기합]</p>
+<p xml:id="subtitle487" begin="13163567082t" end="13188592082t" region="region0" style="style0">[흥미진진한 음악]<br/>(진)<br/>드라카, 파이어볼!</p>
+<p xml:id="subtitle488" begin="13195682500t" end="13206943750t" region="region0" style="style0">[드라카의 기합]</p>
+<p xml:id="subtitle489" begin="13209863332t" end="13231134582t" region="region0" style="style0">[몬스터의 힘겨운 신음]<br/>[타이어 마찰음]</p>
+<p xml:id="subtitle490" begin="13231968750t" end="13244481250t" region="region0" style="style0">[자동차 가속음]</p>
+<p xml:id="subtitle491" begin="13251571666t" end="13266586666t" region="region0" style="style0">(심판 몬스터)<br/>골!</p>
+<p xml:id="subtitle492" begin="13267420832t" end="13277013750t" region="region0" style="style0">[밝은 음악]<br/>뭐야!</p>
+<p xml:id="subtitle493" begin="13277847916t" end="13292445832t" region="region0" style="style0">이제 알았어!</p>
+<p xml:id="subtitle494" begin="13293697082t" end="13334571250t" region="region0" style="style0">예선 A 블록 최종전<br/>승자는 진 헤이스트!</p>
+<p xml:id="subtitle495" begin="13335405416t" end="13374194166t" region="region0" style="style0">이것으로 7승 1패<br/>2위로 결승 토너먼트에 진출합니다!</p>
+<p xml:id="subtitle496" begin="13375028332t" end="13397550832t" region="region0" style="style0">[관중들의 환호]</p>
+<p xml:id="subtitle497" begin="13401721666t" end="13419239166t" region="region0" style="style0">(함께)<br/>이겼다!</p>
+<p xml:id="subtitle498" begin="13422158750t" end="13439259166t" region="region0" style="style0">해냈구나, 진</p>
+<p xml:id="subtitle499" begin="13442595832t" end="13465118332t" region="region0" style="style0">어, 이제 시작이야</p>
+<p xml:id="subtitle500" begin="13467620832t" end="13498902082t" region="region0" style="style0">결승 토너먼트에서<br/>제대로 실력을 보여 줄게!</p>
+<p xml:id="subtitle501" begin="13499736249t" end="13509746249t" region="region0" style="style0">[비장한 신음]</p>
+<p xml:id="subtitle502" begin="13520173332t" end="13548952082t" region="region0" style="style0">[활기찬 음악]<br/>(사회자)<br/>지금부터 결승 토너먼트 대진 발표를</p>
+<p xml:id="subtitle503" begin="13549786249t" end="13572308749t" region="region0" style="style0">시작하겠습니다!</p>
+<p xml:id="subtitle504" begin="13578147916t" end="13599002082t" region="region0" style="style0">결승 토너먼트 첫 번째 시합</p>
+<p xml:id="subtitle505" begin="13599836249t" end="13629866249t" region="region0" style="style0">진 헤이스트 대 로빈 화이트!</p>
+<p xml:id="subtitle506" begin="13631117499t" end="13647383749t" region="region0" style="style0">잘 부탁해, 로빈</p>
+<p xml:id="subtitle507" begin="13648217916t" end="13674077082t" region="region0" style="style0">나야말로, 살살 좀 해 줘<br/>[진의 웃음]</p>
+<p xml:id="subtitle508" begin="13676162499t" end="13718704999t" region="region0" style="style0">두 번째 시합<br/>라이딘 볼트 대 데니스 로엔!</p>
+<p xml:id="subtitle509" begin="13724127082t" end="13742061666t" region="region0" style="style0">네 상대는 어디 있는 거야?</p>
+<p xml:id="subtitle510" begin="13744147082t" end="13759579166t" region="region0" style="style0">좀 늦는 모양이야</p>
+<p xml:id="subtitle511" begin="13760413332t" end="13787106666t" region="region0" style="style0">그 아인 특별한 사정이 있으니까<br/>[익살스러운 음악]</p>
+<p xml:id="subtitle512" begin="13789192082t" end="13803372916t" region="region0" style="style0">아는 사이야?</p>
+<p xml:id="subtitle513" begin="13805875416t" end="13818804999t" region="region0" style="style0">내 여자 친구<br/>[반짝이는 효과음]</p>
+<p xml:id="subtitle514" begin="13819639166t" end="13835071249t" region="region0" style="style0">거짓말인 거 다 알거든<br/>[라이딘이 살짝 웃는다]</p>
+<p xml:id="subtitle515" begin="13835905416t" end="13844247082t" region="region0" style="style0">[진의 웃음]</p>
+<p xml:id="subtitle516" begin="13845081249t" end="13854674166t" region="region0" style="style0">(사회자)<br/>세 번째 시합</p>
+<p xml:id="subtitle517" begin="13855508332t" end="13890543332t" region="region0" style="style0">[흥미진진한 음악]<br/>미하엘 화이트 대<br/>루이 드 브로이 14세!</p>
+<p xml:id="subtitle518" begin="13907226666t" end="13931834582t" region="region0" style="style0">진, 결승에서 기다릴게</p>
+<p xml:id="subtitle519" begin="13935171249t" end="13964784166t" region="region0" style="style0">기다리시라, 결승 진출은 이 몸</p>
+<p xml:id="subtitle520" begin="13967286666t" end="13995648332t" region="region0" style="style0">루이 드 브로이 14세와 랜슬롯이다!<br/>[미하엘이 살짝 웃는다]</p>
+<p xml:id="subtitle521" begin="14000236249t" end="14021507499t" region="region0" style="style0">어디 솜씨 좀 볼까?</p>
+<p xml:id="subtitle522" begin="14025678332t" end="14035688332t" region="region0" style="style0">[비장한 신음]</p>
+<p xml:id="subtitle523" begin="14041527499t" end="14071974582t" region="region0" style="style0">랜슬롯의 실력 확실히 보여 주지</p>
+<p xml:id="subtitle524" begin="14076562499t" end="14104507082t" region="region0" style="style0">(사회자)<br/>네 번째 시합에 참가 예정인<br/>특별 초청 선수는</p>
+<p xml:id="subtitle525" begin="14105341249t" end="14122858749t" region="region0" style="style0">도착이 늦어지고 있습니다!</p>
+<p xml:id="subtitle526" begin="14131200416t" end="14162064582t" region="region0" style="style0">뭐야, 장난하냔 말이지</p>
+<p xml:id="subtitle527" begin="14164149999t" end="14213365832t" region="region0" style="style0">아, 이런, 결승 토너먼트는<br/>강자들끼리의 접전이군요</p>
+<p xml:id="subtitle528" begin="14214199999t" end="14237973749t" region="region0" style="style0">진, 정말 괜찮을까?</p>
+<p xml:id="subtitle529" begin="14241727499t" end="14255074166t" region="region0" style="style0">전 믿어요</p>
+<p xml:id="subtitle530" begin="14257576666t" end="14282601666t" region="region0" style="style0">진이라면 반드시 우승할 거예요</p>
+<p xml:id="subtitle531" begin="14285938332t" end="14329314999t" region="region0" style="style0">이 정도의 역경을 헤쳐 나가지 못하면<br/>기사가 될 수 없으니까요</p>
+<p xml:id="subtitle532" begin="14331817499t" end="14343912916t" region="region0" style="style0">[밝은 음악]<br/>(로라)<br/>그렇긴 해</p>
+<p xml:id="subtitle533" begin="14344747082t" end="14381450416t" region="region0" style="style0">두고 봐, 승리를 향한 의지가<br/>불타오르고 있다고!</p>
+<p xml:id="subtitle534" begin="14385204166t" end="14402721666t" region="region0" style="style0">반드시 우승하겠어!</p>
+<p xml:id="subtitle535" begin="14403972916t" end="14416902499t" region="region0" style="style0">가자, 드라카!</p>
+<p xml:id="subtitle536" begin="14417736666t" end="14436505416t" region="region0" style="style0">[진의 웃음]</p>
+<p xml:id="subtitle537" begin="14437339582t" end="14448183749t" region="region0" style="style0">[드라카와 진의 환호]</p>
+<p xml:id="subtitle538" begin="14449017916t" end="14458193749t" region="region0" style="style0">[진의 웃음]</p>
+<p xml:id="subtitle539" begin="14481967499t" end="14503238749t" region="region0" style="style0">[리드미컬한 음악]</p>
+</div>
+</body>
+</tt>

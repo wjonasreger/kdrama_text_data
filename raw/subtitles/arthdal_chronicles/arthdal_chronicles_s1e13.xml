@@ -1,0 +1,1360 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt ttp:contentProfiles="http://www.w3.org/ns/ttml/profile/imsc1.1/text" xmlns="http://www.w3.org/ns/ttml" xmlns:nttm="http://www.netflix.com/ns/ttml#metadata" xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:xml="http://www.w3.org/XML/1998/namespace" ttp:tickRate="10000000" ttp:timeBase="media" xml:lang="ko">
+<head>
+<metadata nttm:Smpte24TimingAdjusted="true" nttm:movieID="81057909" nttm:packageID="1581779" nttm:schemaVersion="0" nttm:textType="CC" nttm:uuid="fc741436-8abc-4fcb-9405-002d2ba12945"/>
+<styling>
+<initial tts:backgroundColor="transparent" tts:color="white" tts:displayAlign="after" tts:extent="80.000% 80.000%" tts:fontSize="6.000rh" tts:opacity="1.000" tts:origin="10.000% 10.000%" tts:showBackground="whenActive" tts:textAlign="center" tts:textOutline="black 0.300rh" tts:writingMode="lrtb"/>
+<style xml:id="style0" tts:fontWeight="normal"/>
+</styling>
+<layout>
+<region xml:id="region0" tts:displayAlign="after" tts:extent="80.000% 80.000%" tts:origin="10.000% 10.000%"/>
+<region xml:id="region1" tts:displayAlign="before" tts:extent="80.000% 80.000%" tts:origin="10.000% 10.000%"/>
+</layout>
+</head>
+<body>
+<div>
+<p xml:id="subtitle1" begin="12512500t" end="32532499t" region="region0" style="style0">[주제곡]</p>
+<p xml:id="subtitle2" begin="492992499t" end="512595416t" region="region0" style="style0">[긴장되는 음악]</p>
+<p xml:id="subtitle3" begin="513429582t" end="521771249t" region="region0" style="style0">(라크느루프)<br/>[뇌안탈어]<br/>사람이여</p>
+<p xml:id="subtitle4" begin="522605416t" end="570987082t" region="region0" style="style0">[아사혼이 통역한다]<br/>당신들은 우리의 달의 평원이 필요하나</p>
+<p xml:id="subtitle5" begin="571821250t" end="618534582t" region="region0" style="style0">우리는 당신들의<br/>어느 것도 필요하지 않다</p>
+<p xml:id="subtitle6" begin="623539582t" end="649398750t" region="region1" style="style0">(무백)<br/>[한국어]<br/>협상이 결렬되었습니다</p>
+<p xml:id="subtitle7" begin="680262916t" end="714463750t" region="region1" style="style0">(아사혼)<br/>아스달 연맹을 건설한<br/>아라문 해슬라는 죽었다</p>
+<p xml:id="subtitle8" begin="722388332t" end="749498750t" region="region1" style="style0">그의 이름을 빌려 쓰는<br/>쥐새끼들만 있을 뿐</p>
+<p xml:id="subtitle9" begin="750332916t" end="767433332t" region="region1" style="style0">[대칸 전사들의 힘주는 신음]</p>
+<p xml:id="subtitle10" begin="768267500t" end="782031250t" region="region1" style="style0">(산웅)<br/>네 공이 으뜸이다</p>
+<p xml:id="subtitle11" begin="783282500t" end="793292500t" region="region1" style="style0">(대칸 전사들)<br/>타곤!</p>
+<p xml:id="subtitle12" begin="794126666t" end="806639166t" region="region1" style="style0">[대칸 전사들이 환호한다]</p>
+<p xml:id="subtitle13" begin="807473332t" end="841257082t" region="region1" style="style0">(태알하)<br/>연맹장 너희 아버지 말이야</p>
+<p xml:id="subtitle14" begin="849598749t" end="866282082t" region="region1" style="style0">너 질투하는 거 알아?</p>
+<p xml:id="subtitle15" begin="868367499t" end="887136249t" region="region1" style="style0">[아사혼의 거친 신음]</p>
+<p xml:id="subtitle16" begin="888804582t" end="905070832t" region="region1" style="style0">(아사혼)<br/>[울먹이며]<br/>가자, 이아르크로</p>
+<p xml:id="subtitle17" begin="919668749t" end="941774166t" region="region1" style="style0">(아사혼)<br/>껍질이 떨어지면</p>
+<p xml:id="subtitle18" begin="943859582t" end="982648332t" region="region1" style="style0">이곳으로 돌아가거라<br/>[의미심장한 음악]</p>
+<p xml:id="subtitle19" begin="986819166t" end="1003919582t" region="region1" style="style0">(은섬)<br/>엄마!<br/>[와한족들의 놀란 탄성]</p>
+<p xml:id="subtitle20" begin="1004753749t" end="1028110416t" region="region1" style="style0">[어린 은섬이 입소리를 쓰 낸다]<br/>(열손)<br/>네놈이 정말 꿈을 만나는 것이냐?</p>
+<p xml:id="subtitle21" begin="1065230832t" end="1091090000t" region="region1" style="style0">[새가 지저귄다]<br/>(탄야)<br/>저는 정령의 소리도 듣지 못하고</p>
+<p xml:id="subtitle22" begin="1091924166t" end="1124456666t" region="region1" style="style0">어머니처럼 정령을 부르는<br/>춤도 외우지 못하고</p>
+<p xml:id="subtitle23" begin="1129878750t" end="1152818332t" region="region1" style="style0">여태껏 꿈도 만나지 못하는데</p>
+<p xml:id="subtitle24" begin="1164079582t" end="1180345832t" region="region1" style="style0">[와한족들이 소란스럽다]<br/>(무광)<br/>자, 사냥 시작이다!</p>
+<p xml:id="subtitle25" begin="1181180000t" end="1196195000t" region="region1" style="style0">도티야, 도망가!</p>
+<p xml:id="subtitle26" begin="1197029166t" end="1212044166t" region="region1" style="style0">[무광이 환호한다]</p>
+<p xml:id="subtitle27" begin="1213295416t" end="1231230000t" region="region1" style="style0">(열손)<br/>이쪽으로는 길이 없습니다</p>
+<p xml:id="subtitle28" begin="1237486250t" end="1257089166t" region="region1" style="style0">우릴 어디로 끌고 가는 거요?</p>
+<p xml:id="subtitle29" begin="1285450832t" end="1324239582t" region="region1" style="style0">(탄야)<br/>나는 와한의 탄야</p>
+<p xml:id="subtitle30" begin="1325490832t" end="1343008332t" region="region1" style="style0">(무광)<br/>미친년이 오냐오냐하니까, 이씨...</p>
+<p xml:id="subtitle31" begin="1343842500t" end="1362194166t" region="region1" style="style0">(탄야)<br/>초승달을 만난 어느 밤</p>
+<p xml:id="subtitle32" begin="1369701666t" end="1394309582t" region="region1" style="style0">어느 한 손이 너의 심장을 꺼내리라</p>
+<p xml:id="subtitle33" begin="1399731666t" end="1415580832t" region="region1" style="style0">(남자1)<br/>아스달의 영웅!</p>
+<p xml:id="subtitle34" begin="1416415000t" end="1431847082t" region="region1" style="style0">(사람들)<br/>아스달의 영웅!</p>
+<p xml:id="subtitle35" begin="1432681250t" end="1441857082t" region="region1" style="style0">[태알하의 다급한 숨소리]</p>
+<p xml:id="subtitle36" begin="1451450000t" end="1468550416t" region="region1" style="style0">(태알하)<br/>우리 아버지한테 넌</p>
+<p xml:id="subtitle37" begin="1474389582t" end="1493158332t" region="region1" style="style0">해 뜨면 살아 있으면 안 되는 사람이야</p>
+<p xml:id="subtitle38" begin="1496077916t" end="1509424582t" region="region1" style="style0">[바치들의 신음]</p>
+<p xml:id="subtitle39" begin="1511092916t" end="1527359166t" region="region1" style="style0">(태알하)<br/>아버지, 왜 이러...</p>
+<p xml:id="subtitle40" begin="1528193332t" end="1537786250t" region="region1" style="style0">[태알하의 신음]</p>
+<p xml:id="subtitle41" begin="1538620416t" end="1572821250t" region="region1" style="style0">(미홀)<br/>정말 타곤을 바라기라도 한 거야?</p>
+<p xml:id="subtitle42" begin="1595760832t" end="1606605000t" region="region1" style="style0">(미홀)<br/>타곤을 치시죠</p>
+<p xml:id="subtitle43" begin="1607439166t" end="1629544582t" region="region1" style="style0">(단벽)<br/>무슨 이유로<br/>형님을 추포한단 말입니까!</p>
+<p xml:id="subtitle44" begin="1630378750t" end="1660408750t" region="region1" style="style0">(미홀)<br/>산웅 니르하를 타곤이 살해했다</p>
+<p xml:id="subtitle45" begin="1661242916t" end="1672087082t" region="region1" style="style0">죽였소?</p>
+<p xml:id="subtitle46" begin="1682931249t" end="1711709999t" region="region1" style="style0">[사람들이 흐느끼며 기도한다]</p>
+<p xml:id="subtitle47" begin="1717132082t" end="1763011249t" region="region1" style="style0">(아사론)<br/>내가 사람들의 마음을 쥐고 있는 한</p>
+<p xml:id="subtitle48" begin="1770518749t" end="1789287499t" region="region1" style="style0">어찌해도 넌 내 아래야</p>
+<p xml:id="subtitle49" begin="1799714582t" end="1820151666t" region="region1" style="style0">(무백)<br/>아사론을 쓰러뜨릴 수 있는 무기</p>
+<p xml:id="subtitle50" begin="1820985832t" end="1837669166t" region="region1" style="style0">(무광)<br/>아라문 해슬라이시다!</p>
+<p xml:id="subtitle51" begin="1841839999t" end="1884799582t" region="region1" style="style0">타곤 님이 아라문이시다!<br/>[사람들이 술렁인다]</p>
+<p xml:id="subtitle52" begin="1892307082t" end="1913995416t" region="region1" style="style0">(사람들)<br/>아라문 해슬라!</p>
+<p xml:id="subtitle53" begin="1914829582t" end="1935683749t" region="region1" style="style0">아라문 해슬라!</p>
+<p xml:id="subtitle54" begin="1936517916t" end="1962377082t" region="region1" style="style0">(태알하)<br/>이젠 내가 있을 곳과 내가 갈 길</p>
+<p xml:id="subtitle55" begin="1972387082t" end="1996577916t" region="region1" style="style0">좋아할 사람과 버릴 사람 모두</p>
+<p xml:id="subtitle56" begin="2002417082t" end="2030361666t" region="region1" style="style0">아버지 당신이 아니라 내가 정해</p>
+<p xml:id="subtitle57" begin="2040788749t" end="2062059999t" region="region1" style="style0">왕이 될 사람까지</p>
+<p xml:id="subtitle58" begin="2071235832t" end="2115029582t" region="region1" style="style0">내가 정한 타곤을<br/>내가 왕으로 만들 거야!</p>
+<p xml:id="subtitle59" begin="2118366249t" end="2136300832t" region="region1" style="style0">(은섬)<br/>이걸 너의 주인에게 전해라</p>
+<p xml:id="subtitle60" begin="2145059582t" end="2172170000t" region="region1" style="style0">(타곤)<br/>언젠가 내 비밀을 알고 있는 널</p>
+<p xml:id="subtitle61" begin="2185099582t" end="2203868332t" region="region1" style="style0">반드시 찾아내 죽일 거야</p>
+<p xml:id="subtitle62" begin="2210958750t" end="2225139582t" region="region1" style="style0">(은섬)<br/>언젠가 난</p>
+<p xml:id="subtitle63" begin="2233481250t" end="2257255000t" region="region1" style="style0">아스달로부터 와한을 구해 낼 거야</p>
+<p xml:id="subtitle64" begin="2281028750t" end="2300631666t" region="region1" style="style0">[긴장되는 음악]<br/>[의미심장한 효과음]</p>
+<p xml:id="subtitle65" begin="2309807500t" end="2323571250t" region="region1" style="style0">(탄야)<br/>너</p>
+<p xml:id="subtitle66" begin="2334415416t" end="2345259582t" region="region1" style="style0">누구야?</p>
+<p xml:id="subtitle67" begin="2356937916t" end="2374872500t" region="region1" style="style0">(사야)<br/>타곤 니르하께 전해!</p>
+<p xml:id="subtitle68" begin="2375706666t" end="2389887500t" region="region1" style="style0">니르하 아들이 왔다고</p>
+<p xml:id="subtitle69" begin="2390721666t" end="2402817082t" region="region1" style="style0">내 이름은 사야라고!</p>
+<p xml:id="subtitle70" begin="2414495416t" end="2434515416t" region="region1" style="style0">(사야)<br/>난 그런 당신 때문에!</p>
+<p xml:id="subtitle71" begin="2437852082t" end="2459957500t" region="region1" style="style0">그 깜깜한 굴속에서</p>
+<p xml:id="subtitle72" begin="2460791666t" end="2486233750t" region="region1" style="style0">내가 나인 이유를<br/>스스로 찾아야 했다고</p>
+<p xml:id="subtitle73" begin="2506253750t" end="2522520000t" region="region1" style="style0">[타곤의 힘주는 신음]<br/>[사야의 거친 숨소리]</p>
+<p xml:id="subtitle74" begin="2535449582t" end="2553384166t" region="region1" style="style0">(사야)<br/>아버지를 위해서 쓰일 거예요</p>
+<p xml:id="subtitle75" begin="2560474582t" end="2592172916t" region="region1" style="style0">저도, 탄야도</p>
+<p xml:id="subtitle76" begin="2603434166t" end="2622202916t" region="region1" style="style0">[은섬과 달새의 놀란 탄성]</p>
+<p xml:id="subtitle77" begin="2623037082t" end="2639303332t" region="region1" style="style0">[소란스럽다]<br/>[은섬과 달새의 신음]</p>
+<p xml:id="subtitle78" begin="2640137500t" end="2658906250t" region="region1" style="style0">[소란스럽다]<br/>[북소리가 둥둥 울린다]</p>
+<p xml:id="subtitle79" begin="2676006666t" end="2717297916t" region="region1" style="style0">(사트닉)<br/>모두에게 바다를 보여 줘야 되는데<br/>[분위기가 고조되는 음악]</p>
+<p xml:id="subtitle80" begin="2732730000t" end="2741488750t" region="region1" style="style0">미안해요</p>
+<p xml:id="subtitle81" begin="2742322916t" end="2758589166t" region="region1" style="style0">(은섬)<br/>나가자<br/>[쇼르자긴의 신음]</p>
+<p xml:id="subtitle82" begin="2759423332t" end="2770267500t" region="region1" style="style0">미친놈</p>
+<p xml:id="subtitle83" begin="2771101666t" end="2812810000t" region="region1" style="style0">(남자2)<br/>위대한 어머니 아사신의 후예가<br/>대신전에 계십니까</p>
+<p xml:id="subtitle84" begin="2813644166t" end="2829910416t" region="region0" style="style0">답하소서!<br/>[새가 지저귄다]</p>
+<p xml:id="subtitle85" begin="2830744582t" end="2844925416t" region="region0" style="style0">(탄야)<br/>흰늑대 할머니</p>
+<p xml:id="subtitle86" begin="2852850000t" end="2886633750t" region="region0" style="style0">정말 여기까지 내다보신 거예요?</p>
+<p xml:id="subtitle87" begin="2892472916t" end="2913327082t" region="region0" style="style0">이 춤이 멈추는 곳에</p>
+<p xml:id="subtitle88" begin="2914161250t" end="2941271666t" region="region0" style="style0">그게 있어요?</p>
+<p xml:id="subtitle89" begin="3014678332t" end="3023020000t" region="region0" style="style0">[딸랑 울린다]</p>
+<p xml:id="subtitle90" begin="3023854166t" end="3055552500t" region="region0" style="style0">[사람들의 놀란 탄성]<br/>(남자3)<br/>별방울이다! 아사신의 별방울이다!</p>
+<p xml:id="subtitle91" begin="3056386666t" end="3078492082t" region="region0" style="style0">(남자4)<br/>아사신의 재림이다!</p>
+<p xml:id="subtitle92" begin="3183180000t" end="3203200000t" region="region1" style="style0">[복창꾼의 거친 숨소리]</p>
+<p xml:id="subtitle93" begin="3231978750t" end="3251998750t" region="region1" style="style0">[긴장되는 음악]</p>
+<p xml:id="subtitle94" begin="3336249582t" end="3350430416t" region="region1" style="style0">나는 와한의 탄야</p>
+<p xml:id="subtitle95" begin="3353767082t" end="3366696666t" region="region1" style="style0">껍질을 깨는 자</p>
+<p xml:id="subtitle96" begin="3369616249t" end="3387967916t" region="region1" style="style0">(탄야)<br/>와한의 씨족 어머니 후계자</p>
+<p xml:id="subtitle97" begin="3388802082t" end="3424254166t" region="region1" style="style0">와한의 씨족 흰늑대 할머니이시며<br/>아스달의 위대한 어머니이신</p>
+<p xml:id="subtitle98" begin="3425088332t" end="3463042916t" region="region1" style="style0">아사신의 말씀을 전한다</p>
+<p xml:id="subtitle99" begin="3467630832t" end="3484314166t" region="region1" style="style0">(탄야)<br/>우리가 디딘 땅과</p>
+<p xml:id="subtitle100" begin="3491821666t" end="3506419582t" region="region0" style="style0">우러르는...</p>
+<p xml:id="subtitle101" begin="3523102916t" end="3533947082t" region="region0" style="style0">하늘과...</p>
+<p xml:id="subtitle102" begin="3535198332t" end="3543539999t" region="region0" style="style0">[한숨]</p>
+<p xml:id="subtitle103" begin="3548544999t" end="3558554999t" region="region0" style="style0">[탄야의 한숨]</p>
+<p xml:id="subtitle104" begin="3563142916t" end="3582328749t" region="region0" style="style0">- 또 뭐요?<br/>- (태알하) 바람과 달</p>
+<p xml:id="subtitle105" begin="3585665416t" end="3608187916t" region="region0" style="style0">(태알하)<br/>아스달의 신들을 먼저 부르는 거야</p>
+<p xml:id="subtitle106" begin="3609022082t" end="3621951666t" region="region0" style="style0">그다음에 불과 물</p>
+<p xml:id="subtitle107" begin="3631127499t" end="3644057082t" region="region0" style="style0">다시</p>
+<p xml:id="subtitle108" begin="3658654999t" end="3683262916t" region="region0" style="style0">마무리는 와한의 말로 할 거예요</p>
+<p xml:id="subtitle109" begin="3695775416t" end="3723719999t" region="region1" style="style0">우리가 디딘 땅과 우러르는 하늘과</p>
+<p xml:id="subtitle110" begin="3724554166t" end="3747910832t" region="region0" style="style0">(탄야)<br/>우리의 숨을 닮은 바람과</p>
+<p xml:id="subtitle111" begin="3748744999t" end="3770433332t" region="region1" style="style0">어둠을 밝히는 달과</p>
+<p xml:id="subtitle112" begin="3779609166t" end="3800046249t" region="region0" style="style0">우리를 감싸는 불과</p>
+<p xml:id="subtitle113" begin="3800880416t" end="3820066249t" region="region0" style="style0">우리를 맑게 하는 물과</p>
+<p xml:id="subtitle114" begin="3820900416t" end="3856352499t" region="region0" style="style0">우리를 먹이는 모든 짐승과<br/>풀과 열매여</p>
+<p xml:id="subtitle115" begin="3857186666t" end="3883462916t" region="region0" style="style0">그 모두를 주관하시는 신과 정령에게</p>
+<p xml:id="subtitle116" begin="3886382499t" end="3905568332t" region="region0" style="style0">우린 삶을 빚졌고</p>
+<p xml:id="subtitle117" begin="3918497916t" end="3930176249t" region="region0" style="style0">죽음을 맡긴다</p>
+<p xml:id="subtitle118" begin="3937266666t" end="3968964999t" region="region0" style="style0">당신은 낳되<br/>낳은 것을 가지지 않으시고</p>
+<p xml:id="subtitle119" begin="3969799166t" end="3999829166t" region="region1" style="style0">기르되<br/>기른 것을 무릎 꿇리지 않으시고</p>
+<p xml:id="subtitle120" begin="4000663332t" end="4042788749t" region="region1" style="style0">이롭게 하되<br/>해롭다고 부수지 않으시니</p>
+<p xml:id="subtitle121" begin="4055301249t" end="4076155416t" region="region0" style="style0">(기토하)<br/>아, 어떻게 돼 가는 거야, 이거</p>
+<p xml:id="subtitle122" begin="4079074999t" end="4099929166t" region="region0" style="style0">- 야, 무광<br/>- (무광) 응</p>
+<p xml:id="subtitle123" begin="4103265832t" end="4129542082t" region="region0" style="style0">그년이 진짜<br/>아사신의 후계자가 맞다면 말이야</p>
+<p xml:id="subtitle124" begin="4134964166t" end="4154567082t" region="region0" style="style0">(무광)<br/>[한숨 쉬며]<br/>하지 마요</p>
+<p xml:id="subtitle125" begin="4159989166t" end="4177923749t" region="region0" style="style0">(기토하)<br/>초승달이 뜨는 날</p>
+<p xml:id="subtitle126" begin="4181677499t" end="4202114582t" region="region0" style="style0">누가 네 심장 꺼내려고 하겠다</p>
+<p xml:id="subtitle127" begin="4208787916t" end="4223802916t" region="region0" style="style0">[기토하가 크게 웃는다]</p>
+<p xml:id="subtitle128" begin="4224637082t" end="4258420832t" region="region0" style="style0">- (무광) 진짜, 씨...<br/>- (기토하) 이 새끼가, 쯧</p>
+<p xml:id="subtitle129" begin="4266762499t" end="4300546250t" region="region1" style="style0">[사람들이 기도한다]</p>
+<p xml:id="subtitle130" begin="4312224582t" end="4329325000t" region="region1" style="style0">- (남자5) 하라마하멘<br/>- (남자6) 하라마하멘!</p>
+<p xml:id="subtitle131" begin="4330159166t" end="4351430416t" region="region1" style="style0">[사람들이 계속 기도한다]<br/>(여자1)<br/>하라마하멘</p>
+<p xml:id="subtitle132" begin="4397309582t" end="4437349582t" region="region0" style="style0">(탄야)<br/>세상 만물은<br/>당신께서 낳지 않은 것이 없으며</p>
+<p xml:id="subtitle133" begin="4439852082t" end="4474470000t" region="region0" style="style0">까닭이 없는 것 또한 없다</p>
+<p xml:id="subtitle134" begin="4476972500t" end="4523685832t" region="region1" style="style0">이것이 아사신께서 전하신 말씀이다</p>
+<p xml:id="subtitle135" begin="4537449582t" end="4551213332t" region="region0" style="style0">[차분한 음악]</p>
+<p xml:id="subtitle136" begin="4552047500t" end="4563308750t" region="region0" style="style0">[딸랑 울린다]</p>
+<p xml:id="subtitle137" begin="4568730832t" end="4596675416t" region="region0" style="style0">(사람들)<br/>하라마하멘</p>
+<p xml:id="subtitle138" begin="4666328332t" end="4685931250t" region="region1" style="style0">(사야)<br/>탄야가 별방울이<br/>어디 있는지 안다고요?</p>
+<p xml:id="subtitle139" begin="4694690000t" end="4723885832t" region="region0" style="style0">어디? 어디 그런 내용이 있어요?</p>
+<p xml:id="subtitle140" begin="4724720000t" end="4737649582t" region="region0" style="style0">(타곤)<br/>손톱자국</p>
+<p xml:id="subtitle141" begin="4766428332t" end="4811890416t" region="region0" style="style0">'아버지는 알지 못한다'</p>
+<p xml:id="subtitle142" begin="4819815000t" end="4842337500t" region="region0" style="style0">'여자, 노예'</p>
+<p xml:id="subtitle143" begin="4843171666t" end="4870282082t" region="region0" style="style0">'탄야는 안다'</p>
+<p xml:id="subtitle144" begin="4871116250t" end="4884045832t" region="region0" style="style0">[사야의 놀란 숨소리]</p>
+<p xml:id="subtitle145" begin="4885714166t" end="4909070832t" region="region0" style="style0">(사야)<br/>탄야는 분명 저한테 모른다고 했어요</p>
+<p xml:id="subtitle146" begin="4917412500t" end="4930342082t" region="region0" style="style0">[책상을 쾅 치며]<br/>태알하가 배신한 거면...</p>
+<p xml:id="subtitle147" begin="4931176250t" end="4961623332t" region="region0" style="style0">(타곤)<br/>아니, 그다음 세 개의 글자</p>
+<p xml:id="subtitle148" begin="4975387082t" end="5010422082t" region="region0" style="style0">(사야)<br/>'서로 호, 좋을 호'</p>
+<p xml:id="subtitle149" begin="5025020000t" end="5036698332t" region="region0" style="style0">'나비 호'</p>
+<p xml:id="subtitle150" begin="5041703332t" end="5068396666t" region="region0" style="style0">좋은 나비? 이게 뭔데요?</p>
+<p xml:id="subtitle151" begin="5069230832t" end="5098426666t" region="region0" style="style0">(타곤)<br/>호, 호, 호</p>
+<p xml:id="subtitle152" begin="5115527082t" end="5143888750t" region="region0" style="style0">태알하가 나한테 웃은 거야</p>
+<p xml:id="subtitle153" begin="5213124582t" end="5257752500t" region="region0" style="style0">와한의 후계자이며<br/>아사신의 곧쪽이신 탄야 님이시여</p>
+<p xml:id="subtitle154" begin="5258586666t" end="5279440832t" region="region0" style="style0">(태알하)<br/>해족의 어라하 태알하</p>
+<p xml:id="subtitle155" begin="5287365416t" end="5309470832t" region="region0" style="style0">탄야 님의 눈앞에 나섭니다</p>
+<p xml:id="subtitle156" begin="5329073750t" end="5357018332t" region="region0" style="style0">(탄야)<br/>말하라, 해족의 어라하여</p>
+<p xml:id="subtitle157" begin="5399977916t" end="5431676250t" region="region0" style="style0">200여 년 전 어머니 아사신께서</p>
+<p xml:id="subtitle158" begin="5432510416t" end="5460455000t" region="region0" style="style0">(태알하)<br/>길고 긴 전쟁에 신음하는 아스달에</p>
+<p xml:id="subtitle159" begin="5461289166t" end="5499660832t" region="region0" style="style0">아라문 해슬라를 보내시어<br/>연맹을 만들게 하셨나이다</p>
+<p xml:id="subtitle160" begin="5502163332t" end="5548042500t" region="region0" style="style0">예언에 이르기를<br/>다시 아라문을 보내신다 하였습니다</p>
+<p xml:id="subtitle161" begin="5551796250t" end="5580992082t" region="region0" style="style0">아라문은 언제 다시 오시는지<br/>묻고자 합니다</p>
+<p xml:id="subtitle162" begin="5618529582t" end="5651896250t" region="region0" style="style0">이미 왔으나<br/>너희들이 알아보지 못하였다</p>
+<p xml:id="subtitle163" begin="5668996666t" end="5694021666t" region="region0" style="style0">(탄야)<br/>아사신의 곧쪽을 알아볼 눈이 있고</p>
+<p xml:id="subtitle164" begin="5694855832t" end="5714458750t" region="region0" style="style0">결국 날 찾아냈고</p>
+<p xml:id="subtitle165" begin="5730307916t" end="5743237500t" region="region0" style="style0">날 지킬 자</p>
+<p xml:id="subtitle166" begin="5776187082t" end="5789116666t" region="region0" style="style0">연맹장 타곤</p>
+<p xml:id="subtitle167" begin="5789950832t" end="5799960832t" region="region0" style="style0">[긴장되는 음악]</p>
+<p xml:id="subtitle168" begin="5800795000t" end="5815392916t" region="region0" style="style0">타곤은 내 눈앞에 나서라</p>
+<p xml:id="subtitle169" begin="5834161666t" end="5856684166t" region="region0" style="style0">(타곤)<br/>새녘족의 자제 연맹장 타곤</p>
+<p xml:id="subtitle170" begin="5859603750t" end="5892553332t" region="region0" style="style0">아사신의 후예<br/>탄야 님의 눈앞에 나섭니다</p>
+<p xml:id="subtitle171" begin="5995155832t" end="6027688332t" region="region0" style="style0">타곤 그대는 하늘과 땅을 이을 자</p>
+<p xml:id="subtitle172" begin="6028522500t" end="6050210832t" region="region0" style="style0">(탄야)<br/>그대는 오늘과 내일을 이을 자</p>
+<p xml:id="subtitle173" begin="6051045000t" end="6063140416t" region="region0" style="style0">타곤 그대는</p>
+<p xml:id="subtitle174" begin="6086080000t" end="6116527082t" region="region0" style="style0">아라문 해슬라의 재림이다</p>
+<p xml:id="subtitle175" begin="6121115000t" end="6154064582t" region="region0" style="style0">[웅장한 음악]</p>
+<p xml:id="subtitle176" begin="6161572082t" end="6169913750t" region="region0" style="style0">[태알하의 벅찬 숨소리]</p>
+<p xml:id="subtitle177" begin="6183677500t" end="6206617082t" region="region0" style="style0">(남자7)<br/>아라문 해슬라시여!</p>
+<p xml:id="subtitle178" begin="6207451250t" end="6231225000t" region="region0" style="style0">(여자2)<br/>아사신의 후예이시여!</p>
+<p xml:id="subtitle179" begin="6232059166t" end="6266677082t" region="region0" style="style0">[사람들이 소리친다]</p>
+<p xml:id="subtitle180" begin="6303380416t" end="6329239582t" region="region0" style="style0">(남자8)<br/>아사신의 후예이시여!</p>
+<p xml:id="subtitle181" begin="6340083750t" end="6383460416t" region="region0" style="style0">- (여자3) 아라문 해슬라!<br/>- (여자4) 아라문 해슬라시여!</p>
+<p xml:id="subtitle182" begin="6440600832t" end="6472299166t" region="region0" style="style0">[거친 숨소리]</p>
+<p xml:id="subtitle183" begin="6474384582t" end="6485228750t" region="region0" style="style0">[문이 탁 열린다]</p>
+<p xml:id="subtitle184" begin="6511922082t" end="6540700832t" region="region0" style="style0">[사람들이 중얼거린다]</p>
+<p xml:id="subtitle185" begin="6542369166t" end="6563223332t" region="region0" style="style0">[복창꾼들이 소곤거린다]</p>
+<p xml:id="subtitle186" begin="6625785832t" end="6641635000t" region="region0" style="style0">(복창꾼)<br/>와한의 탄야!</p>
+<p xml:id="subtitle187" begin="6642469166t" end="6659986666t" region="region0" style="style0">(복창꾼들)<br/>와한의 탄야가!</p>
+<p xml:id="subtitle188" begin="6660820832t" end="6695021666t" region="region0" style="style0">어머니 아사신의 별방울을 찾았다!</p>
+<p xml:id="subtitle189" begin="6697107082t" end="6735478749t" region="region0" style="style0">[사람들이 환호한다]<br/>[웅장한 음악]</p>
+<p xml:id="subtitle190" begin="6755498749t" end="6773016249t" region="region0" style="style0">잘된 거지? 잘된 거 맞지?</p>
+<p xml:id="subtitle191" begin="6773850416t" end="6794287499t" region="region0" style="style0">어, 잘된 거야, 잘된 거야</p>
+<p xml:id="subtitle192" begin="6795121666t" end="6808885416t" region="region0" style="style0">[도티의 웃음]<br/>(도티)<br/>잘된 거야!</p>
+<p xml:id="subtitle193" begin="6834744582t" end="6870196666t" region="region0" style="style0">(무백)<br/>역시 탄야가 방울이었는가</p>
+<p xml:id="subtitle194" begin="6871030832t" end="6884377499t" region="region0" style="style0">(복창꾼)<br/>또한!</p>
+<p xml:id="subtitle195" begin="6890633749t" end="6909402499t" region="region0" style="style0">(복창꾼들)<br/>아사신의 후예께서!</p>
+<p xml:id="subtitle196" begin="6914824582t" end="6968628332t" region="region0" style="style0">타곤 니르하를 아라문 해슬라의<br/>재림으로 인정하셨으니</p>
+<p xml:id="subtitle197" begin="6969462499t" end="6998658332t" region="region0" style="style0">연맹에 축복이 내렸도다!</p>
+<p xml:id="subtitle198" begin="6999492499t" end="7046205832t" region="region0" style="style0">[사람들이 열광한다]</p>
+<p xml:id="subtitle199" begin="7136712916t" end="7147139999t" region="region0" style="style0">[거친 신음]</p>
+<p xml:id="subtitle200" begin="7147974166t" end="7164240416t" region="region0" style="style0">(박량풍)<br/>저, 무광 형님</p>
+<p xml:id="subtitle201" begin="7170079582t" end="7188014166t" region="region0" style="style0">- (박량풍) 저, 무광 형님<br/>- (무광) 왜</p>
+<p xml:id="subtitle202" begin="7188848332t" end="7204697499t" region="region0" style="style0">[사람들이 열광하는 소리가 들린다]<br/>[박량풍의 거친 숨소리]</p>
+<p xml:id="subtitle203" begin="7205531666t" end="7237647082t" region="region0" style="style0">초승달 뜨면 집 밖으로 나오지 마세요</p>
+<p xml:id="subtitle204" begin="7251827916t" end="7271847916t" region="region0" style="style0">됐구나!</p>
+<p xml:id="subtitle205" begin="7272682082t" end="7300209582t" region="region0" style="style0">[대칸 전사들이 환호한다]</p>
+<p xml:id="subtitle206" begin="7317309999t" end="7345671666t" region="region0" style="style0">(박량풍)<br/>그리고 타곤 니르하께서</p>
+<p xml:id="subtitle207" begin="7346505832t" end="7381123749t" region="region0" style="style0">진정한 아라문 해슬라로<br/>인정받으셨습니다!</p>
+<p xml:id="subtitle208" begin="7381957916t" end="7412404999t" region="region0" style="style0">[대칸 전사들의 환호]<br/>(기토하)<br/>타곤!</p>
+<p xml:id="subtitle209" begin="7415741666t" end="7459952499t" region="region0" style="style0">(함께)<br/>타곤! 타곤!</p>
+<p xml:id="subtitle210" begin="7460786666t" end="7487897082t" region="region0" style="style0">(기토하)<br/>초승달! 초승달!</p>
+<p xml:id="subtitle211" begin="7489148332t" end="7500826666t" region="region0" style="style0">[기토하의 신음]</p>
+<p xml:id="subtitle212" begin="7501660832t" end="7520429582t" region="region0" style="style0">(대칸 전사들)<br/>♪ 초승달, 초승달, 초승달 ♪</p>
+<p xml:id="subtitle213" begin="7521263749t" end="7539198332t" region="region0" style="style0">♪ 초승달, 초승달, 초승달 ♪</p>
+<p xml:id="subtitle214" begin="7540032499t" end="7559635416t" region="region0" style="style0">♪ 초승달, 초승달, 초승달 ♪<br/>[무광이 화낸다]</p>
+<p xml:id="subtitle215" begin="7560469582t" end="7578404166t" region="region0" style="style0">♪ 초승달, 초승달, 초승달 ♪</p>
+<p xml:id="subtitle216" begin="7579238332t" end="7595504582t" region="region0" style="style0">♪ 초승달, 초승달, 초승달 ♪</p>
+<p xml:id="subtitle217" begin="7596338749t" end="7608434166t" region="region0" style="style0">(무광)<br/>초승달!</p>
+<p xml:id="subtitle218" begin="7609268332t" end="7640132499t" region="region0" style="style0">[사람들이 열광한다]</p>
+<p xml:id="subtitle219" begin="7648891249t" end="7676418749t" region="region0" style="style0">[사람들이 웅성거린다]</p>
+<p xml:id="subtitle220" begin="7700192499t" end="7712704999t" region="region0" style="style0">[사람들이 조용해진다]</p>
+<p xml:id="subtitle221" begin="7814056249t" end="7851176666t" region="region0" style="style0">[사람들이 열광한다]</p>
+<p xml:id="subtitle222" begin="7903729166t" end="7944186249t" region="region0" style="style0">(사람들)<br/>아라문 해슬라시여!</p>
+<p xml:id="subtitle223" begin="7965874582t" end="7992984999t" region="region0" style="style0">(여자5)<br/>아라문이시여!</p>
+<p xml:id="subtitle224" begin="8004663332t" end="8025517499t" region="region0" style="style0">타곤 니르하시여!</p>
+<p xml:id="subtitle225" begin="8034693332t" end="8061803749t" region="region0" style="style0">타곤 니르하시여!</p>
+<p xml:id="subtitle226" begin="8083074999t" end="8119361249t" region="region0" style="style0">[사람들이 열광한다]<br/>[감동적인 음악]</p>
+<p xml:id="subtitle227" begin="8138547082t" end="8169411249t" region="region0" style="style0">(탄야)<br/>나, 날 부르는 거야?</p>
+<p xml:id="subtitle228" begin="8176084582t" end="8206114582t" region="region0" style="style0">저 많은 사람이 내 이름을...</p>
+<p xml:id="subtitle229" begin="8229888332t" end="8261169582t" region="region0" style="style0">[사람들이 열광한다]</p>
+<p xml:id="subtitle230" begin="8272847916t" end="8292033749t" region="region0" style="style0">아사신의 곧쪽이시다!</p>
+<p xml:id="subtitle231" begin="8321646666t" end="8359184166t" region="region0" style="style0">[사람들이 열광한다]</p>
+<p xml:id="subtitle232" begin="8413822082t" end="8464289166t" region="region0" style="style0">(탄야)<br/>은섬아, 이제 널 구할 수 있어</p>
+<p xml:id="subtitle233" begin="8479304166t" end="8492650832t" region="region0" style="style0">(수하1)<br/>더 올려, 더 올려, 더, 더, 더!</p>
+<p xml:id="subtitle234" begin="8493484999t" end="8529771249t" region="region1" style="style0">[노예들의 힘주는 신음]</p>
+<p xml:id="subtitle235" begin="8561052499t" end="8585243332t" region="region0" style="style0">[쇼르자긴의 힘주는 신음]</p>
+<p xml:id="subtitle236" begin="8602343750t" end="8610685416t" region="region0" style="style0">[쇼르자긴이 숨을 후 내뱉는다]</p>
+<p xml:id="subtitle237" begin="8611519582t" end="8622780832t" region="region0" style="style0">(쇼르자긴)<br/>실어</p>
+<p xml:id="subtitle238" begin="8627785832t" end="8652810832t" region="region0" style="style0">뭐 해, 시체 늪에 갖다 버려</p>
+<p xml:id="subtitle239" begin="8702026666t" end="8713705000t" region="region0" style="style0">(골두)<br/>누가 왔다고?</p>
+<p xml:id="subtitle240" begin="8716624582t" end="8732056666t" region="region0" style="style0">저...</p>
+<p xml:id="subtitle241" begin="8732890832t" end="8757915832t" region="region0" style="style0">저기, 아, 아스달에서 대칸이...</p>
+<p xml:id="subtitle242" begin="8758750000t" end="8778352916t" region="region0" style="style0">대칸? 대칸이 왜?</p>
+<p xml:id="subtitle243" begin="8780855416t" end="8791282500t" region="region0" style="style0">그게...</p>
+<p xml:id="subtitle244" begin="8804212082t" end="8829237082t" region="region0" style="style0">[긴장되는 음악]</p>
+<p xml:id="subtitle245" begin="8850091250t" end="8863020832t" region="region1" style="style0">[연발의 한숨]</p>
+<p xml:id="subtitle246" begin="8898890000t" end="8914739166t" region="region0" style="style0">(쇼르자긴)<br/>아이고</p>
+<p xml:id="subtitle247" begin="8925583332t" end="8942683750t" region="region1" style="style0">[힘주는 숨소리]</p>
+<p xml:id="subtitle248" begin="8947271666t" end="8974382082t" region="region1" style="style0">아이고, 아이고</p>
+<p xml:id="subtitle249" begin="9048205832t" end="9062803750t" region="region0" style="style0">[쇼르자긴의 힘겨운 숨소리]</p>
+<p xml:id="subtitle250" begin="9071979582t" end="9089914166t" region="region0" style="style0">[달새의 망연자실한 숨소리]<br/>(쇼르자긴)<br/>야, 뭐 해!</p>
+<p xml:id="subtitle251" begin="9104095000t" end="9124532082t" region="region0" style="style0">야, 뭐 해! 실으라니까!</p>
+<p xml:id="subtitle252" begin="9126200416t" end="9137878750t" region="region0" style="style0">(골두)<br/>잠깐</p>
+<p xml:id="subtitle253" begin="9140381250t" end="9151642500t" region="region0" style="style0">[골두가 기침한다]</p>
+<p xml:id="subtitle254" begin="9167491666t" end="9193350832t" region="region0" style="style0">[긴장되는 음악]<br/>[골두의 힘겨운 신음]</p>
+<p xml:id="subtitle255" begin="9194185000t" end="9223797916t" region="region0" style="style0">(쇼르자긴)<br/>아유, 아유, 저, 골두 님이...</p>
+<p xml:id="subtitle256" begin="9224632082t" end="9244652082t" region="region0" style="style0">이놈들 이거 다 뒈졌습니다, 이거</p>
+<p xml:id="subtitle257" begin="9245486250t" end="9257998750t" region="region0" style="style0">돌림병이 도는 바람에</p>
+<p xml:id="subtitle258" begin="9258832916t" end="9268842916t" region="region0" style="style0">(연발)<br/>죽었다고?</p>
+<p xml:id="subtitle259" begin="9271345416t" end="9282606666t" region="region0" style="style0">(쇼르자긴)<br/>아, 누구...</p>
+<p xml:id="subtitle260" begin="9283440832t" end="9295536250t" region="region0" style="style0">(골두)<br/>아스달에서 오셨다</p>
+<p xml:id="subtitle261" begin="9299290000t" end="9313470832t" region="region0" style="style0">대칸 조장님이셔</p>
+<p xml:id="subtitle262" begin="9315556250t" end="9340998332t" region="region0" style="style0">- (쇼르자긴) 아이고...<br/>- (연발) 올마대도 죽었느냐?</p>
+<p xml:id="subtitle263" begin="9343917916t" end="9361852500t" region="region0" style="style0">(쇼르자긴)<br/>아, 그 늙은이요?</p>
+<p xml:id="subtitle264" begin="9364355000t" end="9374782082t" region="region0" style="style0">예, 뭐, 죽었죠, 예</p>
+<p xml:id="subtitle265" begin="9375616250t" end="9406897500t" region="region0" style="style0">근데 뭐, 어차피<br/>얼마 못 갈 놈이었습니다, 예<br/>[연발의 한숨]</p>
+<p xml:id="subtitle266" begin="9409817082t" end="9421078332t" region="region0" style="style0">(연발)<br/>어느 거적이냐</p>
+<p xml:id="subtitle267" begin="9428168750t" end="9444435000t" region="region0" style="style0">[쇼르자긴의 다급한 신음]</p>
+<p xml:id="subtitle268" begin="9446103332t" end="9464455000t" region="region0" style="style0">(쇼르자긴)<br/>[웃으며]<br/>아, 저, 큰일 납니다</p>
+<p xml:id="subtitle269" begin="9465289166t" end="9491565416t" region="region0" style="style0">아, 말씀 못 들으셨습니까?<br/>돌림병입니다</p>
+<p xml:id="subtitle270" begin="9492399582t" end="9512836666t" region="region0" style="style0">빨리 가서 태워 버려야 됩니다, 예</p>
+<p xml:id="subtitle271" begin="9513670832t" end="9534107916t" region="region0" style="style0">[쇼르자긴과 연발의 웃음]</p>
+<p xml:id="subtitle272" begin="9539947082t" end="9549957082t" region="region0" style="style0">(연발)<br/>안 비켜?</p>
+<p xml:id="subtitle273" begin="9550791250t" end="9563720832t" region="region0" style="style0">[쇼르자긴의 당황한 숨소리]</p>
+<p xml:id="subtitle274" begin="9591248332t" end="9613353750t" region="region0" style="style0">(쇼르자긴)<br/>예, 뭐, 그럼...</p>
+<p xml:id="subtitle275" begin="9660901250t" end="9670077082t" region="region0" style="style0">[놀란 숨소리]</p>
+<p xml:id="subtitle276" begin="9699690000t" end="9710951250t" region="region0" style="style0">[쇼르자긴의 당황한 신음]</p>
+<p xml:id="subtitle277" begin="9823980832t" end="9850257082t" region="region0" style="style0">[의미심장한 음악]</p>
+<p xml:id="subtitle278" begin="9883206666t" end="9907397500t" region="region0" style="style0">[긴장되는 음악]</p>
+<p xml:id="subtitle279" begin="10023346666t" end="10032105416t" region="region0" style="style0">[스천의 놀란 숨소리]</p>
+<p xml:id="subtitle280" begin="10045869166t" end="10056296250t" region="region0" style="style0">[작은 소리로]<br/>살아 있어</p>
+<p xml:id="subtitle281" begin="10237310416t" end="10248154582t" region="region0" style="style0">[어이없는 웃음]</p>
+<p xml:id="subtitle282" begin="10275682082t" end="10289862916t" region="region0" style="style0">(연발)<br/>이야...</p>
+<p xml:id="subtitle283" begin="10387460416t" end="10420410000t" region="region0" style="style0">[연발과 쇼르자긴의 웃음]</p>
+<p xml:id="subtitle284" begin="10438761666t" end="10452942500t" region="region0" style="style0">[연발이 소리친다]</p>
+<p xml:id="subtitle285" begin="10489228750t" end="10502575416t" region="region0" style="style0">너...</p>
+<p xml:id="subtitle286" begin="10512168332t" end="10523846666t" region="region0" style="style0">(연발)<br/>너 뭐야?</p>
+<p xml:id="subtitle287" begin="10525932082t" end="10535107916t" region="region0" style="style0">저요?</p>
+<p xml:id="subtitle288" begin="10538444582t" end="10553876666t" region="region0" style="style0">(쇼르자긴)<br/>저는 뭐...</p>
+<p xml:id="subtitle289" begin="10554710832t" end="10581404166t" region="region0" style="style0">여기 노예들 다루는...</p>
+<p xml:id="subtitle290" begin="10633956666t" end="10643549582t" region="region0" style="style0">[긴장감이 고조되는 음악]</p>
+<p xml:id="subtitle291" begin="10644383750t" end="10661067082t" region="region0" style="style0">[은섬의 기합]<br/>[대칸 전사들의 당황한 신음]</p>
+<p xml:id="subtitle292" begin="10663569582t" end="10674413750t" region="region0" style="style0">(은섬)<br/>다 도망쳐!</p>
+<p xml:id="subtitle293" begin="10675247916t" end="10686092082t" region="region0" style="style0">[소란스럽다]</p>
+<p xml:id="subtitle294" begin="10686926250t" end="10696519166t" region="region0" style="style0">(대칸 전사1)<br/>움직이지 마!</p>
+<p xml:id="subtitle295" begin="10703609582t" end="10712368332t" region="region0" style="style0">가만있어!</p>
+<p xml:id="subtitle296" begin="10749905832t" end="10789111666t" region="region0" style="style0">[소란스럽게 싸운다]</p>
+<p xml:id="subtitle297" begin="10806212082t" end="10816639166t" region="region0" style="style0">(골두)<br/>잡아</p>
+<p xml:id="subtitle298" begin="10824146666t" end="10844583750t" region="region0" style="style0">잡으라고, 저, 저놈</p>
+<p xml:id="subtitle299" begin="10845417916t" end="10859598750t" region="region0" style="style0">저놈부터 잡아, 저놈</p>
+<p xml:id="subtitle300" begin="10865437916t" end="10884623750t" region="region0" style="style0">[골두가 말한다]<br/>(쇼르자긴)<br/>모르겠다, 씨</p>
+<p xml:id="subtitle301" begin="10907980416t" end="10920075832t" region="region0" style="style0">[연발의 기합]</p>
+<p xml:id="subtitle302" begin="10920910000t" end="10952608332t" region="region0" style="style0">[소란스럽게 싸운다]</p>
+<p xml:id="subtitle303" begin="11036442082t" end="11046869166t" region="region0" style="style0">[바도루의 기합]</p>
+<p xml:id="subtitle304" begin="11049371666t" end="11066889166t" region="region0" style="style0">(골두)<br/>저놈 하나를 못 당해?</p>
+<p xml:id="subtitle305" begin="11067723332t" end="11093582500t" region="region0" style="style0">잡아, 빨리! 야, 잡으라고!</p>
+<p xml:id="subtitle306" begin="11121527082t" end="11134039582t" region="region0" style="style0">[달새의 당황한 신음]</p>
+<p xml:id="subtitle307" begin="11137376250t" end="11157813332t" region="region0" style="style0">[스천의 기합]<br/>[달새의 놀란 탄성]</p>
+<p xml:id="subtitle308" begin="11158647500t" end="11175330832t" region="region0" style="style0">[달새의 거친 신음]</p>
+<p xml:id="subtitle309" begin="11176165000t" end="11186592082t" region="region0" style="style0">(스천)<br/>따라와</p>
+<p xml:id="subtitle310" begin="11194516666t" end="11207863332t" region="region0" style="style0">따라와, 새끼야!</p>
+<p xml:id="subtitle311" begin="11223295416t" end="11250822916t" region="region0" style="style0">[소란스럽게 싸운다]</p>
+<p xml:id="subtitle312" begin="11311300000t" end="11334656666t" region="region0" style="style0">[웅성거린다]</p>
+<p xml:id="subtitle313" begin="11345500832t" end="11370525832t" region="region0" style="style0">[스천의 힘주는 신음]<br/>[달새의 기합]</p>
+<p xml:id="subtitle314" begin="11390128750t" end="11404726666t" region="region0" style="style0">[스천과 달새의 힘주는 신음]</p>
+<p xml:id="subtitle315" begin="11425997916t" end="11466455000t" region="region0" style="style0">[스천이 나가자고 재촉한다]<br/>[소란스럽다]</p>
+<p xml:id="subtitle316" begin="11513168332t" end="11526097916t" region="region0" style="style0">[긴장되는 음악]</p>
+<p xml:id="subtitle317" begin="11526932082t" end="11556962082t" region="region0" style="style0">[올마대의 신음]</p>
+<p xml:id="subtitle318" begin="11586157916t" end="11619941666t" region="region0" style="style0">[노예들의 기합]<br/>[흥미진진한 음악]</p>
+<p xml:id="subtitle319" begin="11641212916t" end="11679167500t" region="region0" style="style0">[소란스럽게 싸운다]</p>
+<p xml:id="subtitle320" begin="11702524166t" end="11718790416t" region="region0" style="style0">[스천의 당황한 신음]</p>
+<p xml:id="subtitle321" begin="11836825000t" end="11845583750t" region="region0" style="style0">[수하2의 기합]</p>
+<p xml:id="subtitle322" begin="11846417916t" end="11861015832t" region="region0" style="style0">[은섬과 수하2의 힘주는 신음]</p>
+<p xml:id="subtitle323" begin="11861850000t" end="11879367500t" region="region0" style="style0">[수하3의 힘주는 신음]<br/>[은섬의 신음]</p>
+<p xml:id="subtitle324" begin="11885206666t" end="11906060832t" region="region0" style="style0">[달새의 기합]</p>
+<p xml:id="subtitle325" begin="11921492916t" end="11935673750t" region="region0" style="style0">[싸우는 소리가 들린다]</p>
+<p xml:id="subtitle326" begin="11939010416t" end="11964035416t" region="region0" style="style0">[소란스럽게 싸운다]</p>
+<p xml:id="subtitle327" begin="11970708750t" end="11984472500t" region="region0" style="style0">[거친 숨소리]</p>
+<p xml:id="subtitle328" begin="11985306666t" end="11996150832t" region="region0" style="style0">이 사람 데리고 먼저 가</p>
+<p xml:id="subtitle329" begin="11996985000t" end="12016170832t" region="region0" style="style0">- 무슨 소리 하는 거야, 지금<br/>- (달새) 이 새끼야!</p>
+<p xml:id="subtitle330" begin="12019090416t" end="12041612916t" region="region0" style="style0">너한테 더 미안하기 싫어서<br/>이러는 거잖아!</p>
+<p xml:id="subtitle331" begin="12042447082t" end="12058713332t" region="region0" style="style0">(달새)<br/>빨리!<br/>[달새의 기합]</p>
+<p xml:id="subtitle332" begin="12061215832t" end="12073728332t" region="region0" style="style0">[달새의 힘주는 신음]</p>
+<p xml:id="subtitle333" begin="12093748332t" end="12126280832t" region="region0" style="style0">[소란스럽게 싸운다]</p>
+<p xml:id="subtitle334" begin="12185923750t" end="12209280416t" region="region0" style="style0">[멀리서 소란스러운 소리가 들린다]<br/>[힘주는 신음]</p>
+<p xml:id="subtitle335" begin="12224295416t" end="12249320416t" region="region0" style="style0">[거친 신음]</p>
+<p xml:id="subtitle336" begin="12302290000t" end="12328983332t" region="region0" style="style0">에이씨, 보석...</p>
+<p xml:id="subtitle337" begin="12340244582t" end="12351922916t" region="region0" style="style0">내 보석</p>
+<p xml:id="subtitle338" begin="12360681666t" end="12373611250t" region="region0" style="style0">어떡하지?</p>
+<p xml:id="subtitle339" begin="12380701666t" end="12401555832t" region="region0" style="style0">(쇼르자긴)<br/>아, 젠장! 이런, 씨</p>
+<p xml:id="subtitle340" begin="12419490416t" end="12435339582t" region="region0" style="style0">[짜증 섞인 신음]</p>
+<p xml:id="subtitle341" begin="12436173750t" end="12459530416t" region="region0" style="style0">[긴장되는 음악]<br/>[사람들의 기합]</p>
+<p xml:id="subtitle342" begin="12484972500t" end="12509997500t" region="region0" style="style0">[소란스럽다]<br/>(달새)<br/>문 열어, 이 새끼들아! 문 열어!</p>
+<p xml:id="subtitle343" begin="12582987082t" end="12602590000t" region="region0" style="style0">[노예들의 당황한 신음]</p>
+<p xml:id="subtitle344" begin="12618856250t" end="12641795832t" region="region0" style="style0">[소란스럽게 싸운다]</p>
+<p xml:id="subtitle345" begin="12655559582t" end="12665569582t" region="region0" style="style0">다 비켜!</p>
+<p xml:id="subtitle346" begin="12670574582t" end="12685589582t" region="region0" style="style0">(스천)<br/>빨리!<br/>[달새의 거친 신음]</p>
+<p xml:id="subtitle347" begin="12695599582t" end="12707277916t" region="region0" style="style0">빨리빨리!</p>
+<p xml:id="subtitle348" begin="12723544166t" end="12745232500t" region="region0" style="style0">[소란스럽다]</p>
+<p xml:id="subtitle349" begin="12785689582t" end="12804458332t" region="region0" style="style0">(스천)<br/>빨리, 빨리, 빨리!<br/>[바도루가 소리친다]</p>
+<p xml:id="subtitle350" begin="12821141666t" end="12834071250t" region="region0" style="style0">- (스천) 빨리빨리!<br/>- (바도루) 빨리!</p>
+<p xml:id="subtitle351" begin="12834905416t" end="12860347500t" region="region0" style="style0">[소란스럽게 싸운다]</p>
+<p xml:id="subtitle352" begin="12897885000t" end="12931251666t" region="region0" style="style0">[바도루의 힘주는 탄성]</p>
+<p xml:id="subtitle353" begin="12940427500t" end="12950020416t" region="region0" style="style0">(수하4)<br/>잡아!</p>
+<p xml:id="subtitle354" begin="13008829166t" end="13022592916t" region="region0" style="style0">올마대가 없어</p>
+<p xml:id="subtitle355" begin="13023427082t" end="13033437082t" region="region0" style="style0">(연발)<br/>가 찾아!</p>
+<p xml:id="subtitle356" begin="13034271250t" end="13045115416t" region="region0" style="style0">(대칸 전사들)<br/>예!</p>
+<p xml:id="subtitle357" begin="13045949582t" end="13070140416t" region="region0" style="style0">(스천)<br/>빨리, 빨리, 빨리 나와!</p>
+<p xml:id="subtitle358" begin="13070974582t" end="13086406666t" region="region0" style="style0">나가자! 빨리 나가자!<br/>[달새의 거친 신음]</p>
+<p xml:id="subtitle359" begin="13087240832t" end="13102672916t" region="region0" style="style0">- (수하4) 잡으란 말이야!<br/>- (달새) 여긴 내가 막을 테니까</p>
+<p xml:id="subtitle360" begin="13103507082t" end="13116019582t" region="region0" style="style0">(달새)<br/>빨리 사람들 도와줘, 빨리!</p>
+<p xml:id="subtitle361" begin="13116853750t" end="13146466666t" region="region0" style="style0">(스천)<br/>야, 나와야 돼! 이씨<br/>안 돼, 이 새끼야!</p>
+<p xml:id="subtitle362" begin="13147300832t" end="13162315832t" region="region0" style="style0">(달새)<br/>안 돼, 못 나가!</p>
+<p xml:id="subtitle363" begin="13163150000t" end="13171908750t" region="region0" style="style0">[달새의 신음]</p>
+<p xml:id="subtitle364" begin="13174828332t" end="13201521666t" region="region0" style="style0">안 돼, 못 나가! 안 돼!</p>
+<p xml:id="subtitle365" begin="13251571666t" end="13283270000t" region="region0" style="style0">[어두운 음악]<br/>[은섬의 거친 숨소리]</p>
+<p xml:id="subtitle366" begin="13313717082t" end="13327480832t" region="region0" style="style0">[멀리서 소란스러운 소리가 들린다]</p>
+<p xml:id="subtitle367" begin="13328315000t" end="13347083750t" region="region0" style="style0">(수하5)<br/>이그트야, 죽여!</p>
+<p xml:id="subtitle368" begin="13347917916t" end="13357093750t" region="region0" style="style0">(수하들)<br/>예!</p>
+<p xml:id="subtitle369" begin="13357927916t" end="13383787082t" region="region0" style="style0">(올마대)<br/>[힘겨운 목소리로]<br/>날 내려놓고 가시게</p>
+<p xml:id="subtitle370" begin="13384621250t" end="13411314582t" region="region0" style="style0">둘 다 죽을 필요는 없네</p>
+<p xml:id="subtitle371" begin="13412148750t" end="13433837082t" region="region0" style="style0">[올마대의 힘겨운 숨소리]</p>
+<p xml:id="subtitle372" begin="13476796666t" end="13491394582t" region="region0" style="style0">[저마다 대화한다]<br/>(남자9)<br/>살아생전에</p>
+<p xml:id="subtitle373" begin="13492228749t" end="13515168332t" region="region0" style="style0">아사신의 곧쪽을 뵙게 될 줄이야</p>
+<p xml:id="subtitle374" begin="13533102916t" end="13568972082t" region="region0" style="style0">(울백)<br/>아, 내 생전에<br/>아사신의 곧쪽을 뵙게 되다니</p>
+<p xml:id="subtitle375" begin="13573977082t" end="13592328749t" region="region0" style="style0">아사신의 곧쪽이라...</p>
+<p xml:id="subtitle376" begin="13607343749t" end="13636122499t" region="region0" style="style0">(아가지)<br/>무슨 일이 났나? 다들 좋아하네?</p>
+<p xml:id="subtitle377" begin="13637790832t" end="13668237916t" region="region0" style="style0">그러게? 뭔가 좋은 일이 생긴 모양이야<br/>[사람들이 저마다 말한다]</p>
+<p xml:id="subtitle378" begin="13671574582t" end="13691177499t" region="region0" style="style0">우리한테 좋은 일은 아니잖아</p>
+<p xml:id="subtitle379" begin="13692428749t" end="13709112082t" region="region0" style="style0">(둔지)<br/>아, 그야 그렇지</p>
+<p xml:id="subtitle380" begin="13709946249t" end="13729966249t" region="region0" style="style0">(사람들)<br/>이실로브 베레사</p>
+<p xml:id="subtitle381" begin="13739976249t" end="13748317916t" region="region0" style="style0">이실로브...</p>
+<p xml:id="subtitle382" begin="13749152082t" end="13762081666t" region="region0" style="style0">(위병1)<br/>여기 와한족 노예들이 누구야?</p>
+<p xml:id="subtitle383" begin="13762915832t" end="13782518749t" region="region0" style="style0">(여자6)<br/>와한족? 와한족?<br/>[사람들이 웅성거린다]</p>
+<p xml:id="subtitle384" begin="13812548749t" end="13839242082t" region="region0" style="style0">저, 저, 저, 저, 저, 저희인데요</p>
+<p xml:id="subtitle385" begin="13860096249t" end="13880533332t" region="region0" style="style0">(위병2)<br/>저, 저기...</p>
+<p xml:id="subtitle386" begin="13894714166t" end="13905975416t" region="region0" style="style0">절 따라오시지요</p>
+<p xml:id="subtitle387" begin="13908477916t" end="13932251666t" region="region0" style="style0">- 예?<br/>- (여자7) 왜 데려가는데?<br/>[사람들이 웅성거린다]</p>
+<p xml:id="subtitle388" begin="13946015416t" end="13968954999t" region="region0" style="style0">[사람들의 가쁜 숨소리]</p>
+<p xml:id="subtitle389" begin="13979382082t" end="14003155832t" region="region0" style="style0">(거한)<br/>이 개만도 못한 새끼들!</p>
+<p xml:id="subtitle390" begin="14005241249t" end="14016919582t" region="region0" style="style0">어디 있어!</p>
+<p xml:id="subtitle391" begin="14017753749t" end="14035271249t" region="region0" style="style0">이 근처에서 소리가 났는데</p>
+<p xml:id="subtitle392" begin="14041527499t" end="14051537499t" region="region0" style="style0">(거한)<br/>찾아봐!</p>
+<p xml:id="subtitle393" begin="14052371666t" end="14063215832t" region="region0" style="style0">(수하들)<br/>예!</p>
+<p xml:id="subtitle394" begin="14081150416t" end="14107843749t" region="region0" style="style0">[수하들이 시체들을 칼로 푹푹 찌른다]</p>
+<p xml:id="subtitle395" begin="14139542082t" end="14159144999t" region="region0" style="style0">- (수하6) 이쪽엔 없습니다!<br/>- (수하7) 이쪽도 없습니다!</p>
+<p xml:id="subtitle396" begin="14159979166t" end="14172074582t" region="region0" style="style0">(수하들)<br/>없습니다!</p>
+<p xml:id="subtitle397" begin="14176662499t" end="14207943749t" region="region0" style="style0">젠장, 분명 이 근방인데</p>
+<p xml:id="subtitle398" begin="14208777916t" end="14226712499t" region="region0" style="style0">(거한)<br/>야, 빨리 움직여</p>
+<p xml:id="subtitle399" begin="14227546666t" end="14242144582t" region="region0" style="style0">이 근처야, 빨리!</p>
+<p xml:id="subtitle400" begin="14242978749t" end="14254657082t" region="region0" style="style0">(수하들)<br/>예!</p>
+<p xml:id="subtitle401" begin="14372274582t" end="14409812082t" region="region0" style="style0">[웅장한 음악]</p>
+<p xml:id="subtitle402" begin="14490309166t" end="14520339166t" region="region0" style="style0">[올마대와 은섬의 거친 숨소리]</p>
+<p xml:id="subtitle403" begin="14602921666t" end="14614599999t" region="region0" style="style0">[은섬의 힘주는 신음]</p>
+<p xml:id="subtitle404" begin="14645047082t" end="14677162499t" region="region0" style="style0">[올마대와 은섬의 거친 신음]</p>
+<p xml:id="subtitle405" begin="14737222499t" end="14754322916t" region="region0" style="style0">[은섬이 기침한다]</p>
+<p xml:id="subtitle406" begin="14768920832t" end="14786438332t" region="region0" style="style0">(올마대)<br/>[힘겨운 목소리로]<br/>지금까지</p>
+<p xml:id="subtitle407" begin="14793528749t" end="14821890416t" region="region0" style="style0">어찌 잘 넘겼지만</p>
+<p xml:id="subtitle408" begin="14836488332t" end="14850669166t" region="region0" style="style0">난 안 돼</p>
+<p xml:id="subtitle409" begin="14863598749t" end="14903221666t" region="region0" style="style0">날 데리고 여길 빠져나갈 순 없어</p>
+<p xml:id="subtitle410" begin="14929914999t" end="14942844582t" region="region0" style="style0">같이 갑니다</p>
+<p xml:id="subtitle411" begin="14987055416t" end="14999567916t" region="region0" style="style0">(올마대)<br/>포기해</p>
+<p xml:id="subtitle412" begin="15029180832t" end="15041693332t" region="region0" style="style0">[힘주는 숨소리]</p>
+<p xml:id="subtitle413" begin="15049200832t" end="15087572499t" region="region0" style="style0">(은섬)<br/>난 이제부터 누구도 포기 안 합니다</p>
+<p xml:id="subtitle414" begin="15184335832t" end="15214782916t" region="region0" style="style0">[사람들이 웅성거린다]</p>
+<p xml:id="subtitle415" begin="15274842916t" end="15303621666t" region="region0" style="style0">(사람들)<br/>니르하</p>
+<p xml:id="subtitle416" begin="15304455832t" end="15347832499t" region="region0" style="style0">니르하</p>
+<p xml:id="subtitle417" begin="15348666666t" end="15380782082t" region="region0" style="style0">니르하</p>
+<p xml:id="subtitle418" begin="15381616249t" end="15413314582t" region="region0" style="style0">[차분한 음악]<br/>[저마다 '니르하'라고 말한다]</p>
+<p xml:id="subtitle419" begin="15856257082t" end="15877111249t" region="region0" style="style0">(타곤)<br/>그 멀고 먼 옛날</p>
+<p xml:id="subtitle420" begin="15884618749t" end="15938005416t" region="region0" style="style0">아사신께서 저 먼 이아르크까지 내려가<br/>준비해 두셨던 위대한 신성이</p>
+<p xml:id="subtitle421" begin="15940924999t" end="15958025416t" region="region0" style="style0">와한에 이어져</p>
+<p xml:id="subtitle422" begin="15960944999t" end="15988055416t" region="region0" style="style0">오늘에야 아스달에 이르렀습니다</p>
+<p xml:id="subtitle423" begin="16021839166t" end="16062296249t" region="region0" style="style0">위대한 어머니<br/>아사신의 곧쪽인 저 탄야</p>
+<p xml:id="subtitle424" begin="16063130416t" end="16089406666t" region="region0" style="style0">(탄야)<br/>이제 제가 어머니의 집에 돌아왔으니</p>
+<p xml:id="subtitle425" begin="16100667916t" end="16116934166t" region="region1" style="style0">고함사니를 지내야 합니다</p>
+<p xml:id="subtitle426" begin="16117768332t" end="16149049582t" region="region1" style="style0">[사람들이 웅성거린다]<br/>[어두운 음악]</p>
+<p xml:id="subtitle427" begin="16168652499t" end="16197014166t" region="region0" style="style0">(탄야)<br/>고... 고 뭐요?</p>
+<p xml:id="subtitle428" begin="16229963749t" end="16241642082t" region="region0" style="style0">고함사니</p>
+<p xml:id="subtitle429" begin="16312963332t" end="16337154166t" region="region0" style="style0">이레 안에 고함사니를 올려야 합니다</p>
+<p xml:id="subtitle430" begin="16337988332t" end="16369269582t" region="region0" style="style0">(탄야)<br/>아사론 어하라께선<br/>흰머리산으로 가셔서</p>
+<p xml:id="subtitle431" begin="16370103749t" end="16404721666t" region="region0" style="style0">아사사칸 님과 함께<br/>고함사니의 준비를 부탁드립니다</p>
+<p xml:id="subtitle432" begin="16410143749t" end="16421404999t" region="region0" style="style0">(아사론)<br/>타곤</p>
+<p xml:id="subtitle433" begin="16427244166t" end="16446847082t" region="region0" style="style0">날 하늘못에 처박아 두고</p>
+<p xml:id="subtitle434" begin="16448098332t" end="16473957499t" region="region0" style="style0">그사이에 대신전을 장악하시겠다?</p>
+<p xml:id="subtitle435" begin="16486469999t" end="16518585416t" region="region0" style="style0">예, 니르하, 여부가 있겠습니까?</p>
+<p xml:id="subtitle436" begin="16538605416t" end="16554037499t" region="region0" style="style0">그리하겠습니다</p>
+<p xml:id="subtitle437" begin="16590323749t" end="16623690416t" region="region0" style="style0">(타곤)<br/>탄야 니르하께선<br/>아직 연맹에 대해 잘 모르시니</p>
+<p xml:id="subtitle438" begin="16624524582t" end="16643710416t" region="region0" style="style0">곁에서 도울 자들이 필요합니다</p>
+<p xml:id="subtitle439" begin="16647881249t" end="16699599582t" region="region0" style="style0">하여, 흰산의 심장을<br/>대신전으로 불러들이려 합니다</p>
+<p xml:id="subtitle440" begin="16735885832t" end="16760076666t" region="region0" style="style0">(쿵퉁)<br/>하지만 흰산의 심장은</p>
+<p xml:id="subtitle441" begin="16760910832t" end="16798031249t" region="region0" style="style0">그동안 삿된 무리로서<br/>아스달에 혼란을 일으켰고</p>
+<p xml:id="subtitle442" begin="16798865416t" end="16833483332t" region="region0" style="style0">또한 와한은 산웅 니르하를<br/>돌아가시게 한...</p>
+<p xml:id="subtitle443" begin="16834317499t" end="16864347499t" region="region0" style="style0">(타곤)<br/>우리가 먼저 신성을 범했소</p>
+<p xml:id="subtitle444" begin="16865181666t" end="16897297082t" region="region0" style="style0">그리고 우린<br/>어쩌면 아사신의 핏줄일지도 모를</p>
+<p xml:id="subtitle445" begin="16898548332t" end="16921904999t" region="region0" style="style0">그 와한의 전사를 삶아 죽였으니</p>
+<p xml:id="subtitle446" begin="16922739166t" end="16948181249t" region="region0" style="style0">그것으로 은원 관계는 끝이 났습니다</p>
+<p xml:id="subtitle447" begin="16949015416t" end="16980296666t" region="region0" style="style0">(탄야)<br/>끝? 이제 시작이지</p>
+<p xml:id="subtitle448" begin="16981130832t" end="17002402082t" region="region0" style="style0">(타곤)<br/>또한 흰산의 심장</p>
+<p xml:id="subtitle449" begin="17003236249t" end="17031180832t" region="region0" style="style0">그들의 선조는 과거 아사신을 섬겼지요</p>
+<p xml:id="subtitle450" begin="17032014999t" end="17058291249t" region="region0" style="style0">그런데 이렇게<br/>아사신께서 돌아오셨으니</p>
+<p xml:id="subtitle451" begin="17059125416t" end="17088738332t" region="region0" style="style0">그들도 제자리를 찾는 것이<br/>순리지 않겠습니까?</p>
+<p xml:id="subtitle452" begin="17097914166t" end="17110843749t" region="region0" style="style0">[당황한 숨소리]</p>
+<p xml:id="subtitle453" begin="17111677916t" end="17137537082t" region="region0" style="style0">예, 맞습니다</p>
+<p xml:id="subtitle454" begin="17152134999t" end="17174657499t" region="region0" style="style0">아사신의 후예께서 돌아오셨으니</p>
+<p xml:id="subtitle455" begin="17175491666t" end="17197597082t" region="region0" style="style0">이것보다 큰 경사는 없습니다</p>
+<p xml:id="subtitle456" begin="17198848332t" end="17227627082t" region="region0" style="style0">(태알하)<br/>하니 연맹인들에게 술과 조를 내려</p>
+<p xml:id="subtitle457" begin="17228461250t" end="17253486250t" region="region0" style="style0">일곱의 낮과 밤을 즐기게 하시지요</p>
+<p xml:id="subtitle458" begin="17255571666t" end="17285184582t" region="region0" style="style0">좋은 말씀이십니다, 그리 명하세요</p>
+<p xml:id="subtitle459" begin="17330229582t" end="17343993332t" region="region0" style="style0">(탄야)<br/>이제 약속을 지켜요</p>
+<p xml:id="subtitle460" begin="17384867500t" end="17396962916t" region="region0" style="style0">약속이라니?</p>
+<p xml:id="subtitle461" begin="17401550832t" end="17422405000t" region="region0" style="style0">(태알하)<br/>어, 약속했어</p>
+<p xml:id="subtitle462" begin="17427827082t" end="17451183750t" region="region0" style="style0">(사야)<br/>예, 약속했어요</p>
+<p xml:id="subtitle463" begin="17452017916t" end="17464113332t" region="region0" style="style0">[나무 조각을 달그락 내려놓는다]</p>
+<p xml:id="subtitle464" begin="17469952500t" end="17489972500t" region="region0" style="style0">[긴장되는 음악]</p>
+<p xml:id="subtitle465" begin="17490806666t" end="17499982500t" region="region0" style="style0">[은섬의 놀란 숨소리]</p>
+<p xml:id="subtitle466" begin="17512077916t" end="17527510000t" region="region0" style="style0">[은섬의 신음]</p>
+<p xml:id="subtitle467" begin="17538354166t" end="17547947082t" region="region0" style="style0">(은섬)<br/>씨...</p>
+<p xml:id="subtitle468" begin="17557540000t" end="17584650416t" region="region0" style="style0">(탄야)<br/>사야 님과 태알하 님이 시킨 대로<br/>다 했어요</p>
+<p xml:id="subtitle469" begin="17586735832t" end="17618017082t" region="region0" style="style0">이제 당신들이 약속을 지킬 차례예요</p>
+<p xml:id="subtitle470" begin="17618851250t" end="17629695416t" region="region0" style="style0">어떤 약속?</p>
+<p xml:id="subtitle471" begin="17640122500t" end="17673906250t" region="region0" style="style0">아스달에서 노예로 일하고 있는<br/>우리 와한 사람들에게</p>
+<p xml:id="subtitle472" begin="17684333332t" end="17697680000t" region="region0" style="style0">자유를 주세요</p>
+<p xml:id="subtitle473" begin="17713112082t" end="17732715000t" region="region0" style="style0">그거라면 위병단이 이미 움직였어</p>
+<p xml:id="subtitle474" begin="17733549166t" end="17746478750t" region="region0" style="style0">(탄야)<br/>돌담불</p>
+<p xml:id="subtitle475" begin="17747312916t" end="17769418332t" region="region0" style="style0">돌담불로 끌려간<br/>와한의 사람들이 있어요</p>
+<p xml:id="subtitle476" begin="17770252500t" end="17797780000t" region="region0" style="style0">그들을 다시 아스달로 데려와 주세요</p>
+<p xml:id="subtitle477" begin="17803202082t" end="17834900416t" region="region0" style="style0">(타곤)<br/>그 정도의 일은 이제<br/>내 허락을 받을 것도 없어</p>
+<p xml:id="subtitle478" begin="18081813750t" end="18111843750t" region="region0" style="style0">(무백)<br/>물길족의 자제이며<br/>군검부를 맡고 있는 무백</p>
+<p xml:id="subtitle479" begin="18112677916t" end="18150215416t" region="region0" style="style0">위대한 어머니 아사신의 후예이신<br/>탄야 니르하를 뵙습니다</p>
+<p xml:id="subtitle480" begin="18151049582t" end="18178577082t" region="region0" style="style0">(탄야)<br/>이 사람이 무백이라고?</p>
+<p xml:id="subtitle481" begin="18179828332t" end="18210275416t" region="region0" style="style0">(채은)<br/>은섬이를 구해 준 사람이<br/>바로 무백 님이야</p>
+<p xml:id="subtitle482" begin="18211109582t" end="18240305416t" region="region0" style="style0">[와한족들이 울부짖는다]</p>
+<p xml:id="subtitle483" begin="18278677082t" end="18322887916t" region="region0" style="style0">(탄야)<br/>우릴 그 지경으로 만들어 놓고<br/>은섬이를 구해?</p>
+<p xml:id="subtitle484" begin="18343325000t" end="18373355000t" region="region0" style="style0">직접 명을 내리시지요, 니르하</p>
+<p xml:id="subtitle485" begin="18583565000t" end="18593992082t" region="region0" style="style0">저...</p>
+<p xml:id="subtitle486" begin="18608590000t" end="18616931666t" region="region0" style="style0">저기요</p>
+<p xml:id="subtitle487" begin="18617765832t" end="18626107500t" region="region0" style="style0">[큭 웃는다]</p>
+<p xml:id="subtitle488" begin="18630695416t" end="18662810832t" region="region0" style="style0">(탄야)<br/>돌담불이라는 곳에<br/>와한의 사람들이 노예로 잡혀 있어요</p>
+<p xml:id="subtitle489" begin="18663645000t" end="18677825832t" region="region0" style="style0">그들을 데려오세요</p>
+<p xml:id="subtitle490" begin="18679494166t" end="18692006666t" region="region0" style="style0">예, 니르하</p>
+<p xml:id="subtitle491" begin="18692840832t" end="18726207500t" region="region0" style="style0">(무백)<br/>명을 받들어 가장 빠른 말에<br/>전갈을 보내겠습니다</p>
+<p xml:id="subtitle492" begin="18793775000t" end="18817548750t" region="region0" style="style0">[긴장되는 음악]</p>
+<p xml:id="subtitle493" begin="18915146250t" end="18941422500t" region="region0" style="style0">(타곤)<br/>무백은 명을 받았을 뿐입니다, 니르하</p>
+<p xml:id="subtitle494" begin="18953935000t" end="18986884582t" region="region0" style="style0">결국 무백이 이아르크에서<br/>별다야를 가지고 왔으니</p>
+<p xml:id="subtitle495" begin="18993975000t" end="19007321666t" region="region0" style="style0">공을 세운 겁니다</p>
+<p xml:id="subtitle496" begin="19142039582t" end="19159557082t" region="region0" style="style0">(무백)<br/>이게 대체 어찌...</p>
+<p xml:id="subtitle497" begin="19162059582t" end="19174572082t" region="region0" style="style0">은섬?</p>
+<p xml:id="subtitle498" begin="19178742916t" end="19199597082t" region="region0" style="style0">아니면 그저 닮은 것인가?</p>
+<p xml:id="subtitle499" begin="19278008750t" end="19288435832t" region="region0" style="style0">[문이 탁 닫힌다]</p>
+<p xml:id="subtitle500" begin="19298445832t" end="19310958332t" region="region0" style="style0">이쪽에 두거라</p>
+<p xml:id="subtitle501" begin="19335983332t" end="19352666666t" region="region0" style="style0">(아사못)<br/>저 뒤쪽 것도<br/>[차분한 음악]</p>
+<p xml:id="subtitle502" begin="19468615832t" end="19477791666t" region="region0" style="style0">니르하</p>
+<p xml:id="subtitle503" begin="19505736250t" end="19515746250t" region="region0" style="style0">(신녀들)<br/>니르하</p>
+<p xml:id="subtitle504" begin="19639202916t" end="19658805832t" region="region0" style="style0">(아사못)<br/>이제 대신전의 주인이시니</p>
+<p xml:id="subtitle505" begin="19659640000t" end="19684247916t" region="region0" style="style0">우선 대제관의 옷을<br/>지어 입으셔야 합니다</p>
+<p xml:id="subtitle506" begin="19938251666t" end="19961191250t" region="region0" style="style0">[긴장되는 음악]</p>
+<p xml:id="subtitle507" begin="19970367082t" end="19981211250t" region="region0" style="style0">(탄야)<br/>설마...</p>
+<p xml:id="subtitle508" begin="19998728750t" end="20009990000t" region="region0" style="style0">저기...</p>
+<p xml:id="subtitle509" begin="20029175832t" end="20042522500t" region="region0" style="style0">사야 님을...</p>
+<p xml:id="subtitle510" begin="20050030000t" end="20082562500t" region="region0" style="style0">아니, 무백 님을 뵈어야겠습니다</p>
+<p xml:id="subtitle511" begin="20116346250t" end="20127190416t" region="region0" style="style0">(무백)<br/>은섬인가?</p>
+<p xml:id="subtitle512" begin="20138868750t" end="20152215416t" region="region0" style="style0">아닌가?</p>
+<p xml:id="subtitle513" begin="20164310832t" end="20180577082t" region="region0" style="style0">양차도 보았을 터</p>
+<p xml:id="subtitle514" begin="20181411250t" end="20191004166t" region="region0" style="style0">[문이 삐거덕 열린다]</p>
+<p xml:id="subtitle515" begin="20191838332t" end="20203516666t" region="region0" style="style0">(기토하)<br/>형님!</p>
+<p xml:id="subtitle516" begin="20210607082t" end="20222285416t" region="region0" style="style0">부르셨소?</p>
+<p xml:id="subtitle517" begin="20241471250t" end="20266496250t" region="region0" style="style0">가장 빠른 말을 돌담불로 보내야겠다</p>
+<p xml:id="subtitle518" begin="20267330416t" end="20279425832t" region="region0" style="style0">(기토하)<br/>돌담불?</p>
+<p xml:id="subtitle519" begin="20280260000t" end="20299028750t" region="region0" style="style0">씁, 거기 연발이 가 있을 텐데</p>
+<p xml:id="subtitle520" begin="20299862916t" end="20314877916t" region="region0" style="style0">거기 있는 와한족들 모두</p>
+<p xml:id="subtitle521" begin="20315712082t" end="20342405416t" region="region0" style="style0">아스달로 데려오라는<br/>대제관 니르하의 명이다</p>
+<p xml:id="subtitle522" begin="20344907916t" end="20368681666t" region="region0" style="style0">(기토하)<br/>아이고, 무광이 어떡해요?</p>
+<p xml:id="subtitle523" begin="20372018332t" end="20391621250t" region="region0" style="style0">그 와한들 싹 다 팔아먹은 것도<br/>무광인데</p>
+<p xml:id="subtitle524" begin="20392455416t" end="20424987916t" region="region0" style="style0">시답잖은 소리 그만하고<br/>양차 좀 불러 다오</p>
+<p xml:id="subtitle525" begin="20434163750t" end="20462942500t" region="region1" style="style0">[바람이 세차게 분다]</p>
+<p xml:id="subtitle526" begin="20504650832t" end="20531344166t" region="region0" style="style0">(스천)<br/>근데 어디로 갈 작정이었어?</p>
+<p xml:id="subtitle527" begin="20532178332t" end="20546359166t" region="region0" style="style0">[바도루의 못마땅한 신음]</p>
+<p xml:id="subtitle528" begin="20553449582t" end="20579308750t" region="region0" style="style0">(바도루)<br/>근데 그쪽은 누구시오? 노예는 아니고</p>
+<p xml:id="subtitle529" begin="20580977082t" end="20604333750t" region="region0" style="style0">(스천)<br/>아, 난 말이야</p>
+<p xml:id="subtitle530" begin="20605167916t" end="20632278332t" region="region0" style="style0">어, 사실 그냥 와한족 애들만...</p>
+<p xml:id="subtitle531" begin="20639368750t" end="20665645000t" region="region0" style="style0">하, 그, 얘기가 길어, 어</p>
+<p xml:id="subtitle532" begin="20666479166t" end="20689835832t" region="region0" style="style0">근데 얘네 왜 안 오니? 어?</p>
+<p xml:id="subtitle533" begin="20700680000t" end="20711107082t" region="region0" style="style0">[스천의 놀란 숨소리]</p>
+<p xml:id="subtitle534" begin="20767830416t" end="20778674582t" region="region0" style="style0">[바도루의 당황한 신음]</p>
+<p xml:id="subtitle535" begin="20783679582t" end="20806202082t" region="region0" style="style0">- 은, 은섬...<br/>- (스천) 은섬아!</p>
+<p xml:id="subtitle536" begin="20808704582t" end="20827473332t" region="region0" style="style0">(바도루)<br/>어? 은섬아</p>
+<p xml:id="subtitle537" begin="20834980832t" end="20853749582t" region="region0" style="style0">[바도루의 힘주는 신음]</p>
+<p xml:id="subtitle538" begin="20875020832t" end="20909638750t" region="region0" style="style0">[바도루와 스천의 웃음]</p>
+<p xml:id="subtitle539" begin="20910472916t" end="20938417500t" region="region0" style="style0">[은섬의 거친 숨소리]</p>
+<p xml:id="subtitle540" begin="20957186250t" end="20978457500t" region="region0" style="style0">(은섬)<br/>어? 마, 맞지?</p>
+<p xml:id="subtitle541" begin="20997643332t" end="21011407082t" region="region0" style="style0">어떻게 된 거야?</p>
+<p xml:id="subtitle542" begin="21012241250t" end="21040602916t" region="region0" style="style0">(스천)<br/>아, 아이고<br/>그, 그것도 얘기가 길어</p>
+<p xml:id="subtitle543" begin="21084396666t" end="21096075000t" region="region0" style="style0">(은섬)<br/>달새는?</p>
+<p xml:id="subtitle544" begin="21100245832t" end="21115677916t" region="region0" style="style0">(스천)<br/>달새가...</p>
+<p xml:id="subtitle545" begin="21119014582t" end="21131110000t" region="region0" style="style0">잡혔어</p>
+<p xml:id="subtitle546" begin="21134446666t" end="21149461666t" region="region0" style="style0">우릴 도망치게 하느라고</p>
+<p xml:id="subtitle547" begin="21159054582t" end="21176989166t" region="region0" style="style0">[은섬의 힘겨운 숨소리]</p>
+<p xml:id="subtitle548" begin="21177823332t" end="21197009166t" region="region0" style="style0">(은섬)<br/>올마대 치료 좀 해 줘</p>
+<p xml:id="subtitle549" begin="21227039166t" end="21246642082t" region="region0" style="style0">이래 봬도 약바치야</p>
+<p xml:id="subtitle550" begin="21247476250t" end="21272501250t" region="region0" style="style0">(스천)<br/>아, 뭐, 약바치까진 아니고</p>
+<p xml:id="subtitle551" begin="21288350416t" end="21300445832t" region="region0" style="style0">너, 너는?</p>
+<p xml:id="subtitle552" begin="21306285000t" end="21332561250t" region="region0" style="style0">다시 가야겠어, 달새 구하러</p>
+<p xml:id="subtitle553" begin="21334229582t" end="21352581250t" region="region0" style="style0">뭐? 돌담불에 다시?</p>
+<p xml:id="subtitle554" begin="21362174166t" end="21372601250t" region="region0" style="style0">(바도루)<br/>나도 가</p>
+<p xml:id="subtitle555" begin="21406802082t" end="21429741666t" region="region0" style="style0">(올마대)<br/>근데 잎생은?</p>
+<p xml:id="subtitle556" begin="21465193750t" end="21506485000t" region="region0" style="style0">그러고 보니까<br/>깃바닥 올라와서 한 번도 못 봤는데?</p>
+<p xml:id="subtitle557" begin="21516912082t" end="21529841666t" region="region0" style="style0">[놀란 신음]</p>
+<p xml:id="subtitle558" begin="21532344166t" end="21547359166t" region="region0" style="style0">아, 안 올라왔나?</p>
+<p xml:id="subtitle559" begin="21562374166t" end="21588233332t" region="region0" style="style0">[흥미진진한 음악]</p>
+<p xml:id="subtitle560" begin="21707936250t" end="21718780416t" region="region0" style="style0">[대칸 전사2의 힘주는 신음]</p>
+<p xml:id="subtitle561" begin="21720865832t" end="21731710000t" region="region0" style="style0">[연발의 한숨]</p>
+<p xml:id="subtitle562" begin="21736297916t" end="21750061666t" region="region0" style="style0">(대칸 전사3)<br/>올마대는 없습니다</p>
+<p xml:id="subtitle563" begin="21764659582t" end="21790518750t" region="region0" style="style0">(수하8)<br/>죽은 놈이 열하나<br/>없어진 놈은 스물둘입니다</p>
+<p xml:id="subtitle564" begin="21791352916t" end="21819297500t" region="region0" style="style0">아니야, 스물세 놈이야</p>
+<p xml:id="subtitle565" begin="21820131666t" end="21833478332t" region="region0" style="style0">쇼르자긴까지</p>
+<p xml:id="subtitle566" begin="21840985832t" end="21866845000t" region="region0" style="style0">(골두)<br/>이 개똥 같은 새끼</p>
+<p xml:id="subtitle567" begin="21867679166t" end="21884362500t" region="region0" style="style0">그 와한족 놈은 조지고 있지?</p>
+<p xml:id="subtitle568" begin="21885196666t" end="21895206666t" region="region0" style="style0">(수하8)<br/>예</p>
+<p xml:id="subtitle569" begin="21935663750t" end="21963191250t" region="region0" style="style0">[쇼르자긴의 힘겨운 숨소리]</p>
+<p xml:id="subtitle570" begin="21999477500t" end="22014075416t" region="region0" style="style0">[쇼르자긴의 신음]</p>
+<p xml:id="subtitle571" begin="22031592916t" end="22068713332t" region="region0" style="style0">(골두)<br/>제발 죽여 달라고 빌게 해 줄게</p>
+<p xml:id="subtitle572" begin="22069547500t" end="22090401666t" region="region0" style="style0">- (골두) 창고에 갖다 놔<br/>- (수하9) 예</p>
+<p xml:id="subtitle573" begin="22106667916t" end="22130858750t" region="region0" style="style0">[흥미진진한 음악]</p>
+<p xml:id="subtitle574" begin="22271415832t" end="22291435832t" region="region0" style="style0">(쇼르자긴)<br/>아, 아이고...</p>
+<p xml:id="subtitle575" begin="22430741666t" end="22451178750t" region="region0" style="style0">(잎생)<br/>쇼르자긴 이 새끼!</p>
+<p xml:id="subtitle576" begin="22452012916t" end="22462857082t" region="region0" style="style0">[씩씩거린다]</p>
+<p xml:id="subtitle577" begin="22482042916t" end="22509987500t" region="region0" style="style0">[흥미진진한 음악]</p>
+<p xml:id="subtitle578" begin="22558786250t" end="22577555000t" region="region0" style="style0">[아파하는 신음]</p>
+<p xml:id="subtitle579" begin="22914141250t" end="22940417500t" region="region0" style="style0">[퍽퍽 맞는 소리가 들린다]<br/>[신음이 들린다]</p>
+<p xml:id="subtitle580" begin="22941251666t" end="22965025416t" region="region0" style="style0">[긴장되는 음악]</p>
+<p xml:id="subtitle581" begin="22979206250t" end="22999643332t" region="region0" style="style0">(수하10)<br/>이그트 새끼 어디로 갔어!</p>
+<p xml:id="subtitle582" begin="23002980000t" end="23015075416t" region="region0" style="style0">너 알지?</p>
+<p xml:id="subtitle583" begin="23018412082t" end="23037180832t" region="region0" style="style0">같은 와한이잖아!</p>
+<p xml:id="subtitle584" begin="23038015000t" end="23058869166t" region="region0" style="style0">말 안 해? 이 새끼...</p>
+<p xml:id="subtitle585" begin="23059703332t" end="23079723332t" region="region0" style="style0">[신음]</p>
+<p xml:id="subtitle586" begin="23083894166t" end="23105165416t" region="region0" style="style0">[퍽퍽 맞는 소리가 들린다]<br/>[달새의 신음]</p>
+<p xml:id="subtitle587" begin="23105999582t" end="23115592500t" region="region0" style="style0">(수하9)<br/>걸어!</p>
+<p xml:id="subtitle588" begin="23175652500t" end="23197757916t" region="region0" style="style0">걸어라, 이 새끼야</p>
+<p xml:id="subtitle589" begin="23199426250t" end="23219029166t" region="region0" style="style0">아유, 씨...<br/>[쇼르자긴의 신음]</p>
+<p xml:id="subtitle590" begin="23225285416t" end="23238632082t" region="region0" style="style0">일어나!</p>
+<p xml:id="subtitle591" begin="23247807916t" end="23263657082t" region="region0" style="style0">일어나, 씨!</p>
+<p xml:id="subtitle592" begin="23277420832t" end="23309953332t" region="region0" style="style0">[퍽퍽 맞는 소리가 들린다]<br/>[쇼르자긴의 신음]</p>
+<p xml:id="subtitle593" begin="23344988332t" end="23357917916t" region="region0" style="style0">- (수하9) 일어나!<br/>- (수하10) 일어나!</p>
+<p xml:id="subtitle594" begin="23367093750t" end="23392535832t" region="region0" style="style0">[쇼르자긴의 신음]</p>
+<p xml:id="subtitle595" begin="23499309166t" end="23515575416t" region="region0" style="style0">[잎생의 놀란 신음]<br/>[바도루의 힘주는 신음]</p>
+<p xml:id="subtitle596" begin="23522665832t" end="23543937082t" region="region0" style="style0">[잎생의 떨리는 숨소리]</p>
+<p xml:id="subtitle597" begin="23547690832t" end="23576052500t" region="region0" style="style0">(바도루)<br/>애들 다 죽는 동안<br/>넌 거적 안에서 그냥 가만히 있었어?</p>
+<p xml:id="subtitle598" begin="23576886666t" end="23594821250t" region="region0" style="style0">그럼 나와서 나도 같이 죽냐?</p>
+<p xml:id="subtitle599" begin="23595655416t" end="23606916666t" region="region0" style="style0">(바도루)<br/>이 새끼가...<br/>[잎생의 떨리는 신음]</p>
+<p xml:id="subtitle600" begin="23607750832t" end="23616092500t" region="region0" style="style0">때리면 소리 지른다</p>
+<p xml:id="subtitle601" begin="23616926666t" end="23627353750t" region="region0" style="style0">[소리 지르는 시늉을 한다]</p>
+<p xml:id="subtitle602" begin="23628187916t" end="23647790832t" region="region0" style="style0">[잎생의 거친 숨소리]</p>
+<p xml:id="subtitle603" begin="23658217916t" end="23673232916t" region="region0" style="style0">[냄새를 킁킁 맡는다]</p>
+<p xml:id="subtitle604" begin="23697006666t" end="23705348332t" region="region0" style="style0">[잎생의 놀란 탄성]</p>
+<p xml:id="subtitle605" begin="23706182500t" end="23726619582t" region="region0" style="style0">(잎생)<br/>이게 무슨 냄새야, 에이씨</p>
+<p xml:id="subtitle606" begin="23727453750t" end="23747890832t" region="region0" style="style0">아이, 근데 왜 다시 왔냐? 어?</p>
+<p xml:id="subtitle607" begin="23748725000t" end="23763322916t" region="region0" style="style0">기껏 잘 도망가 놓고?</p>
+<p xml:id="subtitle608" begin="23764157082t" end="23781257500t" region="region0" style="style0">와한족 동무 구해야지</p>
+<p xml:id="subtitle609" begin="23783342916t" end="23810036250t" region="region0" style="style0">(잎생)<br/>아, 그래, 꼭 구해라</p>
+<p xml:id="subtitle610" begin="23817126666t" end="23829222082t" region="region0" style="style0">[은섬의 한숨]</p>
+<p xml:id="subtitle611" begin="23838815000t" end="23867176666t" region="region0" style="style0">아니야, 나도 같이 하자</p>
+<p xml:id="subtitle612" begin="23868010832t" end="23879689166t" region="region0" style="style0">(바도루)<br/>웬일이냐, 네가?</p>
+<p xml:id="subtitle613" begin="23885111250t" end="23908467916t" region="region0" style="style0">(잎생)<br/>보석, 쇼르자긴!</p>
+<p xml:id="subtitle614" begin="23910970416t" end="23935578332t" region="region0" style="style0">[긴장되는 음악]</p>
+<p xml:id="subtitle615" begin="23939749166t" end="23955598332t" region="region0" style="style0">(잎생)<br/>[작은 소리로]<br/>저기 있어, 네 동무</p>
+<p xml:id="subtitle616" begin="24001477500t" end="24012321666t" region="region0" style="style0">[은섬의 한숨]</p>
+<p xml:id="subtitle617" begin="24223782916t" end="24237129582t" region="region0" style="style0">[은섬의 힘주는 숨소리]</p>
+<p xml:id="subtitle618" begin="24299692082t" end="24324717082t" region="region0" style="style0">[달새의 힘겨운 숨소리]</p>
+<p xml:id="subtitle619" begin="24345988332t" end="24360169166t" region="region0" style="style0">[문이 삐거덕 열린다]</p>
+<p xml:id="subtitle620" begin="24491967500t" end="24507816666t" region="region0" style="style0">(달새)<br/>[힘겨운 목소리로]<br/>은섬아</p>
+<p xml:id="subtitle621" begin="24552027500t" end="24574550000t" region="region0" style="style0">[새소리가 들린다]</p>
+<p xml:id="subtitle622" begin="24587479582t" end="24610419166t" region="region0" style="style0">[긴장되는 음악]</p>
+<p xml:id="subtitle623" begin="24611253332t" end="24631273332t" region="region0" style="style0">[새소리를 따라 한다]</p>
+<p xml:id="subtitle624" begin="24674650000t" end="24685494166t" region="region0" style="style0">[힘주는 숨소리]</p>
+<p xml:id="subtitle625" begin="24686328332t" end="24698006666t" region="region0" style="style0">[새소리가 들린다]</p>
+<p xml:id="subtitle626" begin="24731790416t" end="24740549166t" region="region0" style="style0">[놀란 숨소리]</p>
+<p xml:id="subtitle627" begin="24744302916t" end="24761403332t" region="region0" style="style0">(쇼르자긴)<br/>[작은 소리로]<br/>들어가! 어서!</p>
+<p xml:id="subtitle628" begin="24762237500t" end="24783508750t" region="region0" style="style0">저쪽으로, 어서 저쪽으로 들어가라고</p>
+<p xml:id="subtitle629" begin="24790599166t" end="24798940832t" region="region0" style="style0">[잎생이 새소리를 따라 한다]</p>
+<p xml:id="subtitle630" begin="24799775000t" end="24818960832t" region="region0" style="style0">(골두)<br/>이 새끼는 어디 간 거야, 이게, 씨...</p>
+<p xml:id="subtitle631" begin="24819795000t" end="24828553750t" region="region0" style="style0">어서!</p>
+<p xml:id="subtitle632" begin="24846071250t" end="24856915416t" region="region0" style="style0">[문이 삐거덕 열린다]</p>
+<p xml:id="subtitle633" begin="24952010416t" end="24964940000t" region="region0" style="style0">[떨리는 숨소리]</p>
+<p xml:id="subtitle634" begin="24968693750t" end="24993718750t" region="region0" style="style0">[쇼르자긴이 울먹인다]</p>
+<p xml:id="subtitle635" begin="24999975000t" end="25013321666t" region="region0" style="style0">(쇼르자긴)<br/>[떨리는 목소리로]<br/>살려 주십시오</p>
+<p xml:id="subtitle636" begin="25014155832t" end="25035010000t" region="region0" style="style0">뭐든지 물어보세요, 다 대답하겠습니다</p>
+<p xml:id="subtitle637" begin="25035844166t" end="25047939582t" region="region0" style="style0">제발 골두 님, 제발...</p>
+<p xml:id="subtitle638" begin="25048773750t" end="25068793750t" region="region0" style="style0">- 궁금한 게<br/>- (쇼르자긴) 예</p>
+<p xml:id="subtitle639" begin="25086311250t" end="25095904166t" region="region0" style="style0">없어</p>
+<p xml:id="subtitle640" begin="25102994582t" end="25115507082t" region="region0" style="style0">(골두)<br/>우리</p>
+<p xml:id="subtitle641" begin="25128853750t" end="25138029582t" region="region0" style="style0">간만에 한번 해 볼까?</p>
+<p xml:id="subtitle642" begin="25138863750t" end="25160135000t" region="region0" style="style0">- (쇼르자긴) 제발 골두 님, 제발...<br/>- (골두) 자</p>
+<p xml:id="subtitle643" begin="25165140000t" end="25185160000t" region="region0" style="style0">(골두)<br/>나 쇼르자긴은</p>
+<p xml:id="subtitle644" begin="25196004166t" end="25211019166t" region="region0" style="style0">똥입니다</p>
+<p xml:id="subtitle645" begin="25211853332t" end="25266491250t" region="region0" style="style0">어떤 더러운 년이<br/>그저 싸지른 똥입니다</p>
+<p xml:id="subtitle646" begin="25305697082t" end="25323631666t" region="region0" style="style0">[쇼르자긴의 떨리는 숨소리]<br/>안 해?</p>
+<p xml:id="subtitle647" begin="25336978332t" end="25383691666t" region="region0" style="style0">쇼, 쇼르자긴은 똥입니다<br/>[어두운 음악]</p>
+<p xml:id="subtitle648" begin="25391199166t" end="25404962916t" region="region0" style="style0">[쇼르자긴의 아파하는 비명]</p>
+<p xml:id="subtitle649" begin="25405797082t" end="25419977916t" region="region0" style="style0">더 크게</p>
+<p xml:id="subtitle650" begin="25424565832t" end="25466691250t" region="region0" style="style0">어떤 더러운 년이 그저 싸지른</p>
+<p xml:id="subtitle651" begin="25472530416t" end="25498389582t" region="region0" style="style0">(쇼르자긴)<br/>똥입니다!</p>
+<p xml:id="subtitle652" begin="25499223750t" end="25509233750t" region="region0" style="style0">(골두)<br/>더 크게!</p>
+<p xml:id="subtitle653" begin="25510067916t" end="25522997500t" region="region0" style="style0">나는!</p>
+<p xml:id="subtitle654" begin="25527168332t" end="25547605416t" region="region0" style="style0">어떤 더러운 것과</p>
+<p xml:id="subtitle655" begin="25555947082t" end="25582223332t" region="region0" style="style0">괴물 새끼 뇌안탈이 붙어먹어서 나온</p>
+<p xml:id="subtitle656" begin="25583057500t" end="25601826250t" region="region0" style="style0">똥입니다!</p>
+<p xml:id="subtitle657" begin="25613087500t" end="25623097500t" region="region0" style="style0">[쇼르자긴의 아파하는 비명]</p>
+<p xml:id="subtitle658" begin="25623931666t" end="25653544582t" region="region0" style="style0">나 쇼르자긴은 똥입니다</p>
+<p xml:id="subtitle659" begin="25654378750t" end="25695670000t" region="region0" style="style0">(쇼르자긴)<br/>어떤 더러운 년이 싸지른 똥입니다!</p>
+<p xml:id="subtitle660" begin="25696504166t" end="25709850832t" region="region0" style="style0">[골두의 힘주는 신음]<br/>[쇼르자긴의 아파하는 비명]</p>
+<p xml:id="subtitle661" begin="25725700000t" end="25738212500t" region="region0" style="style0">(대칸 전사3)<br/>어찌할까요?</p>
+<p xml:id="subtitle662" begin="25747805416t" end="25761986250t" region="region0" style="style0">(연발)<br/>죽었다면 모를까</p>
+<p xml:id="subtitle663" begin="25764905832t" end="25793684582t" region="region0" style="style0">살아 있다면 올마대 그놈 데려가야지</p>
+<p xml:id="subtitle664" begin="25808699582t" end="25818709582t" region="region0" style="style0">야!</p>
+<p xml:id="subtitle665" begin="25836227082t" end="25845820000t" region="region0" style="style0">(수하8)<br/>예</p>
+<p xml:id="subtitle666" begin="25860835000t" end="25871679166t" region="region0" style="style0">(연발)<br/>골두 데려와</p>
+<p xml:id="subtitle667" begin="25872513332t" end="25897538332t" region="region0" style="style0">추격조를 짜서 다시 시작한다</p>
+<p xml:id="subtitle668" begin="25908799582t" end="25918392500t" region="region0" style="style0">예</p>
+<p xml:id="subtitle669" begin="25952176250t" end="25963437500t" region="region0" style="style0">(골두)<br/>날?</p>
+<p xml:id="subtitle670" begin="25964271666t" end="25978035416t" region="region0" style="style0">[긴장되는 음악]</p>
+<p xml:id="subtitle671" begin="25978869582t" end="26018492500t" region="region0" style="style0">(골두)<br/>자기가 대칸이면 대칸이지<br/>왜 오라 가라야! 씨</p>
+<p xml:id="subtitle672" begin="26021412082t" end="26035592916t" region="region0" style="style0">아이씨...</p>
+<p xml:id="subtitle673" begin="26041432082t" end="26054361666t" region="region0" style="style0">[골두가 돌칼을 달그락 내려놓는다]</p>
+<p xml:id="subtitle674" begin="26057281250t" end="26068542500t" region="region0" style="style0">아유, 씨</p>
+<p xml:id="subtitle675" begin="26197004166t" end="26209099582t" region="region0" style="style0">(은섬)<br/>가자, 달새야</p>
+<p xml:id="subtitle676" begin="26218692500t" end="26262069166t" region="region0" style="style0">[은섬의 힘주는 신음]<br/>[달새의 거친 신음]</p>
+<p xml:id="subtitle677" begin="26288345416t" end="26308365416t" region="region0" style="style0">[달새의 힘겨운 신음]</p>
+<p xml:id="subtitle678" begin="26318375416t" end="26328385416t" region="region0" style="style0">가자</p>
+<p xml:id="subtitle679" begin="26343400416t" end="26356330000t" region="region0" style="style0">[은섬의 힘주는 숨소리]</p>
+<p xml:id="subtitle680" begin="26444751666t" end="26462269166t" region="region0" style="style0">[달새의 거친 숨소리]</p>
+<p xml:id="subtitle681" begin="26463103332t" end="26476867082t" region="region0" style="style0">[잎생의 웃음]</p>
+<p xml:id="subtitle682" begin="26477701250t" end="26493967500t" region="region0" style="style0">(잎생)<br/>자식들, 어?</p>
+<p xml:id="subtitle683" begin="26494801666t" end="26530670832t" region="region0" style="style0">이 와중에 돌아와서 빼낼 줄은<br/>상상도 못 했을 거다</p>
+<p xml:id="subtitle684" begin="26542766250t" end="26556947082t" region="region0" style="style0">보석 어디 있어?</p>
+<p xml:id="subtitle685" begin="26557781250t" end="26579469582t" region="region0" style="style0">너지? 네가 빼돌렸지? 어?<br/>[쇼르자긴의 신음]</p>
+<p xml:id="subtitle686" begin="26580303750t" end="26599072500t" region="region0" style="style0">아, 아, 아이고!</p>
+<p xml:id="subtitle687" begin="26601992082t" end="26631605000t" region="region0" style="style0">이 새끼야! 너 어차피 죽어</p>
+<p xml:id="subtitle688" begin="26635358750t" end="26647871250t" region="region0" style="style0">어디 있어?</p>
+<p xml:id="subtitle689" begin="26648705416t" end="26663720416t" region="region0" style="style0">어디 있어, 내 보석?</p>
+<p xml:id="subtitle690" begin="26677067082t" end="26698755416t" region="region0" style="style0">어, 어디다 숨겼어? 어?</p>
+<p xml:id="subtitle691" begin="26704594582t" end="26724197500t" region="region0" style="style0">아, 어디다 숨겼어!</p>
+<p xml:id="subtitle692" begin="26725031666t" end="26735458750t" region="region0" style="style0">[은섬의 놀란 탄성]</p>
+<p xml:id="subtitle693" begin="26736292916t" end="26762152082t" region="region0" style="style0">[달새의 거친 숨소리]<br/>(은섬)<br/>달새야, 달새야!</p>
+<p xml:id="subtitle694" begin="26779252500t" end="26788428332t" region="region0" style="style0">[달새의 떨리는 숨소리]</p>
+<p xml:id="subtitle695" begin="26789679582t" end="26821795000t" region="region0" style="style0">(잎생)<br/>아, 내 보석 어디다 숨겼냐니까!</p>
+<p xml:id="subtitle696" begin="26833890416t" end="26852242082t" region="region0" style="style0">(쇼르자긴)<br/>없어!</p>
+<p xml:id="subtitle697" begin="26854327500t" end="26879352500t" region="region0" style="style0">보석 없다고</p>
+<p xml:id="subtitle698" begin="26886860000t" end="26920226666t" region="region0" style="style0">골두 그 새끼한테 다 뺏겼어</p>
+<p xml:id="subtitle699" begin="26921060832t" end="26938578332t" region="region0" style="style0">(잎생)<br/>이 자식 거짓말이야! 이씨</p>
+<p xml:id="subtitle700" begin="27011984999t" end="27035341666t" region="region0" style="style0">너 이러고 있으면 죽어!</p>
+<p xml:id="subtitle701" begin="27036175832t" end="27061617916t" region="region0" style="style0">내가 너 치료해 줄게, 어?</p>
+<p xml:id="subtitle702" begin="27062452082t" end="27089979582t" region="region0" style="style0">보석 어디 있어? 어?</p>
+<p xml:id="subtitle703" begin="27110416666t" end="27124597499t" region="region0" style="style0">딱 반 나누자</p>
+<p xml:id="subtitle704" begin="27133773332t" end="27151707916t" region="region0" style="style0">(쇼르자긴)<br/>없어</p>
+<p xml:id="subtitle705" begin="27154627499t" end="27170476666t" region="region0" style="style0">아유! 진짜...</p>
+<p xml:id="subtitle706" begin="27175064582t" end="27189245416t" region="region0" style="style0">(잎생)<br/>씨...</p>
+<p xml:id="subtitle707" begin="27196335832t" end="27207597082t" region="region0" style="style0">(바도루)<br/>빨리 가야 돼</p>
+<p xml:id="subtitle708" begin="27208848332t" end="27226365832t" region="region0" style="style0">여긴 돌담불과 너무 가까워</p>
+<p xml:id="subtitle709" begin="27250139582t" end="27277667082t" region="region0" style="style0">(달새)<br/>[힘겨운 목소리로]<br/>나 갈 수 있어, 걸을 수 있어</p>
+<p xml:id="subtitle710" begin="27290179582t" end="27309365416t" region="region0" style="style0">(바도루)<br/>같이 있을 거 아니면 일어나</p>
+<p xml:id="subtitle711" begin="27310199582t" end="27337727082t" region="region0" style="style0">저건 놓고 갈 거야, 죽든 말든</p>
+<p xml:id="subtitle712" begin="27354410416t" end="27367339999t" region="region0" style="style0">[달새의 힘겨운 신음]</p>
+<p xml:id="subtitle713" begin="27377767082t" end="27407797082t" region="region0" style="style0">(잎생)<br/>아, 지독한 새끼, 씨...</p>
+<p xml:id="subtitle714" begin="27541680832t" end="27572544999t" region="region0" style="style0">너 골두한테 안 뺏겼잖아, 그렇지?</p>
+<p xml:id="subtitle715" begin="27626765832t" end="27646785832t" region="region0" style="style0">잎생 말대로 잘못하면 너 지금 죽어</p>
+<p xml:id="subtitle716" begin="27647619999t" end="27669725416t" region="region0" style="style0">(은섬)<br/>근데도 그 보석이 그렇게 중요해?</p>
+<p xml:id="subtitle717" begin="27677232916t" end="27701423749t" region="region0" style="style0">하, 정말 궁금하다</p>
+<p xml:id="subtitle718" begin="27702257916t" end="27723946249t" region="region0" style="style0">대체 뭐가 그렇게 중요한 건데?</p>
+<p xml:id="subtitle719" begin="27738127082t" end="27762317916t" region="region0" style="style0">[쇼르자긴의 힘겨운 숨소리]</p>
+<p xml:id="subtitle720" begin="27769825416t" end="27789428332t" region="region0" style="style0">(쇼르자긴)<br/>힘을...</p>
+<p xml:id="subtitle721" begin="27801523749t" end="27819875416t" region="region0" style="style0">가질 수 있지</p>
+<p xml:id="subtitle722" begin="27829468332t" end="27844900416t" region="region0" style="style0">[어두운 음악]<br/>힘?</p>
+<p xml:id="subtitle723" begin="27855327499t" end="27871593749t" region="region0" style="style0">(쇼르자긴)<br/>내 밑에</p>
+<p xml:id="subtitle724" begin="27875764582t" end="27910799582t" region="region0" style="style0">얼마나 거느릴 수 있느냐</p>
+<p xml:id="subtitle725" begin="27915804582t" end="27944166249t" region="region0" style="style0">부하가 몇 명이냐</p>
+<p xml:id="subtitle726" begin="27945000416t" end="27983372082t" region="region0" style="style0">그게 힘이야</p>
+<p xml:id="subtitle727" begin="27984206249t" end="28032587916t" region="region0" style="style0">보석이 있으면 대칸이건 노예건</p>
+<p xml:id="subtitle728" begin="28033422082t" end="28062617916t" region="region0" style="style0">필경사건 다 사재껴서</p>
+<p xml:id="subtitle729" begin="28071376666t" end="28105577499t" region="region0" style="style0">내 부하로 거느릴 수 있어</p>
+<p xml:id="subtitle730" begin="28118507082t" end="28134773332t" region="region0" style="style0">부하...</p>
+<p xml:id="subtitle731" begin="28135607499t" end="28172727916t" region="region0" style="style0">(쇼르자긴)<br/>네가 아무리 싸움을 잘하면 뭐 해?</p>
+<p xml:id="subtitle732" begin="28173562082t" end="28234039166t" region="region0" style="style0">왜 아스달을 다스리는 건<br/>무백이 아니라 아사론일까?</p>
+<p xml:id="subtitle733" begin="28240712499t" end="28256144582t" region="region0" style="style0">힘은</p>
+<p xml:id="subtitle734" begin="28266571666t" end="28317455832t" region="region0" style="style0">부하의 숫자로 결정되는 거야<br/>이 머저리야</p>
+<p xml:id="subtitle735" begin="28318289999t" end="28339144166t" region="region0" style="style0">[쇼르자긴이 기침한다]</p>
+<p xml:id="subtitle736" begin="28343732082t" end="28364169166t" region="region0" style="style0">[쇼르자긴의 힘없는 웃음]</p>
+<p xml:id="subtitle737" begin="28388359999t" end="28404626249t" region="region0" style="style0">나도 하나 묻자</p>
+<p xml:id="subtitle738" begin="28414219166t" end="28450505416t" region="region0" style="style0">날 왜 굳이 데리고 나와서 살렸냐?</p>
+<p xml:id="subtitle739" begin="28455093332t" end="28483454999t" region="region0" style="style0">더러운 이그트 새끼가</p>
+<p xml:id="subtitle740" begin="28498887082t" end="28512233749t" region="region0" style="style0">[은섬의 한숨]</p>
+<p xml:id="subtitle741" begin="28540178332t" end="28551856666t" region="region0" style="style0">[쇼르자긴의 신음]</p>
+<p xml:id="subtitle742" begin="28556444582t" end="28589394166t" region="region0" style="style0">만약 네가 살아서<br/>보석으로 사재끼는 순간이 오면</p>
+<p xml:id="subtitle743" begin="28598569999t" end="28611082499t" region="region0" style="style0">기억해라</p>
+<p xml:id="subtitle744" begin="28616504582t" end="28662383749t" region="region0" style="style0">그 목숨은<br/>더러운 이그트 새끼가 준 거란 걸</p>
+<p xml:id="subtitle745" begin="28822543749t" end="28834639166t" region="region0" style="style0">너희...</p>
+<p xml:id="subtitle746" begin="28835473332t" end="28853824999t" region="region0" style="style0">(잎생)<br/>너희 진짜 얼이 빠졌냐? 어?</p>
+<p xml:id="subtitle747" begin="28854659166t" end="28868839999t" region="region0" style="style0">죽을지 살지도 모르는 판에</p>
+<p xml:id="subtitle748" begin="28869674166t" end="28893447916t" region="region0" style="style0">진짜 주비놀을 가겠다고?<br/>진짜 미쳤어?</p>
+<p xml:id="subtitle749" begin="28894282082t" end="28908045832t" region="region0" style="style0">(은섬)<br/>너도 약속했잖아</p>
+<p xml:id="subtitle750" begin="28908879999t" end="28936824582t" region="region0" style="style0">그거야 당연히<br/>죽는 놈 마음 편하라고 그런 거고</p>
+<p xml:id="subtitle751" begin="28937658749t" end="28949754166t" region="region0" style="style0">(잎생)<br/>아, 돌아가는 꼴이 바뀌면</p>
+<p xml:id="subtitle752" begin="28950588332t" end="28968105832t" region="region0" style="style0">당연히 마음도<br/>바뀌어야 되는 거 아니야? 당연히?</p>
+<p xml:id="subtitle753" begin="28968939999t" end="28982286666t" region="region0" style="style0">(바도루)<br/>그래, 넌 빠져</p>
+<p xml:id="subtitle754" begin="28983120832t" end="29015236249t" region="region0" style="style0">대신 내가 너 사트닉 약속 안 지킨 거<br/>반드시 얘기한다</p>
+<p xml:id="subtitle755" begin="29016070416t" end="29034004999t" region="region0" style="style0">모모족 누구든 만나면</p>
+<p xml:id="subtitle756" begin="29034839166t" end="29063200832t" region="region0" style="style0">(잎생)<br/>에이씨, 뭐 그런 얘길 해? 무섭게</p>
+<p xml:id="subtitle757" begin="29070291249t" end="29088225832t" region="region0" style="style0">아이씨</p>
+<p xml:id="subtitle758" begin="29091979582t" end="29113667916t" region="region0" style="style0">사트닉 그 새끼 모모족이지?</p>
+<p xml:id="subtitle759" begin="29116170416t" end="29145366249t" region="region0" style="style0">에이씨, 쯧, 더럽게 걸렸네, 쯧</p>
+<p xml:id="subtitle760" begin="29146200416t" end="29162049582t" region="region0" style="style0">[달새의 힘겨운 숨소리]<br/>[바도루의 당황한 신음]</p>
+<p xml:id="subtitle761" begin="29162883749t" end="29176230416t" region="region0" style="style0">(은섬)<br/>달새야, 앉혀</p>
+<p xml:id="subtitle762" begin="29177064582t" end="29193330832t" region="region0" style="style0">[은섬과 바도루의 힘주는 신음]</p>
+<p xml:id="subtitle763" begin="29206677499t" end="29231285416t" region="region0" style="style0">[달새의 힘겨운 숨소리]</p>
+<p xml:id="subtitle764" begin="29243380832t" end="29269657082t" region="region0" style="style0">달새 좀 스천이한테 데려다줘<br/>가면 치료해 줄 거야</p>
+<p xml:id="subtitle765" begin="29270491249t" end="29296767499t" region="region0" style="style0">(잎생)<br/>어, 그래! 어, 그럼 내가 갈게<br/>너희 둘이 다녀와</p>
+<p xml:id="subtitle766" begin="29299269999t" end="29328882916t" region="region0" style="style0">네가 모모족 말 알잖아, 이씨</p>
+<p xml:id="subtitle767" begin="29330968332t" end="29368922916t" region="region0" style="style0">(바도루)<br/>야, 네가 가야 말을 전하지<br/>확 이게 진짜, 이씨</p>
+<p xml:id="subtitle768" begin="29369757082t" end="29383520832t" region="region0" style="style0">(잎생)<br/>뭐, 그래, 쯧</p>
+<p xml:id="subtitle769" begin="29387274582t" end="29398952916t" region="region0" style="style0">좋아</p>
+<p xml:id="subtitle770" begin="29406877499t" end="29421058332t" region="region0" style="style0">내가 간다<br/>[달새의 떨리는 숨소리]</p>
+<p xml:id="subtitle771" begin="29423560832t" end="29469022916t" region="region0" style="style0">모모족은 원수도 갚지만<br/>은혜도 확실히 갚으니까, 쯧</p>
+<p xml:id="subtitle772" begin="29469857082t" end="29497384582t" region="region0" style="style0">보석도 다 잃었는데<br/>뭐 좀 챙기긴 하겠지, 뭐</p>
+<p xml:id="subtitle773" begin="29509897082t" end="29525746249t" region="region0" style="style0">뭐, 인마!</p>
+<p xml:id="subtitle774" begin="29526580416t" end="29544932082t" region="region0" style="style0">보석이든 금이든 뭐든 있어야 돼</p>
+<p xml:id="subtitle775" begin="29545766249t" end="29584972082t" region="region0" style="style0">없잖아? 깃바닥 벌레랑 똑같아<br/>나와 봤자 별게 없다고</p>
+<p xml:id="subtitle776" begin="29585806249t" end="29606660416t" region="region0" style="style0">뭘 알아야지, 쯧</p>
+<p xml:id="subtitle777" begin="29609997082t" end="29622092499t" region="region0" style="style0">(바도루)<br/>확</p>
+<p xml:id="subtitle778" begin="29629182916t" end="29655042082t" region="region0" style="style0">(은섬)<br/>나 얼른 다녀올게, 치료 잘 받고 있어</p>
+<p xml:id="subtitle779" begin="29655876249t" end="29684654999t" region="region0" style="style0">(달새)<br/>어, 걱정 말고 다녀와</p>
+<p xml:id="subtitle780" begin="29699252916t" end="29718438749t" region="region0" style="style0">(은섬)<br/>가자, 시간 없어</p>
+<p xml:id="subtitle781" begin="29719272916t" end="29730117082t" region="region0" style="style0">빨리 가자</p>
+<p xml:id="subtitle782" begin="29731368332t" end="29748885832t" region="region0" style="style0">(골두)<br/>이것들이 대체<br/>[긴장되는 음악]</p>
+<p xml:id="subtitle783" begin="29749719999t" end="29765152082t" region="region0" style="style0">어떻게 지켰길래!<br/>[수하10의 신음]</p>
+<p xml:id="subtitle784" begin="29765986249t" end="29785172082t" region="region0" style="style0">에이씨! 어?</p>
+<p xml:id="subtitle785" begin="29786006249t" end="29803940832t" region="region0" style="style0">어떻게...<br/>[수하10의 아파하는 신음]</p>
+<p xml:id="subtitle786" begin="29804774999t" end="29818538749t" region="region0" style="style0">[골두의 성난 신음]</p>
+<p xml:id="subtitle787" begin="29821875416t" end="29841478332t" region="region0" style="style0">야, 이 새끼야!</p>
+<p xml:id="subtitle788" begin="29846900416t" end="29863583749t" region="region0" style="style0">아유! 씨...</p>
+<p xml:id="subtitle789" begin="29867337499t" end="29884020832t" region="region0" style="style0">[골두의 거친 신음]</p>
+<p xml:id="subtitle790" begin="29921141249t" end="29932402499t" region="region0" style="style0">[거한의 힘주는 신음]</p>
+<p xml:id="subtitle791" begin="29933236666t" end="29957427499t" region="region0" style="style0">[차나라기가 기침한다]</p>
+<p xml:id="subtitle792" begin="29958261666t" end="29979115832t" region="region0" style="style0">(거한)<br/>골두 님, 알아냈습니다</p>
+<p xml:id="subtitle793" begin="29979949999t" end="30002472499t" region="region0" style="style0">말씀 올려! 어디로 간다고 했다고?</p>
+<p xml:id="subtitle794" begin="30004140832t" end="30017487499t" region="region0" style="style0">저...</p>
+<p xml:id="subtitle795" begin="30045432082t" end="30064200832t" region="region0" style="style0">- 주비놀<br/>- (골두) 주비놀?</p>
+<p xml:id="subtitle796" begin="30066703332t" end="30078798749t" region="region0" style="style0">(골두)<br/>하시산 넘어서?</p>
+<p xml:id="subtitle797" begin="30080884166t" end="30107160416t" region="region0" style="style0">[바람이 세차게 분다]<br/>[은섬의 힘겨운 숨소리]</p>
+<p xml:id="subtitle798" begin="30107994582t" end="30126346249t" region="region0" style="style0">- (잎생) 아, 발 시려, 아, 발 시려<br/>- (은섬) 야</p>
+<p xml:id="subtitle799" begin="30127180416t" end="30153873749t" region="region0" style="style0">(은섬)<br/>정말 꼭 이렇게<br/>산꼭대기를 넘어가야 돼?</p>
+<p xml:id="subtitle800" begin="30154707916t" end="30166803332t" region="region0" style="style0">산 중턱으로 둘러 가면...</p>
+<p xml:id="subtitle801" begin="30167637499t" end="30182652499t" region="region0" style="style0">(잎생)<br/>산 중턱으론 못 들어가</p>
+<p xml:id="subtitle802" begin="30183486666t" end="30199752916t" region="region0" style="style0">거긴 다 아고족 땅이라니까?</p>
+<p xml:id="subtitle803" begin="30200587082t" end="30220189999t" region="region0" style="style0">네가 아고족이라며</p>
+<p xml:id="subtitle804" begin="30221024166t" end="30239375832t" region="region0" style="style0">(은섬)<br/>아고족 태씨 족장 세 번째 아들<br/>[잎생이 짜증 낸다]</p>
+<p xml:id="subtitle805" begin="30240209999t" end="30259395832t" region="region0" style="style0">(잎생)<br/>아고족은 그냥 똥 덩어리라고</p>
+<p xml:id="subtitle806" begin="30260229999t" end="30276496249t" region="region0" style="style0">묻을까 봐 아무도 안 들어간다고!</p>
+<p xml:id="subtitle807" begin="30277330416t" end="30286089166t" region="region0" style="style0">[헛웃음]</p>
+<p xml:id="subtitle808" begin="30286923332t" end="30301938332t" region="region0" style="style0">너 아고족도 아니지?</p>
+<p xml:id="subtitle809" begin="30302772499t" end="30336139166t" region="region0" style="style0">(은섬)<br/>치, 자기 부족을<br/>그렇게 말하는 사람이 어디 있냐?</p>
+<p xml:id="subtitle810" begin="30336973332t" end="30350737082t" region="region0" style="style0">(잎생)<br/>여기 있다! 이씨...</p>
+<p xml:id="subtitle811" begin="30351571249t" end="30361998332t" region="region0" style="style0">(은섬)<br/>아, 추워</p>
+<p xml:id="subtitle812" begin="30362832499t" end="30382435416t" region="region0" style="style0">(골두)<br/>거기는 아고족 땅이랑 가깝잖아</p>
+<p xml:id="subtitle813" begin="30393696666t" end="30410797082t" region="region0" style="style0">[차나라기가 흐느낀다]</p>
+<p xml:id="subtitle814" begin="30412048332t" end="30424143749t" region="region0" style="style0">(골두)<br/>거길 왜?</p>
+<p xml:id="subtitle815" begin="30424977916t" end="30454173749t" region="region0" style="style0">(거한)<br/>그, 사트닉인가 하는 놈<br/>각시가 거기 있대요</p>
+<p xml:id="subtitle816" begin="30455007916t" end="30470857082t" region="region0" style="style0">죽음을 전해 줘야 한다고</p>
+<p xml:id="subtitle817" begin="30471691249t" end="30483369582t" region="region0" style="style0">[골두의 헛웃음]</p>
+<p xml:id="subtitle818" begin="30492545416t" end="30526329166t" region="region0" style="style0">(골두)<br/>지랄들을 한다, 진짜, 씨<br/>[차나라기가 기침한다]</p>
+<p xml:id="subtitle819" begin="30527163332t" end="30540092916t" region="region0" style="style0">주비놀로 간다</p>
+<p xml:id="subtitle820" begin="30543429582t" end="30552605416t" region="region0" style="style0">(대칸 전사들)<br/>예!</p>
+<p xml:id="subtitle821" begin="30553439582t" end="30564700832t" region="region0" style="style0">[바람이 세차게 분다]</p>
+<p xml:id="subtitle822" begin="30565534999t" end="30575544999t" region="region0" style="style0">[어두운 음악]<br/>[은섬의 추워하는 신음]</p>
+<p xml:id="subtitle823" begin="30576379166t" end="30593479582t" region="region0" style="style0">(잎생)<br/>[떨리는 목소리로]<br/>그래도 모모족이</p>
+<p xml:id="subtitle824" begin="30594313749t" end="30613499582t" region="region0" style="style0">은혜는 제대로 갚을 거야</p>
+<p xml:id="subtitle825" begin="30618504582t" end="30634353749t" region="region0" style="style0">먹을 게 없으면</p>
+<p xml:id="subtitle826" begin="30645197916t" end="30672725416t" region="region0" style="style0">자기 허벅지라도 잘라서 구워 올 거야</p>
+<p xml:id="subtitle827" begin="30697750416t" end="30715684999t" region="region0" style="style0">(은섬)<br/>[떨리는 목소리로]<br/>모모족은</p>
+<p xml:id="subtitle828" begin="30718604582t" end="30745714999t" region="region0" style="style0">왜 그렇게까지 은혜를 갚는 건데?</p>
+<p xml:id="subtitle829" begin="30766152082t" end="30797850416t" region="region0" style="style0">야, 자면 안 돼<br/>[잎생의 떨리는 숨소리]</p>
+<p xml:id="subtitle830" begin="30800769999t" end="30833719582t" region="region0" style="style0">(잎생)<br/>모, 모모족 걔네가 모시는 신이 그래</p>
+<p xml:id="subtitle831" begin="30875427916t" end="30911714166t" region="region0" style="style0">(은섬)<br/>야, 자면 죽어<br/>[잎생의 떨리는 숨소리]</p>
+<p xml:id="subtitle832" begin="30912548332t" end="30929231666t" region="region0" style="style0">(잎생)<br/>은혜나 원수를 안 갚으면</p>
+<p xml:id="subtitle833" begin="30948417499t" end="30968020416t" region="region0" style="style0">죽어서 온몸이 갈리고 찢겨</p>
+<p xml:id="subtitle834" begin="30982618332t" end="30993879582t" region="region0" style="style0">(은섬)<br/>아고족은?</p>
+<p xml:id="subtitle835" begin="30998884582t" end="31013065416t" region="region0" style="style0">[잎생의 떨리는 신음]</p>
+<p xml:id="subtitle836" begin="31022241249t" end="31036422082t" region="region0" style="style0">아고족 신은 뭔데?</p>
+<p xml:id="subtitle837" begin="31037256249t" end="31050602916t" region="region0" style="style0">(잎생)<br/>아고족?</p>
+<p xml:id="subtitle838" begin="31057693332t" end="31094813749t" region="region0" style="style0">아고족은 심판의 신인데</p>
+<p xml:id="subtitle839" begin="31095647916t" end="31113582499t" region="region0" style="style0">어마어마한 폭포야</p>
+<p xml:id="subtitle840" begin="31114416666t" end="31134853749t" region="region0" style="style0">이나이신기께서 뛰어내린</p>
+<p xml:id="subtitle841" begin="31151119999t" end="31167386249t" region="region0" style="style0">(은섬)<br/>이나이신기?</p>
+<p xml:id="subtitle842" begin="31175727916t" end="31209094582t" region="region0" style="style0">(잎생)<br/>우리 내일 일어날 수 있는 거겠지?</p>
+<p xml:id="subtitle843" begin="31223692499t" end="31257893332t" region="region0" style="style0">(은섬)<br/>[힘없는 목소리로]<br/>이나이신기는 누군데?</p>
+<p xml:id="subtitle844" begin="31298350416t" end="31311279999t" region="region0" style="style0">(탄야)<br/>왜...</p>
+<p xml:id="subtitle845" begin="31317119166t" end="31326712082t" region="region0" style="style0">[어두운 음악]</p>
+<p xml:id="subtitle846" begin="31327546249t" end="31364666666t" region="region0" style="style0">(은섬)<br/>왜 은섬이를 살려 주셨나요?</p>
+<p xml:id="subtitle847" begin="31390108749t" end="31400535832t" region="region0" style="style0">(무백)<br/>니르하</p>
+<p xml:id="subtitle848" begin="31408043332t" end="31434736666t" region="region0" style="style0">그 말씀을 다 올리기엔<br/>이 밤이 너무 짧을 겁니다</p>
+<p xml:id="subtitle849" begin="31440158749t" end="31483952499t" region="region0" style="style0">저에겐 그날 이후 믿을 수 없는 일들이<br/>너무 많이 일어났으니까요</p>
+<p xml:id="subtitle850" begin="31518153332t" end="31548183332t" region="region0" style="style0">저 역시 그날 이후 그랬죠</p>
+<p xml:id="subtitle851" begin="31567786249t" end="31585720832t" region="region0" style="style0">가장 믿을 수 없는 일은</p>
+<p xml:id="subtitle852" begin="31594062499t" end="31603655416t" region="region0" style="style0">오늘 일어났습니다</p>
+<p xml:id="subtitle853" begin="31604489582t" end="31621172916t" region="region0" style="style0">(탄야)<br/>은섬과 똑같이 생긴 아이</p>
+<p xml:id="subtitle854" begin="31646197916t" end="31664966666t" region="region0" style="style0">(탄야)<br/>타곤 니르하 옆에 있던</p>
+<p xml:id="subtitle855" begin="31665800832t" end="31702921249t" region="region0" style="style0">은섬과 똑같은 얼굴의 아이</p>
+<p xml:id="subtitle856" begin="31724609582t" end="31738373332t" region="region0" style="style0">역시 은섬은 아니군요</p>
+<p xml:id="subtitle857" begin="31755890832t" end="31767986249t" region="region0" style="style0">누굽니까?</p>
+<p xml:id="subtitle858" begin="31810945832t" end="31826377916t" region="region0" style="style0">우리 둘</p>
+<p xml:id="subtitle859" begin="31830965832t" end="31864749582t" region="region0" style="style0">모두 오늘 밤이 너무 짧네요</p>
+<p xml:id="subtitle860" begin="31865583749t" end="31878513332t" region="region0" style="style0">(무백)<br/>짧은 대로</p>
+<p xml:id="subtitle861" begin="31897282082t" end="31912297082t" region="region0" style="style0">말씀해 주십시오</p>
+<p xml:id="subtitle862" begin="31988623332t" end="32014899582t" region="region0" style="style0">(무백)<br/>탄야 니르하께서도 사연은 모르신단다</p>
+<p xml:id="subtitle863" begin="32018236249t" end="32038673332t" region="region1" style="style0">그저 배냇벗인 거 같다고...</p>
+<p xml:id="subtitle864" begin="32049934582t" end="32060361666t" region="region0" style="style0">모른 척하자</p>
+<p xml:id="subtitle865" begin="32071205832t" end="32084969582t" region="region0" style="style0">(양차)<br/>모른 척?</p>
+<p xml:id="subtitle866" begin="32095813749t" end="32111245832t" region="region0" style="style0">어차피 은섬은 죽었어</p>
+<p xml:id="subtitle867" begin="32117084999t" end="32140441666t" region="region0" style="style0">(무백)<br/>이 일이 불거지면 탄야 니르하는</p>
+<p xml:id="subtitle868" begin="32141275832t" end="32167552082t" region="region0" style="style0">타곤 님께 이 모든 사실을 숨긴 게<br/>밝혀질 테고</p>
+<p xml:id="subtitle869" begin="32168386249t" end="32209677499t" region="region0" style="style0">더구나 타곤 님의 배냇벗 아들이<br/>산웅 니르하를 죽인 게 돼</p>
+<p xml:id="subtitle870" begin="32223858332t" end="32255556666t" region="region0" style="style0">이런 혼란 속에 무슨 일이 벌어질지<br/>헤아릴 수 있어?</p>
+<p xml:id="subtitle871" begin="32268486249t" end="32283084166t" region="region0" style="style0">지금은 아니 된다</p>
+<p xml:id="subtitle872" begin="32301018749t" end="32314365416t" region="region0" style="style0">지금은</p>
+<p xml:id="subtitle873" begin="32334802499t" end="32356907916t" region="region0" style="style0">[저마다 응원한다]</p>
+<p xml:id="subtitle874" begin="32498716249t" end="32526243749t" region="region0" style="style0">[소란스럽다]</p>
+<p xml:id="subtitle875" begin="32548349166t" end="32564615416t" region="region0" style="style0">[소당의 웃음]</p>
+<p xml:id="subtitle876" begin="32570871666t" end="32596313749t" region="region0" style="style0">너 나한테 수수 두 항아리 빚졌다, 응?</p>
+<p xml:id="subtitle877" begin="32597982082t" end="32626343749t" region="region0" style="style0">아, 자식이 뭘 처먹고<br/>이렇게 힘이 세! 씨...</p>
+<p xml:id="subtitle878" begin="32635102499t" end="32654705416t" region="region0" style="style0">[위병들의 놀란 탄성]</p>
+<p xml:id="subtitle879" begin="32655539582t" end="32676393749t" region="region0" style="style0">[위병3이 씩씩거린다]<br/>(소당)<br/>야, 야, 야, 그만해</p>
+<p xml:id="subtitle880" begin="32678062082t" end="32703087082t" region="region0" style="style0">좋은 날이야<br/>아사신께서 돌아오신 날이라고</p>
+<p xml:id="subtitle881" begin="32703921249t" end="32718936249t" region="region0" style="style0">살다 이런 날 또 올 거 같아?</p>
+<p xml:id="subtitle882" begin="32719770416t" end="32735202499t" region="region0" style="style0">제가 져서 그런 게 아니고요</p>
+<p xml:id="subtitle883" begin="32736036666t" end="32759393332t" region="region0" style="style0">아, 저 자식 눈빛이!<br/>[위병들의 놀란 탄성]</p>
+<p xml:id="subtitle884" begin="32763981249t" end="32778579166t" region="region0" style="style0">(위병4)<br/>야, 야, 야!</p>
+<p xml:id="subtitle885" begin="32787754999t" end="32807357916t" region="region0" style="style0">[위병4가 소곤거린다]</p>
+<p xml:id="subtitle886" begin="32808192082t" end="32822372916t" region="region0" style="style0">[위병들이 웅성거린다]</p>
+<p xml:id="subtitle887" begin="32823207082t" end="32841141666t" region="region0" style="style0">(위병3)<br/>너 와한족이었어?</p>
+<p xml:id="subtitle888" begin="32841975832t" end="32859076249t" region="region0" style="style0">[위병들이 놀란다]<br/>- (위병5) 뭐?<br/>- (위병6) 와한족?</p>
+<p xml:id="subtitle889" begin="32859910416t" end="32888272082t" region="region0" style="style0">- (위병7) 와한족?<br/>- (위병8) 와한족이 왜 여기 있는 거야</p>
+<p xml:id="subtitle890" begin="32934151249t" end="32960010416t" region="region0" style="style0">얘 아직 모르나 본데? 어?</p>
+<p xml:id="subtitle891" begin="32965432499t" end="32977527916t" region="region0" style="style0">[문이 삐거덕 열린다]</p>
+<p xml:id="subtitle892" begin="32978362082t" end="32990040416t" region="region0" style="style0">(위병9)<br/>총관님!</p>
+<p xml:id="subtitle893" begin="33002135832t" end="33015065416t" region="region0" style="style0">[위병들의 당황한 신음]</p>
+<p xml:id="subtitle894" begin="33040924582t" end="33054271249t" region="region0" style="style0">(길선)<br/>너 누가 살려 줬냐?</p>
+<p xml:id="subtitle895" begin="33057190832t" end="33080547499t" region="region0" style="style0">(뭉태)<br/>길선! 위병 총관님이십니다!</p>
+<p xml:id="subtitle896" begin="33140607499t" end="33152702916t" region="region0" style="style0">(길선)<br/>대신전에 가 봐</p>
+<p xml:id="subtitle897" begin="33153537082t" end="33173557082t" region="region0" style="style0">[뭉태의 거친 숨소리]</p>
+<p xml:id="subtitle898" begin="33186486666t" end="33211511666t" region="region0" style="style0">[차분한 음악]</p>
+<p xml:id="subtitle899" begin="33281164582t" end="33292008749t" region="region0" style="style0">[검불의 탄성]</p>
+<p xml:id="subtitle900" begin="33353737082t" end="33367917916t" region="region0" style="style0">- (검불) 타, 탄야야!<br/>- (여와한족1) 탄야</p>
+<p xml:id="subtitle901" begin="33368752082t" end="33377927916t" region="region0" style="style0">(아가지)<br/>탄야야</p>
+<p xml:id="subtitle902" begin="33378762082t" end="33410043332t" region="region0" style="style0">[와한족들이 탄야를 부른다]</p>
+<p xml:id="subtitle903" begin="33410877499t" end="33433817082t" region="region0" style="style0">[와한족들이 반가워한다]</p>
+<p xml:id="subtitle904" begin="33434651249t" end="33458842082t" region="region0" style="style0">[저마다 말한다]<br/>- (여와한족2) 잘 있었어?<br/>- (검불) 잘 지냈어?</p>
+<p xml:id="subtitle905" begin="33459676249t" end="33487620832t" region="region0" style="style0">(아가지)<br/>이게 어찌 된 거야, 응?<br/>이 고운 옷은 뭐고</p>
+<p xml:id="subtitle906" begin="33488454999t" end="33525575416t" region="region0" style="style0">(둔지)<br/>그러니까 흰늑대 할머니가 원래<br/>여기 씨족 어머니 같은 거였다는 거야?</p>
+<p xml:id="subtitle907" begin="33526409582t" end="33553937082t" region="region0" style="style0">(검불)<br/>그러니까 우리 탄야가 그 후계자고?<br/>[아가지의 웃음]</p>
+<p xml:id="subtitle908" begin="33561861666t" end="33601067499t" region="region0" style="style0">맞네, 맞아, 맞아, 맞아, 맞아! 맞네!<br/>[와한족들의 웃음]</p>
+<p xml:id="subtitle909" begin="33605238332t" end="33616916666t" region="region0" style="style0">아유, 아유...</p>
+<p xml:id="subtitle910" begin="33639439166t" end="33649449166t" region="region0" style="style0">- 뭉태야<br/>- (여와한족1) 어?</p>
+<p xml:id="subtitle911" begin="33650283332t" end="33663212916t" region="region0" style="style0">- (여와한족2) 누구?<br/>- (검불) 뭉태야!</p>
+<p xml:id="subtitle912" begin="33664047082t" end="33696579582t" region="region0" style="style0">[와한족들이 반가워한다]</p>
+<p xml:id="subtitle913" begin="33721604582t" end="33738287916t" region="region0" style="style0">(탄야)<br/>뭉태야, 어떻게 된 거야?</p>
+<p xml:id="subtitle914" begin="33743292916t" end="33761644582t" region="region0" style="style0">돌담불로 간 거 아니었어?</p>
+<p xml:id="subtitle915" begin="33762478749t" end="33776659582t" region="region0" style="style0">돌아온 거야, 벌써?</p>
+<p xml:id="subtitle916" begin="33792508749t" end="33832965832t" region="region0" style="style0">(뭉태)<br/>아, 나는 중간에 빠져서 위병단이 됐어</p>
+<p xml:id="subtitle917" begin="33833799999t" end="33850066249t" region="region0" style="style0">(둔지)<br/>위병단?<br/>[와한족들이 감탄한다]</p>
+<p xml:id="subtitle918" begin="33850900416t" end="33875925416t" region="region0" style="style0">(검불)<br/>멋있네, 잘됐다, 잘됐다, 잘됐다</p>
+<p xml:id="subtitle919" begin="33876759582t" end="33889272082t" region="region0" style="style0">아유!</p>
+<p xml:id="subtitle920" begin="33895111249t" end="33916799582t" region="region0" style="style0">(탄야)<br/>돌담불로 끌려간 애들도</p>
+<p xml:id="subtitle921" begin="33922638749t" end="33935985416t" region="region0" style="style0">다 돌아올 거예요</p>
+<p xml:id="subtitle922" begin="33940573332t" end="33956422499t" region="region0" style="style0">- (검불) 정말? 정말?<br/>- (둔지) 정말?</p>
+<p xml:id="subtitle923" begin="33957256666t" end="33986869582t" region="region0" style="style0">[와한족들이 기뻐한다]<br/>(뭉태)<br/>도, 돌아온다고?</p>
+<p xml:id="subtitle924" begin="33991040416t" end="34002718749t" region="region0" style="style0">걔들이?</p>
+<p xml:id="subtitle925" begin="34010643332t" end="34025658332t" region="region0" style="style0">(검불)<br/>잘됐다, 잘됐다</p>
+<p xml:id="subtitle926" begin="34028577916t" end="34045678332t" region="region0" style="style0">아이고, 잘됐네</p>
+<p xml:id="subtitle927" begin="34055271249t" end="34067783749t" region="region0" style="style0">(둔지)<br/>열손 아버지!</p>
+<p xml:id="subtitle928" begin="34068617916t" end="34082381666t" region="region0" style="style0">[와한족들의 놀란 신음]</p>
+<p xml:id="subtitle929" begin="34108240832t" end="34119084999t" region="region0" style="style0">아버지!</p>
+<p xml:id="subtitle930" begin="34119919166t" end="34154537082t" region="region0" style="style0">(와한족들)<br/>아버지!</p>
+<p xml:id="subtitle931" begin="34162461666t" end="34176225416t" region="region0" style="style0">- (둔지) 아유<br/>- (검불) 저기 탄야</p>
+<p xml:id="subtitle932" begin="34177059582t" end="34208757916t" region="region0" style="style0">[저마다 말한다]<br/>- (아가지) 탄야<br/>- (검불) 탄야, 탄야, 탄야, 탄야</p>
+<p xml:id="subtitle933" begin="34211260416t" end="34231280416t" region="region0" style="style0">- (아가지) 탄야<br/>- (검불) 탄야</p>
+<p xml:id="subtitle934" begin="34239622082t" end="34265898332t" region="region0" style="style0">[와한족들이 흐느낀다]<br/>(아가지)<br/>탄야...</p>
+<p xml:id="subtitle935" begin="34270069166t" end="34290506249t" region="region0" style="style0">[분위기가 고조되는 음악]</p>
+<p xml:id="subtitle936" begin="34296345416t" end="34318450832t" region="region0" style="style0">[함께 흐느낀다]</p>
+<p xml:id="subtitle937" begin="34483198750t" end="34508640832t" region="region0" style="style0">[어두운 음악]</p>
+<p xml:id="subtitle938" begin="34535751250t" end="34560776250t" region="region0" style="style0">(탄야)<br/>초승달을 만난 어느 밤</p>
+<p xml:id="subtitle939" begin="34564112916t" end="34588303750t" region="region0" style="style0">어느 한 손이 너의 심장을 꺼내리라</p>
+<p xml:id="subtitle940" begin="34594560000t" end="34605821250t" region="region0" style="style0">[침을 퉤 뱉는다]</p>
+<p xml:id="subtitle941" begin="34617499582t" end="34627092500t" region="region0" style="style0">(탄야)<br/>늦었어</p>
+<p xml:id="subtitle942" begin="34630846250t" end="34651700416t" region="region0" style="style0">- 뭐?<br/>- (탄야) '늦었어'</p>
+<p xml:id="subtitle943" begin="34657122500t" end="34703835832t" region="region0" style="style0">이게 당신이<br/>당신 인생 마지막 듣게 될 말이야</p>
+<p xml:id="subtitle944" begin="34730946250t" end="34765147082t" region="region0" style="style0">아유, 왜 하필 그 미친년이, 씨...</p>
+<p xml:id="subtitle945" begin="34816448332t" end="34832297500t" region="region0" style="style0">형님이라며?</p>
+<p xml:id="subtitle946" begin="34850649166t" end="34887769582t" region="region0" style="style0">형님이 별다야인가 뭔가 가져와서<br/>이렇게 된 거라며?</p>
+<p xml:id="subtitle947" begin="34896528332t" end="34909457916t" region="region0" style="style0">그렇게 됐다</p>
+<p xml:id="subtitle948" begin="34924472916t" end="34946161250t" region="region0" style="style0">(무광)<br/>그럼 뭐, 사실 허깨비지, 뭐</p>
+<p xml:id="subtitle949" begin="34953251666t" end="34982864582t" region="region0" style="style0">형님이 가져오고<br/>타곤 니르하께서 판 짜 주고</p>
+<p xml:id="subtitle950" begin="34983698750t" end="35016648332t" region="region0" style="style0">그냥 아사론 제치려고<br/>앉혀만 놓은 거잖아?</p>
+<p xml:id="subtitle951" begin="35019567916t" end="35032497500t" region="region0" style="style0">니르하시다, 그래도</p>
+<p xml:id="subtitle952" begin="35035000000t" end="35054185832t" region="region0" style="style0">니르하는 지랄...</p>
+<p xml:id="subtitle953" begin="35060025000t" end="35087969582t" region="region0" style="style0">(무광)<br/>아유, 그 슬까스른 년<br/>[어두운 음악]</p>
+<p xml:id="subtitle954" begin="35088803750t" end="35098813750t" region="region0" style="style0">[헛웃음]</p>
+<p xml:id="subtitle955" begin="35099647916t" end="35122587500t" region="region0" style="style0">그럼 어차피 이용하다 버리겠네</p>
+<p xml:id="subtitle956" begin="35130929166t" end="35147195416t" region="region0" style="style0">버리는 날</p>
+<p xml:id="subtitle957" begin="35154285832t" end="35176391250t" region="region0" style="style0">내가 그년 목 꼭 따고 만다</p>
+<p xml:id="subtitle958" begin="35211843332t" end="35225607082t" region="region0" style="style0">[무광이 술병을 탁 내려놓는다]<br/>[무광의 거친 숨소리]</p>
+<p xml:id="subtitle959" begin="35281913332t" end="35304435832t" region="region0" style="style0">[잔잔한 음악]</p>
+<p xml:id="subtitle960" begin="35334882916t" end="35368249582t" region="region0" style="style0">(열손)<br/>초설 어머니가 이런 널 봤어야 되는데</p>
+<p xml:id="subtitle961" begin="35410375000t" end="35425390000t" region="region0" style="style0">이제 다들 어떻게 되는 거냐?</p>
+<p xml:id="subtitle962" begin="35442073332t" end="35462927500t" region="region0" style="style0">노예 일은 안 하셔도 되고요</p>
+<p xml:id="subtitle963" begin="35467515416t" end="35485867082t" region="region0" style="style0">아버지도 원하는 데를 말하시면...</p>
+<p xml:id="subtitle964" begin="35487118332t" end="35514645832t" region="region0" style="style0">(열손)<br/>아니, 난 해족 불의 성채가 좋다</p>
+<p xml:id="subtitle965" begin="35529243750t" end="35556354166t" region="region0" style="style0">- (탄야) 예?<br/>- 살피고 생각하고</p>
+<p xml:id="subtitle966" begin="35557188332t" end="35572203332t" region="region0" style="style0">(열손)<br/>그걸 만드는 거</p>
+<p xml:id="subtitle967" begin="35579710832t" end="35593474582t" region="region0" style="style0">좋다</p>
+<p xml:id="subtitle968" begin="35595977082t" end="35615162916t" region="region0" style="style0">내가 원래 그런 걸 좋아하잖아</p>
+<p xml:id="subtitle969" begin="35651866250t" end="35665212916t" region="region0" style="style0">그럼 다행이네요</p>
+<p xml:id="subtitle970" begin="35679393750t" end="35712343332t" region="region0" style="style0">(탄야)<br/>이젠 노예가 아니시니 마음껏 하세요</p>
+<p xml:id="subtitle971" begin="35722353332t" end="35735282916t" region="region0" style="style0">그래, 그럴게</p>
+<p xml:id="subtitle972" begin="35782413332t" end="35792840416t" region="region0" style="style0">아버지</p>
+<p xml:id="subtitle973" begin="35808689582t" end="35818699582t" region="region0" style="style0">왜?</p>
+<p xml:id="subtitle974" begin="35830377916t" end="35851649166t" region="region0" style="style0">- 실은...<br/>- (열손) 실은 뭐?</p>
+<p xml:id="subtitle975" begin="35877091250t" end="35900447916t" region="region0" style="style0">은섬이가 살아 있어요</p>
+<p xml:id="subtitle976" begin="35904201666t" end="35915045832t" region="region0" style="style0">[긴장되는 음악]<br/>뭐?</p>
+<p xml:id="subtitle977" begin="35922136250t" end="35951749166t" region="region0" style="style0">그리고 아스달에<br/>은섬이의 배냇벗이 있어요</p>
+<p xml:id="subtitle978" begin="35962593332t" end="35988035416t" region="region0" style="style0">그러니 절대 아는 척하시면 안 돼요</p>
+<p xml:id="subtitle979" begin="36007221250t" end="36028909582t" region="region0" style="style0">와한 사람들한테도 전해 주세요</p>
+<p xml:id="subtitle980" begin="36120250832t" end="36141522082t" region="region0" style="style0">[잎생의 떨리는 숨소리]</p>
+<p xml:id="subtitle981" begin="36189903750t" end="36204501666t" region="region0" style="style0">[은섬의 추워하는 숨소리]</p>
+<p xml:id="subtitle982" begin="36223270416t" end="36237451250t" region="region0" style="style0">[잎생이 털썩 쓰러진다]<br/>[잎생의 신음]</p>
+<p xml:id="subtitle983" begin="36247044166t" end="36265395832t" region="region0" style="style0">[잎생의 힘겨운 신음]<br/>[은섬의 한숨]</p>
+<p xml:id="subtitle984" begin="36331712082t" end="36353400416t" region="region0" style="style0">(은섬)<br/>일어나, 어?</p>
+<p xml:id="subtitle985" begin="36376340000t" end="36386767082t" region="region0" style="style0">일어나</p>
+<p xml:id="subtitle986" begin="36396360000t" end="36420550832t" region="region0" style="style0">[은섬의 힘겨운 신음]<br/>[잎생의 힘주는 신음]</p>
+<p xml:id="subtitle987" begin="36433480416t" end="36446827082t" region="region0" style="style0">(잎생)<br/>우리가...</p>
+<p xml:id="subtitle988" begin="36455168750t" end="36486032916t" region="region0" style="style0">우리가 사트닉 때문에<br/>이렇게까지 해야 되는 거야?</p>
+<p xml:id="subtitle989" begin="36492289166t" end="36506887082t" region="region0" style="style0">(은섬)<br/>약속했잖아, 가자</p>
+<p xml:id="subtitle990" begin="36507721250t" end="36517731250t" region="region0" style="style0">(잎생)<br/>난 못 가겠어</p>
+<p xml:id="subtitle991" begin="36518565416t" end="36535665832t" region="region0" style="style0">[잎생의 힘겨운 신음]</p>
+<p xml:id="subtitle992" begin="36537751250t" end="36551097916t" region="region0" style="style0">못 가겠어</p>
+<p xml:id="subtitle993" begin="36555268750t" end="36570283750t" region="region0" style="style0">[은섬의 힘주는 신음]<br/>[잎생의 힘겨운 신음]</p>
+<p xml:id="subtitle994" begin="36573203332t" end="36601147916t" region="region1" style="style0">[새가 지저귄다]<br/>[차분한 음악]</p>
+<p xml:id="subtitle995" begin="36627841250t" end="36650363750t" region="region0" style="style0">(카리카)<br/>[모모족어]<br/>사트닉은 이제 잊어라</p>
+<p xml:id="subtitle996" begin="36654534582t" end="36694991666t" region="region0" style="style0">우리 모모는<br/>물에서 태어나고 물에서 죽는다</p>
+<p xml:id="subtitle997" begin="36714594582t" end="36744624582t" region="region0" style="style0">산중에서 이게 뭐냐?</p>
+<p xml:id="subtitle998" begin="36752966250t" end="36771317916t" region="region0" style="style0">(타피엔)<br/>제가 여길 떠나면</p>
+<p xml:id="subtitle999" begin="36772152082t" end="36798428332t" region="region0" style="style0">사트닉이 돌아와도 만나지 못해요</p>
+<p xml:id="subtitle1000" begin="36812192082t" end="36828041250t" region="region0" style="style0">벌써 몇 년이니?</p>
+<p xml:id="subtitle1001" begin="36832629166t" end="36856820000t" region="region0" style="style0">돌아온다면 모모의 바다로 오겠지</p>
+<p xml:id="subtitle1002" begin="36861825000t" end="36887267082t" region="region0" style="style0">사트닉과 여기서 만나기로 했어요</p>
+<p xml:id="subtitle1003" begin="36888101250t" end="36910206666t" region="region0" style="style0">(타피엔)<br/>전 여기서 기다릴 거예요</p>
+<p xml:id="subtitle1004" begin="36922719166t" end="36937317082t" region="region0" style="style0">그러니 샤바라</p>
+<p xml:id="subtitle1005" begin="36941070832t" end="36967347082t" region="region0" style="style0">땅 멀미까지 하시면서<br/>이젠 오지 마세요</p>
+<p xml:id="subtitle1006" begin="36980276666t" end="36994040416t" region="region0" style="style0">더군다나</p>
+<p xml:id="subtitle1007" begin="37015311666t" end="37040336666t" region="region0" style="style0">호타우 님까지 데리고...</p>
+<p xml:id="subtitle1008" begin="37057020000t" end="37068698332t" region="region0" style="style0">[타피엔의 한숨]</p>
+<p xml:id="subtitle1009" begin="37084964582t" end="37096642916t" region="region0" style="style0">(호위 무사1)<br/>누구냐?</p>
+<p xml:id="subtitle1010" begin="37097477082t" end="37111657916t" region="region0" style="style0">(호위 무사들)<br/>누구냐?</p>
+<p xml:id="subtitle1011" begin="37124170416t" end="37136265832t" region="region0" style="style0">(호위 무사2)<br/>누구냐?</p>
+<p xml:id="subtitle1012" begin="37149195416t" end="37169215416t" region="region0" style="style0">[한국어]<br/>야, 말, 말 좀 해 봐</p>
+<p xml:id="subtitle1013" begin="37170049582t" end="37194657500t" region="region0" style="style0">(잎생)<br/>아, 너무 오랜만인데</p>
+<p xml:id="subtitle1014" begin="37195491666t" end="37208421250t" region="region0" style="style0">[잎생의 헛기침]</p>
+<p xml:id="subtitle1015" begin="37218431250t" end="37237617082t" region="region0" style="style0">[모모족어]<br/>나... 잎생</p>
+<p xml:id="subtitle1016" begin="37241787916t" end="37268898332t" region="region0" style="style0">어, 너희... 갔다!</p>
+<p xml:id="subtitle1017" begin="37273069166t" end="37287250000t" region="region0" style="style0">[잎생이 기침한다]</p>
+<p xml:id="subtitle1018" begin="37292672082t" end="37311023750t" region="region0" style="style0">[은섬의 재촉하는 숨소리]<br/>[잎생의 당황한 숨소리]</p>
+<p xml:id="subtitle1019" begin="37313943332t" end="37340219582t" region="region0" style="style0">부탁... 전한다!</p>
+<p xml:id="subtitle1020" begin="37353566250t" end="37362742082t" region="region0" style="style0">[어색한 웃음]</p>
+<p xml:id="subtitle1021" begin="37379008332t" end="37389435416t" region="region0" style="style0">[잎생과 은섬의 놀란 탄성]</p>
+<p xml:id="subtitle1022" begin="37390269582t" end="37406118750t" region="region0" style="style0">(은섬)<br/>[한국어]<br/>야, 뭐, 제대로 하는 거야, 너?</p>
+<p xml:id="subtitle1023" begin="37411957916t" end="37427807082t" region="region0" style="style0">[잎생의 겁먹은 신음]</p>
+<p xml:id="subtitle1024" begin="37428641250t" end="37443656250t" region="region0" style="style0">어, 저...</p>
+<p xml:id="subtitle1025" begin="37448661250t" end="37460339582t" region="region0" style="style0">[은섬의 당황한 신음]</p>
+<p xml:id="subtitle1026" begin="37468681250t" end="37479525416t" region="region0" style="style0">사트닉!</p>
+<p xml:id="subtitle1027" begin="37503299166t" end="37516645832t" region="region0" style="style0">[문이 덜컥 열린다]<br/>사트닉</p>
+<p xml:id="subtitle1028" begin="37517480000t" end="37535414582t" region="region0" style="style0">(잎생)<br/>어, 사트닉, 사트닉</p>
+<p xml:id="subtitle1029" begin="37536248750t" end="37552097916t" region="region0" style="style0">사트닉요?</p>
+<p xml:id="subtitle1030" begin="37623419166t" end="37647192916t" region="region0" style="style0">[슬픈 음악]<br/>[타피엔이 흐느낀다]</p>
+<p xml:id="subtitle1031" begin="37750212500t" end="37762307916t" region="region0" style="style0">[은섬의 당황한 숨소리]</p>
+<p xml:id="subtitle1032" begin="37774403332t" end="37792337916t" region="region1" style="style0">사트닉...</p>
+<p xml:id="subtitle1033" begin="37824036250t" end="37856568750t" region="region0" style="style0">[타피엔이 흐느낀다]</p>
+<p xml:id="subtitle1034" begin="37972100832t" end="37993789166t" region="region0" style="style0">(타피엔)<br/>[모모족어]<br/>고맙습니다, 샤바라</p>
+<p xml:id="subtitle1035" begin="38009221250t" end="38019231250t" region="region0" style="style0">뭐가?</p>
+<p xml:id="subtitle1036" begin="38028824166t" end="38055100416t" region="region0" style="style0">이 긴 기다림이 끝난 건</p>
+<p xml:id="subtitle1037" begin="38060105416t" end="38082627916t" region="region0" style="style0">샤바라께서 찾아주셨기 때문입니다</p>
+<p xml:id="subtitle1038" begin="38108487082t" end="38124753332t" region="region0" style="style0">신의 뜻이다</p>
+<p xml:id="subtitle1039" begin="38125587500t" end="38141853750t" region="region0" style="style0">(카리카)<br/>오래 슬퍼 마라</p>
+<p xml:id="subtitle1040" begin="38142687916t" end="38167712916t" region="region0" style="style0">사트닉은 신께서 품으실 거다</p>
+<p xml:id="subtitle1041" begin="38187315832t" end="38198160000t" region="region0" style="style0">예</p>
+<p xml:id="subtitle1042" begin="38252797916t" end="38282410832t" region="region0" style="style0">[긴장되는 음악]</p>
+<p xml:id="subtitle1043" begin="38442987916t" end="38456334582t" region="region0" style="style0">[잎생이 만족스러운 숨을 내뱉는다]</p>
+<p xml:id="subtitle1044" begin="38468012916t" end="38483027916t" region="region0" style="style0">(잎생)<br/>[한국어]<br/>아, 이제 살 거 같다</p>
+<p xml:id="subtitle1045" begin="38483862082t" end="38495540416t" region="region0" style="style0">[시원한 숨을 내뱉는다]</p>
+<p xml:id="subtitle1046" begin="38551429582t" end="38568947082t" region="region0" style="style0">근데 쟨 누구지?</p>
+<p xml:id="subtitle1047" begin="38576454582t" end="38597308750t" region="region0" style="style0">사트닉 애는 아닐 거고</p>
+<p xml:id="subtitle1048" begin="38601062500t" end="38622333750t" region="region0" style="style0">아, 그 털옷 입은 여자 아이인가?</p>
+<p xml:id="subtitle1049" begin="38623167916t" end="38642770832t" region="region0" style="style0">딱 봐도 그 여자 뭔가 있어 보이던데</p>
+<p xml:id="subtitle1050" begin="38656534582t" end="38696991666t" region="region0" style="style0">샤, 샤바라, 샤바라라고 했어</p>
+<p xml:id="subtitle1051" begin="38710338332t" end="38724102082t" region="region0" style="style0">(은섬)<br/>근데 너 왜 그냥</p>
+<p xml:id="subtitle1052" begin="38724936250t" end="38762056666t" region="region0" style="style0">사트닉 일하다가<br/>돌림병으로 죽었다고 한 거야?</p>
+<p xml:id="subtitle1053" begin="38791669582t" end="38812523750t" region="region0" style="style0">사트닉 겪은 일 다 얘기해 주면</p>
+<p xml:id="subtitle1054" begin="38813357916t" end="38849644166t" region="region0" style="style0">(잎생)<br/>사트닉 각시 복수하러 나서야 되고<br/>그러다 죽어</p>
+<p xml:id="subtitle1055" begin="38850478332t" end="38862990832t" region="region0" style="style0">애가 생각이 없어</p>
+<p xml:id="subtitle1056" begin="38867995832t" end="38883427916t" region="region0" style="style0">[잎생이 후루룩 먹는다]</p>
+<p xml:id="subtitle1057" begin="38895523332t" end="38930975416t" region="region0" style="style0">근데 이제 슬슬<br/>뭐가 나올 때가 됐는데, 응?</p>
+<p xml:id="subtitle1058" begin="38941819582t" end="38952663750t" region="region0" style="style0">보석이든 뭐든</p>
+<p xml:id="subtitle1059" begin="39034412082t" end="39055683332t" region="region0" style="style0">[잎생의 웃음]</p>
+<p xml:id="subtitle1060" begin="39061939582t" end="39074035000t" region="region0" style="style0">(잎생)<br/>어...</p>
+<p xml:id="subtitle1061" begin="39097391666t" end="39127838750t" region="region0" style="style0">[모모족어]<br/>아까 그 사람이 너희 엄마</p>
+<p xml:id="subtitle1062" begin="39128672916t" end="39138265832t" region="region0" style="style0">[한국어]<br/>아니야?</p>
+<p xml:id="subtitle1063" begin="39162039582t" end="39193737916t" region="region0" style="style0">[모모족어]<br/>털옷 입은 사람</p>
+<p xml:id="subtitle1064" begin="39207918750t" end="39235446250t" region="region0" style="style0">[한국어]<br/>어! 지금 끄덕인 거지? 어?</p>
+<p xml:id="subtitle1065" begin="39236280416t" end="39247541666t" region="region0" style="style0">아, 엄마</p>
+<p xml:id="subtitle1066" begin="39252129582t" end="39267144582t" region="region0" style="style0">어, 맞네</p>
+<p xml:id="subtitle1067" begin="39272149582t" end="39307184582t" region="region0" style="style0">씁, 샤바라, 샤바라?</p>
+<p xml:id="subtitle1068" begin="39313440832t" end="39335129166t" region="region0" style="style0">씁, 샤바라가 뭐더라?</p>
+<p xml:id="subtitle1069" begin="39341802500t" end="39360154166t" region="region0" style="style0">샤바라, 샤바라, 알았는데</p>
+<p xml:id="subtitle1070" begin="39360988332t" end="39376003332t" region="region0" style="style0">씁, 샤바라, 샤바라</p>
+<p xml:id="subtitle1071" begin="39376837500t" end="39396857500t" region="region0" style="style0">씁, 샤바라?</p>
+<p xml:id="subtitle1072" begin="39400611250t" end="39424385000t" region="region0" style="style0">[긴장되는 음악]</p>
+<p xml:id="subtitle1073" begin="39494037916t" end="39504882082t" region="region0" style="style0">(연발)<br/>워</p>
+<p xml:id="subtitle1074" begin="39507384582t" end="39519480000t" region="region0" style="style0">[말의 거친 숨소리]</p>
+<p xml:id="subtitle1075" begin="39526153332t" end="39549092916t" region="region0" style="style0">우린 사브웨 언덕으로 갈 테니까</p>
+<p xml:id="subtitle1076" begin="39549927082t" end="39578288750t" region="region0" style="style0">너희는 하시와칸 계곡 훑으면서 와</p>
+<p xml:id="subtitle1077" begin="39604147916t" end="39614575000t" region="region0" style="style0">대답 안 해?</p>
+<p xml:id="subtitle1078" begin="39628338750t" end="39641268332t" region="region0" style="style0">(골두)<br/>예...</p>
+<p xml:id="subtitle1079" begin="39642102500t" end="39657117500t" region="region0" style="style0">가자, 하!</p>
+<p xml:id="subtitle1080" begin="39660871250t" end="39673383750t" region="region0" style="style0">아이씨</p>
+<p xml:id="subtitle1081" begin="39674217916t" end="39711338332t" region="region0" style="style0">딱 봐도 나보다 어려 보이는 새끼가<br/>누구한테 명령이야, 이씨</p>
+<p xml:id="subtitle1082" begin="39712172500t" end="39724267916t" region="region0" style="style0">뒈지려고</p>
+<p xml:id="subtitle1083" begin="39728438750t" end="39754297916t" region="region0" style="style0">야, 넌 저쪽으로 가로질러 가</p>
+<p xml:id="subtitle1084" begin="39755132082t" end="39763890832t" region="region0" style="style0">예<br/>[골두의 기합]</p>
+<p xml:id="subtitle1085" begin="39764725000t" end="39775986250t" region="region0" style="style0">[거한이 혀를 쯧쯧 찬다]</p>
+<p xml:id="subtitle1086" begin="39776820416t" end="39786413332t" region="region0" style="style0">[골두의 기합]</p>
+<p xml:id="subtitle1087" begin="39854397916t" end="39867744582t" region="region0" style="style0">[잎생이 아기를 어른다]<br/>[은섬의 웃음]</p>
+<p xml:id="subtitle1088" begin="39868578750t" end="39907784582t" region="region0" style="style0">(은섬)<br/>자, 그렇지, 그렇지</p>
+<p xml:id="subtitle1089" begin="39916543332t" end="39933226666t" region="region0" style="style0">[은섬과 잎생의 웃음]</p>
+<p xml:id="subtitle1090" begin="40028738750t" end="40040000000t" region="region0" style="style0">(카리카)<br/>아스달?</p>
+<p xml:id="subtitle1091" begin="40047090416t" end="40069612916t" region="region0" style="style0">(은섬)<br/>아, 그...<br/>[잎생의 헛기침]</p>
+<p xml:id="subtitle1092" begin="40075035000t" end="40095889166t" region="region0" style="style0">(잎생)<br/>아, 뭐, 고향이 아스달은 아니지만</p>
+<p xml:id="subtitle1093" begin="40096723332t" end="40113406666t" region="region0" style="style0">어, 그런 셈이지요</p>
+<p xml:id="subtitle1094" begin="40114240832t" end="40128421666t" region="region0" style="style0">[잎생의 웃음]</p>
+<p xml:id="subtitle1095" begin="40132592500t" end="40142185416t" region="region0" style="style0">이그트?</p>
+<p xml:id="subtitle1096" begin="40162205416t" end="40172215416t" region="region0" style="style0">(은섬)<br/>아...</p>
+<p xml:id="subtitle1097" begin="40190567082t" end="40204747916t" region="region0" style="style0">괜찮습니다</p>
+<p xml:id="subtitle1098" begin="40208918750t" end="40231441250t" region="region0" style="style0">(카리카)<br/>우린 상관없어요</p>
+<p xml:id="subtitle1099" begin="40288998750t" end="40312355416t" region="region0" style="style0">[차분한 음악]</p>
+<p xml:id="subtitle1100" begin="40313189582t" end="40348224582t" region="region0" style="style0">커다란 은혜를 입었습니다</p>
+<p xml:id="subtitle1101" begin="40358234582t" end="40385762082t" region="region0" style="style0">(은섬)<br/>아, 아니에요, 아니, 어...</p>
+<p xml:id="subtitle1102" begin="40388681666t" end="40411621250t" region="region0" style="style0">사트닉이 우리한테 잘해 줬어요</p>
+<p xml:id="subtitle1103" begin="40412455416t" end="40432058332t" region="region0" style="style0">우리가 은혜를 갚은 겁니다</p>
+<p xml:id="subtitle1104" begin="40432892500t" end="40443736666t" region="region0" style="style0">[카리카의 난처한 웃음]</p>
+<p xml:id="subtitle1105" begin="40451244166t" end="40501711250t" region="region0" style="style0">빨라서 아스 말 잘 알아듣지 못했어요</p>
+<p xml:id="subtitle1106" begin="40502545416t" end="40515475000t" region="region0" style="style0">- (은섬) 아...<br/>- (잎생) 아</p>
+<p xml:id="subtitle1107" begin="40516309166t" end="40538414582t" region="region0" style="style0">(타피엔)<br/>[모모족어]<br/>사트닉이 잘해 줬다고</p>
+<p xml:id="subtitle1108" begin="40539248750t" end="40568444582t" region="region0" style="style0">오히려 은혜를 갚은 거라고 하십니다</p>
+<p xml:id="subtitle1109" begin="40593052500t" end="40632258332t" region="region0" style="style0">[한국어]<br/>모모족은 은혜 갚습니다</p>
+<p xml:id="subtitle1110" begin="40643936666t" end="40693986666t" region="region1" style="style0">(카리카)<br/>작지만 모모의 손시시입니다</p>
+<p xml:id="subtitle1111" begin="40701077082t" end="40713589582t" region="region0" style="style0">(은섬)<br/>예...</p>
+<p xml:id="subtitle1112" begin="40716092082t" end="40733609582t" region="region0" style="style0">소중히 받겠습니다</p>
+<p xml:id="subtitle1113" begin="40736946250t" end="40756132082t" region="region0" style="style0">- (은섬) 고맙습니다<br/>- (카리카) 네</p>
+<p xml:id="subtitle1114" begin="40756966250t" end="40790332916t" region="region0" style="style0">(잎생)<br/>저거다, 됐다, 됐어!</p>
+<p xml:id="subtitle1115" begin="40802845416t" end="40823699582t" region="region0" style="style0">[잎생의 웃음]</p>
+<p xml:id="subtitle1116" begin="40838297500t" end="40852478332t" region="region0" style="style0">[잎생의 헛기침]</p>
+<p xml:id="subtitle1117" begin="40853312500t" end="40867076250t" region="region0" style="style0">(잎생)<br/>이야...</p>
+<p xml:id="subtitle1118" begin="40869995832t" end="40894186666t" region="region0" style="style0">모모족 진짜 은혜 제대로 갚네</p>
+<p xml:id="subtitle1119" begin="40915040832t" end="40945487916t" region="region0" style="style0">(잎생)<br/>아니, 먹여 줘, 어? 재워 줘</p>
+<p xml:id="subtitle1120" begin="40963005416t" end="40974683750t" region="region0" style="style0">입혀 줘</p>
+<p xml:id="subtitle1121" begin="40975517916t" end="40988030416t" region="region0" style="style0">[잎생의 웃음]</p>
+<p xml:id="subtitle1122" begin="40993452500t" end="41003462500t" region="region0" style="style0">그리고</p>
+<p xml:id="subtitle1123" begin="41025150832t" end="41034743750t" region="region0" style="style0">이거</p>
+<p xml:id="subtitle1124" begin="41044336666t" end="41082291250t" region="region0" style="style0">이게 모모족에게<br/>은혜를 베푼 사람이라는 증표야</p>
+<p xml:id="subtitle1125" begin="41083125416t" end="41105230832t" region="region0" style="style0">모모족 누구든<br/>이걸 갖고 있는 사람을 보면</p>
+<p xml:id="subtitle1126" begin="41106065000t" end="41118994582t" region="region0" style="style0">은혜를 갚는다는 거고</p>
+<p xml:id="subtitle1127" begin="41119828750t" end="41133592500t" region="region0" style="style0">대단한 거야, 이거</p>
+<p xml:id="subtitle1128" begin="41137763332t" end="41146939166t" region="region0" style="style0">(은섬)<br/>그래?</p>
+<p xml:id="subtitle1129" begin="41151944166t" end="41175717916t" region="region0" style="style0">아, 야, 근데</p>
+<p xml:id="subtitle1130" begin="41176552082t" end="41212838332t" region="region0" style="style0">모모족들은 허리에<br/>이상한 물통 같은 걸 다 찼더라</p>
+<p xml:id="subtitle1131" begin="41221597082t" end="41241617082t" region="region0" style="style0">그거 물통 아니야, 머저리야</p>
+<p xml:id="subtitle1132" begin="41257049166t" end="41268727500t" region="region0" style="style0">(잎생)<br/>[작은 소리로]<br/>야</p>
+<p xml:id="subtitle1133" begin="41272481250t" end="41292501250t" region="region0" style="style0">장터에 가서 팔자, 어?</p>
+<p xml:id="subtitle1134" begin="41293335416t" end="41305013750t" region="region0" style="style0">엄청 받을걸?</p>
+<p xml:id="subtitle1135" begin="41305847916t" end="41320028750t" region="region0" style="style0">너랑 나랑 반반 나눠서...</p>
+<p xml:id="subtitle1136" begin="41320862916t" end="41337963332t" region="region0" style="style0">(은섬)<br/>야, 그럼 다친 사람들 치료하고</p>
+<p xml:id="subtitle1137" begin="41338797500t" end="41354229582t" region="region0" style="style0">돌담불에서 나온 사람들하고<br/>같이 써야지</p>
+<p xml:id="subtitle1138" begin="41355063750t" end="41369244582t" region="region0" style="style0">너 무슨 헛소리야?</p>
+<p xml:id="subtitle1139" begin="41384259582t" end="41397189166t" region="region0" style="style0">네가 그랬잖아</p>
+<p xml:id="subtitle1140" begin="41403862500t" end="41434726666t" region="region0" style="style0">보석 하나 없이 나와 봐야<br/>깃바닥이랑 다를 거 없다고</p>
+<p xml:id="subtitle1141" begin="41442651250t" end="41475600832t" region="region0" style="style0">아, 아, 그러니까 너랑 나랑<br/>나눠 써야지, 왜 여럿이 나눠?</p>
+<p xml:id="subtitle1142" begin="41476435000t" end="41490615832t" region="region0" style="style0">(잎생)<br/>고생은 우리가 다 했는데</p>
+<p xml:id="subtitle1143" begin="41512721250t" end="41540665832t" region="region0" style="style0">대체 어떻게 하면<br/>너 같은 생각을 하게 되니?</p>
+<p xml:id="subtitle1144" begin="41541500000t" end="41549841666t" region="region0" style="style0">(잎생)<br/>아, 내 말이</p>
+<p xml:id="subtitle1145" begin="41550675832t" end="41590298750t" region="region0" style="style0">아니, 아니, 그 고통을 당했는데도<br/>넌 아직도 생각이 그 모양이냐?</p>
+<p xml:id="subtitle1146" begin="41591132916t" end="41609484582t" region="region0" style="style0">그래서 당한 거야, 너희가</p>
+<p xml:id="subtitle1147" begin="41650775832t" end="41669961666t" region="region0" style="style0">난 그렇게 배우지 않았으니까</p>
+<p xml:id="subtitle1148" begin="41730021666t" end="41743785416t" region="region0" style="style0">(잎생)<br/>하...</p>
+<p xml:id="subtitle1149" begin="41753795416t" end="41783825416t" region="region0" style="style0">세상은 왜 우리에게<br/>다른 걸 가르쳤을까?</p>
+<p xml:id="subtitle1150" begin="41784659582t" end="41806347916t" region="region0" style="style0">그리고 왜 붙여 놨을까, 우릴</p>
+<p xml:id="subtitle1151" begin="41830538750t" end="41849724582t" region="region0" style="style0">아, 속상하다, 진짜, 씨...</p>
+<p xml:id="subtitle1152" begin="41913121250t" end="41933975416t" region="region0" style="style0">[바람이 세차게 분다]</p>
+<p xml:id="subtitle1153" begin="42001542916t" end="42013221250t" region="region0" style="style0">[모모족어]<br/>샤바라께선?</p>
+<p xml:id="subtitle1154" begin="42014055416t" end="42029070416t" region="region0" style="style0">주무시고 계십니다</p>
+<p xml:id="subtitle1155" begin="42030321666t" end="42041165832t" region="region0" style="style0">[호위 무사3의 헛기침]</p>
+<p xml:id="subtitle1156" begin="42044502500t" end="42069527500t" region="region0" style="style0">[긴장되는 음악]</p>
+<p xml:id="subtitle1157" begin="42801508750t" end="42814021250t" region="region0" style="style0">[금조개를 탁 집어 든다]</p>
+<p xml:id="subtitle1158" begin="42972512916t" end="42995035416t" region="region0" style="style0">[문이 삐거덕 열린다]</p>
+<p xml:id="subtitle1159" begin="43040080416t" end="43054261250t" region="region0" style="style0">[떨리는 숨소리]</p>
+<p xml:id="subtitle1160" begin="43075115416t" end="43097637916t" region="region0" style="style0">(잎생)<br/>[한국어]<br/>아무것도 모르는 이그트 자식</p>
+<p xml:id="subtitle1161" begin="43098472082t" end="43115572500t" region="region0" style="style0">그딴 식으로 살아 봐라</p>
+<p xml:id="subtitle1162" begin="43116406666t" end="43133090000t" region="region0" style="style0">(은섬)<br/>난 그렇게 배우지 않았으니까</p>
+<p xml:id="subtitle1163" begin="43155612500t" end="43172712916t" region="region0" style="style0">뭘 배웠건</p>
+<p xml:id="subtitle1164" begin="43179386250t" end="43202742916t" region="region0" style="style0">넌 그걸 저주하면서 죽게 될 거야</p>
+<p xml:id="subtitle1165" begin="43224431250t" end="43249456250t" region="region0" style="style0">어차피 너 같은 놈은<br/>이걸 뺏기게 돼 있고</p>
+<p xml:id="subtitle1166" begin="43263637082t" end="43281988750t" region="region0" style="style0">결국 뒈지게 돼 있어</p>
+<p xml:id="subtitle1167" begin="43392098750t" end="43403777082t" region="region0" style="style0">[호위 무사3의 신음]</p>
+<p xml:id="subtitle1168" begin="43405028332t" end="43426716666t" region="region0" style="style0">[긴장되는 음악]</p>
+<p xml:id="subtitle1169" begin="43614821250t" end="43631921666t" region="region0" style="style0">아이씨, 저놈들...</p>
+<p xml:id="subtitle1170" begin="43632755832t" end="43646936666t" region="region0" style="style0">[칼싸움하는 소리가 들린다]</p>
+<p xml:id="subtitle1171" begin="43647770832t" end="43656946666t" region="region0" style="style0">은섬이</p>
+<p xml:id="subtitle1172" begin="43701574582t" end="43711584582t" region="region0" style="style0">이씨...</p>
+<p xml:id="subtitle1173" begin="43730770416t" end="43765388332t" region="region0" style="style0">[칼싸움하는 소리가 들린다]<br/>[카리카의 힘겨운 신음]</p>
+<p xml:id="subtitle1174" begin="43893432916t" end="43904277082t" region="region0" style="style0">샤바라!</p>
+<p xml:id="subtitle1175" begin="43933890000t" end="43950156250t" region="region0" style="style0">[타피엔의 거친 신음]</p>
+<p xml:id="subtitle1176" begin="43959749166t" end="43972678750t" region="region0" style="style0">(타피엔)<br/>샤바라!</p>
+<p xml:id="subtitle1177" begin="44012301666t" end="44026065416t" region="region0" style="style0">[은섬의 놀란 신음]</p>
+<p xml:id="subtitle1178" begin="44045668332t" end="44057763750t" region="region0" style="style0">샤바라...</p>
+<p xml:id="subtitle1179" begin="44063185832t" end="44077783750t" region="region0" style="style0">[울먹이며]<br/>도와주세요</p>
+<p xml:id="subtitle1180" begin="44090296250t" end="44114487082t" region="region0" style="style0">샤바라, 샤바라</p>
+<p xml:id="subtitle1181" begin="44147853750t" end="44166205416t" region="region0" style="style0">[긴장되는 음악]</p>
+<p xml:id="subtitle1182" begin="44167039582t" end="44194567082t" region="region0" style="style0">[잎생의 거친 숨소리]</p>
+<p xml:id="subtitle1183" begin="44293832916t" end="44310933332t" region="region0" style="style0">(잎생)<br/>아, 진짜, 씨...</p>
+<p xml:id="subtitle1184" begin="44331370416t" end="44344717082t" region="region0" style="style0">아이씨, 몰라</p>
+<p xml:id="subtitle1185" begin="44357229582t" end="44373495832t" region="region0" style="style0">[긴박한 음악]</p>
+<p xml:id="subtitle1186" begin="44375581250t" end="44398520832t" region="region0" style="style0">[거친 숨소리]</p>
+<p xml:id="subtitle1187" begin="44537826666t" end="44562851666t" region="region0" style="style0">[카리카의 당황한 숨소리]</p>
+<p xml:id="subtitle1188" begin="44620826250t" end="44639595000t" region="region0" style="style0">(카리카)<br/>[모모족어]<br/>네놈들이 감히</p>
+<p xml:id="subtitle1189" begin="44642931666t" end="44664202916t" region="region0" style="style0">내 아들을 해하려 하다니</p>
+<p xml:id="subtitle1190" begin="44689227916t" end="44701740416t" region="region0" style="style0">구이카의 짓이냐?</p>
+<p xml:id="subtitle1191" begin="44705911250t" end="44720092082t" region="region0" style="style0">(호위 무사2)<br/>죄송합니다, 샤바라</p>
+<p xml:id="subtitle1192" begin="44720926250t" end="44766388332t" region="region0" style="style0">저희들의 죗값은<br/>죽은 뒤에 치르겠습니다</p>
+<p xml:id="subtitle1193" begin="44772644582t" end="44798086666t" region="region0" style="style0">[긴장감이 고조되는 음악]<br/>[소란스럽게 싸운다]</p>
+<p xml:id="subtitle1194" begin="44860232082t" end="44871910416t" region="region0" style="style0">[카리카의 신음]</p>
+<p xml:id="subtitle1195" begin="44898186666t" end="44912784582t" region="region0" style="style0">[호위 무사4의 기합]<br/>(카리카)<br/>안 돼!</p>
+<p xml:id="subtitle1196" begin="44913618750t" end="44924880000t" region="region0" style="style0">[호위 무사4의 신음]</p>
+<p xml:id="subtitle1197" begin="44941146250t" end="44958246666t" region="region0" style="style0">[흥미진진한 음악]</p>
+<p xml:id="subtitle1198" begin="44959080832t" end="44973678750t" region="region0" style="style0">[은섬의 거친 신음]</p>
+<p xml:id="subtitle1199" begin="45007879582t" end="45029150832t" region="region0" style="style0">[소란스럽게 싸운다]</p>
+<p xml:id="subtitle1200" begin="45074612916t" end="45107562500t" region="region0" style="style0">[카리카와 은섬의 거친 신음]</p>
+<p xml:id="subtitle1201" begin="45115904166t" end="45124245832t" region="region0" style="style0">[은섬의 놀란 신음]</p>
+<p xml:id="subtitle1202" begin="45134672916t" end="45153858750t" region="region0" style="style0">[은섬의 힘주는 신음]</p>
+<p xml:id="subtitle1203" begin="45162200416t" end="45189310832t" region="region0" style="style0">[호위 무사들의 신음]</p>
+<p xml:id="subtitle1204" begin="45192230416t" end="45208913750t" region="region0" style="style0">[은섬의 거친 신음]</p>
+<p xml:id="subtitle1205" begin="45234355832t" end="45245617082t" region="region0" style="style0">[호위 무사4가 씩씩거린다]</p>
+<p xml:id="subtitle1206" begin="45343214582t" end="45363651666t" region="region0" style="style0">[긴장되는 음악]</p>
+<p xml:id="subtitle1207" begin="45458746666t" end="45468756666t" region="region0" style="style0">[은섬의 거친 숨소리]</p>
+<p xml:id="subtitle1208" begin="45536324166t" end="45548419582t" region="region0" style="style0">(호위 무사2)<br/>멀리 가진 못했다</p>
+<p xml:id="subtitle1209" begin="45549253750t" end="45568022500t" region="region0" style="style0">흩어져서 찾아라!</p>
+<p xml:id="subtitle1210" begin="45593047500t" end="45622243332t" region="region0" style="style0">[은섬과 카리카의 거친 숨소리]</p>
+<p xml:id="subtitle1211" begin="45670207916t" end="45681052082t" region="region0" style="style0">[은섬의 당황한 신음]</p>
+<p xml:id="subtitle1212" begin="45689810832t" end="45707745416t" region="region0" style="style0">[카리카의 아파하는 신음]</p>
+<p xml:id="subtitle1213" begin="45719006666t" end="45737775416t" region="region0" style="style0">(은섬)<br/>[한국어]<br/>이대로는 힘들다</p>
+<p xml:id="subtitle1214" begin="45793247500t" end="45804091666t" region="region0" style="style0">[카리카의 당황한 신음]</p>
+<p xml:id="subtitle1215" begin="45813267500t" end="45825362916t" region="region0" style="style0">[은섬의 힘주는 신음]</p>
+<p xml:id="subtitle1216" begin="45834955832t" end="45859146666t" region="region0" style="style0">[은섬의 힘주는 신음]</p>
+<p xml:id="subtitle1217" begin="45882503332t" end="45892096250t" region="region0" style="style0">(은섬)<br/>괜찮아요</p>
+<p xml:id="subtitle1218" begin="45903774582t" end="45914618750t" region="region0" style="style0">[카리카의 당황한 신음]</p>
+<p xml:id="subtitle1219" begin="45917955416t" end="45937975416t" region="region0" style="style0">[은섬의 거친 숨소리]</p>
+<p xml:id="subtitle1220" begin="45998035416t" end="46007628332t" region="region0" style="style0">[카리카의 옅은 신음]</p>
+<p xml:id="subtitle1221" begin="46018889582t" end="46033904582t" region="region0" style="style0">[은섬의 힘주는 신음]<br/>[카리카의 놀란 숨소리]</p>
+<p xml:id="subtitle1222" begin="46053507500t" end="46067271250t" region="region0" style="style0">(은섬)<br/>아, 됐다</p>
+<p xml:id="subtitle1223" begin="46151105000t" end="46161115000t" region="region0" style="style0">[카리카의 당황한 신음]</p>
+<p xml:id="subtitle1224" begin="46164451666t" end="46174044582t" region="region0" style="style0">[아기의 옅은 신음]</p>
+<p xml:id="subtitle1225" begin="46263717500t" end="46272476250t" region="region0" style="style0">됐다</p>
+<p xml:id="subtitle1226" begin="46280817916t" end="46290827916t" region="region0" style="style0">자</p>
+<p xml:id="subtitle1227" begin="46300837916t" end="46316270000t" region="region0" style="style0">어, 저...</p>
+<p xml:id="subtitle1228" begin="46329199582t" end="46355892916t" region="region0" style="style0">잘 들어요, 어?<br/>[카리카가 호응한다]</p>
+<p xml:id="subtitle1229" begin="46356727082t" end="46376330000t" region="region0" style="style0">내가, 내가</p>
+<p xml:id="subtitle1230" begin="46382586250t" end="46401355000t" region="region0" style="style0">저놈들, 어?</p>
+<p xml:id="subtitle1231" begin="46402189166t" end="46435972916t" region="region0" style="style0">저쪽으로 따돌릴게요, 어?<br/>[잔잔한 음악]</p>
+<p xml:id="subtitle1232" begin="46442646250t" end="46455992916t" region="region0" style="style0">어...</p>
+<p xml:id="subtitle1233" begin="46466002916t" end="46496867082t" region="region0" style="style0">내가 저쪽으로 가면</p>
+<p xml:id="subtitle1234" begin="46506877082t" end="46531067916t" region="region0" style="style0">어, 이쪽으로</p>
+<p xml:id="subtitle1235" begin="46536490000t" end="46570690832t" region="region0" style="style0">도망, 도망가요, 어?</p>
+<p xml:id="subtitle1236" begin="46576530000t" end="46589042500t" region="region0" style="style0">도망</p>
+<p xml:id="subtitle1237" begin="46714167500t" end="46729599582t" region="region0" style="style0">[의미심장한 효과음]</p>
+<p xml:id="subtitle1238" begin="46736690000t" end="46751705000t" region="region0" style="style0">[떨리는 숨소리]</p>
+<p xml:id="subtitle1239" begin="46938141250t" end="46958161250t" region="region0" style="style0">(은섬)<br/>야! 야!<br/>[긴장되는 음악]</p>
+<p xml:id="subtitle1240" begin="46958995416t" end="46969422500t" region="region0" style="style0">[모모족어]<br/>저, 저기다!</p>
+<p xml:id="subtitle1241" begin="46970256666t" end="46979015416t" region="region0" style="style0">[은섬의 놀란 신음]</p>
+<p xml:id="subtitle1242" begin="46981517916t" end="47003623332t" region="region0" style="style0">[박진감 있는 음악]</p>
+<p xml:id="subtitle1243" begin="47027397082t" end="47040326666t" region="region0" style="style0">[은섬의 다급한 신음]</p>
+<p xml:id="subtitle1244" begin="47055341666t" end="47065351666t" region="region0" style="style0">[놀란 신음]</p>
+<p xml:id="subtitle1245" begin="47180883750t" end="47192979166t" region="region0" style="style0">(호위 무사2)<br/>위험해!</p>
+<p xml:id="subtitle1246" begin="47206325832t" end="47228848332t" region="region0" style="style0">떨어진 거야? 보여?</p>
+<p xml:id="subtitle1247" begin="47258878332t" end="47270973750t" region="region0" style="style0">[말의 거친 숨소리]</p>
+<p xml:id="subtitle1248" begin="47286405832t" end="47297667082t" region="region0" style="style0">(연발)<br/>[한국어]<br/>워</p>
+<p xml:id="subtitle1249" begin="47342712082t" end="47358144166t" region="region0" style="style0">뭐야, 여기 왜 이래?</p>
+<p xml:id="subtitle1250" begin="47404440416t" end="47414033332t" region="region0" style="style0">[입바람을 후 분다]</p>
+<p xml:id="subtitle1251" begin="47441143750t" end="47456158750t" region="region0" style="style0">[입바람을 후 분다]</p>
+<p xml:id="subtitle1252" begin="47456992916t" end="47467837082t" region="region0" style="style0">(은섬)<br/>야</p>
+<p xml:id="subtitle1253" begin="47469088332t" end="47497867082t" region="region0" style="style0">[은섬의 거친 숨소리]</p>
+<p xml:id="subtitle1254" begin="47543329166t" end="47556675832t" region="region0" style="style0">(잎생)<br/>야, 너...</p>
+<p xml:id="subtitle1255" begin="47564600416t" end="47579198332t" region="region0" style="style0">너, 너 어떻게 살았어?</p>
+<p xml:id="subtitle1256" begin="47580449582t" end="47593379166t" region="region0" style="style0">(은섬)<br/>'어떻게 살았어?'</p>
+<p xml:id="subtitle1257" begin="47597132916t" end="47608394166t" region="region0" style="style0">[어이없는 숨을 내뱉는다]</p>
+<p xml:id="subtitle1258" begin="47617570000t" end="47640926666t" region="region0" style="style0">너 그 금조개만 훔쳐 간 게 아니라</p>
+<p xml:id="subtitle1259" begin="47655524582t" end="47674710416t" region="region0" style="style0">그 사람들 쳐들어온 것까지 다 봤구나</p>
+<p xml:id="subtitle1260" begin="47675544582t" end="47709745416t" region="region0" style="style0">야, 야, 내가 진짜로<br/>그, 그러려고 그런 게 아니야</p>
+<p xml:id="subtitle1261" begin="47717670000t" end="47741860832t" region="region0" style="style0">사정이 있었지, 어?<br/>내가 너 구하려고</p>
+<p xml:id="subtitle1262" begin="47742695000t" end="47751036666t" region="region0" style="style0">[잎생의 겁먹은 신음]</p>
+<p xml:id="subtitle1263" begin="47751870832t" end="47767302916t" region="region0" style="style0">(잎생)<br/>[겁먹은 목소리로]<br/>알았어, 여기, 여기, 여기, 여기!</p>
+<p xml:id="subtitle1264" begin="47768137082t" end="47778981250t" region="region0" style="style0">여기 있어</p>
+<p xml:id="subtitle1265" begin="47781066666t" end="47793996250t" region="region0" style="style0">살려 줘</p>
+<p xml:id="subtitle1266" begin="47816935832t" end="47843629166t" region="region0" style="style0">[은섬의 거친 숨소리]</p>
+<p xml:id="subtitle1267" begin="47913699166t" end="47926628750t" region="region0" style="style0">(대칸 전사3)<br/>조장님</p>
+<p xml:id="subtitle1268" begin="47931216666t" end="47940392500t" region="region0" style="style0">[타피엔의 놀란 숨소리]</p>
+<p xml:id="subtitle1269" begin="47982935000t" end="47995864582t" region="region0" style="style0">네년이 여기 주인이냐?</p>
+<p xml:id="subtitle1270" begin="48001703750t" end="48027145832t" region="region0" style="style0">네, 근데 무슨 일이신지...</p>
+<p xml:id="subtitle1271" begin="48033819166t" end="48053839166t" region="region0" style="style0">사트닉을 알아? 사트닉</p>
+<p xml:id="subtitle1272" begin="48081366666t" end="48090542500t" region="region0" style="style0">(대칸 전사3)<br/>네년이 아는구먼?</p>
+<p xml:id="subtitle1273" begin="48091376666t" end="48109311250t" region="region0" style="style0">[대칸 전사3이 타피엔을 탁 붙잡는다]<br/>(대칸 전사4)<br/>저기, 조장님</p>
+<p xml:id="subtitle1274" begin="48153522082t" end="48176878750t" region="region0" style="style0">[어두운 음악]</p>
+<p xml:id="subtitle1275" begin="48177712916t" end="48186888750t" region="region0" style="style0">(잎생)<br/>생각났어!</p>
+<p xml:id="subtitle1276" begin="48189391250t" end="48201069582t" region="region0" style="style0">(은섬)<br/>뭐가?</p>
+<p xml:id="subtitle1277" begin="48203989166t" end="48212747916t" region="region0" style="style0">(잎생)<br/>샤바라</p>
+<p xml:id="subtitle1278" begin="48217752916t" end="48240692500t" region="region0" style="style0">(잎생)<br/>그 털옷 입은 여자가<br/>샤바라라고 했잖아</p>
+<p xml:id="subtitle1279" begin="48241526666t" end="48261963750t" region="region0" style="style0">샤바라가 무슨 말인지 생각났다고</p>
+<p xml:id="subtitle1280" begin="48312013750t" end="48322857916t" region="region0" style="style0">모모족입니다</p>
+<p xml:id="subtitle1281" begin="48323692082t" end="48342460832t" region="region0" style="style0">(대칸 전사3)<br/>더구나 샤, 샤...</p>
+<p xml:id="subtitle1282" begin="48347048750t" end="48357892916t" region="region0" style="style0">샤바라입니다</p>
+<p xml:id="subtitle1283" begin="48388757082t" end="48398767082t" region="region0" style="style0">(잎생)<br/>으뜸 지존</p>
+<p xml:id="subtitle1284" begin="48418370000t" end="48428380000t" region="region0" style="style0">뭔데, 그게?</p>
+<p xml:id="subtitle1285" begin="48432967916t" end="48454656250t" region="region0" style="style0">(은섬)<br/>네가 좋아하는 거 보니까 비싼 거네</p>
+<p xml:id="subtitle1286" begin="48463415000t" end="48481349582t" region="region0" style="style0">(잎생)<br/>아, 무식한 새끼</p>
+<p xml:id="subtitle1287" begin="48485103332t" end="48513882082t" region="region0" style="style0">모모족의 최고 우두머리란 말이야<br/>그 여자가</p>
+<p xml:id="subtitle1288" begin="48529314166t" end="48539324166t" region="region0" style="style0">[말의 거친 숨소리]</p>
+<p xml:id="subtitle1289" begin="48596881666t" end="48623992082t" region="region0" style="style0">[모모족어]<br/>아스달의 대칸들이 여긴 무슨 일인가?</p>
+<p xml:id="subtitle1290" begin="48640258332t" end="48676961666t" region="region0" style="style0">(연발)<br/>[한국어]<br/>모모족이 무슨 일로 이렇게 땅 깊숙이?</p>
+<p xml:id="subtitle1291" begin="48702403750t" end="48716584582t" region="region0" style="style0">아, 우리는</p>
+<p xml:id="subtitle1292" begin="48723257916t" end="48748282916t" region="region0" style="style0">[모모족어]<br/>사람을 쫓다 여기까지 왔소</p>
+<p xml:id="subtitle1293" begin="48756207500t" end="48794579166t" region="region0" style="style0">(연발)<br/>모모족과는 싸울 생각이 없소</p>
+<p xml:id="subtitle1294" begin="48802086666t" end="48819187082t" region="region0" style="style0">그럼 떠나라!</p>
+<p xml:id="subtitle1295" begin="48848382916t" end="48859227082t" region="region0" style="style0">(연발)<br/>[한국어]<br/>가자</p>
+<p xml:id="subtitle1296" begin="48898850000t" end="48920121250t" region="region0" style="style0">[말의 거친 신음]<br/>[대칸 전사들의 기합]</p>
+<p xml:id="subtitle1297" begin="49047748750t" end="49063597916t" region="region0" style="style0">[떨리는 신음]</p>
+<p xml:id="subtitle1298" begin="49149100000t" end="49181632500t" region="region0" style="style0">(카리카)<br/>[모모족어]<br/>물에서 태어난 물의 전사들이여!</p>
+<p xml:id="subtitle1299" begin="49182466666t" end="49194562082t" region="region0" style="style0">[비장한 음악]<br/>모모의 샤바라</p>
+<p xml:id="subtitle1300" begin="49195396250t" end="49210828332t" region="region0" style="style0">나 카리카!</p>
+<p xml:id="subtitle1301" begin="49211662500t" end="49230014166t" region="region0" style="style0">거대한 은혜를 입었다</p>
+<p xml:id="subtitle1302" begin="49230848332t" end="49240441250t" region="region0" style="style0">[은섬의 거친 숨소리]</p>
+<p xml:id="subtitle1303" begin="49241275416t" end="49267968750t" region="region0" style="style0">(카리카)<br/>훗날 위대한 샤바라가 될<br/>모모의 핏줄을</p>
+<p xml:id="subtitle1304" begin="49268802916t" end="49286320416t" region="region0" style="style0">어느 사내가 살려 냈다!</p>
+<p xml:id="subtitle1305" begin="49292576666t" end="49308842916t" region="region0" style="style0">하나 나 카리카, 부끄럽게도</p>
+<p xml:id="subtitle1306" begin="49309677082t" end="49343460832t" region="region0" style="style0">그 사내의 이름도<br/>그 무엇도 알지 못한다!</p>
+<p xml:id="subtitle1307" begin="49346380416t" end="49382249582t" region="region0" style="style0">(카리카)<br/>내가 그 사내에 대해 아는 것은<br/>보랏빛 입술과</p>
+<p xml:id="subtitle1308" begin="49408942916t" end="49437304582t" region="region0" style="style0">그 사내 등에 있던 이 문양이다!</p>
+<p xml:id="subtitle1309" begin="49445229166t" end="49469837082t" region="region0" style="style0">가자, 물의 전사들이여!</p>
+<p xml:id="subtitle1310" begin="49470671250t" end="49508208750t" region="region0" style="style0">우리의 자식과 그 자식의 자식들이<br/>모두 죽어 사라질 때까지</p>
+<p xml:id="subtitle1311" begin="49509042916t" end="49527811666t" region="region0" style="style0">우린 이 사내를 찾을 것이다!</p>
+<p xml:id="subtitle1312" begin="49528645832t" end="49544495000t" region="region0" style="style0">반드시 은혜를 갚을 것이다!</p>
+<p xml:id="subtitle1313" begin="49546163332t" end="49583283750t" region="region0" style="style0">(모모족 전사들)<br/>우리는 반드시 은혜를 갚을 것이다!</p>
+<p xml:id="subtitle1314" begin="49664615000t" end="49686303332t" region="region0" style="style0">(카리카)<br/>우리는 이곳 주비놀에서</p>
+<p xml:id="subtitle1315" begin="49690057082t" end="49709660000t" region="region0" style="style0">우리의 피로 맹세한다!</p>
+<p xml:id="subtitle1316" begin="49712162500t" end="49758458750t" region="region0" style="style0">이름 모를 그 보랏빛 입술의<br/>사내에게 받은 은혜를 갚는다!</p>
+<p xml:id="subtitle1317" begin="49759292916t" end="49774307916t" region="region0" style="style0">(모모족 전사들)<br/>은혜를 갚는다!</p>
+<p xml:id="subtitle1318" begin="49775142082t" end="49812679582t" region="region0" style="style0">우리의 자식의 자식까지<br/>은혜를 갚는다!</p>
+<p xml:id="subtitle1319" begin="49824357916t" end="49848548750t" region="region0" style="style0">오늘부터 은혜를 갚는 그날까지</p>
+<p xml:id="subtitle1320" begin="49849382916t" end="49884000832t" region="region0" style="style0">우리가 맞게 될<br/>모든 낮과 모든 밤을 지나는 동안</p>
+<p xml:id="subtitle1321" begin="49884835000t" end="49922372500t" region="region0" style="style0">우리의 깃발은 이제 이것이다!</p>
+<p xml:id="subtitle1322" begin="49941558332t" end="49974090832t" region="region0" style="style0">(모모족 전사들)<br/>은혜를 갚는다! 은혜를 갚는다!</p>
+<p xml:id="subtitle1323" begin="50105472082t" end="50130497082t" region="region0" style="style0">(잎생)<br/>[한국어]<br/>근데 옷은 왜 그러냐?</p>
+<p xml:id="subtitle1324" begin="50131748332t" end="50150100000t" region="region0" style="style0">뭐, 배고파서 옷을 찢어 먹었냐?</p>
+<p xml:id="subtitle1325" begin="50159692916t" end="50180130000t" region="region0" style="style0">얻어터지기 전에 입 닥쳐라</p>
+<p xml:id="subtitle1326" begin="50207657500t" end="50225592082t" region="region0" style="style0">[웅장한 음악]</p>
+<p xml:id="subtitle1327" begin="50226426250t" end="50236019166t" region="region0" style="style0">[은섬의 거친 숨소리]</p>
+<p xml:id="subtitle1328" begin="50314847916t" end="50334867916t" region="region0" style="style0">[감성적인 음악]</p>
+<p xml:id="subtitle1329" begin="50555087916t" end="50565932082t" region="region0" style="style0">(미홀)<br/>니르하</p>
+<p xml:id="subtitle1330" begin="50567600416t" end="50586369166t" region="region0" style="style0">(타곤)<br/>무릎부터 꿇어 보시지요</p>
+<p xml:id="subtitle1331" begin="50592208332t" end="50608057500t" region="region0" style="style0">(아사론)<br/>타곤 이놈</p>
+<p xml:id="subtitle1332" begin="50617233332t" end="50628911666t" region="region0" style="style0">(태알하)<br/>정복이야, 타곤</p>
+<p xml:id="subtitle1333" begin="50638921666t" end="50651851250t" region="region0" style="style0">(사야)<br/>어젯밤 꿈</p>
+<p xml:id="subtitle1334" begin="50652685416t" end="50663529582t" region="region0" style="style0">[곰이 그르렁거린다]<br/>[은섬의 놀란 신음]</p>
+<p xml:id="subtitle1335" begin="50664363750t" end="50698147500t" region="region0" style="style0">(탄야)<br/>넌 진짜 부모, 진짜 형제 안 궁금해?</p>
+<p xml:id="subtitle1336" begin="50698981666t" end="50724006666t" region="region0" style="style0">(어린 타곤)<br/>[울며]<br/>정말 죄송해요, 아버지</p>
+<p xml:id="subtitle1337" begin="50731931250t" end="50740690000t" region="region0" style="style0">칼 버려!</p>
+<p xml:id="subtitle1338" begin="50749448750t" end="50766549166t" region="region0" style="style0">[은섬의 신음]<br/>(잎생)<br/>근데 너 왜 그랬어?</p>
+<p xml:id="subtitle1339" begin="50767383332t" end="50789071666t" region="region0" style="style0">왜 나 같은 거 살리려고 돌아왔냐고!</p>
+<p xml:id="subtitle1340" begin="50799081666t" end="50824106666t" region="region0" style="style0">(아사사칸)<br/>아스달에 더 큰 재앙이 옵니다<br/>[골두의 신음]</p>
+<p xml:id="subtitle1341" begin="50825357916t" end="50869151666t" region="region0" style="style0">(타곤)<br/>피 흘리지 않고는 갈 수 없는 길이었다<br/>[어린 타곤의 신음]</p>
+<p xml:id="subtitle1342" begin="50883749582t" end="50903769582t" region="region1" style="style0">자막: 최인정</p>
+</div>
+</body>
+</tt>
